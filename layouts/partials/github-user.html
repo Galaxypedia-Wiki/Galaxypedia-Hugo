@@ -1,6 +1,26 @@
-{{ $username := .Params.username }}
+<!-- prettier-ignore-start -->
+{{/*
+This partial takes the following arguments:
+  - userId: The user ID of the GitHub user to display.
+    - This should be used when possible, as usernames can change.
+  - username: The username of the GitHub user to display.
+If both are provided, the userId will be used.
+
+Example usage:
+{{ partial "github-user.html" (dict "context" . "username" "cswimr") }}
+{{ partial "github-user.html" (dict "context" . "userId" "12345") }}
+*/}}
+<!-- prettier-ignore-end -->
+
+{{ $url := "" }}
+{{ else if .userId }}
+  {{ $url = print "https://api.github.com/user/" .userId }}
+{{ else if .username }}
+  {{ $url = print "https://api.github.com/users/" .username }}
+{{ else }}
+  {{ errorf "The %q partial requires either a username or a userId. See %s." .Name .Position }}
+{{ end }}
 {{ $data := dict }}
-{{ $url := print "https://api.github.com/users/" .username }}
 {{ with resources.GetRemote $url }}
   {{ with .Err }}
     {{ warnf "%s" . }}
