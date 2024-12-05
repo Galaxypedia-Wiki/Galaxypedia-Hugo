@@ -34,6 +34,6 @@ jobs:
       - name: Build site
         run: "pnpm build"
       - name: Code Quality
-        run: "pnpm prettier --check"
+        run: "pnpm prettier --check ."
       - name: Check for broken external links
         run: pnpm linkrot
