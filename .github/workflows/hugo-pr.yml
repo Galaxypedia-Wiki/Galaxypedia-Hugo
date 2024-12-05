@@ -2,46 +2,13 @@ name: Pull Request Validator
 on:
   pull_request:
 
-# TODO: Extract the building code here into a workflow and call that so that it can be reused
-# See https://docs.github.com/en/actions/sharing-automations/reusing-workflows
 jobs:
   check:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.128.0
     steps:
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: build
+        uses: .github/workflows/hugo-build.yml@main
         with:
-          fetch-depth: 0
-          submodules: recursive
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-      - name: Install pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 9
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "22"
-          cache: "pnpm"
-      - name: Install dependencies
-        run: "pnpm i -P"
-      - name: Build with Hugo
-        env:
-          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
-          HUGO_ENVIRONMENT: production
-        run: |
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Build Pagefind index
-        run: pnpm pagefind
+          production: false
       - name: Check for broken external links
         run: pnpm linkrot
