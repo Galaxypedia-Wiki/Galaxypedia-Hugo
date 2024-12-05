@@ -10,11 +10,25 @@ jobs:
 
   check:
     runs-on: ubuntu-latest
-    needs: build
     steps:
-      - name: get artifacts
-        uses: actions/download-artifact@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          name: github-pages
+          fetch-depth: 0
+          submodules: recursive
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "pnpm"
+      - name: Install dependencies
+        run: "pnpm i -P"
       - name: Check for broken external links
         run: pnpm linkrot
