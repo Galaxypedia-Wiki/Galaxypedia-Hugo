@@ -30,6 +30,11 @@ h6 {
     @apply w-10/12 mx-auto bg-slate-900 p-4 rounded-lg my-4;
 }
 
+a {
+    color: revert;
+    text-decoration: revert;
+}
+
 ol,
 ul {
   list-style: revert;
