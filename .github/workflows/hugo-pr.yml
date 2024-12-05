@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: build
-        uses: .github/workflows/hugo-build.yml@main
+        uses: ./.github/workflows/hugo-build.yml
         with:
           production: false
       - name: Check for broken external links
