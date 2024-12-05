@@ -12,5 +12,8 @@
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "files.associations": {
+    ".css": "tailwindcss"
+  },
   "editor.formatOnSave": true
 }
