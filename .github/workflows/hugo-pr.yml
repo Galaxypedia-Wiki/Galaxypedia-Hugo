@@ -33,8 +33,7 @@ jobs:
         run: "pnpm i"
       - name: Build site
         run: "pnpm build"
-      - name: Code Quality
-        continue-on-error: true
-        run: "pnpm prettier --check ."
       - name: Check for broken external links
         run: pnpm linkrot
+      - name: Code Quality
+        run: "pnpm prettier --check ."
