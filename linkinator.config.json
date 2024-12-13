@@ -1,6 +1,11 @@
 {
   "recurse": true,
-  "skip": ["pagefind", "livereload.js", "-icon.webp"],
+  "skip": [
+    "http://localhost:1313/$",
+    "pagefind",
+    "livereload.js",
+    "-icon.webp"
+  ],
   "retry": true,
   "retryErrors": true,
   "retryErrorsCount": 3,
