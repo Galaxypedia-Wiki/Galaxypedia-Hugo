@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "format": "prettier --write",
-    "linkrot": "linkinator ./public --config ./linkinator.config.json",
+    "linkrot": "linkinator ./public --config ./linkinator.config.jsonc",
     "pagefind": "pagefind --site public",
     "index": "pnpm pagefind",
     "build": "hugo && pnpm pagefind",

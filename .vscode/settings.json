@@ -16,4 +16,12 @@
     ".css": "tailwindcss"
   },
   "editor.formatOnSave": true
+  "json.schemas": [
+    {
+      "fileMatch": ["*.json", "*.jsonc"],
+      "schema": {
+        "allowTrailingCommas": true
+      }
+    }
+  ]
 }
