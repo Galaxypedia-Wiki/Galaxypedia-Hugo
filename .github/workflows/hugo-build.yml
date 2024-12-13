@@ -35,6 +35,7 @@ jobs:
         run: "pnpm i -P"
       - name: Build with Hugo
         env:
+          HUGO_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |

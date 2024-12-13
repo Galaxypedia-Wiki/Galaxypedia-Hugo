@@ -22,10 +22,12 @@
     <meta content="{{ .Permalink }}" property="og:url" property="twitter:url" />
     <meta content="website" property="og:type" />
     <meta content="summary_large_image" property="twitter:card" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta charset="utf-8" />
-    <link rel="icon" href="/favicon.svg">
-    <title>{{ if .Title}} Galaxypedia - {{ .Title }} {{ else }} Galaxypedia {{ end }}</title>
+    <link rel="icon" href="/favicon.svg" />
+    <title>
+      {{ if .Title }}Galaxypedia - {{ .Title }}{{ else }}Galaxypedia{{ end }}
+    </title>
     {{ with (templates.Defer (dict "key" "global")) }}
       {{ $t := debug.Timer "tailwindcss" }}
       {{ with resources.Get "css/styles.css" }}
@@ -42,7 +44,8 @@
                 rel="stylesheet"
                 href="{{ .RelPermalink }}"
                 integrity="{{ .Data.Integrity }}"
-                crossorigin="anonymous" />
+                crossorigin="anonymous"
+              />
             {{ end }}
           {{ end }}
         {{ end }}
@@ -51,19 +54,19 @@
     {{ end }}
   </head>
   <body>
-      <div class="content markdown">
-    {{ block "main" . }}{{ end }}
-      </div>
+    <div class="content markdown">
+      {{ block "main" . }}{{ end }}
+      {{ partial "footer/site-footer.html" . }}
+    </div>
   </body>
-  {{ partial "footer/site-footer.html" . }}
   <style>
     body {
       font-family: Arial, sans-serif;
     }
 
     #page-title {
-        font-family: Rocket Rinder;
-        letter-spacing: 0.01em;
+      font-family: Rocket Rinder;
+      letter-spacing: 0.01em;
     }
   </style>
 </html>

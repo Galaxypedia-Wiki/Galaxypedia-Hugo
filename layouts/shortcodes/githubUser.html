@@ -1,0 +1,22 @@
+<!-- prettier-ignore-start -->
+{{/*
+This shortcode takes the following arguments:
+  - `userId` (!): The user ID of the GitHub user to display.
+  - `showAvatar` (?): Whether or not to show the avatar of the provided GitHub user. Defaults to `true`.
+  - `avatarSize` (?): The size of the avatar to display. Takes Tailwind CSS classes, defaults to `h-5 w-5`.
+    - You can also use this to add additional classes to the avatar image.
+
+Example usage:
+{{< githubUser 102361830 >}}
+{{< githubUser userId=102361830 showAvatar="false" >}}
+*/}}
+<!-- prettier-ignore-end -->
+
+{{ if .IsNamedParams }}
+  {{ $userId := .Get "userId" }}
+  {{ $showAvatar := .Get "showAvatar" }}
+  {{ $avatarSize := .Get "avatarSize" }}
+  {{ partial "github-user.html" (dict "context" . "userId" $userId "showAvatar" (default true $showAvatar) "avatarSize" (default "h-5 w-5" $avatarSize) "position" .Position) }}
+{{ else }}
+  {{ partial "github-user.html" (dict "context" . "userId" (.Get 0) "position" .Position) }}
+{{ end }}

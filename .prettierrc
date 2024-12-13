@@ -1,11 +1,18 @@
 {
-    "plugins": ["prettier-plugin-go-template"],
+    "proseWrap": "never",
+    "plugins": [
+        "prettier-plugin-go-template",
+        "prettier-plugin-tailwind-css"
+    ],
     "overrides": [
         {
-            "files": ["*.html"],
+            "files": [
+                "*.html"
+            ],
             "options": {
                 "parser": "go-template"
             }
         }
-    ]
+    ],
+    "tailwindStylesheet": "./assets/css/styles.css"
 }

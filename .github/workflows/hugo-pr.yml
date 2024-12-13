@@ -33,6 +33,8 @@ jobs:
       - name: Install dependencies
         run: "pnpm i"
       - name: Build site
+        env:
+          HUGO_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: "pnpm build"
       - name: Check for broken external links
         run: pnpm linkrot

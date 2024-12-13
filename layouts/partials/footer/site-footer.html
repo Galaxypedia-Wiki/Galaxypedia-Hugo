@@ -1,36 +1,25 @@
-<footer class="footer" style="border-top: 1px solid black;">
-  <div id="footer-info">
+{{/*  FIXME - once we have tailwind themes implemented, we should use the theme colors instead of style  */}}
+<footer class="px-4 text-gray-400 rounded border-4"
+  style="border-color: var(--color-bg3)"
+>
+  <div>
     {{ with .GitInfo }}
+      <p>
         This page was last updated on
         {{ .CommitDate.Format "January 2, 2006" }}
-        at {{ .CommitDate.Format "3:04 PM" }} by {{ partial "github-user.html" (dict "context" . "username" .AuthorName ) }}
+        at {{ .CommitDate.Format "3:04 PM" }} by
+        {{ partial "github-user.html" (dict "context" . "username" .AuthorName "position" "layouts/partials/footer/site-footer.html") }}
+        <br />Deployed Site Commit:
+        <code>{{ .AbbreviatedHash }}</code> -
+        {{ .Subject }}
     {{ end }}
-    </div>
-    <div>
-        &copy; 2024 Galaxypedia.
-        <a
-          href="https://creativecommons.org/licenses/by-nc/4.0/"
-          title="Creative Commons Attribution"
-          >Some rights reserved</a
-        >; please attribute properly and link back.
-    </div>
-  {{/*  <ul class="footer-links">
-    <li>
+    <br />
+      &copy; 2024 Galaxypedia.
       <a
-        href="https://openrss.org/github.com/Galaxypedia-Wiki/Galaxypedia-Hugo/commits/main"
-        type="application/rss+xml"
-        target="_blank"
-        >RSS feed</a
-      >
-    </li>
-    <li>
-      <a href="https://gohugo.io/" class="footer-links-kudos"
-        >Made with
-        <img
-          src="{{ .Site.BaseURL }}images/hugo-logo.png"
-          width="22"
-          height="22"
-      /></a>
-    </li>
-  </ul>  */}}
+        href="https://github.com/Galaxypedia-Wiki/Galaxypedia-Hugo?tab=readme-ov-file#licensing"
+        title="Licensing Information"
+        >Some rights reserved</a>;
+        please attribute properly and link back.
+    </p>
+  </div>
 </footer>
