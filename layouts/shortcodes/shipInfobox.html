@@ -27,11 +27,17 @@
 
 <div class="shipinfobox sm:w-2/5 w-11/12 sm:max-w-80 max-w-full mr-0 ml-3 mb-3 sm:float-right border border-solid rounded-xl p-2.5 box-border text-white overflow-hidden sm:left-0 left-1/2 relative sm:static -translate-x-2/4 sm:translate-x-0 flex-col flex" data-pagefind-ignore>
   <h2 class="infoboxtitle !my-4">The {{ .Page.Title }}</h2>
-  <img
-    src="./{{ .Page.Title }}-icon.webp"
-    alt="{{ .Page.Title }}"
-    style="width: 100%; height: auto;"
-  />
+
+  {{ with .Page.Resources.Get (printf "%s-icon.webp" .Page.Title) }}
+    {{ with .Resize "x512 Lanczos webp" }}
+      <img
+        src="{{ .RelPermalink }}"
+        alt="{{ $.Page.Title }}"
+        style="width: 100%; height: auto;"
+      />
+    {{ end }}
+  {{ end }}
+
   <h3 class="!my-2">Health</h3>
     <div class="infobox-row">
   <p><b>Shield:</b> {{ index $shipData "shields" }}</p>

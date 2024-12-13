@@ -3,6 +3,7 @@ public/
 .direnv/
 .devenv/
 node_modules/
+resources/
 
 # .vscode
 .vscode/*
