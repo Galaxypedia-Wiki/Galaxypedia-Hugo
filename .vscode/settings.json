@@ -15,7 +15,7 @@
   "files.associations": {
     ".css": "tailwindcss"
   },
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
   "json.schemas": [
     {
       "fileMatch": ["*.json", "*.jsonc"],
