@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Galaxypedia'
 sectionPagesMenu = 'main'
 enableGitInfo = true
+summaryLength = 100
 
 [build.buildStats]
 enable = true
@@ -12,3 +13,6 @@ target = "css"
 [[build.cachebusters]]
 source = "(postcss|tailwind)\\.config\\.js"
 target = "css"
+
+[markup.goldmark.renderer]
+unsafe = true # Allow HTML in md files
