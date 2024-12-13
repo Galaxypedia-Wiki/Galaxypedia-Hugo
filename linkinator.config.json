@@ -1,11 +1,8 @@
 {
-    "recurse": true,
-    "skip": [
-        "livereload.js",
-        "-icon.webp"
-    ],
-    "retry": true,
-    "retryErrors": true,
-    "retryErrorsCount": 3,
-    "retryErrorsJitter": 5
+  "recurse": true,
+  "skip": ["pagefind", "livereload.js", "-icon.webp"],
+  "retry": true,
+  "retryErrors": true,
+  "retryErrorsCount": 3,
+  "retryErrorsJitter": 5
 }
