@@ -4,6 +4,7 @@
     "davidanson.vscode-markdownlint",
     "kaellarkin.hugo-shortcode-syntax",
     "budparr.language-hugo-vscode",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "vasubasraj.flashpost"
   ]
 }

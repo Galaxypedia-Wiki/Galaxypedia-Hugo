@@ -1,16 +1,24 @@
 <!-- prettier-ignore-start -->
 {{/*
 This partial takes the following arguments:
-  - userId: The user ID of the GitHub user to display.
-    - This should be used when possible, as usernames can change.
-  - username: The username of the GitHub user to display.
-If both are provided, the userId will be used.
+  - `userId` (!|`username`): The user ID of the GitHub user to display.
+    - This should be used instead of `username` when possible, as usernames can change.
+    - If both `userId` and `username` are provided, the `userId` will be used.
+  - `username` (!|`userId`): The username of the GitHub user to display.
+  - `showAvatar` (?): Whether or not to show the avatar of the provided GitHub user. Defaults to `true`.
+  - `avatarSize` (?): The size of the avatar to display. Takes Tailwind CSS classes, defaults to `h-5 w-5`.
+  - `position` (?): The page that the partial is being used on. Used for error messages, and is passed in automatically by the user shortcode.
 
 Example usage:
-{{ partial "github-user.html" (dict "context" . "username" "cswimr") }}
-{{ partial "github-user.html" (dict "context" . "userId" "12345") }}
+`{{ partial "github-user.html" (dict "context" . "username" "cswimr" "avatarSize" "h-12 w-12") }}`
+`{{ partial "github-user.html" (dict "context" . "userId" "12345" "showAvatar" false) }}`
 */}}
 <!-- prettier-ignore-end -->
+
+{{ $position := "unknown" }}
+{{ if .position }}
+  {{ $position = .position }}
+{{ end }}
 
 {{ $url := "" }}
 {{ if .userId }}
@@ -18,25 +26,66 @@ Example usage:
 {{ else if .username }}
   {{ $url = print "https://api.github.com/users/" .username }}
 {{ else }}
-  {{ errorf "The %q partial requires either a username or a userId. See %s." .Name .Position }}
+  {{ errorf "The github-user partial requires either a username or a userId. See %s." $position }}
 {{ end }}
+
+{{ $showAvatar := default true .showAvatar }}
+{{ $avatarSize := default "h-5 w-5" .avatarSize }}
+
+{{ $opts := dict }}
+{{ if getenv "HUGO_GITHUB_TOKEN" }}
+  {{ printf "Using GitHub token from HUGO_GITHUB_TOKEN environment variable." }}
+  {{ $opts = dict "headers" (dict "Authorization" (printf "token %s" (getenv "HUGO_GITHUB_TOKEN"))) }}
+{{ else }}
+  {{ warnf "Using anonymous GitHub API requests. This is fine in a development environment, but not recommended in production due to GitHub's API rate liimits." }}
+{{ end }}
+
 {{ $data := dict }}
-{{ with resources.GetRemote $url }}
+{{ with resources.GetRemote $url $opts }}
   {{ with .Err }}
     {{ warnf "%s" . }}
   {{ else }}
     {{ $data = . | transform.Unmarshal }}
   {{ end }}
-{{ else }}
-  {{ errorf "Unable to get remote resource %q" $url }}
 {{ end }}
 
+{{ $displayName := "" }}
+{{ $username := "" }}
+{{ $githubUserExists := false }}
 
-<img
-  src="{{ $data.avatar_url }}"
-  alt="{{ $data.login }}"
-  class="inline align-middle h-10 w-10 rounded-full"
-/>
-<a href="https://github.com/{{ $data.login }}" class="ml-2"
-  >{{ $data.login }}</a
->
+{{ if $data.name }}
+  {{ $displayName = $data.name }}
+  {{ $username = $data.login }}
+  {{ $githubUserExists = true }}
+{{ else if $data.login }}
+  {{ $username = $data.login }}
+  {{ $githubUserExists = true }}
+{{ else if .username }}
+  {{ $username = .username }}
+{{ else }}
+  {{ errorf "Unable to get GitHub display name or username for userId %v on page %v" .userId $position }}
+{{ end }}
+
+{{ if $githubUserExists }}
+  {{ if and $showAvatar $data.avatar_url }}
+    <img
+      loading="lazy"
+      src="{{ $data.avatar_url }}"
+      alt="{{ $username }}"
+      class="{{ $avatarSize }} no-lightbox inline align-middle rounded-full"
+    />
+  {{ end }}
+  <a
+    href="https://github.com/{{ $username }}"
+    title="View {{ $username }}'s GitHub profile"
+    rel="noopener noreferrer"
+  >
+    {{ if $displayName }}
+      {{ $displayName }}
+    {{ else }}
+      {{ $username }}
+    {{ end }}
+  </a>
+{{ else }}
+  {{ $username }}
+{{ end }}
