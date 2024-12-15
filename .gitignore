@@ -4,6 +4,7 @@ public/
 .devenv/
 node_modules/
 resources/
+hugo_stats.json
 
 # .vscode
 .vscode/*

@@ -28,6 +28,16 @@
     <title>
       {{ if .Title }}Galaxypedia - {{ .Title }}{{ else }}Galaxypedia{{ end }}
     </title>
+    <script
+      src="https://js.sentry-cdn.com/79a2541d247797be5c61ecfd7c307b0e.min.js"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      Sentry.onLoad(function() {
+        Sentry.init({
+          });
+      });
+    </script>
     {{ with (templates.Defer (dict "key" "global")) }}
       {{ $t := debug.Timer "tailwindcss" }}
       {{ with resources.Get "css/styles.css" }}
@@ -37,9 +47,11 @@
         }}
         {{ with . | css.TailwindCSS $opts }}
           {{ if hugo.IsDevelopment }}
+            <link rel="preload" href="{{ .RelPermalink }}" as="style" />
             <link rel="stylesheet" href="{{ .RelPermalink }}" />
           {{ else }}
             {{ with . | minify | fingerprint }}
+              <link rel="preload" href="{{ .RelPermalink }}" as="style" />
               <link
                 rel="stylesheet"
                 href="{{ .RelPermalink }}"

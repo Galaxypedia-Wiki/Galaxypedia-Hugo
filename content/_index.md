@@ -1,7 +1,7 @@
 <div class="text-center">
 
 <div class="mb-8 select-none break-words" style="container-type: inline-size;">
-    <div class="text-white tracking-widest -mb-4" style="font-size: 8cqw; font-family: 'Rocket Rinder', Arial; text-shadow: white 0 0 15px;">Galaxypedia</div>
+    <div class="text-white tracking-widest -mb-4" style="font-size: 8cqw; font-family: 'Rocket Rinder', Arial; text-shadow: white 0 0 15px; margin-bottom: -0.4em;">Galaxypedia</div>
     <div class="text-white m-none" style="font-size: 1.8cqw; font-family: 'ethno centric', Arial; text-shadow: white 0 0 5px;">The new era of the Galaxy Wiki</div>
 </div>
 
