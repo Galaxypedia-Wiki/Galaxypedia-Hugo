@@ -1,0 +1,4 @@
+{{ $title := .Get "title" }}
+{{ $description := .Get "description" }}
+{{ $color := .Get "color" }}
+{{ partial "notice.html" (dict "page" .Page "noticeTitle" $title "noticeDescription" $description ) }}
