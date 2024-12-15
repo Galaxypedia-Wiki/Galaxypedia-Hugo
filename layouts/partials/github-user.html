@@ -34,7 +34,6 @@ Example usage:
 
 {{ $opts := dict }}
 {{ if getenv "HUGO_GITHUB_TOKEN" }}
-  {{ printf "Using GitHub token from HUGO_GITHUB_TOKEN environment variable." }}
   {{ $opts = dict "headers" (dict "Authorization" (printf "token %s" (getenv "HUGO_GITHUB_TOKEN"))) }}
 {{ else }}
   {{ warnf "Using anonymous GitHub API requests. This is fine in a development environment, but not recommended in production due to GitHub's API rate liimits." }}
