@@ -1,27 +1,28 @@
-name: build
+name: Build
 on:
+  push:
+    branches: ["main"]
   workflow_call:
     inputs:
       production:
         type: boolean
+        default: true
 
 jobs:
   build:
+    name: Build Site
     runs-on: ubuntu-latest
     steps:
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: "0.139.4"
-          extended: true
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           submodules: recursive
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.139.4"
+          extended: true
       - name: Install pnpm
         uses: pnpm/action-setup@v4
         with:
@@ -39,12 +40,11 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+          hugo --minify --baseURL "https://v2.galaxypedia.org"
       - name: Build Pagefind index
         run: pnpm pagefind
-      - name: Check for broken external links
-        run: echo "THIS IS BREAKING CI PLEASES NO"
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
         with:
+          name: pages-build
           path: ./public

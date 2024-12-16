@@ -56,6 +56,7 @@ Super Capitals
 </div>
 
 ## Looking to join the Discord?
+
 [Galaxy](https://galaxy.casa/) has a number of Discord Servers you can join as well as a bot that shares information from Galaxypedia straight to Discord.
 
 [Galaxy Discord](https://galaxy.galaxypedia.org)
@@ -67,4 +68,5 @@ Super Capitals
 [Galaxy Info](https://info.galaxy.casa/)
 
 ## Want to edit?
+
 WIP

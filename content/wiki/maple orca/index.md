@@ -1,9 +1,10 @@
 ---
 title: Maple Orca
 ---
-The **Maple Orca** is a Limited Reskin of the [Orca](Orca "wikilink")
 
 {{< shipInfobox >}}
+
+The **Maple Orca** is a Limited Reskin of the [Orca](Orca "wikilink")
 
 ## Description
 

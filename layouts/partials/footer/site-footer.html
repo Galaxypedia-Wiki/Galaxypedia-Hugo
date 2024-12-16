@@ -1,5 +1,6 @@
-{{/*  FIXME - once we have tailwind themes implemented, we should use the theme colors instead of style  */}}
-<footer class="px-4 text-gray-400 rounded border-4"
+{{/* FIXME - once we have tailwind themes implemented, we should use the theme colors instead of style */}}
+<footer
+  class="px-4 text-gray-400 border-4 rounded"
   style="border-color: var(--color-bg3)"
 >
   <div>
@@ -9,17 +10,19 @@
         {{ .CommitDate.Format "January 2, 2006" }}
         at {{ .CommitDate.Format "3:04 PM" }} by
         {{ partial "github-user.html" (dict "context" . "username" .AuthorName "position" "layouts/partials/footer/site-footer.html") }}
-        <br />Deployed Site Commit:
+        <br />
+        Deployed Site Commit:
         <code>{{ .AbbreviatedHash }}</code> -
         {{ .Subject }}
+        <br />
+        &copy; 2024 Galaxypedia.
+        <a
+          href="https://github.com/Galaxypedia-Wiki/Galaxypedia-Hugo?tab=readme-ov-file#licensing"
+          title="Licensing Information"
+        >
+          Some rights reserved </a
+        >; please attribute properly and link back.
+      </p>
     {{ end }}
-    <br />
-      &copy; 2024 Galaxypedia.
-      <a
-        href="https://github.com/Galaxypedia-Wiki/Galaxypedia-Hugo?tab=readme-ov-file#licensing"
-        title="Licensing Information"
-        >Some rights reserved</a>;
-        please attribute properly and link back.
-    </p>
   </div>
 </footer>

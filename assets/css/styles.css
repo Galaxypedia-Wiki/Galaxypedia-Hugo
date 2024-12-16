@@ -12,11 +12,11 @@
 }
 
 :root {
-    --color-bg: #000;
-    --color-bg2: #111;
-    --color-bg3: #222;
-    --color-bg4: #333;
-    --color-bg5: #444;
+  --color-bg: #000;
+  --color-bg2: #111;
+  --color-bg3: #222;
+  --color-bg4: #333;
+  --color-bg5: #444;
 }
 
 body {
@@ -34,62 +34,62 @@ h6 {
 }
 
 .content {
-    @apply w-10/12 mx-auto p-4 rounded-lg my-4 border;
-    background-color: var(--color-bg2);
-    border-color: var(--color-bg4);
-    animation: fadeIn 1s cubic-bezier(0.22, 1, 0.36, 1) forwards 250ms;
+  @apply w-10/12 p-4 mx-auto my-4 border rounded-lg;
+  background-color: var(--color-bg2);
+  border-color: var(--color-bg4);
+  animation: fadeIn 1s cubic-bezier(0.22, 1, 0.36, 1) forwards 250ms;
 }
 
 @keyframes fadeIn {
-from {
-box-shadow: 0 0 0px var(--color-bg4);
-}
-to {
-box-shadow: 0 0 30px var(--color-bg4);
-}
+  from {
+    box-shadow: 0 0 0px var(--color-bg4);
+  }
+  to {
+    box-shadow: 0 0 30px var(--color-bg4);
+  }
 }
 
 /* Custom Font Loading */
 @font-face {
-	font-family: "Rocket Rinder";
-	src: url("/fonts/Rocket Rinder.otf") format('opentype')
+  font-family: "Rocket Rinder";
+  src: url("/fonts/Rocket Rinder.otf") format("opentype");
 }
 
 @font-face {
-	font-family: "OriginTech";
-	src: url("/fonts/OriginTech personal use.ttf") format('truetype')
+  font-family: "OriginTech";
+  src: url("/fonts/OriginTech personal use.ttf") format("truetype");
 }
 
 @font-face {
-	font-family: "Ethno Centric";
-	src: url("/fonts/ethnocentric rg.ttf") format('truetype')
+  font-family: "Ethno Centric";
+  src: url("/fonts/ethnocentric rg.ttf") format("truetype");
 }
 
 @font-face {
-	font-family: "Star Jedi";
-	src: url("/fonts/Starjedi.ttf") format('truetype')
+  font-family: "Star Jedi";
+  src: url("/fonts/Starjedi.ttf") format("truetype");
 }
 
 @font-face {
-	font-family: "Android";
-	src: url("/fonts/Android/Android.ttf") format('truetype');
-	font-style: normal;
+  font-family: "Android";
+  src: url("/fonts/Android/Android.ttf") format("truetype");
+  font-style: normal;
 }
 
 @font-face {
-	font-family: "Android";
-	src: url("/fonts/Android/Android Italic.ttf") format('truetype');
-	font-style: italic;
+  font-family: "Android";
+  src: url("/fonts/Android/Android Italic.ttf") format("truetype");
+  font-style: italic;
 }
 
 @font-face {
-	font-family: "Android Hollow";
-	src: url("/fonts/Android/Android Hollow.ttf") format('truetype');
+  font-family: "Android Hollow";
+  src: url("/fonts/Android/Android Hollow.ttf") format("truetype");
 }
 
 @font-face {
-	font-family: "Olga";
-	src: url("/fonts/Olga.ttf") format('truetype');
+  font-family: "Olga";
+  src: url("/fonts/Olga.ttf") format("truetype");
 }
 
 @import "components/markdown.css";

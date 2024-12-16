@@ -1,4 +1,13 @@
-<div class="w-auto mx-auto p-3 rounded-lg border-t border-t-5 {{ or ( .noticeColor ) ( print "border-t-red-700" ) }} text-center mb-3 overflow-hidden clear-none" style="background-color: var(--color-bg); box-shadow: 0 0 10px black; {{if .noticeColor}}border-color: {{ .noticeColor }};{{ end }}">
-    <p class="!mt-0 !text-xl font-bold">{{ or ( .noticeTitle ) ( print "This is a notice" ) }}</p>
-    <p class="!mt-0">{{ ( or ( .noticeDescription ) ( print "That is very noticeable" ) ) | .page.RenderString }}</p>
+<div
+  class="border-t-5 {{ or ( .noticeColor ) ( print "border-t-red-700" ) }} clear-none w-auto p-3 mx-auto mb-3 overflow-hidden text-center border-t rounded-lg"
+  style="background-color: var(--color-bg); box-shadow: 0 0 10px black; {{ if .noticeColor }}
+    border-color: {{ .noticeColor }};
+  {{ end }}"
+>
+  <p class="!mt-0 !text-xl font-bold">
+    {{ or ( .noticeTitle ) ( print "This is a notice" ) }}
+  </p>
+  <p class="!mt-0">
+    {{ ( or ( .noticeDescription ) ( print "That is very noticeable" ) ) | .page.RenderString }}
+  </p>
 </div>
