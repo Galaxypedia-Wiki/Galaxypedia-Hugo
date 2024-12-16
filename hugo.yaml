@@ -4,6 +4,7 @@ title: "Galaxypedia"
 sectionPagesMenu: "main"
 enableGitInfo: true
 summaryLength: 100
+enableRobotsTXT: true
 
 build:
   buildStats:
