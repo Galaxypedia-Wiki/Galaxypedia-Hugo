@@ -28,7 +28,7 @@
     <title>
       {{ if .Title }}Galaxypedia - {{ .Title }}{{ else }}Galaxypedia{{ end }}
     </title>
-    {{ if getenv "CI" }}
+    {{ if hugo.IsDevelopment }}
       <script
         src="https://js.sentry-cdn.com/79a2541d247797be5c61ecfd7c307b0e.min.js"
         crossorigin="anonymous"
