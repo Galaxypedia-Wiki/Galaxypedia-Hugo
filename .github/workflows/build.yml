@@ -36,6 +36,11 @@ jobs:
         run: "pnpm i -P"
       - name: Set environment variables
         uses: FranzDiebold/github-env-vars-action@v2
+      - name: Dump github context
+        shell: bash
+        env:
+          GITHUB_CONTEXT: ${{ toJSON(github) }}
+        run: echo "$GITHUB_CONTEXT"
       - name: Build with Hugo
         env:
           HUGO_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
