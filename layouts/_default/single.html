@@ -1,16 +1,16 @@
 {{ define "main" }}
-<link href="{{.Site.BaseURL }}pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="{{.Site.BaseURL }}pagefind/pagefind-ui.js"></script>
-<div id="search"></div>
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
+  <link href="{{ .Site.BaseURL }}pagefind/pagefind-ui.css" rel="stylesheet" />
+  <script src="{{ .Site.BaseURL }}pagefind/pagefind-ui.js"></script>
+  <div id="search"></div>
+  <script>
+    window.addEventListener("DOMContentLoaded", (event) => {
+      new PagefindUI({ element: "#search", showSubResults: true });
     });
-</script>
-<div class="flex justify-between">
-<a href="{{ .Site.BaseURL }}" class="block mt-4">< Home</a>
-<a href="#" class="block mt-4">Talk ></a>
-</div>
+  </script>
+  <div class="flex justify-between">
+    <a href="{{ .Site.BaseURL }}" class="block mt-4">< Home</a>
+    <a href="#" class="block mt-4">Talk ></a>
+  </div>
   <h1 id="page-title">{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}

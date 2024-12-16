@@ -1,7 +1,9 @@
 # Galaxypedia
+
 This is the repository for the Galaxypedia rewrite in Hugo. The aim is to recreate the Galaxypedia using the Hugo static site generator while retaining familiar functionality as on the MediaWiki site.
 
 ## Morale
+
 Present-day Galaxypedia is built on the MediaWiki software, which is both powerful and expensive to operate. It relies on PHP and MySQL, which are resource-intensive, making MediaWiki as heavy as it is powerful.
 
 MediaWiki is also highly complex, heavily relying on templates, extensions, themes, and other customizations to ensure smooth functionality. This extensive codebase makes it challenging to maintain.
@@ -13,11 +15,13 @@ In light of these challenges, we are exploring the possibility of transitioning 
 We believe that a Hugo-based Galaxypedia will be easier to maintain, update, and use. Moreover, it will be developed and maintained by us, for us.
 
 ## Will this replace the Galaxypedia?
+
 It's complicated. The Hugo version of the Galaxypedia will be a separate entity from the MediaWiki version. The MediaWiki version will still be up and running for as long as the hugo version is in development. Once the Hugo version is ready, has most and/or all of the content and features of the MediaWiki version we will consider replacing the MediaWiki version with the Hugo version.
 
 For now, it's up in the air.
 
 ## Features
+
 Some features that the Hugo version has over the MediaWiki version are:
 
 - Autofilled ship infobox
@@ -47,18 +51,23 @@ Some features that the Hugo version has over the MediaWiki version are:
   - Also we finally don't have to deal with bot accounts spamming the site with nonsense. This is a huge relief.
 
 ## Contributing
+
 See the [wiki](https://github.com/Galaxypedia-Wiki/Galaxypedia-Hugo/wiki)
+
 ### To the content
+
 Contributing to the content is easy. If you want to make a change to an existing page, you can easily use the GitHub web editor, make your changes, and let it do the heavy work of forking and creating a pull request.
 
-If you want to do anything more than that, and most likely you will, you'll need to set up a local development environment. This is easy to do, but in true Node.JS fashion, you'll need to install a bunch of stuff.  
+If you want to do anything more than that, and most likely you will, you'll need to set up a local development environment. This is easy to do, but in true Node.JS fashion, you'll need to install a bunch of stuff.
 
 ### To the platform
-If you want to contribute to the platform, which means the site itself (styling, functionality, etc.), 
+
+If you want to contribute to the platform, which means the site itself (styling, functionality, etc.),
 
 If you are using Nix or NixOS, we include a Nix Flake you can use to get up and running easily. Just run [`direnv allow`](https://github.com/nix-community/nix-direnv) in the repository directory, and you're good to go. You do need to have [`devenv`](https://devenv.sh/) installed.
 
 ## Licensing
+
 Everything in the `content` directory is protected by the [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 All other directories and files are [MIT Licensed](https://en.wikipedia.org/wiki/MIT_License).
