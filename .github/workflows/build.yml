@@ -41,8 +41,9 @@ jobs:
           HUGO_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: ${{ inputs.production && 'production' || 'preview' }}
+          HUGO_PAGE_URL: ${{ inputs.production && 'https://v2.galaxypedia.org' || 'https://${CI_REPOSITORY_OWNER_SLUG}-${CI_ACTION_REF_NAME_SLUG}.galaxypedia.pages.dev' }}
         run: |
-          hugo --minify --baseURL "$(if [[ $HUGO_ENVIRONMENT == 'production' ]]; then echo 'https://v2.galaxypedia.org'; else echo '${CI_REPOSITORY_OWNER_SLUG}-${CI_ACTION_REF_NAME_SLUG}.galaxypedia.pages.dev'; fi)"
+          hugo --minify --baseURL "$HUGO_PAGE_URL"
       - name: Build Pagefind index
         run: pnpm pagefind
       - name: Upload build artifact
