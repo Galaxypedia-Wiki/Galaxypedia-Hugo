@@ -3,7 +3,11 @@ draft = true
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 +++
 
-{{/* DO NOT PUT ANYTHING ABOVE THE SHIP INFOBOX!!! */}} {{< shipInfobox >}} Put any notices here. Delete this line if there are no notices
+{{/* DO NOT PUT ANYTHING ABOVE THE SHIP INFOBOX!!! */}}
+
+{{< shipInfobox >}}
+
+Put any notices here. Delete this line if there are no notices
 
 The {{ replace .File.ContentBaseName "-" " " | title }} is a <main characteristics> <ship class> Ship that is <good use cases>.
 

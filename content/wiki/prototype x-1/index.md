@@ -2,7 +2,9 @@
 title: Prototype X-1
 ---
 
-{{< shipInfobox >}} The **_Prototype X-1_** is a [**Prototype**](:Category:Prototype "wikilink") created by the [U.N.E](United_Nations_of_Earth "wikilink").
+{{< shipInfobox >}}
+
+The **_Prototype X-1_** is a [**Prototype**](:Category:Prototype "wikilink") created by the [U.N.E](United_Nations_of_Earth "wikilink").
 
 ## Description
 
