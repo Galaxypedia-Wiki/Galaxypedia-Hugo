@@ -7,10 +7,31 @@
       new PagefindUI({ element: "#search", showSubResults: true });
     });
   </script>
+  <script
+    src="https://giscus.app/client.js"
+    data-repo="Galaxypedia-Wiki/Galaxypedia"
+    data-repo-id="R_kgDONY_ZRA"
+    data-category="Galaxypedia"
+    data-category-id="DIC_kwDONY_ZRM4ClSNZ"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="0"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="transparent_dark"
+    data-lang="en"
+    data-loading="lazy"
+    crossorigin="anonymous"
+    async
+  ></script>
   <div class="flex justify-between">
     <a href="{{ .Site.BaseURL }}" class="block mt-4">< Home</a>
     <a href="#" class="block mt-4">Talk ></a>
   </div>
   <h1 id="page-title">{{ .Title }}</h1>
   {{ .Content }}
+  <div class="p-5 my-3 border shadow" style="border-color: var(--color-bg4)">
+    <h2 class="text-center underline">Comments</h2>
+    <div class="giscus"></div>
+  </div>
 {{ end }}
