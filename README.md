@@ -56,18 +56,6 @@ Some features that the Hugo version has over the MediaWiki version are:
 
 See the [wiki](https://github.com/Galaxypedia-Wiki/Galaxypedia-Hugo/wiki)
 
-### To the content
-
-Contributing to the content is easy. If you want to make a change to an existing page, you can easily use the GitHub web editor, make your changes, and let it do the heavy work of forking and creating a pull request.
-
-If you want to do anything more than that, and most likely you will, you'll need to set up a local development environment. This is easy to do, but in true Node.JS fashion, you'll need to install a bunch of stuff.
-
-### To the platform
-
-If you want to contribute to the platform, which means the site itself (styling, functionality, etc.),
-
-If you are using Nix or NixOS, we include a Nix Flake you can use to get up and running easily. Just run [`direnv allow`](https://github.com/nix-community/nix-direnv) in the repository directory, and you're good to go. You do need to have [`devenv`](https://devenv.sh/) installed.
-
 ## Licensing
 
 Everything in the `content` directory is protected by the [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
