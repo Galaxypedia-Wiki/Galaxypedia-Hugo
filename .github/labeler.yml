@@ -1,6 +1,6 @@
 ﻿site:content:
   - changed-files:
-      - any-glob-to-any-file: content/wiki/**
+      - any-glob-to-any-file: content/**
 
 site:shortcodes:
   - changed-files:
