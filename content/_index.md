@@ -7,49 +7,49 @@
 
 <div style="border: 2px solid rgb(48, 52, 54) !important; border-radius: 10px;">
 <div class="flex flex-row justify-center flex-wrap gap-3 m-3">
-<div class="flex-initial hover:scale-125 transition-all border transform-gpu will-change-transform cursor-pointer">
+<div class="flex-initial hover:scale-125 transition-all border border-black transform-gpu will-change-transform cursor-pointer">
 Ships
 </div>
-<div class="flex-initial self-auto border">
+<div class="flex-initial self-auto border border-black">
 Turrets
 </div>
-<div class="border">
+<div class="border border-black">
 Materials
 </div>
-<div class="border">
+<div class="border border-black">
 Tutorial
 </div>
 </div>
 <hr style="margin: auto; width: 75%;">
 <div class="flex flex-row justify-center flex-wrap gap-3 m-3">
-<div class="border">
+<div class="border border-black">
 Miners
 </div>
-<div class="border">
+<div class="border border-black">
 Freighters
 </div>
-<div class="border">
+<div class="border border-black">
 Frigates
 </div>
-<div class="border">
+<div class="border border-black">
 Destroyers
 </div>
-<div class="border">
+<div class="border border-black">
 Cruisers
 </div>
-<div class="border">
+<div class="border border-black">
 Battlecruisers
 </div>
-<div class="border">
+<div class="border border-black">
 Battleships
 </div>
-<div class="border">
+<div class="border border-black">
 Dreadnoughts
 </div>
-<div class="border">
+<div class="border border-black">
 Carriers
 </div>
-<div class="border">
+<div class="border border-black">
 Super Capitals
 </div>
 </div>
