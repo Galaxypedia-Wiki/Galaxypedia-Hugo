@@ -32,6 +32,7 @@ site:platform:
             "!flake.nix",
             "!flake.lock",
             "!.prettierrc",
+            "!.prettierignore",
             "!.markdownlint.json",
             "!package.json",
           ]
@@ -46,6 +47,7 @@ site:tooling:
             ".envrc",
             "flake.nix",
             ".prettierrc",
+            ".prettierignore",
             ".markdownlint.json",
             "package.json",
           ]
