@@ -45,7 +45,10 @@ jobs:
           if [ "$HUGO_ENVIRONMENT" = "production" ]; then
             export HUGO_PAGE_URL="https://v2.galaxypedia.org"
           else
-            export HUGO_PAGE_URL="https://${ACTOR}-${REF}.galaxypedia.pages.dev"
+            slug="${ACTOR}-${REF}"
+            trimmed=${slug:0:28}
+            result=${trimmed%-}
+            export HUGO_PAGE_URL="https://${result}.galaxypedia.pages.dev"
           fi
           echo $HUGO_PAGE_URL
           hugo --minify --baseURL "$HUGO_PAGE_URL"
