@@ -38,9 +38,17 @@ jobs:
         env:
           HUGO_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
-          HUGO_ENVIRONMENT: production
+          HUGO_ENVIRONMENT: ${{ inputs.production && 'production' || 'development' }}
+          ACTOR: ${{ github.event.pull_request.user.login }}
+          REF: ${{ github.event.pull_request.head.ref }}
         run: |
-          hugo --minify --baseURL "https://v2.galaxypedia.org"
+          if [ "$HUGO_ENVIRONMENT" = "production" ]; then
+            export HUGO_PAGE_URL="https://v2.galaxypedia.org"
+          else
+            export HUGO_PAGE_URL="https://${ACTOR}-${REF}.galaxypedia.pages.dev"
+          fi
+          echo $HUGO_PAGE_URL
+          hugo --minify --baseURL "$HUGO_PAGE_URL"
       - name: Build Pagefind index
         run: pnpm pagefind
       - name: Upload build artifact
