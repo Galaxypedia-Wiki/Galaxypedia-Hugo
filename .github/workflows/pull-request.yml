@@ -8,7 +8,7 @@ jobs:
     name: Build Preview Deployment
     uses: ./.github/workflows/build.yml
     with:
-      production: false
+      development: true
 
   check:
     name: Check
