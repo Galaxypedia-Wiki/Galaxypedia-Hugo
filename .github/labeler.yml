@@ -1,0 +1,53 @@
+﻿site:content:
+  - changed-files:
+      - any-glob-to-any-file: content/**
+
+site:shortcodes:
+  - changed-files:
+      - any-glob-to-any-file: layouts/shortcodes/**
+
+site:partials:
+  - changed-files:
+      - any-glob-to-any-file: layouts/partials/**
+#site:taxonomies: - needs us to do taxonomies first so we know how layouts look
+
+site:styling:
+  - changed-files:
+      - any-glob-to-any-file: "assets/css/**"
+
+site:platform:
+  - changed-files:
+      - any-glob-to-any-file: "**"
+      - all-globs-to-all-files:
+          [
+            "!content/wiki/**",
+            "!layouts/partials/**",
+            "!layouts/shortcodes/**",
+            "!assets/css/**",
+            "!.github/**",
+            "!.husky/**",
+            "!.vscode/**",
+            "!.envrc",
+            "!pnpm-lock.yaml",
+            "!flake.nix",
+            "!flake.lock",
+            "!.prettierrc",
+            "!.prettierignore",
+            "!.markdownlint.json",
+            "!package.json",
+          ]
+
+site:tooling:
+  - changed-files:
+      - any-glob-to-any-file:
+          [
+            ".github/**",
+            ".husky/**",
+            ".vscode/**",
+            ".envrc",
+            "flake.nix",
+            ".prettierrc",
+            ".prettierignore",
+            ".markdownlint.json",
+            "package.json",
+          ]
