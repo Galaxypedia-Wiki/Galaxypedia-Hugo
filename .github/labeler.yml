@@ -25,6 +25,7 @@ site:platform:
             "!layouts/shortcodes/**",
             "!assets/css/**",
             "!.github/**",
+            "!.husky/**",
             "!.vscode/**",
             "!.envrc",
             "!pnpm-lock.yaml",
@@ -40,6 +41,7 @@ site:tooling:
       - any-glob-to-any-file:
           [
             ".github/**",
+            ".husky/**",
             ".vscode/**",
             ".envrc",
             "flake.nix",
