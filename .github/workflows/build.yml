@@ -4,9 +4,9 @@ on:
     branches: ["main"]
   workflow_call:
     inputs:
-      production:
+      development:
         type: boolean
-        default: true
+        default: false
 
 jobs:
   build:
@@ -38,7 +38,7 @@ jobs:
         env:
           HUGO_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
-          HUGO_ENVIRONMENT: ${{ inputs.production && 'production' || 'development' }}
+          HUGO_ENVIRONMENT: ${{ inputs.development && 'development' || 'production' }}
           ACTOR: ${{ github.event.pull_request.user.login }}
           REF: ${{ github.event.pull_request.head.ref }}
         run: |
