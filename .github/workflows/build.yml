@@ -54,7 +54,7 @@ jobs:
               slug="${ACTOR}-${REF}"
             fi
 
-            trimmed=${slug:0:28}
+            trimmed=${slug:0:28} # cloudflare pages trims the subdomain to 28 characters
             result=${trimmed%-}
 
             export HUGO_PAGE_URL="https://${result}.galaxypedia.pages.dev"
