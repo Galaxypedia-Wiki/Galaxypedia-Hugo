@@ -14,7 +14,7 @@ categories:
 title: Disruptor
 ---
 
-The **_Disruptor_**is the [Kneall]({{< ref "/wiki/" >}}Kneall) version of the [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing), and was released following the hunt for the hidden [Prototype X-3]({{< ref "/wiki/" >}}Prototype-X-3). 
+{{< shipInfobox >}} The **_Disruptor_**is the [Kneall]({{< ref "/wiki/" >}}Kneall) version of the [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing), and was released following the hunt for the hidden [Prototype X-3]({{< ref "/wiki/" >}}Prototype-X-3). 
 
 ## Description
 

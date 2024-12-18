@@ -7,7 +7,7 @@ categories:
 title: Drill ship (Test)
 ---
 
-The **_Drill ship (Test)_** is a [**Miner**]({{< ref "/categories/" >}}Mining-Ships) available to juice in Galaxy Development. 
+{{< shipInfobox >}} {{< notices/underConstruction >}} The **_Drill ship (Test)_** is a [**Miner**]({{< ref "/categories/" >}}Mining-Ships) available to juice in Galaxy Development. 
 
 ## Description
 

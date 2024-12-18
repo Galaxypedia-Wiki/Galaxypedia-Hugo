@@ -9,7 +9,7 @@ categories:
 title: Starfall
 ---
 
-The **_Starfall_** is a [**Destroyer Class**]({{< ref "/categories/" >}}Destroyers) ship with a focus on firepower.
+{{< shipInfobox >}} The **_Starfall_** is a [**Destroyer Class**]({{< ref "/categories/" >}}Destroyers) ship with a focus on firepower.
 
 ## Description
 

@@ -7,7 +7,7 @@ categories:
 title: Prototype X-4
 ---
 
-The **Prototype X-4** is an Admin-class ship, its model being an amalgamation of multiple mid Galaxy Beta-era ships. 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **Prototype X-4** is an Admin-class ship, its model being an amalgamation of multiple mid Galaxy Beta-era ships. 
 
 ## Description
 

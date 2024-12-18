@@ -13,7 +13,7 @@ categories:
 title: Santaliz
 ---
 
-The **_Santaliz_** is **[Battleship]({{< ref "/categories/" >}}Battleships)** from the second stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Santaliz_** is **[Battleship]({{< ref "/categories/" >}}Battleships)** from the second stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Description
 

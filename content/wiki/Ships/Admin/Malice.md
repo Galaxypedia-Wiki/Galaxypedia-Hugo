@@ -8,7 +8,7 @@ categories:
 title: Malice
 ---
 
-The **_Malice_** was [Lordmoneymonkey]({{< ref "/wiki/" >}}Galaxy-Staff)'s personal **[Admin Ship]({{< ref "/categories/" >}}Admin-Ships)**.
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_Malice_** was [Lordmoneymonkey]({{< ref "/wiki/" >}}Galaxy-Staff)'s personal **[Admin Ship]({{< ref "/categories/" >}}Admin-Ships)**.
 
 ## Description
 

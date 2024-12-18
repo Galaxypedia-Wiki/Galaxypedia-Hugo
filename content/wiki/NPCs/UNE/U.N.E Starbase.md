@@ -7,7 +7,7 @@ categories:
 title: U.N.E Starbase
 ---
 
-The **_U.N.E Starbase_** is the inhabited replacement of the [Abandoned U.N.E Base]({{< ref "/wiki/" >}}Abandoned-U.N.E-Base). 
+{{< notices/outdatedInfo >}} The **_U.N.E Starbase_** is the inhabited replacement of the [Abandoned U.N.E Base]({{< ref "/wiki/" >}}Abandoned-U.N.E-Base). 
 
 ## Description
 

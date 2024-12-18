@@ -7,7 +7,7 @@ categories:
 title: Wyrm
 ---
 
-The **_Wyrm_** is a tiny **[Freighter]({{< ref "/wiki/" >}}:category:Freighter)**automatically given to new players.
+{{< shipInfobox >}} The **_Wyrm_** is a tiny **[Freighter]({{< ref "/wiki/" >}}:category:Freighter)**automatically given to new players.
 
 ## Description
 

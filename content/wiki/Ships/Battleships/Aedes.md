@@ -10,7 +10,7 @@ categories:
 title: Aedes
 ---
 
-The **Aedes** is a [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022) Quest Battleship.
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **Aedes** is a [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022) Quest Battleship.
 
 ## Description
 

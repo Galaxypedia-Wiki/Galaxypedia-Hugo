@@ -7,7 +7,7 @@ categories:
 title: Wasp
 ---
 
-The **_Wasp_** is a **[Miner-class]({{< ref "/categories/" >}}Mining-Ships)** ship and is one of the starter ships for Galaxy. 
+{{< shipInfobox >}} The **_Wasp_** is a **[Miner-class]({{< ref "/categories/" >}}Mining-Ships)** ship and is one of the starter ships for Galaxy. 
 
 ## Description
 

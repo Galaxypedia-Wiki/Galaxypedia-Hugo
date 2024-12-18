@@ -13,7 +13,7 @@ categories:
 title: Blizzard
 ---
 
-The **_Blizzard_** is a powerful [Carrier]({{< ref "/categories/" >}}Carriers) that was introduced in the [Christmas Event 2017]({{< ref "/wiki/" >}}Christmas-Event-2017), but was re-introduced in the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Blizzard_** is a powerful [Carrier]({{< ref "/categories/" >}}Carriers) that was introduced in the [Christmas Event 2017]({{< ref "/wiki/" >}}Christmas-Event-2017), but was re-introduced in the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
 
 ## Description
 

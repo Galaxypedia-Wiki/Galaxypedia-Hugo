@@ -9,7 +9,7 @@ categories:
 title: Plagued Preos Hatchling
 ---
 
-_This article describes an NPC ship. For the player ship with a identical appearance, see [Preos Hatchling]({{< ref "/wiki/" >}}Preos-Hatchling)._
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} _This article describes an NPC ship. For the player ship with a identical appearance, see [Preos Hatchling]({{< ref "/wiki/" >}}Preos-Hatchling)._
 
 The **Plagued Preos Hatchling** _(Shortened, "**Hatchling**")_ is an Alien ship added during the [2021 Halloween Event]({{< ref "/categories/" >}}Halloween-2021). 
 

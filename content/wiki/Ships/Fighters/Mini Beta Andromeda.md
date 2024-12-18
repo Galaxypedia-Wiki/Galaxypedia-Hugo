@@ -7,7 +7,7 @@ categories:
 title: Mini Beta Andromeda
 ---
 
-The **_Mini Alpha Andromeda_** is a [Fighter-class]({{< ref "/categories/" >}}Fighters) ship found in the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship).
+{{< shipInfobox >}} The **_Mini Alpha Andromeda_** is a [Fighter-class]({{< ref "/categories/" >}}Fighters) ship found in the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship).
 
 ## Description
 

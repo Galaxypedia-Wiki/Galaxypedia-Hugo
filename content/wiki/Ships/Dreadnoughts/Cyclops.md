@@ -9,7 +9,7 @@ categories:
 title: Cyclops
 ---
 
-The **_Cyclops_** is a siege-focused[ **Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) that is primarily focused on hull damage. 
+{{< shipInfobox >}} The **_Cyclops_** is a siege-focused[ **Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) that is primarily focused on hull damage. 
 
 ## Description
 

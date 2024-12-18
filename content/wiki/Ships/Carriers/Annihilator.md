@@ -13,7 +13,7 @@ categories:
 title: Annihilator
 ---
 
-_This page is about the player-ownable vessel. If you're looking for the NPC variant, see [Devastator]({{< ref "/wiki/" >}}Devastator)._
+{{< shipInfobox >}} _This page is about the player-ownable vessel. If you're looking for the NPC variant, see [Devastator]({{< ref "/wiki/" >}}Devastator)._
 
 The **_Annihilator_** is a [Carrier]({{< ref "/categories/" >}}Carriers) made by the [Kneall]({{< ref "/wiki/" >}}Kneall) for the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event).
 

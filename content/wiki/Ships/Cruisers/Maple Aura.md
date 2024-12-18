@@ -10,7 +10,7 @@ categories:
 title: Maple Aura
 ---
 
-## Description
+{{< shipInfobox >}} ## Description
 
 ## Interior
 

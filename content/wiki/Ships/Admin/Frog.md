@@ -7,7 +7,7 @@ categories:
 title: Frog
 ---
 
-The **Frog** is an [**Admin Ship**]({{< ref "/categories/" >}}Admin-Ships) that has no collision.
+{{< shipInfobox >}} {{< notices/adminShip >}} The **Frog** is an [**Admin Ship**]({{< ref "/categories/" >}}Admin-Ships) that has no collision.
 
 ## Description
 

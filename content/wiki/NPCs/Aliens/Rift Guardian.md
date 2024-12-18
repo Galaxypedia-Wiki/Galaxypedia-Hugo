@@ -9,7 +9,7 @@ categories:
 title: Rift Guardian
 ---
 
-The **_Rift Guardian_** is a unique [**AI**]({{< ref "/categories/" >}}NPC-Ships) ship that appeared in the [Halloween 2020]({{< ref "/categories/" >}}Halloween-2020) event. It is the weaker version of the [Rift Custodian]({{< ref "/wiki/" >}}Rift-Custodian). 
+{{< shipInfobox >}} {{< notices/npcShip >}} The **_Rift Guardian_** is a unique [**AI**]({{< ref "/categories/" >}}NPC-Ships) ship that appeared in the [Halloween 2020]({{< ref "/categories/" >}}Halloween-2020) event. It is the weaker version of the [Rift Custodian]({{< ref "/wiki/" >}}Rift-Custodian). 
 
 ## Description
 

@@ -8,7 +8,7 @@ categories:
 title: Incarnate
 ---
 
-The **_Incarnate_** is an event [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) from phase three of the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Incarnate_** is an event [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) from phase three of the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020). 
 
 ## Description
 

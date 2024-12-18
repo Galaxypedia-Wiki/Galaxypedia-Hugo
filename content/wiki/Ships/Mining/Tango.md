@@ -7,7 +7,7 @@ categories:
 title: Tango
 ---
 
-The **_Tango_** is a small and fast early-game [**Miner**]({{< ref "/categories/" >}}Mining-Ships)-class ship. 
+{{< shipInfobox >}} The **_Tango_** is a small and fast early-game [**Miner**]({{< ref "/categories/" >}}Mining-Ships)-class ship. 
 
 ## Description
 

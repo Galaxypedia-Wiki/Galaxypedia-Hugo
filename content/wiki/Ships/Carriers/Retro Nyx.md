@@ -9,7 +9,7 @@ categories:
 title: Retro Nyx
 ---
 
-The **_Retro Nyx_** is a [Limited]({{< ref "/categories/" >}}Limited-Ships) [**Carrier**]({{< ref "/categories/" >}}Carriers) added during the [Retro Ship Event 2021]({{< ref "/wiki/" >}}Retro-Ship-Event-2021). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Nyx_** is a [Limited]({{< ref "/categories/" >}}Limited-Ships) [**Carrier**]({{< ref "/categories/" >}}Carriers) added during the [Retro Ship Event 2021]({{< ref "/wiki/" >}}Retro-Ship-Event-2021). 
 
 ## Description
 

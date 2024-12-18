@@ -9,7 +9,7 @@ categories:
 title: Invictus
 ---
 
-The **_Invictus_**is a **[Cruiser]({{< ref "/categories/" >}}Cruisers)** class ship with massive hull.
+{{< shipInfobox >}} The **_Invictus_**is a **[Cruiser]({{< ref "/categories/" >}}Cruisers)** class ship with massive hull.
 
 ## Description
 

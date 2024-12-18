@@ -9,7 +9,7 @@ categories:
 title: Snowball
 ---
 
-The **_Snowball_** is a strange-looking quest **[Freighter]({{< ref "/categories/" >}}Freighters)** released during the [Christmas Event 2019]({{< ref "/wiki/" >}}Christmas-Event-2019).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Snowball_** is a strange-looking quest **[Freighter]({{< ref "/categories/" >}}Freighters)** released during the [Christmas Event 2019]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Description
 

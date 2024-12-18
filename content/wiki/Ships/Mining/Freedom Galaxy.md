@@ -10,7 +10,7 @@ categories:
 title: Freedom Galaxy
 ---
 
-The **_Freedom Galaxy_** is a massive, expensive [**Miner**]({{< ref "/categories/" >}}Mining-Ships) released during the [Fourth of July Event 2020]({{< ref "/wiki/" >}}Fourth-of-July-Event-2020).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Freedom Galaxy_** is a massive, expensive [**Miner**]({{< ref "/categories/" >}}Mining-Ships) released during the [Fourth of July Event 2020]({{< ref "/wiki/" >}}Fourth-of-July-Event-2020).
 
 ## Description
 

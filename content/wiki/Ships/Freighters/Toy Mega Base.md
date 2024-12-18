@@ -8,7 +8,7 @@ categories:
 title: Toy Mega Base
 ---
 
-The **_Toy Mega Base_** is a [**Freighter-class**]({{< ref "/categories/" >}}Freighters) ship found in one of the gifts at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020) and could have also been built during the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021) in the build menu. 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Toy Mega Base_** is a [**Freighter-class**]({{< ref "/categories/" >}}Freighters) ship found in one of the gifts at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020) and could have also been built during the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021) in the build menu. 
 
 ## Description
 

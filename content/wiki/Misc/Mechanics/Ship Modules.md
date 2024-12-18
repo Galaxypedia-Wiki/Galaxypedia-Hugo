@@ -8,7 +8,7 @@ categories:
 title: Ship Modules
 ---
 
-## Introduction
+{{< notices/underConstruction >}} ## Introduction
 
 This page is a comprehensive list and description of all **Ship Modules** in the game. Before diving into the list, they will first be explained.
 

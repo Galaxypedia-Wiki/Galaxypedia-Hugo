@@ -7,7 +7,7 @@ categories:
 title: Interceptor F
 ---
 
-The **_Interceptor F _**is a [**Fighter**]({{< ref "/categories/" >}}Fighters) that spawns on the [Nimitz]({{< ref "/wiki/" >}}Nimitz).
+{{< shipInfobox >}} The **_Interceptor F _**is a [**Fighter**]({{< ref "/categories/" >}}Fighters) that spawns on the [Nimitz]({{< ref "/wiki/" >}}Nimitz).
 
 ## Description
 

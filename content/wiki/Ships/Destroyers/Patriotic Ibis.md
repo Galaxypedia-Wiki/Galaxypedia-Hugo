@@ -9,7 +9,7 @@ categories:
 title: Patriotic Ibis
 ---
 
-The **_Patriotic Ibis_** is a **[Limited]({{< ref "/wiki/" >}}:category:limited)** 4th of July reskin of the [Destroyer-class]({{< ref "/categories/" >}}Destroyers) [Ibis]({{< ref "/wiki/" >}}Ibis).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic Ibis_** is a **[Limited]({{< ref "/wiki/" >}}:category:limited)** 4th of July reskin of the [Destroyer-class]({{< ref "/categories/" >}}Destroyers) [Ibis]({{< ref "/wiki/" >}}Ibis).
 
 ## Description
 

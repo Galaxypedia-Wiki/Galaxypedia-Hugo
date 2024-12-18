@@ -12,7 +12,7 @@ categories:
 title: Aludra
 ---
 
-_This page is about the player-ownable vessel. If you're looking for the NPC variant, see [Blizzard Aludra]({{< ref "/wiki/" >}}Blizzard-Aludra)._
+{{< shipInfobox >}} {{< notices/limitedShip >}} _This page is about the player-ownable vessel. If you're looking for the NPC variant, see [Blizzard Aludra]({{< ref "/wiki/" >}}Blizzard-Aludra)._
 
 The **_Aludra_** is a [**Limited**]({{< ref "/categories/" >}}Limited-Ships) [Battleship]({{< ref "/categories/" >}}Battleships) that was introduced in the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
 

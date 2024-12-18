@@ -10,7 +10,7 @@ categories:
 title: Hallow
 ---
 
-The **_Hallow_** is a [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) from the [Halloween 2019 Event]({{< ref "/wiki/" >}}Halloween-Event-2019) 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Hallow_** is a [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) from the [Halloween 2019 Event]({{< ref "/wiki/" >}}Halloween-Event-2019) 
 
 ## Description
 

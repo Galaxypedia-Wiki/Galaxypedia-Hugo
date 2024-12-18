@@ -12,7 +12,7 @@ categories:
 title: Vanguard
 ---
 
-The **_Vanguard_** is a mid-size and speedy [**Battleship**]({{< ref "/categories/" >}}Battleships)/[**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts)**-[Carrier]({{< ref "/categories/" >}}Carriers)** hybrid. 
+{{< shipInfobox >}} The **_Vanguard_** is a mid-size and speedy [**Battleship**]({{< ref "/categories/" >}}Battleships)/[**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts)**-[Carrier]({{< ref "/categories/" >}}Carriers)** hybrid. 
 
 ## Description
 

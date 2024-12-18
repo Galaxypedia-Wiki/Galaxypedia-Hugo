@@ -8,7 +8,7 @@ categories:
 title: Wasp_
 ---
 
-The **_Wasp?_** is a "[**Fighter**]({{< ref "/categories/" >}}Fighters)" that spawns in the [Waspinator]({{< ref "/wiki/" >}}Waspinator).
+{{< shipInfobox >}} The **_Wasp?_** is a "[**Fighter**]({{< ref "/categories/" >}}Fighters)" that spawns in the [Waspinator]({{< ref "/wiki/" >}}Waspinator).
 
 ## Description
 

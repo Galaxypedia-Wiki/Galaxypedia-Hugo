@@ -7,7 +7,7 @@ categories:
 title: Festive Kodiak
 ---
 
-## Description
+{{< shipInfobox >}} {{< notices/removed >}} {{< notices/underConstruction >}} ## Description
 
 The [Festive Kodiak]({{< ref "/wiki/" >}}Festive-Kodiak) was a boss used for the [Christmas Event 2023]({{< ref "/wiki/" >}}Christmas-Event-2023).
 

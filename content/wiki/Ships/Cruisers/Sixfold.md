@@ -12,7 +12,7 @@ categories:
 title: Sixfold
 ---
 
-The **_Sixfold_** is a uniquely shaped **[Cruiser]({{< ref "/categories/" >}}Cruisers)** with high firepower but low health. 
+{{< shipInfobox >}} The **_Sixfold_** is a uniquely shaped **[Cruiser]({{< ref "/categories/" >}}Cruisers)** with high firepower but low health. 
 
 ## Description
 

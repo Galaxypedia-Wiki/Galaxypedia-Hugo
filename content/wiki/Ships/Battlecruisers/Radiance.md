@@ -8,7 +8,7 @@ categories:
 title: Radiance
 ---
 
-The **_Radiance_** is a **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** with a focus on [Lasers]({{< ref "/wiki/" >}}Turrets) and high speed.
+{{< shipInfobox >}} The **_Radiance_** is a **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** with a focus on [Lasers]({{< ref "/wiki/" >}}Turrets) and high speed.
 
 ## Description
 

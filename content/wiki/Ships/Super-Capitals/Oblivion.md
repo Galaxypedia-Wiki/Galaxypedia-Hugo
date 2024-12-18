@@ -9,7 +9,7 @@ categories:
 title: Oblivion
 ---
 
-The **Oblivion** is a powerful [**Super Capital Ship**]({{< ref "/categories/" >}}Super-Capital-Ships), and is a jack of all trades, but a master of none.
+{{< shipInfobox >}} {{< notices/superCapitalShip >}} The **Oblivion** is a powerful [**Super Capital Ship**]({{< ref "/categories/" >}}Super-Capital-Ships), and is a jack of all trades, but a master of none.
 
 ## Summary
 

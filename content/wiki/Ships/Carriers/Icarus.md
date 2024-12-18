@@ -13,7 +13,7 @@ categories:
 title: Icarus
 ---
 
-The **_Icarus_** is a large, combat-based, defensive [**Carrier**]({{< ref "/categories/" >}}Carriers).  
+{{< shipInfobox >}} The **_Icarus_** is a large, combat-based, defensive [**Carrier**]({{< ref "/categories/" >}}Carriers).  
 
 ## Description
 

@@ -12,7 +12,7 @@ categories:
 title: Patriotic Rorqual
 ---
 
-The**_Patriotic Rorqual_** is a **[Miner-]({{< ref "/categories/" >}}Mining-Ships)**[class]({{< ref "/categories/" >}}Mining-Ships) ship and a reskin of the [Rorqual]({{< ref "/wiki/" >}}Rorqual).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The**_Patriotic Rorqual_** is a **[Miner-]({{< ref "/categories/" >}}Mining-Ships)**[class]({{< ref "/categories/" >}}Mining-Ships) ship and a reskin of the [Rorqual]({{< ref "/wiki/" >}}Rorqual).
 
 ## Description  
 

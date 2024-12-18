@@ -7,7 +7,7 @@ categories:
 title: Turret Tester
 ---
 
-The **_Turret Tester_** is a [**Developer Ship**]({{< ref "/categories/" >}}Admin-Ships) that has been in the game since 2015. 
+{{< shipInfobox >}} {{< notices/underConstruction >}} The **_Turret Tester_** is a [**Developer Ship**]({{< ref "/categories/" >}}Admin-Ships) that has been in the game since 2015. 
 
 ## Description
 

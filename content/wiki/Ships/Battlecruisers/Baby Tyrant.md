@@ -9,7 +9,7 @@ categories:
 title: Baby Tyrant
 ---
 
-The **_Baby Tyrant_** is a [**Battlecruiser**]({{< ref "/wiki/" >}}:category:Battlecruiser) ship released as an April Fools' ship.
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Baby Tyrant_** is a [**Battlecruiser**]({{< ref "/wiki/" >}}:category:Battlecruiser) ship released as an April Fools' ship.
 
 ## Description
 

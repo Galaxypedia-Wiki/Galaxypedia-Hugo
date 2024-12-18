@@ -10,7 +10,7 @@ categories:
 title: Demon
 ---
 
-The **_Demon_** is a [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) that was part of the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Demon_** is a [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) that was part of the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019).
 
 ## Description
 

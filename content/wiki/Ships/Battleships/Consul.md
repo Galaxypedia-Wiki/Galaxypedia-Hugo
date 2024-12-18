@@ -9,7 +9,7 @@ categories:
 title: Consul
 ---
 
-The **_Consul_** is a powerful **[Battleship]({{< ref "/categories/" >}}Battleships)**.
+{{< shipInfobox >}} The **_Consul_** is a powerful **[Battleship]({{< ref "/categories/" >}}Battleships)**.
 
 ## Description
 

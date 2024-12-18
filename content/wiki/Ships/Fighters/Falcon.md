@@ -8,7 +8,7 @@ categories:
 title: Falcon
 ---
 
-The **_Falcon_** was a **[Fighter-class]({{< ref "/categories/" >}}Fighters)** ship unique to the [Vanguard]({{< ref "/wiki/" >}}Vanguard). 
+{{< shipInfobox >}} The **_Falcon_** was a **[Fighter-class]({{< ref "/categories/" >}}Fighters)** ship unique to the [Vanguard]({{< ref "/wiki/" >}}Vanguard). 
 
 ## Description
 

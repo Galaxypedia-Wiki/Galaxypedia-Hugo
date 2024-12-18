@@ -10,7 +10,7 @@ categories:
 title: Halkaryak
 ---
 
-The **_Halkaryak_** is a [**Carrier**]({{< ref "/categories/" >}}Carriers) added during the [2021 Halloween Event]({{< ref "/categories/" >}}Halloween-2021). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Halkaryak_** is a [**Carrier**]({{< ref "/categories/" >}}Carriers) added during the [2021 Halloween Event]({{< ref "/categories/" >}}Halloween-2021). 
 
 ## Description
 

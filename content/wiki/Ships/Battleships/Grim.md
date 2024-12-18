@@ -13,7 +13,7 @@ categories:
 title: Grim
 ---
 
-The **_Grim_** is a unique **[Battleship]({{< ref "/categories/" >}}Battleships)**that was obtained by completing the Event Quest "[Death Incarnate]({{< ref "/wiki/" >}}Death-Incarnate)."
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Grim_** is a unique **[Battleship]({{< ref "/categories/" >}}Battleships)**that was obtained by completing the Event Quest "[Death Incarnate]({{< ref "/wiki/" >}}Death-Incarnate)."
 
 ## Description 
 

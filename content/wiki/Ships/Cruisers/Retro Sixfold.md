@@ -10,7 +10,7 @@ categories:
 title: Retro Sixfold
 ---
 
-The **_Retro Sixfold_** is a **[limited-edition]({{< ref "/categories/" >}}Limited-Ships)** version of the [Sixfold]({{< ref "/wiki/" >}}Sixfold) that features its original model and armament. 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Sixfold_** is a **[limited-edition]({{< ref "/categories/" >}}Limited-Ships)** version of the [Sixfold]({{< ref "/wiki/" >}}Sixfold) that features its original model and armament. 
 
 ## Description
 

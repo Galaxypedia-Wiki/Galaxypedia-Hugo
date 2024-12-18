@@ -11,7 +11,7 @@ categories:
 title: Retro Centurion
 ---
 
-The **_Retro Centurion_** is a limited replica of the original [**Destroyer-Class**]({{< ref "/categories/" >}}Destroyers) [Centurion]({{< ref "/wiki/" >}}Centurion) added during the [Retro Ship Event 2020]({{< ref "/wiki/" >}}Retro-Ship-Event-2020). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Centurion_** is a limited replica of the original [**Destroyer-Class**]({{< ref "/categories/" >}}Destroyers) [Centurion]({{< ref "/wiki/" >}}Centurion) added during the [Retro Ship Event 2020]({{< ref "/wiki/" >}}Retro-Ship-Event-2020). 
 
 ## Description
 

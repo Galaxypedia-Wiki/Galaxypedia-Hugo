@@ -10,7 +10,7 @@ categories:
 title: Osprey
 ---
 
-The **_Osprey_** is a **[Frigate]({{< ref "/categories/" >}}Frigates)** class ship with decent cargo and overall firepower for its class.
+{{< shipInfobox >}} The **_Osprey_** is a **[Frigate]({{< ref "/categories/" >}}Frigates)** class ship with decent cargo and overall firepower for its class.
 
 ## Description
 

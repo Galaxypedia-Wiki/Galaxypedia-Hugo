@@ -10,7 +10,7 @@ categories:
 title: Spider
 ---
 
-_Not to be confused with the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017) Limited [Frigate]({{< ref "/categories/" >}}Frigates)-Class [Spiderblade]({{< ref "/wiki/" >}}Spiderblade)._
+{{< shipInfobox >}} _Not to be confused with the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017) Limited [Frigate]({{< ref "/categories/" >}}Frigates)-Class [Spiderblade]({{< ref "/wiki/" >}}Spiderblade)._
 
 The **_Spider_**is a [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Frigate**]({{< ref "/categories/" >}}Frigates). 
 

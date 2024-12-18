@@ -8,7 +8,7 @@ categories:
 title: Stealth Recon
 ---
 
-The **_Stealth Recon_** is a stealth [destroyer]({{< ref "/categories/" >}}Destroyers) that is the smallest ship to be equipped with a sniper turret. 
+{{< shipInfobox >}} The **_Stealth Recon_** is a stealth [destroyer]({{< ref "/categories/" >}}Destroyers) that is the smallest ship to be equipped with a sniper turret. 
 
 ## Overview
 

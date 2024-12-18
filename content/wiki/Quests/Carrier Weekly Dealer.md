@@ -6,7 +6,7 @@ categories:
 title: Carrier Weekly Dealer
 ---
 
-![]({{< ref "/wiki/" >}}Carrierweeklydealer.png-"Carrierweeklydealer.png") The Carrier Weekly Dealer (Jaxumi92) is ship dealer added on June 11 2022
+{{< notices/removed >}} ![]({{< ref "/wiki/" >}}Carrierweeklydealer.png-"Carrierweeklydealer.png") The Carrier Weekly Dealer (Jaxumi92) is ship dealer added on June 11 2022
 
 ## Description
 

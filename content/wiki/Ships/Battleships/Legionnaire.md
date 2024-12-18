@@ -12,7 +12,7 @@ categories:
 title: Legionnaire
 ---
 
-The **_Legionnaire_** is a small [Battleship]({{< ref "/categories/" >}}Battleships) with a wide arrangement of [Turrets]({{< ref "/wiki/" >}}Turrets), making it effective in both short and long range combat. 
+{{< shipInfobox >}} The **_Legionnaire_** is a small [Battleship]({{< ref "/categories/" >}}Battleships) with a wide arrangement of [Turrets]({{< ref "/wiki/" >}}Turrets), making it effective in both short and long range combat. 
 
 ## Description
 

@@ -10,7 +10,7 @@ categories:
 title: Archeon
 ---
 
-The **_Archeon_** is a [**Battleship**]({{< ref "/categories/" >}}Battleships) class ship designed specifically for sieging [Starbases]({{< ref "/wiki/" >}}Starbase).
+{{< shipInfobox >}} The **_Archeon_** is a [**Battleship**]({{< ref "/categories/" >}}Battleships) class ship designed specifically for sieging [Starbases]({{< ref "/wiki/" >}}Starbase).
 
 _Not to be confused with the [Atheon]({{< ref "/wiki/" >}}Atheon)._ 
 

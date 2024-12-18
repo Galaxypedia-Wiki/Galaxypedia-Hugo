@@ -6,3 +6,4 @@ categories:
 title: White Collar Society
 ---
 
+{{< notices/underConstruction >}} 

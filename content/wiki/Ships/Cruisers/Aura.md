@@ -7,7 +7,7 @@ categories:
 title: Aura
 ---
 
-The **_Aura_** is a [**Cruiser**]({{< ref "/categories/" >}}Cruisers) with balanced firepower.
+{{< shipInfobox >}} The **_Aura_** is a [**Cruiser**]({{< ref "/categories/" >}}Cruisers) with balanced firepower.
 
 ## Description
 

@@ -11,7 +11,7 @@ categories:
 title: Blue Torp Wasp
 ---
 
-The **_Blue Torp Wasp_** is a small **[Frigate]({{< ref "/categories/" >}}Frigates)** built by [The Blue Torpedo Cult]({{< ref "/wiki/" >}}Blue-Torpedo-Cult). It is an armored [Wasp]({{< ref "/wiki/" >}}Wasp) with 2 Unique [Torpedoes]({{< ref "/wiki/" >}}Spinals).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Blue Torp Wasp_** is a small **[Frigate]({{< ref "/categories/" >}}Frigates)** built by [The Blue Torpedo Cult]({{< ref "/wiki/" >}}Blue-Torpedo-Cult). It is an armored [Wasp]({{< ref "/wiki/" >}}Wasp) with 2 Unique [Torpedoes]({{< ref "/wiki/" >}}Spinals).
 
 ## Description
 

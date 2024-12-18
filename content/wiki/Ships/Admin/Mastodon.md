@@ -8,7 +8,7 @@ categories:
 title: Mastodon
 ---
 
-The**_Mastodon_** was an **[Admin Ship]({{< ref "/categories/" >}}Admin-Ships)** that had non-functional [Turrets]({{< ref "/wiki/" >}}Turrets).
+{{< shipInfobox >}} {{< notices/adminShip >}} The**_Mastodon_** was an **[Admin Ship]({{< ref "/categories/" >}}Admin-Ships)** that had non-functional [Turrets]({{< ref "/wiki/" >}}Turrets).
 
 ## Description
 

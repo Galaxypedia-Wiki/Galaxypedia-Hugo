@@ -12,7 +12,7 @@ categories:
 title: Pl̸͌͝å̷̛g̸͑̃ȗ̵͠e̵͌̔d̴̑͘ ̴̌̀O̵͛͘s̶̏̕i̷̓͒r̷̓͋ì̵͝s̵̓̊
 ---
 
-The **Pl̸͌͝å̷̛g̸͑̃ȗ̵͠e̵͌̔d̴̑͘ ̴̌̀O̵͛͘s̶̏̕i̷̓͒r̷̓͋ì̵͝s̵̓̊** is an [**AI**]({{< ref "/categories/" >}}NPC-Ships) [Super Capital]({{< ref "/categories/" >}}Super-Capital-Ships) that spawned during Part 2 of the [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022).
+{{< shipInfobox >}} {{< notices/removed >}} {{< notices/npcShip >}} The **Pl̸͌͝å̷̛g̸͑̃ȗ̵͠e̵͌̔d̴̑͘ ̴̌̀O̵͛͘s̶̏̕i̷̓͒r̷̓͋ì̵͝s̵̓̊** is an [**AI**]({{< ref "/categories/" >}}NPC-Ships) [Super Capital]({{< ref "/categories/" >}}Super-Capital-Ships) that spawned during Part 2 of the [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022).
 
 ## Description
 

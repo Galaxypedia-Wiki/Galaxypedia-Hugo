@@ -11,7 +11,7 @@ categories:
 title: MLRS
 ---
 
-The **_MLRS_** is a [Torpedo]({{< ref "/wiki/" >}}Spinals)-carrying [**Battlecruiser.**]({{< ref "/categories/" >}}Battlecruisers) 
+{{< shipInfobox >}} The **_MLRS_** is a [Torpedo]({{< ref "/wiki/" >}}Spinals)-carrying [**Battlecruiser.**]({{< ref "/categories/" >}}Battlecruisers) 
 
 ## Description
 

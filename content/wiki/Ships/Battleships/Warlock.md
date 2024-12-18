@@ -10,7 +10,7 @@ categories:
 title: Warlock
 ---
 
-The **_Warlock_** is a powerful [**Battleship**]({{< ref "/categories/" >}}Battleships) with a unique design and many [Medium Turrets]({{< ref "/wiki/" >}}Turrets).
+{{< shipInfobox >}} The **_Warlock_** is a powerful [**Battleship**]({{< ref "/categories/" >}}Battleships) with a unique design and many [Medium Turrets]({{< ref "/wiki/" >}}Turrets).
 
 ## Description
 

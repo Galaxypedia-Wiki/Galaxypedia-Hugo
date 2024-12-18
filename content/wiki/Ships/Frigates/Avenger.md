@@ -9,7 +9,7 @@ categories:
 title: Avenger
 ---
 
-The **_Avenger_**is a fast and powerful **[Frigate]({{< ref "/categories/" >}}Frigates).** 
+{{< shipInfobox >}} The **_Avenger_**is a fast and powerful **[Frigate]({{< ref "/categories/" >}}Frigates).** 
 
 ## Description
 

@@ -11,7 +11,7 @@ categories:
 title: Grievion
 ---
 
-The **_Grievion_** is a [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) designed for ship-to-ship combat.
+{{< shipInfobox >}} The **_Grievion_** is a [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) designed for ship-to-ship combat.
 
 ## Description
 

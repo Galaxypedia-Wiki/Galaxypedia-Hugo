@@ -7,7 +7,7 @@ categories:
 title: Kneall Beacon (Quest)
 ---
 
-PLEASE NOTE: DUE TO THE FACT THAT THE KNEALL STRONGHOLD WAS CHANGED TO HAVE NO QUEST/QUESTS AROUND IT, THIS INFO PAGE IS OUTDATED, PLEASE **_DO NOT_** REFER TO THIS PAGE FOR ANY INFO ON HOW TO SPAWN IN THE STRONGHOLD ![The official update log explaining the changes of the Stronghold and
+{{< notices/removed >}} PLEASE NOTE: DUE TO THE FACT THAT THE KNEALL STRONGHOLD WAS CHANGED TO HAVE NO QUEST/QUESTS AROUND IT, THIS INFO PAGE IS OUTDATED, PLEASE **_DO NOT_** REFER TO THIS PAGE FOR ANY INFO ON HOW TO SPAWN IN THE STRONGHOLD ![The official update log explaining the changes of the Stronghold and
 how it
 works](YnameStrongholdReturnAnnoncement.png "The official update log explaining the changes of the Stronghold and how it works") Proof of the fact that is was changed with the official update log can be seen to your _right_ > ----***Kneall Beacon**'' is the name of 2 [Quests]({{< ref "/categories/" >}}Quests) that must be completed to spawn the [Kneall Stronghold]({{< ref "/wiki/" >}}Kneall-Stronghold).***Kneall Beacon**'' is also the name of the quest-giver of said quests.
 

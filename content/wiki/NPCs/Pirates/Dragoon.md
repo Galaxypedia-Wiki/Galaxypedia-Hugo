@@ -8,7 +8,7 @@ categories:
 title: Dragoon
 ---
 
-The **_Dragoon_** is a Pirate [**AI**]({{< ref "/categories/" >}}NPC-Ships) [**Frigate**]({{< ref "/categories/" >}}Frigates). 
+{{< shipInfobox >}} {{< notices/npcShip >}} The **_Dragoon_** is a Pirate [**AI**]({{< ref "/categories/" >}}NPC-Ships) [**Frigate**]({{< ref "/categories/" >}}Frigates). 
 
 ## Description
 

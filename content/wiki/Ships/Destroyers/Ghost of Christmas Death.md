@@ -12,7 +12,7 @@ categories:
 title: Ghost of Christmas Death
 ---
 
-The **_Ghost of Christmas Death_**is a redesign of the [Phantom]({{< ref "/wiki/" >}}Phantom) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018). 
+{{< shipInfobox >}} The **_Ghost of Christmas Death_**is a redesign of the [Phantom]({{< ref "/wiki/" >}}Phantom) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018). 
 
 ## Description
 

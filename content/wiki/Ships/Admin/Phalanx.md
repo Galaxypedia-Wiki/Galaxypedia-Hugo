@@ -8,7 +8,7 @@ categories:
 title: Phalanx
 ---
 
-The **_Phalanx_** was [oShadowWarrioro]({{< ref "/wiki/" >}}Galaxy-Staff)'s personal [**Admin Ship**]({{< ref "/wiki/" >}}:category:admin).
+{{< shipInfobox >}} The **_Phalanx_** was [oShadowWarrioro]({{< ref "/wiki/" >}}Galaxy-Staff)'s personal [**Admin Ship**]({{< ref "/wiki/" >}}:category:admin).
 
 ## Description
 

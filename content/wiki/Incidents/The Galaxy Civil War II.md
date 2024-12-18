@@ -7,7 +7,7 @@ categories:
 title: The Galaxy Civil War II
 ---
 
-The **Galaxy Civil War II**, also known as the **Enigma Cache Incident**, is known as the worst bug/mistake to have existed in Galaxy and the second biggest incident in Galaxy. Second only to the [Confinium Pay-to-win Incident]({{< ref "/wiki/" >}}Confinium-Pay-to-win-Incident).
+{{< notices/communityIncident >}} The **Galaxy Civil War II**, also known as the **Enigma Cache Incident**, is known as the worst bug/mistake to have existed in Galaxy and the second biggest incident in Galaxy. Second only to the [Confinium Pay-to-win Incident]({{< ref "/wiki/" >}}Confinium-Pay-to-win-Incident).
 
 This is essentially a repeat of the [first Galaxy Civil War]({{< ref "/wiki/" >}}The-Galaxy-Civil-War) (HIGHLY RECOMMENDED THAT YOU READ IT FIRST). [Sugondese]({{< ref "/wiki/" >}}Smallketchup82) (smallketchup82) did not start this, it was started a while before Sugondese announced its official start.
 

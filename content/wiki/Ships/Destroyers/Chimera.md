@@ -10,7 +10,7 @@ categories:
 title: Chimera
 ---
 
-_This article describes the player-owned vessel. For the NPC version, see [Chimera-S]({{< ref "/wiki/" >}}Chimera-S)._
+{{< shipInfobox >}} _This article describes the player-owned vessel. For the NPC version, see [Chimera-S]({{< ref "/wiki/" >}}Chimera-S)._
 
 The **_Chimera_**is a slow but powerful **[Destroyer]({{< ref "/categories/" >}}Destroyers)**.
 

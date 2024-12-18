@@ -12,7 +12,7 @@ categories:
 title: Grim Reaper
 ---
 
-The **_Grim Reaper_** was an [**AI**]({{< ref "/categories/" >}}NPC-Ships) boss from the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017). 
+{{< shipInfobox >}} {{< notices/npcShip >}} The **_Grim Reaper_** was an [**AI**]({{< ref "/categories/" >}}NPC-Ships) boss from the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017). 
 
 ## Description
 

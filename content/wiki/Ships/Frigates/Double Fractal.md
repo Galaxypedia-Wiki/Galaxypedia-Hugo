@@ -9,7 +9,7 @@ categories:
 title: Double Fractal
 ---
 
-The **_Double Fractal_** is [**Frigate**]({{< ref "/categories/" >}}Frigates) which is part of the second stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Double Fractal_** is [**Frigate**]({{< ref "/categories/" >}}Frigates) which is part of the second stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019). 
 
 ## Description
 

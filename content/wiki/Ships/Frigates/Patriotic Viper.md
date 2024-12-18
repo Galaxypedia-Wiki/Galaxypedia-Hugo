@@ -13,7 +13,7 @@ categories:
 title: Patriotic Viper
 ---
 
-The **_Patriotic Viper_** is a **[Limited]({{< ref "/categories/" >}}Limited-Ships)** 4th of July reskin of the [Frigate-class]({{< ref "/categories/" >}}Frigates) [Viper]({{< ref "/wiki/" >}}Viper).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic Viper_** is a **[Limited]({{< ref "/categories/" >}}Limited-Ships)** 4th of July reskin of the [Frigate-class]({{< ref "/categories/" >}}Frigates) [Viper]({{< ref "/wiki/" >}}Viper).
 
 ## Description
 

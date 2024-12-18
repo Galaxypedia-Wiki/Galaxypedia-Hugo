@@ -11,7 +11,7 @@ categories:
 title: Dire Wolf
 ---
 
-The **_Dire Wolf_** is a classic **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** with high [Turret]({{< ref "/wiki/" >}}Turrets) firepower.
+{{< shipInfobox >}} The **_Dire Wolf_** is a classic **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** with high [Turret]({{< ref "/wiki/" >}}Turrets) firepower.
 
 ## Description
 

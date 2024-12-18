@@ -9,7 +9,7 @@ categories:
 title: Kneall Prototype
 ---
 
-_This article describes the former NPC Boss ship. For the Player-owned vessel with an almost identical appearance, see [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2)_
+{{< shipInfobox >}} {{< notices/npcShip >}} _This article describes the former NPC Boss ship. For the Player-owned vessel with an almost identical appearance, see [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2)_
 
 The **_Kneall Prototype_** is an [**Alien**]({{< ref "/categories/" >}}Alien-Ships-and-Stations) AI ship and is part of the [Kneall]({{< ref "/wiki/" >}}Kneall) Fleet.
 

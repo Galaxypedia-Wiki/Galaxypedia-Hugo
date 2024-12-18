@@ -10,7 +10,7 @@ categories:
 title: Lich
 ---
 
-The **_Lich_** is a hull-shredding [**Destroyer**]({{< ref "/categories/" >}}Destroyers) with a lack in maneuverability. 
+{{< shipInfobox >}} The **_Lich_** is a hull-shredding [**Destroyer**]({{< ref "/categories/" >}}Destroyers) with a lack in maneuverability. 
 
 ## Description
 

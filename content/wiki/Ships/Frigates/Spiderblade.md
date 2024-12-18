@@ -14,7 +14,7 @@ categories:
 title: Spiderblade
 ---
 
-The **_Spiderblade_** is an old, redesigned version of the original [Starblade]({{< ref "/wiki/" >}}Starblade) made for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Spiderblade_** is an old, redesigned version of the original [Starblade]({{< ref "/wiki/" >}}Starblade) made for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
 
 **_Not to be confused with the normally buildable [Spider]({{< ref "/wiki/" >}}Spider) [Frigate]({{< ref "/categories/" >}}Frigates)-Class Ship_.** 
 

@@ -8,7 +8,7 @@ categories:
 title: MLMLRS
 ---
 
-The **_MLMLRS_** is a joke [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) released during the [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_MLMLRS_** is a joke [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) released during the [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022). 
 
 ## Description
 

@@ -7,7 +7,7 @@ categories:
 title: Uwu wet-chan wiww you let us devs have some mowe pewmissions_ OwO plz
 ---
 
-...There isn't much to say about the **Uwu rcouwet-chan wiww you let us devs have some mowe pewmissions? OwO plz**, other than it has a very, _very_ peculiar name; as well as it being an [Admin]({{< ref "/categories/" >}}Admin-Ships)-class ship.  ![Picture taken of Galaxy Admin DylanTheVillain101's
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/outdatedInfo >}} {{< notices/adminShip >}} ...There isn't much to say about the **Uwu rcouwet-chan wiww you let us devs have some mowe pewmissions? OwO plz**, other than it has a very, _very_ peculiar name; as well as it being an [Admin]({{< ref "/categories/" >}}Admin-Ships)-class ship.  ![Picture taken of Galaxy Admin DylanTheVillain101's
 inventory|left](Untitleddadad.png "Picture taken of Galaxy Admin DylanTheVillain101's inventory|left")
 
 ## Description

@@ -13,7 +13,7 @@ categories:
 title: Widowmaker
 ---
 
-_This article describes the player vessel. To see the NPC counterpart, see [Hearteater]({{< ref "/wiki/" >}}Hearteater)._ The **Widowmaker** is a [Battleship]({{< ref "/categories/" >}}Battleships) released on February 14th, 2022; during the Valentine's Day 2022 Event. 
+{{< shipInfobox >}} {{< notices/limitedShip >}} _This article describes the player vessel. To see the NPC counterpart, see [Hearteater]({{< ref "/wiki/" >}}Hearteater)._ The **Widowmaker** is a [Battleship]({{< ref "/categories/" >}}Battleships) released on February 14th, 2022; during the Valentine's Day 2022 Event. 
 
 ## Description
 

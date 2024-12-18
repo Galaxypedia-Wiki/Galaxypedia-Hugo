@@ -11,7 +11,7 @@ categories:
 title: Sturm
 ---
 
-The **_Sturm_** is a fast PVP **[Battlecruiser]({{< ref "/wiki/" >}}:category:battlecruiser)**. 
+{{< shipInfobox >}} {{< notices/outdatedInfo >}} The **_Sturm_** is a fast PVP **[Battlecruiser]({{< ref "/wiki/" >}}:category:battlecruiser)**. 
 
 ## Description
 

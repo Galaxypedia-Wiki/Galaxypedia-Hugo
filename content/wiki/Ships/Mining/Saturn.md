@@ -8,7 +8,7 @@ categories:
 title: Saturn
 ---
 
-The **_Saturn_** is an affordable **[Miner]({{< ref "/categories/" >}}Mining-Ships)** class ship with two [Medium Mining Lasers]({{< ref "/wiki/" >}}Turrets). 
+{{< shipInfobox >}} The **_Saturn_** is an affordable **[Miner]({{< ref "/categories/" >}}Mining-Ships)** class ship with two [Medium Mining Lasers]({{< ref "/wiki/" >}}Turrets). 
 
 ## Description
 

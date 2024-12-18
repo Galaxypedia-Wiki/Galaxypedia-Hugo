@@ -12,7 +12,7 @@ categories:
 title: Freedom General
 ---
 
-The **_Freedom General_** is an agile PvP event **[Battleship.]({{< ref "/categories/" >}}Battleships)** 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Freedom General_** is an agile PvP event **[Battleship.]({{< ref "/categories/" >}}Battleships)** 
 
 ## Description
 

@@ -13,7 +13,7 @@ categories:
 title: Jackal
 ---
 
-The **_Jackal_**is a powerful [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Battleship.**]({{< ref "/categories/" >}}Battleships)
+{{< shipInfobox >}} The **_Jackal_**is a powerful [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Battleship.**]({{< ref "/categories/" >}}Battleships)
 
 ## Description
 

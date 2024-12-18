@@ -8,7 +8,7 @@ categories:
 title: Firehawk
 ---
 
-The **_Firehawk_** is a powerful fighter found in the [Sakala]({{< ref "/wiki/" >}}Sakala).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Firehawk_** is a powerful fighter found in the [Sakala]({{< ref "/wiki/" >}}Sakala).
 
 ## Description
 

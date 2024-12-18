@@ -7,7 +7,7 @@ categories:
 title: Tyrant
 ---
 
-The **_Tyrant_** was a planned Super Capital ship planned to release during Beta. However, it was deemed to be way too overpowered and ended up being scrapped.
+{{< shipInfobox >}} The **_Tyrant_** was a planned Super Capital ship planned to release during Beta. However, it was deemed to be way too overpowered and ended up being scrapped.
 
 ## Description
 

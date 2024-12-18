@@ -9,7 +9,7 @@ categories:
 title: Inquisitor
 ---
 
-The **_Inquisitor_**is a balanced **[Cruiser]({{< ref "/categories/" >}}Cruisers)** with good firepower and a low cost. 
+{{< shipInfobox >}} The **_Inquisitor_**is a balanced **[Cruiser]({{< ref "/categories/" >}}Cruisers)** with good firepower and a low cost. 
 
 ## Description
 

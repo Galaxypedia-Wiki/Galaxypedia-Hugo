@@ -10,7 +10,7 @@ categories:
 title: Stimulant Grievion
 ---
 
-The **Stimulant Grievion** is an [**AI**]({{< ref "/categories/" >}}NPC-Ships) [Battleship]({{< ref "/categories/" >}}Battleships) that spawned during the duration of the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022)
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **Stimulant Grievion** is an [**AI**]({{< ref "/categories/" >}}NPC-Ships) [Battleship]({{< ref "/categories/" >}}Battleships) that spawned during the duration of the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022)
 
 ## Description
 

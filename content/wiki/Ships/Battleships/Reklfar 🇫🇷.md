@@ -9,7 +9,7 @@ categories:
 title: Reklfar 🇫🇷
 ---
 
-The **_Reklfar 🇫🇷_** is a joke [Battleship]({{< ref "/categories/" >}}Battleships) added on the 14th of October 2022, the birthday of Rekuri, a Galaxy Developer.
+{{< shipInfobox >}} The **_Reklfar 🇫🇷_** is a joke [Battleship]({{< ref "/categories/" >}}Battleships) added on the 14th of October 2022, the birthday of Rekuri, a Galaxy Developer.
 
 ## Description
 

@@ -9,7 +9,7 @@ categories:
 title: Devastator
 ---
 
-## Description
+{{< shipInfobox >}} {{< notices/outdatedInfo >}} ## Description
 
 The **_Devastator_** is a [Starbase]({{< ref "/wiki/" >}}Starbase) affiliated with the [Kneall]({{< ref "/wiki/" >}}Aliens) added in the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event). It is the strongest [Starbase]({{< ref "/wiki/" >}}Starbase) to date, formerly [Mothership]({{< ref "/wiki/" >}}Mothership). It has a total of 65,000 health. Taking it head on is a guaranteed death sentence as it's overwhelming turret firepower **will** gun you down no matter if you're a Small [Frigate]({{< ref "/categories/" >}}Frigates) or a large Capital ship and it regularly spawns large alien fleets, making it risky to siege the base unless you have an powerful siege fleet with multiple [Carriers]({{< ref "/categories/" >}}Carriers) and/or [Super Capital Ships]({{< ref "/categories/" >}}Super-Capital-Ships).
 

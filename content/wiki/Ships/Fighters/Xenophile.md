@@ -8,7 +8,7 @@ categories:
 title: Xenophile
 ---
 
-The **_Xenophile_** is a very fast but fragile **[Fighter]({{< ref "/categories/" >}}Fighters)**, being one of the 3 fighters to spawn in [Frion]({{< ref "/wiki/" >}}Frion), the others being the [Striker]({{< ref "/wiki/" >}}Striker) and [Nighthawk]({{< ref "/wiki/" >}}Nighthawk).
+{{< shipInfobox >}} The **_Xenophile_** is a very fast but fragile **[Fighter]({{< ref "/categories/" >}}Fighters)**, being one of the 3 fighters to spawn in [Frion]({{< ref "/wiki/" >}}Frion), the others being the [Striker]({{< ref "/wiki/" >}}Striker) and [Nighthawk]({{< ref "/wiki/" >}}Nighthawk).
 
 ## Description
 

@@ -10,7 +10,7 @@ categories:
 title: Armageddon
 ---
 
-The **_Armageddon_** is a hull-focused [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) with powerful weaponry but low maneuverability. 
+{{< shipInfobox >}} The **_Armageddon_** is a hull-focused [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) with powerful weaponry but low maneuverability. 
 
 ## Description
 

@@ -8,7 +8,7 @@ categories:
 title: Rogue Arctic Wasteland
 ---
 
-## Description
+{{< shipInfobox >}} {{< notices/npcShip >}} ## Description
 
 The **_Rogue Arctic Wasteland_** is a Pirate **[AI]({{< ref "/categories/" >}}NPC-Ships) [Dreadnought]({{< ref "/categories/" >}}Dreadnoughts)** reskin of the [Apocalypse]({{< ref "/wiki/" >}}Apocalypse) for the [Galaxy Fourth Of July 2021 Event]({{< ref "/categories/" >}}Fourth-of-July-2021).
 

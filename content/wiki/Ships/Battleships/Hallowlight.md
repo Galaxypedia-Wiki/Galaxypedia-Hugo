@@ -13,7 +13,7 @@ categories:
 title: Hallowlight
 ---
 
-The **Hallowlight**is a redesigned version of the [Hawklight]({{< ref "/wiki/" >}}Hawklight) added for the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **Hallowlight**is a redesigned version of the [Hawklight]({{< ref "/wiki/" >}}Hawklight) added for the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018).
 
 ## Description
 

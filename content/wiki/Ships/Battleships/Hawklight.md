@@ -12,7 +12,7 @@ categories:
 title: Hawklight
 ---
 
-The **_Hawklight_** is generally considered to be one of the strongest [**Battleships**]({{< ref "/categories/" >}}Battleships) in Galaxy, especially as a PvP ship.
+{{< shipInfobox >}} The **_Hawklight_** is generally considered to be one of the strongest [**Battleships**]({{< ref "/categories/" >}}Battleships) in Galaxy, especially as a PvP ship.
 
 ## Description
 

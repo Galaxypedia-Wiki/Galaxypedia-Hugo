@@ -10,7 +10,7 @@ categories:
 title: A - Bruiser
 ---
 
-_This article describes the fighter, not an actual NPC vessel. For the NPC with the same model, see [Bruiser]({{< ref "/wiki/" >}}Bruiser)._
+{{< shipInfobox >}} _This article describes the fighter, not an actual NPC vessel. For the NPC with the same model, see [Bruiser]({{< ref "/wiki/" >}}Bruiser)._
 
 The **_A - Bruiser_** is an Alien-themed Fighter that spawns in the [Annihilator]({{< ref "/wiki/" >}}Annihilator).
 

@@ -8,7 +8,7 @@ categories:
 title: Starbase Fury
 ---
 
-The **_Starbase Fury_** is a more powerful variant of the [Fury]({{< ref "/wiki/" >}}Fury) [**Fighter**]({{< ref "/categories/" >}}Fighters) found only in Starbases.
+{{< shipInfobox >}} The **_Starbase Fury_** is a more powerful variant of the [Fury]({{< ref "/wiki/" >}}Fury) [**Fighter**]({{< ref "/categories/" >}}Fighters) found only in Starbases.
 
 ## Description
 

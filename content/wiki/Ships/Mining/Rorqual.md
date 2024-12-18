@@ -7,7 +7,7 @@ categories:
 title: Rorqual
 ---
 
-The **_Rorqual_** is a popular **[Miner]({{< ref "/categories/" >}}Mining-Ships)**-Class ship commonly seen in Galaxy.
+{{< shipInfobox >}} The **_Rorqual_** is a popular **[Miner]({{< ref "/categories/" >}}Mining-Ships)**-Class ship commonly seen in Galaxy.
 
 ## Description
 

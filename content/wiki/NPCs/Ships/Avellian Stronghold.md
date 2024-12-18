@@ -9,7 +9,7 @@ categories:
 title: Avellian Stronghold
 ---
 
-## **Description**
+{{< notices/npcShip >}} ## **Description**
 
 ![]({{< ref "/wiki/" >}}Avellian-Stronghold-icon.png-"Avellian-Stronghold-icon.png") The **Avellian Starbase** (also known as the **Stronghold**) is a randomly spawning alien starbase added during the [Christmas 2021]({{< ref "/wiki/" >}}Christmas-Event-2021) event. The base has 22,500 Shield and 27,500 Hull, and is protected by periodically respawning Alien ODP (Orbital Defense Platforms) and has heavy defenses. Its range is approximately 7,200 studs, and has an unconfirmed DPS of 990. Many details are unknown of this object, but is confirmed to drop **Blueprints** when destroyed (along with other materials). When destroyed, it will explode, dealing damage to anything within an approximate 20k radius, the equivalent of the Mothership's explosion. This nuke is powerful enough to destroy battleships, and is more than capable of bringing a full health Prometheus to less than 5k HP left.
 

@@ -7,7 +7,7 @@ categories:
 title: Prepravca
 ---
 
-The **_Prepravca_** is the third largest buildable **[Freighter]({{< ref "/categories/" >}}Freighters)** in the game behind the [Constellation]({{< ref "/wiki/" >}}Constellation) and the [E Class]({{< ref "/wiki/" >}}E-Class).
+{{< shipInfobox >}} The **_Prepravca_** is the third largest buildable **[Freighter]({{< ref "/categories/" >}}Freighters)** in the game behind the [Constellation]({{< ref "/wiki/" >}}Constellation) and the [E Class]({{< ref "/wiki/" >}}E-Class).
 
 ## Description
 

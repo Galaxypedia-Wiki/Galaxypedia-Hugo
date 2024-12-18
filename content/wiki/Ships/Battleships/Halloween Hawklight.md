@@ -15,7 +15,7 @@ categories:
 title: Halloween Hawklight
 ---
 
-The **_Halloween Hawklight_** was a limited time change to the [Hawklight]({{< ref "/wiki/" >}}Hawklight) to celebrate the [Halloween Event 2016]({{< ref "/wiki/" >}}Halloween-Event-2016). 
+{{< shipInfobox >}} The **_Halloween Hawklight_** was a limited time change to the [Hawklight]({{< ref "/wiki/" >}}Hawklight) to celebrate the [Halloween Event 2016]({{< ref "/wiki/" >}}Halloween-Event-2016). 
 
 ##  Description
 

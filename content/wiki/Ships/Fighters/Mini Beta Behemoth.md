@@ -7,7 +7,7 @@ categories:
 title: Mini Beta Behemoth
 ---
 
-The **_Mini Alpha Behemoth_** is a [Fighter-class]({{< ref "/categories/" >}}Fighters) ship found in the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship).
+{{< shipInfobox >}} The **_Mini Alpha Behemoth_** is a [Fighter-class]({{< ref "/categories/" >}}Fighters) ship found in the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship).
 
 ## Description
 

@@ -6,7 +6,7 @@ categories:
 title: Nuking
 ---
 
-If you haven't already seen the summary of this strategy on the [Strategies]({{< ref "/wiki/" >}}Strategies) page, please click [here]({{< ref "/wiki/" >}}Strategies#Nuking). In short: **Nuking** is the act of purposefully using ships with high explosion values to destroy the ship, and to use the nuke upon ship explosion to try to take other ships with you.
+{{< notices/outdatedInfo >}} If you haven't already seen the summary of this strategy on the [Strategies]({{< ref "/wiki/" >}}Strategies) page, please click [here]({{< ref "/wiki/" >}}Strategies#Nuking). In short: **Nuking** is the act of purposefully using ships with high explosion values to destroy the ship, and to use the nuke upon ship explosion to try to take other ships with you.
 
 ### Nuking Damage Mechanics 
 

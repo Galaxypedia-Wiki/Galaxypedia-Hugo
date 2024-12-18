@@ -8,7 +8,7 @@ categories:
 title: Sin
 ---
 
-The **_Sin_** is a [**Fighter**]({{< ref "/categories/" >}}Fighters) unique to the [Halkaryak]({{< ref "/wiki/" >}}Halkaryak) 
+{{< shipInfobox >}} The **_Sin_** is a [**Fighter**]({{< ref "/categories/" >}}Fighters) unique to the [Halkaryak]({{< ref "/wiki/" >}}Halkaryak) 
 
 ## Description
 

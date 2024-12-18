@@ -8,7 +8,7 @@ categories:
 title: 2022 Ship (soup gon edition)
 ---
 
-The **_2022 Ship_** is a limited [**Cruiser**]({{< ref "/categories/" >}}Cruisers) released during the [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_2022 Ship_** is a limited [**Cruiser**]({{< ref "/categories/" >}}Cruisers) released during the [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
 ## Description
 

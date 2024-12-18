@@ -11,7 +11,7 @@ categories:
 title: Bastion
 ---
 
-The **_Bastion_** is a **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** with lots of [Turret]({{< ref "/wiki/" >}}Turrets) firepower and health.
+{{< shipInfobox >}} The **_Bastion_** is a **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** with lots of [Turret]({{< ref "/wiki/" >}}Turrets) firepower and health.
 
 ## Description
 

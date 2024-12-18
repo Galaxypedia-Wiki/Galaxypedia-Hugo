@@ -9,7 +9,7 @@ categories:
 title: Thubjugator
 ---
 
-<div class="TemplateRevision" style="margin-bottom: 18px; border: 1px solid #171818; border-radius: 10px">
+{{< shipInfobox >}} <div class="TemplateRevision" style="margin-bottom: 18px; border: 1px solid #171818; border-radius: 10px">
 <div class="container" style="display: block; border-color: #3FFF00; border-radius: 10px">
 
 Super Capital Ship

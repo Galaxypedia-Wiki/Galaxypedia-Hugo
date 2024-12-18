@@ -8,7 +8,7 @@ categories:
 title: Mammoth
 ---
 
-The **_Mammoth_** is one of the only VIP [**Miners**]({{< ref "/categories/" >}}Mining-Ships) in the game. It is an experimental extension of the Rorqual, according to its description.
+{{< shipInfobox >}} {{< notices/vipShip >}} The **_Mammoth_** is one of the only VIP [**Miners**]({{< ref "/categories/" >}}Mining-Ships) in the game. It is an experimental extension of the Rorqual, according to its description.
 
 ## Description
 

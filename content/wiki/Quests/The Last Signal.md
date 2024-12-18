@@ -7,7 +7,7 @@ categories:
 title: The Last Signal
 ---
 
-**_The Last Signal_** is a quest NPC first implemented alongside [The Nautilus]({{< ref "/wiki/" >}}Nautilus) Wreck to give players the Kneall Core. 
+{{< notices/removed >}} **_The Last Signal_** is a quest NPC first implemented alongside [The Nautilus]({{< ref "/wiki/" >}}Nautilus) Wreck to give players the Kneall Core. 
 
 ## Description
 

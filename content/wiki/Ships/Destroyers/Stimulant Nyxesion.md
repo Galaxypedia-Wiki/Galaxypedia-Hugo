@@ -9,7 +9,7 @@ categories:
 title: Stimulant Nyxesion
 ---
 
-The **Stimulant Nyxesion** is an [**AI**]({{< ref "/categories/" >}}NPC-Ships) [Destroyer]({{< ref "/categories/" >}}Destroyers) that spawned during the duration of the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022).
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **Stimulant Nyxesion** is an [**AI**]({{< ref "/categories/" >}}NPC-Ships) [Destroyer]({{< ref "/categories/" >}}Destroyers) that spawned during the duration of the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022).
 
 ## Description
 

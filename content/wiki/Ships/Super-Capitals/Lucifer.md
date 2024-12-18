@@ -11,7 +11,7 @@ categories:
 title: Lucifer
 ---
 
-**_Lucifer_** is a [Super Capital ship]({{< ref "/categories/" >}}Super-Capital-Ships) that is part of the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019).
+{{< shipInfobox >}} {{< notices/superCapitalShip >}} {{< notices/limitedShip >}} **_Lucifer_** is a [Super Capital ship]({{< ref "/categories/" >}}Super-Capital-Ships) that is part of the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019).
 
 ## Description
 

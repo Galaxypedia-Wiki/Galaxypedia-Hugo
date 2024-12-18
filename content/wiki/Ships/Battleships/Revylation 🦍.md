@@ -7,7 +7,7 @@ categories:
 title: Revylation 🦍
 ---
 
-_This page is about the Battleship. If you're looking for the Carrier, see [Revelation]({{< ref "/wiki/" >}}Revelation)._
+{{< shipInfobox >}} _This page is about the Battleship. If you're looking for the Carrier, see [Revelation]({{< ref "/wiki/" >}}Revelation)._
 
 ## Description
 

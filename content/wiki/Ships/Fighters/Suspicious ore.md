@@ -7,7 +7,7 @@ categories:
 title: Suspicious ore
 ---
 
-The **_Suspicious ore_** is an unimplemented [**Fighter**]({{< ref "/categories/" >}}Fighters) with an unknown purpose.
+{{< shipInfobox >}} {{< notices/underConstruction >}} The **_Suspicious ore_** is an unimplemented [**Fighter**]({{< ref "/categories/" >}}Fighters) with an unknown purpose.
 
 ## Description
 

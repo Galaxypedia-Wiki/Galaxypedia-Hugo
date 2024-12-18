@@ -6,7 +6,7 @@ categories:
 title: Trading
 ---
 
-<div class="cardcontainer" style="font-size: 15px; line-height: 24px;" align="justify">
+{{< notices/outdatedInfo >}} <div class="cardcontainer" style="font-size: 15px; line-height: 24px;" align="justify">
 # Trading Overview
 
 ###### _See the [Money Making]({{< ref "/wiki/" >}}Money-Making) page for more strategies on gaining credits_

@@ -11,7 +11,7 @@ categories:
 title: Kodiak
 ---
 
-The Kodiak is a [Pirate]({{< ref "/wiki/" >}}Pirates) [AI]({{< ref "/categories/" >}}NPC-Ships) [Super Capital Ship]({{< ref "/categories/" >}}Super-Capital-Ships) that has an extremely high firepower.
+{{< shipInfobox >}} {{< notices/npcShip >}} The Kodiak is a [Pirate]({{< ref "/wiki/" >}}Pirates) [AI]({{< ref "/categories/" >}}NPC-Ships) [Super Capital Ship]({{< ref "/categories/" >}}Super-Capital-Ships) that has an extremely high firepower.
 
 ## Appearance
 

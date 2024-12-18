@@ -9,7 +9,7 @@ categories:
 title: Pleb's Kodiak
 ---
 
-The **_Pleb's Kodiak_** is an **[Alien]({{< ref "/wiki/" >}}Aliens) [AI]({{< ref "/categories/" >}}NPC-Ships)** ship that mimics the [Kodiak]({{< ref "/wiki/" >}}Kodiak). It can only be spawned by an admin. 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **_Pleb's Kodiak_** is an **[Alien]({{< ref "/wiki/" >}}Aliens) [AI]({{< ref "/categories/" >}}NPC-Ships)** ship that mimics the [Kodiak]({{< ref "/wiki/" >}}Kodiak). It can only be spawned by an admin. 
 
 ## Description
 

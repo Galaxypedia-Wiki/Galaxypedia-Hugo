@@ -11,7 +11,7 @@ categories:
 title: Santa's Workshop
 ---
 
-The **_Santa's Workshop_** is a large reskin of the [**Miner-class**]({{< ref "/categories/" >}}Mining-Ships) [M Class]({{< ref "/wiki/" >}}M-Class) added during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Santa's Workshop_** is a large reskin of the [**Miner-class**]({{< ref "/categories/" >}}Mining-Ships) [M Class]({{< ref "/wiki/" >}}M-Class) added during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020). 
 
 ## Description
 

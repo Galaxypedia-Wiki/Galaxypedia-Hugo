@@ -8,7 +8,7 @@ categories:
 title: Galaxy (ship)
 ---
 
-The**_Galaxy_** is a VIP **[Miner-]({{< ref "/categories/" >}}Mining-Ships)[class]({{< ref "/categories/" >}}Mining-Ships)** ship and the 4th best of its class (It be obtained without VIP via a [Harbourmaster]({{< ref "/wiki/" >}}Harbourmaster)). It is the best non-limited miner in the game.
+{{< shipInfobox >}} The**_Galaxy_** is a VIP **[Miner-]({{< ref "/categories/" >}}Mining-Ships)[class]({{< ref "/categories/" >}}Mining-Ships)** ship and the 4th best of its class (It be obtained without VIP via a [Harbourmaster]({{< ref "/wiki/" >}}Harbourmaster)). It is the best non-limited miner in the game.
 
 ## Description
 

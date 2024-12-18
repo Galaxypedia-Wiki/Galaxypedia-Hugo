@@ -9,7 +9,7 @@ categories:
 title: Obamasphere
 ---
 
-The **_obamasphere_** is a **[Frigate]({{< ref "/categories/" >}}Frigates)** from the [**Fourth of July 2021**]({{< ref "/categories/" >}}Fourth-of-July-2021) event.
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_obamasphere_** is a **[Frigate]({{< ref "/categories/" >}}Frigates)** from the [**Fourth of July 2021**]({{< ref "/categories/" >}}Fourth-of-July-2021) event.
 
 ## Description
 

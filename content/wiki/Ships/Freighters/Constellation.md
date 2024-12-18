@@ -8,7 +8,7 @@ categories:
 title: Constellation
 ---
 
-The **_Constellation_** is a medium sized [**Freighter**]({{< ref "/categories/" >}}Freighters)-class ship. It formerly had no armament, due to the removal of all armaments from armed freighters (except [Carvainir]({{< ref "/wiki/" >}}Carvainir), which was moved to [Battleship]({{< ref "/categories/" >}}Battleships)). 
+{{< shipInfobox >}} {{< notices/vipShip >}} The **_Constellation_** is a medium sized [**Freighter**]({{< ref "/categories/" >}}Freighters)-class ship. It formerly had no armament, due to the removal of all armaments from armed freighters (except [Carvainir]({{< ref "/wiki/" >}}Carvainir), which was moved to [Battleship]({{< ref "/categories/" >}}Battleships)). 
 
 ## Description
 

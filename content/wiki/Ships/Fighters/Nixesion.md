@@ -9,7 +9,7 @@ categories:
 title: Nixesion
 ---
 
-_Not to be confused with the [Nyxesion]({{< ref "/wiki/" >}}Nyxesion), a fighter from the [Retro Nyx]({{< ref "/wiki/" >}}Retro-Nyx)._
+{{< shipInfobox >}} _Not to be confused with the [Nyxesion]({{< ref "/wiki/" >}}Nyxesion), a fighter from the [Retro Nyx]({{< ref "/wiki/" >}}Retro-Nyx)._
 
 The **_Nixesion_** is a powerful **[Fighter]({{< ref "/categories/" >}}Fighters)** designed specifically for the [Nyx]({{< ref "/wiki/" >}}Nyx).
 

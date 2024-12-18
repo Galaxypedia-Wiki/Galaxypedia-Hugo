@@ -11,7 +11,7 @@ categories:
 title: Revelation
 ---
 
-The **_Revelation_** is a heavily armed [**Carrier**]({{< ref "/categories/" >}}Carriers). 
+{{< shipInfobox >}} The **_Revelation_** is a heavily armed [**Carrier**]({{< ref "/categories/" >}}Carriers). 
 
 ## Description
 

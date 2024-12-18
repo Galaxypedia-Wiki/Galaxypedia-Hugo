@@ -4,7 +4,7 @@ aliases:
 title: Santa's Stronghold
 ---
 
-The **Santa's stronghold** is a strong [Starbase]({{< ref "/wiki/" >}}Starbase) filled with a large amount of [Turrets]({{< ref "/wiki/" >}}Turrets), this was used for the [Christmas Event 2020]({{< ref "/wiki/" >}}Christmas-Event-2020).
+{{< shipInfobox >}} {{< notices/underConstruction >}} The **Santa's stronghold** is a strong [Starbase]({{< ref "/wiki/" >}}Starbase) filled with a large amount of [Turrets]({{< ref "/wiki/" >}}Turrets), this was used for the [Christmas Event 2020]({{< ref "/wiki/" >}}Christmas-Event-2020).
 
 ## Discription:
 

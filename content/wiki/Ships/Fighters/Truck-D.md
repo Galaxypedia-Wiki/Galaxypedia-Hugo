@@ -7,7 +7,7 @@ categories:
 title: Truck-D
 ---
 
-The **Truck-D** is a [Fighter]({{< ref "/categories/" >}}Fighters) found on [Pyramus]({{< ref "/wiki/" >}}Pyramus) that can do ridiculous damage.
+{{< shipInfobox >}} The **Truck-D** is a [Fighter]({{< ref "/categories/" >}}Fighters) found on [Pyramus]({{< ref "/wiki/" >}}Pyramus) that can do ridiculous damage.
 
 ## Description
 

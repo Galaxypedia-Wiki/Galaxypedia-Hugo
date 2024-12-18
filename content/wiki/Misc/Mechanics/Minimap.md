@@ -6,7 +6,7 @@ categories:
 title: Minimap
 ---
 
-## Description
+{{< notices/outdatedInfo >}} ## Description
 
 The **Minimap** is the main method of determining the enemy fleet size, location and faction power at a glance. There are different symbols for each type of ship, allowing you to quickly determine what an enemy has and where they are. It is also used so you know where your own ship is on the map. When you start to move outside the **Minimap**, your warp will stop, however, there is no border to the galaxy. The **Minimap** can be enlarged.
 

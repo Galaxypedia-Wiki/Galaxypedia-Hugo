@@ -10,7 +10,7 @@ categories:
 title: Prometheus
 ---
 
-The **_Prometheus_** is a Super-[**Carrier**]({{< ref "/categories/" >}}Carriers), known for its devastating [Nuke]({{< ref "/wiki/" >}}Nuking) and 4 powerful [Fighters]({{< ref "/categories/" >}}Fighters).
+{{< shipInfobox >}} The **_Prometheus_** is a Super-[**Carrier**]({{< ref "/categories/" >}}Carriers), known for its devastating [Nuke]({{< ref "/wiki/" >}}Nuking) and 4 powerful [Fighters]({{< ref "/categories/" >}}Fighters).
 
 ## Description 
 

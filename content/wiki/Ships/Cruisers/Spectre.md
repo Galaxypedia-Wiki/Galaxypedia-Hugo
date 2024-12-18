@@ -11,7 +11,7 @@ categories:
 title: Spectre
 ---
 
-The **_Spectre_** is a [Cruiser]({{< ref "/categories/" >}}Cruisers)-class ship with powerful [Spinals]({{< ref "/wiki/" >}}Spinals).
+{{< shipInfobox >}} The **_Spectre_** is a [Cruiser]({{< ref "/categories/" >}}Cruisers)-class ship with powerful [Spinals]({{< ref "/wiki/" >}}Spinals).
 
 ## Description
 

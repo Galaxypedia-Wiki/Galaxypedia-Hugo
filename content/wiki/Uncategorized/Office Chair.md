@@ -6,7 +6,7 @@ categories:
 title: Office Chair
 ---
 
-The **Office Chair** is an [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ship created by smallketchup82. 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **Office Chair** is an [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ship created by smallketchup82. 
 
 ## Description
 

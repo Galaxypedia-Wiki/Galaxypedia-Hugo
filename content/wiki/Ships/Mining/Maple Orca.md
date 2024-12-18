@@ -10,7 +10,7 @@ categories:
 title: Maple Orca
 ---
 
-h
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} h
 
 The **Maple Orca** is a Limited Reskin of the [Orca]({{< ref "/wiki/" >}}Orca) 
 

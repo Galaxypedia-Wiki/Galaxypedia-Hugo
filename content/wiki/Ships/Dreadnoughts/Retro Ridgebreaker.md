@@ -14,7 +14,7 @@ categories:
 title: Retro Ridgebreaker
 ---
 
-## Summary
+{{< shipInfobox >}} {{< notices/limitedShip >}} ## Summary
 
 The **Retro Ridgebreaker** is a **[limited-edition]({{< ref "/categories/" >}}Limited-Ships)** of the [Ridgebreaker]({{< ref "/wiki/" >}}Ridgebreaker) that features its original model and armament. Compared to its counterpart, it features extensive armament upgrades, slightly improved agility, and greatly improved durability. The ship has extremely high kinetic firepower as a result (more so than the vast majority of existing [super capitals]({{< ref "/categories/" >}}Super-Capital-Ships) and the highest of all [dreadnoughts]({{< ref "/categories/" >}}Dreadnoughts)), allowing it to quickly shred the [hull]({{< ref "/wiki/" >}}Hull) health of unshielded [capital ships]({{< ref "/categories/" >}}Capital-Ships), and destroy them. It is best used in assisting organized fleet assaults for targeting high-value, difficult to destroy capital ships, and [sieging]({{< ref "/wiki/" >}}Sieging) weakened and/or unshielded bases.
 

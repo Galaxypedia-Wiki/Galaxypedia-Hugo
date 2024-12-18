@@ -8,7 +8,7 @@ categories:
 title: Orion-X
 ---
 
-_This article describes the NPC ship. for the player-obtainable vessel, see [Orion]({{< ref "/wiki/" >}}Orion)._
+{{< shipInfobox >}} {{< notices/npcShip >}} _This article describes the NPC ship. for the player-obtainable vessel, see [Orion]({{< ref "/wiki/" >}}Orion)._
 
 The **_Orion-X_** is a mid size [U.N.E]({{< ref "/wiki/" >}}U.N.E) ship.
 

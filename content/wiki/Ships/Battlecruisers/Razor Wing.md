@@ -11,7 +11,7 @@ categories:
 title: Razor Wing
 ---
 
-The **_Razor Wing_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-oriented [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) well known for its ability to "tackle" larger ships.
+{{< shipInfobox >}} The **_Razor Wing_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-oriented [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) well known for its ability to "tackle" larger ships.
 
 ## Description
 

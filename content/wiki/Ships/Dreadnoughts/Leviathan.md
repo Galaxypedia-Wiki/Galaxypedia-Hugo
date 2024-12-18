@@ -12,7 +12,7 @@ categories:
 title: Leviathan
 ---
 
-The **_Leviathan_** is a **[Dreadnought]({{< ref "/categories/" >}}Dreadnoughts)** class ship, the first of its kind to be added to Galaxy.
+{{< shipInfobox >}} The **_Leviathan_** is a **[Dreadnought]({{< ref "/categories/" >}}Dreadnoughts)** class ship, the first of its kind to be added to Galaxy.
 
 ## Description
 

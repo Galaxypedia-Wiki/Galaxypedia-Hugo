@@ -12,7 +12,7 @@ categories:
 title: Andromeda
 ---
 
-The **_Andromeda_** is the first [Spinal]({{< ref "/wiki/" >}}Spinals)-based [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts). 
+{{< shipInfobox >}} {{< notices/vipShip >}} The **_Andromeda_** is the first [Spinal]({{< ref "/wiki/" >}}Spinals)-based [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts). 
 
 ## Description
 

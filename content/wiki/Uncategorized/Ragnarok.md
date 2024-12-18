@@ -4,7 +4,7 @@ aliases:
 title: Ragnarok
 ---
 
-## Description
+{{< shipInfobox >}} ## Description
 
 The **_Ragnarok_** was a canceled Titan-Class ship.
 

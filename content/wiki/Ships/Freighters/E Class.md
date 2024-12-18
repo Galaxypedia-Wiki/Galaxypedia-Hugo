@@ -7,7 +7,7 @@ categories:
 title: E Class
 ---
 
-The **_E Class_** is currently the largest**[Freighter]({{< ref "/categories/" >}}Freighters) **in the game. 
+{{< shipInfobox >}} The **_E Class_** is currently the largest**[Freighter]({{< ref "/categories/" >}}Freighters) **in the game. 
 
 ## Description
 

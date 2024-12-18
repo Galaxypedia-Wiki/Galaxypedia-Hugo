@@ -12,7 +12,7 @@ categories:
 title: Lykos
 ---
 
-The **_Lykos_** is a **[Carrier]({{< ref "/categories/" >}}Carriers)** which was going to be awarded to the first-place winner of the [Galaxy Tournament](https://challonge.com/GalaxyAT).
+{{< shipInfobox >}} The **_Lykos_** is a **[Carrier]({{< ref "/categories/" >}}Carriers)** which was going to be awarded to the first-place winner of the [Galaxy Tournament](https://challonge.com/GalaxyAT).
 
 ## Description
 

@@ -13,7 +13,7 @@ categories:
 title: Harvest King
 ---
 
-## Description
+{{< shipInfobox >}} {{< notices/npcShip >}} ## Description
 
 The **_Harvest King_** was a Boss [NPC]({{< ref "/categories/" >}}NPCS) ship added during the [2018 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2018). It was MUCH more powerful than the infamous [Grim Reaper]({{< ref "/wiki/" >}}Grim-Reaper) featured in 2017's Halloween event. It featured powerful [Turrets]({{< ref "/wiki/" >}}Turrets) not found on any other ship called [Harvest Super Lasers]({{< ref "/wiki/" >}}Turrets). It also featured [Turrets]({{< ref "/wiki/" >}}Turrets) with high rates of fire like those found on the [Alien Harvest Servitors]({{< ref "/wiki/" >}}Alien-Harvest-Servitor).
 

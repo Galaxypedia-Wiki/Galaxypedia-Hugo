@@ -10,7 +10,7 @@ categories:
 title: 3D Printed Wasp
 ---
 
-The **_3D Printed Wasp_** is a [**Limited ship**]({{< ref "/categories/" >}}Limited-Ships) which was available during the April Fool's 2020 Event.
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_3D Printed Wasp_** is a [**Limited ship**]({{< ref "/categories/" >}}Limited-Ships) which was available during the April Fool's 2020 Event.
 
 ## Description
 

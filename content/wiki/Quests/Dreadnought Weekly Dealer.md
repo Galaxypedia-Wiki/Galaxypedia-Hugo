@@ -6,7 +6,7 @@ categories:
 title: Dreadnought Weekly Dealer
 ---
 
-![]({{< ref "/wiki/" >}}Dreadweeklydealer.png-"Dreadweeklydealer.png") The Dreadnought Weekly Dealer (Shadiris) is ship dealer added on June 7 2022
+{{< notices/removed >}} ![]({{< ref "/wiki/" >}}Dreadweeklydealer.png-"Dreadweeklydealer.png") The Dreadnought Weekly Dealer (Shadiris) is ship dealer added on June 7 2022
 
 ## Description
 

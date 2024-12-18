@@ -8,7 +8,7 @@ categories:
 title: Revenge
 ---
 
-The **_Revenge_** is a limited event [**Cruiser**]({{< ref "/categories/" >}}Cruisers). 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Revenge_** is a limited event [**Cruiser**]({{< ref "/categories/" >}}Cruisers). 
 
 ## Description
 

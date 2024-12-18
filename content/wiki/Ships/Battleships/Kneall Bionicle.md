@@ -11,7 +11,7 @@ categories:
 title: Kneall Bionicle
 ---
 
-_This article describes the NPC vessel, not the Fighter, nor the Player owned battleship. For the fighter with the same model, see [A - Brawler]({{< ref "/wiki/" >}}A---Brawler), for the player owned battleship, see [Brawler]({{< ref "/wiki/" >}}Brawler)._
+{{< shipInfobox >}} {{< notices/npcShip >}} _This article describes the NPC vessel, not the Fighter, nor the Player owned battleship. For the fighter with the same model, see [A - Brawler]({{< ref "/wiki/" >}}A---Brawler), for the player owned battleship, see [Brawler]({{< ref "/wiki/" >}}Brawler)._
 
 The **_Bionicle_** is an AI **[Alien]({{< ref "/wiki/" >}}Aliens)** ship made and used by the [Kneall]({{< ref "/wiki/" >}}Kneall) introduced in the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event).
 

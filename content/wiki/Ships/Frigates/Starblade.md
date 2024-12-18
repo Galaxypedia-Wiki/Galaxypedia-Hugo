@@ -9,7 +9,7 @@ categories:
 title: Starblade
 ---
 
-The **_Starblade_** is a cheap torpedo [**Frigate**]({{< ref "/categories/" >}}Frigates). 
+{{< shipInfobox >}} The **_Starblade_** is a cheap torpedo [**Frigate**]({{< ref "/categories/" >}}Frigates). 
 
 ## Description
 

@@ -11,7 +11,7 @@ categories:
 title: Loyalist
 ---
 
-The **_Loyalist_**is a [**Battleship**]({{< ref "/categories/" >}}Battleships) equipped with a full armament of medium [Turrets]({{< ref "/wiki/" >}}Turrets).
+{{< shipInfobox >}} The **_Loyalist_**is a [**Battleship**]({{< ref "/categories/" >}}Battleships) equipped with a full armament of medium [Turrets]({{< ref "/wiki/" >}}Turrets).
 
 ## Description
 

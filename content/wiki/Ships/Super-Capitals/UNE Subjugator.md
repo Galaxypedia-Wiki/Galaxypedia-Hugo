@@ -11,7 +11,7 @@ categories:
 title: UNE Subjugator
 ---
 
-_This article describes the NPC ship. For the player-owned equivalent, see [Subjugator]({{< ref "/wiki/" >}}Subjugator)._
+{{< shipInfobox >}} {{< notices/npcShip >}} _This article describes the NPC ship. For the player-owned equivalent, see [Subjugator]({{< ref "/wiki/" >}}Subjugator)._
 
 The **UNE Subjugator** is an U.N.E. [**AI**]({{< ref "/categories/" >}}NPC-Ships) [Super Capital Ship]({{< ref "/categories/" >}}Super-Capital-Ships) and one of the largest AI ships in the game.
 

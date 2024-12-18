@@ -10,7 +10,7 @@ categories:
 title: Sentinel
 ---
 
-The **_Sentinel_** is a durable and versatile **[Cruiser]({{< ref "/categories/" >}}Cruisers)**, known for being disabled for over 1 year.
+{{< shipInfobox >}} The **_Sentinel_** is a durable and versatile **[Cruiser]({{< ref "/categories/" >}}Cruisers)**, known for being disabled for over 1 year.
 
 ## Description
 

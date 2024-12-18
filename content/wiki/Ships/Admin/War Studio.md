@@ -7,7 +7,7 @@ categories:
 title: War Studio
 ---
 
-The **_War Studio_** is an **[Admin]({{< ref "/categories/" >}}Admin-Ships)** class ship, its model being a recolor of the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2). 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_War Studio_** is an **[Admin]({{< ref "/categories/" >}}Admin-Ships)** class ship, its model being a recolor of the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2). 
 
 ## Description
 

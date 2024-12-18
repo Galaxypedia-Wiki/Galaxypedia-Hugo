@@ -8,7 +8,7 @@ categories:
 title: Golden Flare
 ---
 
-The **_Golden Flare_** is an **[Admin Ship]({{< ref "/categories/" >}}Admin-Ships)** modeled after the [Black Flare]({{< ref "/wiki/" >}}Black-Flare).
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_Golden Flare_** is an **[Admin Ship]({{< ref "/categories/" >}}Admin-Ships)** modeled after the [Black Flare]({{< ref "/wiki/" >}}Black-Flare).
 
 ## Description
 

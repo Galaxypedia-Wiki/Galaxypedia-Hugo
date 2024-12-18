@@ -11,7 +11,7 @@ categories:
 title: Lillak
 ---
 
-The **Lillak** is a Dreadnought that is part of the second stage of the [2021 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2021). 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **Lillak** is a Dreadnought that is part of the second stage of the [2021 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2021). 
 
 ## Interior
 

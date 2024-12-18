@@ -9,7 +9,7 @@ categories:
 title: Raven
 ---
 
-The **_Raven_** is a beginner's **[Frigate]({{< ref "/categories/" >}}Frigates)** and the cheapest combat ship currently available. 
+{{< shipInfobox >}} The **_Raven_** is a beginner's **[Frigate]({{< ref "/categories/" >}}Frigates)** and the cheapest combat ship currently available. 
 
 ## Description
 

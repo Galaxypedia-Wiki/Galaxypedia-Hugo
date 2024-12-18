@@ -8,7 +8,7 @@ categories:
 title: Prototype X-2 (Battleship)
 ---
 
-## Description
+{{< shipInfobox >}} {{< notices/limitedShip >}} ## Description
 
 The Prototype X-2 is a heavily nerfed, and highly agile, replica of the [:Category:Super Capital Ship]({{< ref "/categories/" >}}Super-Capital-Ships) [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2).
 

@@ -13,7 +13,7 @@ categories:
 title: Viking
 ---
 
-The **_Viking_** is a [**Limited Event**]({{< ref "/categories/" >}}Limited-Ships) reskin of the [Centurion]({{< ref "/wiki/" >}}Centurion). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Viking_** is a [**Limited Event**]({{< ref "/categories/" >}}Limited-Ships) reskin of the [Centurion]({{< ref "/wiki/" >}}Centurion). 
 
 ## Description
 

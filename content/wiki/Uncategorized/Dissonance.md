@@ -6,7 +6,7 @@ categories:
 title: Dissonance
 ---
 
-The **_Dissonance_** is a basic destroyer that is the smallest AI-controlled pirate ship in the [Halloween Event 2021]({{< ref "/wiki/" >}}Halloween-Event-2021) event.
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **_Dissonance_** is a basic destroyer that is the smallest AI-controlled pirate ship in the [Halloween Event 2021]({{< ref "/wiki/" >}}Halloween-Event-2021) event.
 
 ## Description
 

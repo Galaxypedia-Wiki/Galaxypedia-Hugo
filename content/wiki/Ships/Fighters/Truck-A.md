@@ -7,7 +7,7 @@ categories:
 title: Truck-A
 ---
 
-**Truck-A** is a fighter disguised as a normal truck on Pyramus.
+{{< shipInfobox >}} **Truck-A** is a fighter disguised as a normal truck on Pyramus.
 
 # Description
 

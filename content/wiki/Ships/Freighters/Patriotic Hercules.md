@@ -12,7 +12,7 @@ categories:
 title: Patriotic Hercules
 ---
 
-The **_Patriotic_** **_Hercules_** is a limited redesign of the old **[Hercules]({{< ref "/wiki/" >}}Hercules)** model.
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic_** **_Hercules_** is a limited redesign of the old **[Hercules]({{< ref "/wiki/" >}}Hercules)** model.
 
 ## Description
 

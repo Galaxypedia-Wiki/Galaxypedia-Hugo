@@ -7,7 +7,7 @@ categories:
 title: Pleasant isle
 ---
 
-## Description
+{{< shipInfobox >}} {{< notices/limitedShip >}} ## Description
 
 The **Pleasant Isle** is a limited [**Battleship**]({{< ref "/categories/" >}}Battleships) that was part of the 2022 Easter Event. It is a floating volcanic island with trees, grasses, and bodies of water, said water flowing off the edges in 3 channels.
 

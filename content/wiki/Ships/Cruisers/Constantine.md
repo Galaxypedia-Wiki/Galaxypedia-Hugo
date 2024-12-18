@@ -9,7 +9,7 @@ categories:
 title: Constantine
 ---
 
-The **_Constantine_** is a fast, shield-focused [**Cruiser**]({{< ref "/categories/" >}}Cruisers).
+{{< shipInfobox >}} The **_Constantine_** is a fast, shield-focused [**Cruiser**]({{< ref "/categories/" >}}Cruisers).
 
 ## Description
 

@@ -11,7 +11,7 @@ categories:
 title: Absolution
 ---
 
-The **_Absolution_** is a **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** with unique ship design and powerful [Spinals]({{< ref "/wiki/" >}}Spinals).  
+{{< shipInfobox >}} The **_Absolution_** is a **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** with unique ship design and powerful [Spinals]({{< ref "/wiki/" >}}Spinals).  
 
 ## Description 
 

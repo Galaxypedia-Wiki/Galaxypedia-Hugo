@@ -11,7 +11,7 @@ categories:
 title: Bleak
 ---
 
-The **Bleak** is a Pirate Boss. 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **Bleak** is a Pirate Boss. 
 
 ## Description
 

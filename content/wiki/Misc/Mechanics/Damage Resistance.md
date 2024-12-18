@@ -6,7 +6,7 @@ categories:
 title: Damage Resistance
 ---
 
-**Damage Resistance** is a property of [Ships]({{< ref "/wiki/" >}}Ships) and [Starbases]({{< ref "/wiki/" >}}Starbase) affecting how much damage Turrets and Spinals do relative to their base damage stats.
+{{< notices/removed >}} **Damage Resistance** is a property of [Ships]({{< ref "/wiki/" >}}Ships) and [Starbases]({{< ref "/wiki/" >}}Starbase) affecting how much damage Turrets and Spinals do relative to their base damage stats.
 
 ## Description
 

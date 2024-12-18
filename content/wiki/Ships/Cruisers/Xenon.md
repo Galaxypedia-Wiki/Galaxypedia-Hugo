@@ -11,7 +11,7 @@ categories:
 title: Xenon
 ---
 
-The **_Xenon_** is a very popular **[Cruiser]({{< ref "/categories/" >}}Cruisers)** Class ship with decent health and decent speed. You will likely see this ship a lot.
+{{< shipInfobox >}} {{< notices/outdatedInfo >}} The **_Xenon_** is a very popular **[Cruiser]({{< ref "/categories/" >}}Cruisers)** Class ship with decent health and decent speed. You will likely see this ship a lot.
 
 ## Description
 

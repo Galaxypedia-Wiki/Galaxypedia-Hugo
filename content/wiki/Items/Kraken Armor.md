@@ -7,7 +7,7 @@ categories:
 title: Kraken Armor
 ---
 
-The [Kraken Armor]({{< ref "/wiki/" >}}Kraken-Armor) is an item acquired via the [Collins]({{< ref "/wiki/" >}}Collins) and used to build the [Kraken]({{< ref "/wiki/" >}}Kraken). ![[Frion]({{< ref "/wiki/" >}}Frion)](Galaxy_Frion-Collins-NPC.png "Frion"){width="518" height="518"}
+{{< notices/underConstruction >}} The [Kraken Armor]({{< ref "/wiki/" >}}Kraken-Armor) is an item acquired via the [Collins]({{< ref "/wiki/" >}}Collins) and used to build the [Kraken]({{< ref "/wiki/" >}}Kraken). ![[Frion]({{< ref "/wiki/" >}}Frion)](Galaxy_Frion-Collins-NPC.png "Frion"){width="518" height="518"}
 
 ## How to get aquire: 
 

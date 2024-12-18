@@ -11,7 +11,7 @@ categories:
 title: Apocalypse
 ---
 
-The **_Apocalypse_** is a [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) with powerful [Turret]({{< ref "/wiki/" >}}Turrets) firepower. 
+{{< shipInfobox >}} The **_Apocalypse_** is a [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) with powerful [Turret]({{< ref "/wiki/" >}}Turrets) firepower. 
 
 ## Description
 

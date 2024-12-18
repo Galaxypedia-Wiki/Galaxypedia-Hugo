@@ -10,7 +10,7 @@ categories:
 title: Dramiel
 ---
 
-The **_Dramiel_** is a small, fast, and damaging **[Cruiser]({{< ref "/categories/" >}}Cruisers)** with a focus on [Spinal]({{< ref "/wiki/" >}}Spinals) firepower.
+{{< shipInfobox >}} The **_Dramiel_** is a small, fast, and damaging **[Cruiser]({{< ref "/categories/" >}}Cruisers)** with a focus on [Spinal]({{< ref "/wiki/" >}}Spinals) firepower.
 
 ## Description
 

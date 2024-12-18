@@ -13,7 +13,7 @@ categories:
 title: Glacier
 ---
 
-The **_Glacier_** is a [**Limited**]({{< ref "/categories/" >}}Limited-Ships) remodel of the [Aegis]({{< ref "/wiki/" >}}Aegis).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Glacier_** is a [**Limited**]({{< ref "/categories/" >}}Limited-Ships) remodel of the [Aegis]({{< ref "/wiki/" >}}Aegis).
 
 ## Description
 

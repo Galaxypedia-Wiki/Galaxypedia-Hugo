@@ -6,7 +6,7 @@ categories:
 title: Galaxy (game)
 ---
 
-![]({{< ref "/wiki/" >}}Game-Banner.png-"Game-Banner.png") This page serves as an introduction/overview of the overall subject matter the Galaxypedia covers with its pages, which is the Roblox game [Galaxy](https://www.roblox.com/games/12426862174/).
+{{< notices/underConstruction >}} ![]({{< ref "/wiki/" >}}Game-Banner.png-"Game-Banner.png") This page serves as an introduction/overview of the overall subject matter the Galaxypedia covers with its pages, which is the Roblox game [Galaxy](https://www.roblox.com/games/12426862174/).
 
 ## Introduction
 

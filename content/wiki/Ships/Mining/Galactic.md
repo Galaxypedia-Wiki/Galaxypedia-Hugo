@@ -7,7 +7,7 @@ categories:
 title: Galactic
 ---
 
-The **_Galactic_** is a massive **[Miner-Class]({{< ref "/categories/" >}}Mining-Ships)** Ship. 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Galactic_** is a massive **[Miner-Class]({{< ref "/categories/" >}}Mining-Ships)** Ship. 
 
 ## Description
 

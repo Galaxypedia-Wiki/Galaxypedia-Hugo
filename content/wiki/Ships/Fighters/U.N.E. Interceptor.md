@@ -10,7 +10,7 @@ categories:
 title: U.N.E. Interceptor
 ---
 
-## Description
+{{< shipInfobox >}} {{< notices/underConstruction >}} ## Description
 
 The U.N.E. Interceptor is a fighter on the [Conqueror]({{< ref "/wiki/" >}}Conqueror) carrier. It following the trend of the [Interceptor F]({{< ref "/wiki/" >}}Interceptor-F), it looks nothing like the original [Interceptor]({{< ref "/wiki/" >}}Interceptor), instead more closely like a [Fury]({{< ref "/wiki/" >}}Fury). The Conqueror is equipped with eight of these sleek, fast fighters.
 

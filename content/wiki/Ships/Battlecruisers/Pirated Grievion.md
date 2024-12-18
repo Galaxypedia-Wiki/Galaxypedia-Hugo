@@ -13,7 +13,7 @@ categories:
 title: Pirated Grievion
 ---
 
-The **_Pirated Grievion_** is a limited [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018) remodel of the [Grievion]({{< ref "/wiki/" >}}Grievion). ![]({{< ref "/wiki/" >}}Screenshot-2019-02-28-at-3.48.47-PM.png-"Screenshot-2019-02-28-at-3.48.47-PM.png"){width="221" height="221"}
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Pirated Grievion_** is a limited [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018) remodel of the [Grievion]({{< ref "/wiki/" >}}Grievion). ![]({{< ref "/wiki/" >}}Screenshot-2019-02-28-at-3.48.47-PM.png-"Screenshot-2019-02-28-at-3.48.47-PM.png"){width="221" height="221"}
 
 ## Description
 

@@ -7,7 +7,7 @@ categories:
 title: Key3
 ---
 
-The **_Key3_** is a small, weak [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ship modeled after the [Kneall Scout]({{< ref "/wiki/" >}}Kneall-Scout).
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_Key3_** is a small, weak [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ship modeled after the [Kneall Scout]({{< ref "/wiki/" >}}Kneall-Scout).
 
 ## Description
 

@@ -6,7 +6,7 @@ categories:
 title: Lukieluuk2
 ---
 
-Infamous Galaxy Exploiter and creator of popular Galaxy automine exploit Galaxy Helper.
+{{< notices/underConstruction >}} Infamous Galaxy Exploiter and creator of popular Galaxy automine exploit Galaxy Helper.
 
 ## Story
 

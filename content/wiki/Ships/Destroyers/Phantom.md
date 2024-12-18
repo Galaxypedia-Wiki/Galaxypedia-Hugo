@@ -9,7 +9,7 @@ categories:
 title: Phantom
 ---
 
-The **_Phantom_** is cheap **[Destroyer]({{< ref "/categories/" >}}Destroyers)** with powerful shield damage.
+{{< shipInfobox >}} The **_Phantom_** is cheap **[Destroyer]({{< ref "/categories/" >}}Destroyers)** with powerful shield damage.
 
 ## Description
 

@@ -11,7 +11,7 @@ categories:
 title: Crescendo
 ---
 
-_This page is about the player-ownable vessel. If you're looking for the NPC variant, see [Hellkeeper]({{< ref "/wiki/" >}}Hellkeeper)._
+{{< shipInfobox >}} {{< notices/limitedShip >}} _This page is about the player-ownable vessel. If you're looking for the NPC variant, see [Hellkeeper]({{< ref "/wiki/" >}}Hellkeeper)._
 
 The **Crescendo** is a [Dreadnought]({{< ref "/categories/" >}}Dreadnoughts) that given in the second stage of the [2021 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2021).
 

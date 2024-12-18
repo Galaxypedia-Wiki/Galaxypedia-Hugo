@@ -11,7 +11,7 @@ categories:
 title: Aeaphiel
 ---
 
-The **_Aeaphiel_** is a fast all-rounder **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)**. 
+{{< shipInfobox >}} {{< notices/vipShip >}} The **_Aeaphiel_** is a fast all-rounder **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)**. 
 
 ## Description
 

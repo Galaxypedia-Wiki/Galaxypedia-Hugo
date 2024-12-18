@@ -10,7 +10,7 @@ categories:
 title: Patriotic Harvester
 ---
 
-The **_Patriotic Harvester_** is a limited variant of the [Harvester]({{< ref "/wiki/" >}}Harvester). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic Harvester_** is a limited variant of the [Harvester]({{< ref "/wiki/" >}}Harvester). 
 
 ## Description
 

@@ -10,7 +10,7 @@ categories:
 title: Theseus-K
 ---
 
-The **Theseus-K** is a [U.N.E]({{< ref "/categories/" >}}U.N.E) [Quest]({{< ref "/categories/" >}}Quests) [Dreadnought]({{< ref "/categories/" >}}Dreadnoughts) released during the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **Theseus-K** is a [U.N.E]({{< ref "/categories/" >}}U.N.E) [Quest]({{< ref "/categories/" >}}Quests) [Dreadnought]({{< ref "/categories/" >}}Dreadnoughts) released during the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023).
 
 ## Description
 

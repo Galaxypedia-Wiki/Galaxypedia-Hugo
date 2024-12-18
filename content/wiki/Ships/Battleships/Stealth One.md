@@ -8,7 +8,7 @@ categories:
 title: Stealth One
 ---
 
-The **_Stealth One_** is a Stealth **[Battleship]({{< ref "/categories/" >}}Battleships)** and the first ship of its class.
+{{< shipInfobox >}} The **_Stealth One_** is a Stealth **[Battleship]({{< ref "/categories/" >}}Battleships)** and the first ship of its class.
 
 ## Description
 

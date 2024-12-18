@@ -11,7 +11,7 @@ categories:
 title: Brawler
 ---
 
-The **_Brawler_** is a [Kneall]({{< ref "/wiki/" >}}Kneall) Battleship from the 2nd Part of the [Halloween Event 2021]({{< ref "/categories/" >}}Halloween-2021).
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Brawler_** is a [Kneall]({{< ref "/wiki/" >}}Kneall) Battleship from the 2nd Part of the [Halloween Event 2021]({{< ref "/categories/" >}}Halloween-2021).
 
 ## Description
 

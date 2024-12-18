@@ -7,7 +7,7 @@ categories:
 title: Prospector
 ---
 
-The **_Prospector_** is a light [**Freighter**]({{< ref "/categories/" >}}Freighters) with a focus on [Hull]({{< ref "/wiki/" >}}Hull) health. 
+{{< shipInfobox >}} The **_Prospector_** is a light [**Freighter**]({{< ref "/categories/" >}}Freighters) with a focus on [Hull]({{< ref "/wiki/" >}}Hull) health. 
 
 ## Description
 

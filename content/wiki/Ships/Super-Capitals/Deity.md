@@ -9,7 +9,7 @@ categories:
 title: Deity
 ---
 
-The **_Deity_** is an extremely maneuverable [Super Capital Ship]({{< ref "/categories/" >}}Super-Capital-Ships) that is extremely adept at brawling against other capital ships.
+{{< shipInfobox >}} {{< notices/superCapitalShip >}} The **_Deity_** is an extremely maneuverable [Super Capital Ship]({{< ref "/categories/" >}}Super-Capital-Ships) that is extremely adept at brawling against other capital ships.
 
 ## Description
 

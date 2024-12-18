@@ -11,7 +11,7 @@ categories:
 title: Decimator
 ---
 
-_This article describes an NPC boss ship. For the player ship with an identical appearance, see [Obliterator]({{< ref "/wiki/" >}}Obliterator)._
+{{< shipInfobox >}} {{< notices/npcShip >}} _This article describes an NPC boss ship. For the player ship with an identical appearance, see [Obliterator]({{< ref "/wiki/" >}}Obliterator)._
 
 The **_Decimator_** is an **[AI]({{< ref "/categories/" >}}NPC-Ships) [Kneall]({{< ref "/categories/" >}}Alien-Ships-and-Stations)** boss ship.
 

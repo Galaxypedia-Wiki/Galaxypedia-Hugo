@@ -6,7 +6,7 @@ categories:
 title: Dont use or banned
 ---
 
-The **_dont_use_or_banned_** is an [**Admin**]({{< ref "/categories/" >}}Admin-Ships) "Supercapital" ship briefly released on June 27th, 2021. 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_dont_use_or_banned_** is an [**Admin**]({{< ref "/categories/" >}}Admin-Ships) "Supercapital" ship briefly released on June 27th, 2021. 
 
 ## Description
 

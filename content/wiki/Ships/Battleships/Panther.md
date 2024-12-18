@@ -11,7 +11,7 @@ categories:
 title: Panther
 ---
 
-The **_Panther_** is a highly-maneuverable VIP [**Battleship**]({{< ref "/categories/" >}}Battleships).
+{{< shipInfobox >}} {{< notices/vipShip >}} The **_Panther_** is a highly-maneuverable VIP [**Battleship**]({{< ref "/categories/" >}}Battleships).
 
 ## Description
 

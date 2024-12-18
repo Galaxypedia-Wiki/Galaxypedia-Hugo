@@ -6,6 +6,6 @@ categories:
 title: Thrust Component
 ---
 
-## Description
+{{< notices/underConstruction >}} ## Description
 
 An item given by completing the **[Engine Manufacturing]({{< ref "/wiki/" >}}<Engine-Manufacturing-(Quest)> "wikilink")** quest**.**

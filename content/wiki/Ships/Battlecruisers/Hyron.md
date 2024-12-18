@@ -8,7 +8,7 @@ categories:
 title: Hyron
 ---
 
-The **_Hyron_** was a support AA [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) that was focused on shredding small ships. 
+{{< shipInfobox >}} The **_Hyron_** was a support AA [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) that was focused on shredding small ships. 
 
 ## Description
 

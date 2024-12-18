@@ -11,7 +11,7 @@ categories:
 title: Sakala
 ---
 
-The **_Sakala_**is an exclusive[ ]({{< ref "/wiki/" >}}:category:carrier)[Carrier]({{< ref "/categories/" >}}Carriers) available for 5000 robux, or can be won during a giveaway.
+{{< shipInfobox >}} {{< notices/premiumShip >}} The **_Sakala_**is an exclusive[ ]({{< ref "/wiki/" >}}:category:carrier)[Carrier]({{< ref "/categories/" >}}Carriers) available for 5000 robux, or can be won during a giveaway.
 
 ## Description
 

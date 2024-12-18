@@ -6,7 +6,7 @@ categories:
 title: TmackTrav
 ---
 
-Infamous Galaxy Player, known for his association with the Galaxy Faction Blackhawks.
+{{< notices/underConstruction >}} Infamous Galaxy Player, known for his association with the Galaxy Faction Blackhawks.
 
 ## Story
 

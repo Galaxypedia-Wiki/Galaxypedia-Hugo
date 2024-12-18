@@ -8,7 +8,7 @@ categories:
 title: Wraith
 ---
 
-The **_Wraith_** is a unique [**Fighter**]({{< ref "/categories/" >}}Fighters) carried by the [Skeletal Ghostealis]({{< ref "/wiki/" >}}Skeletal-Ghostealis). 
+{{< shipInfobox >}} The **_Wraith_** is a unique [**Fighter**]({{< ref "/categories/" >}}Fighters) carried by the [Skeletal Ghostealis]({{< ref "/wiki/" >}}Skeletal-Ghostealis). 
 
 ## Description
 

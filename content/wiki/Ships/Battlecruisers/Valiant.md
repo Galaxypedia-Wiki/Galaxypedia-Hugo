@@ -11,7 +11,7 @@ categories:
 title: Valiant
 ---
 
-The **_Valiant_** is a turret-focused [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers).
+{{< shipInfobox >}} The **_Valiant_** is a turret-focused [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers).
 
 ## Description
 

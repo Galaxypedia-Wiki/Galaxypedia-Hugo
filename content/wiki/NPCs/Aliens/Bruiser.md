@@ -9,7 +9,7 @@ categories:
 title: Bruiser
 ---
 
-The **_Bruiser_** is an [**Alien**]({{< ref "/categories/" >}}Alien-Ships-and-Stations) [AI]({{< ref "/categories/" >}}NPC-Ships) ship roughly equivalent to a [Destroyer]({{< ref "/categories/" >}}Destroyers).
+{{< shipInfobox >}} {{< notices/npcShip >}} The **_Bruiser_** is an [**Alien**]({{< ref "/categories/" >}}Alien-Ships-and-Stations) [AI]({{< ref "/categories/" >}}NPC-Ships) ship roughly equivalent to a [Destroyer]({{< ref "/categories/" >}}Destroyers).
 
 ## Description
 

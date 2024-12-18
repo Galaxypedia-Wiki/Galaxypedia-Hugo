@@ -9,7 +9,7 @@ categories:
 title: Swarmer
 ---
 
-The **_Swarmer_**is an AI [**Alien**]({{< ref "/wiki/" >}}Aliens) ship made by the **[Kneall]({{< ref "/wiki/" >}}Kneall)**. 
+{{< shipInfobox >}} {{< notices/npcShip >}} The **_Swarmer_**is an AI [**Alien**]({{< ref "/wiki/" >}}Aliens) ship made by the **[Kneall]({{< ref "/wiki/" >}}Kneall)**. 
 
 ## Description
 

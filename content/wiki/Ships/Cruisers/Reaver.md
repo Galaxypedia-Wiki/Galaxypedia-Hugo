@@ -9,7 +9,7 @@ categories:
 title: Reaver
 ---
 
-_Not to be confused with the [Reaper]({{< ref "/wiki/" >}}Reaper)._
+{{< shipInfobox >}} _Not to be confused with the [Reaper]({{< ref "/wiki/" >}}Reaper)._
 
 The **Reaver** is an angular [**Cruiser**]({{< ref "/categories/" >}}Cruisers) with a focus on shield damage.
 

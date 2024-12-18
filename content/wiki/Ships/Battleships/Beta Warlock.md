@@ -12,7 +12,7 @@ categories:
 title: Beta Warlock
 ---
 
-The **_Beta Warlock_** is a [Limited]({{< ref "/categories/" >}}Limited-Ships) [**Battleship**]({{< ref "/categories/" >}}Battleships) added during the [2021 Retro Ship Event]({{< ref "/categories/" >}}Retro-Ship-Event-2021) 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Beta Warlock_** is a [Limited]({{< ref "/categories/" >}}Limited-Ships) [**Battleship**]({{< ref "/categories/" >}}Battleships) added during the [2021 Retro Ship Event]({{< ref "/categories/" >}}Retro-Ship-Event-2021) 
 
 ## Description
 

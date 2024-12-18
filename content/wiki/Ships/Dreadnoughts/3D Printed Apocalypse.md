@@ -7,7 +7,7 @@ categories:
 title: 3D Printed Apocalypse
 ---
 
-The **_3d Printed Apocalypse_** is a [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) with overwhelmingly powerful [Turret]({{< ref "/wiki/" >}}Turrets) firepower.
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/premiumShip >}} The **_3d Printed Apocalypse_** is a [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) with overwhelmingly powerful [Turret]({{< ref "/wiki/" >}}Turrets) firepower.
 
 ## Description
 

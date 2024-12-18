@@ -8,7 +8,7 @@ categories:
 title: Foxfire
 ---
 
-The **_Foxfire _**is a small and fast **[Fighter]({{< ref "/categories/" >}}Fighters)** found on the [Nimitz]({{< ref "/wiki/" >}}Nimitz).
+{{< shipInfobox >}} The **_Foxfire _**is a small and fast **[Fighter]({{< ref "/categories/" >}}Fighters)** found on the [Nimitz]({{< ref "/wiki/" >}}Nimitz).
 
 ## Description
 

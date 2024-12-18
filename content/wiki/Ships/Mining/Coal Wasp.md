@@ -10,7 +10,7 @@ categories:
 title: Coal Wasp
 ---
 
-The **_Coal Wasp_** is a Limited Event version of the [Wasp]({{< ref "/wiki/" >}}Wasp) known for its incredible speed. 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Coal Wasp_** is a Limited Event version of the [Wasp]({{< ref "/wiki/" >}}Wasp) known for its incredible speed. 
 
 ## Description
 

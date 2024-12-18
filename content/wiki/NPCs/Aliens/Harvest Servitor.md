@@ -11,7 +11,7 @@ categories:
 title: Harvest Servitor
 ---
 
-## Description
+{{< shipInfobox >}} {{< notices/npcShip >}} ## Description
 
 The **Alien Harvest Servitor** is a mini-boss ship added during the [2018 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2018). It was similar in size to the [Alien Punisher]({{< ref "/wiki/" >}}Aliens), but was more powerful on its own. It cannot call other Aliens like the Punisher can, making it a viable strategy to solo these ships for their loot. They would spawn alone or alongside the [Harvest King]({{< ref "/wiki/" >}}Harvest-King). **Servitors** are recognized by their orange, punisher-sized symbol on the minimap. **Servitors** dropped two [Space Pumpkins]({{< ref "/wiki/" >}}Space-Pumpkin) upon destruction, as well as various ores.
 

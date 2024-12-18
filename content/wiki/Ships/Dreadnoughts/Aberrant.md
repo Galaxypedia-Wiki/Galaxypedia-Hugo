@@ -11,7 +11,7 @@ categories:
 title: Aberrant
 ---
 
-The **_Aberrant_** is a [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) that is part of the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Aberrant_** is a [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) that is part of the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019).
 
 ## Description
 

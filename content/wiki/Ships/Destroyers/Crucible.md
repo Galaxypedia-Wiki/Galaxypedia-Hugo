@@ -10,7 +10,7 @@ categories:
 title: Crucible
 ---
 
-The **_Crucible_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Destroyer**]({{< ref "/categories/" >}}Destroyers). 
+{{< shipInfobox >}} The **_Crucible_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Destroyer**]({{< ref "/categories/" >}}Destroyers). 
 
 ## Description
 

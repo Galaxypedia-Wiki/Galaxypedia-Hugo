@@ -9,7 +9,7 @@ categories:
 title: Meteor
 ---
 
-The **_Meteor_** is a **[Destroyer]({{< ref "/categories/" >}}Destroyers)** Class ship. 
+{{< shipInfobox >}} The **_Meteor_** is a **[Destroyer]({{< ref "/categories/" >}}Destroyers)** Class ship. 
 
 ## Description
 

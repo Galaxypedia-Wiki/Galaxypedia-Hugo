@@ -10,7 +10,7 @@ categories:
 title: Nightmare
 ---
 
-The **_Nightmare_** is an extremely powerful and agile [Advanced]({{< ref "/categories/" >}}Advanced-Ships)**[Frigate]({{< ref "/wiki/" >}}:category:Frigate)**.
+{{< shipInfobox >}} {{< notices/advancedShip >}} The **_Nightmare_** is an extremely powerful and agile [Advanced]({{< ref "/categories/" >}}Advanced-Ships)**[Frigate]({{< ref "/wiki/" >}}:category:Frigate)**.
 
 ## Description
 

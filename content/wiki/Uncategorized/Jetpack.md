@@ -6,7 +6,7 @@ categories:
 title: Jetpack
 ---
 
-The **_Jetpack_**is a small **[Admin]({{< ref "/categories/" >}}Admin-Ships)**[ **Ship**]({{< ref "/categories/" >}}Admin-Ships) that does not follow conventional ship guidelines. 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_Jetpack_**is a small **[Admin]({{< ref "/categories/" >}}Admin-Ships)**[ **Ship**]({{< ref "/categories/" >}}Admin-Ships) that does not follow conventional ship guidelines. 
 
 ## Description
 

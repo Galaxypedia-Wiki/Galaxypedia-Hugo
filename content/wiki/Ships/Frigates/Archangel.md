@@ -10,7 +10,7 @@ categories:
 title: Archangel
 ---
 
-The **_Archangel_** is a Heavyweight **[Frigate]({{< ref "/categories/" >}}Frigates)** class ship with high mobility and 2 [Turrets]({{< ref "/wiki/" >}}Turrets). 
+{{< shipInfobox >}} The **_Archangel_** is a Heavyweight **[Frigate]({{< ref "/categories/" >}}Frigates)** class ship with high mobility and 2 [Turrets]({{< ref "/wiki/" >}}Turrets). 
 
 ## Description
 

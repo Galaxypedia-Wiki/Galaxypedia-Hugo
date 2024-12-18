@@ -10,7 +10,7 @@ categories:
 title: Stormbringer
 ---
 
-The **Stormbringer** was the first [Carrier]({{< ref "/categories/" >}}Carriers) to be added, introduced in version .40, and has received 3 remodels.
+{{< shipInfobox >}} The **Stormbringer** was the first [Carrier]({{< ref "/categories/" >}}Carriers) to be added, introduced in version .40, and has received 3 remodels.
 
 ## Description
 

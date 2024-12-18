@@ -15,7 +15,7 @@ categories:
 title: Frozen MLRS
 ---
 
-The **_Frozen MRLS_** is a [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018) variant of the [MLRS]({{< ref "/wiki/" >}}MLRS). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Frozen MRLS_** is a [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018) variant of the [MLRS]({{< ref "/wiki/" >}}MLRS). 
 
 ## Description
 

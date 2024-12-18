@@ -13,7 +13,7 @@ categories:
 title: Kneall Eradicator
 ---
 
-The **_Kneall Eradicator_** is an [**Alien**]({{< ref "/categories/" >}}Alien-Ships-and-Stations) [AI]({{< ref "/categories/" >}}NPC-Ships) ship roughly equivalent to a [Prototype]({{< ref "/categories/" >}}Prototypes).
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} {{< notices/prototypeShip >}} The **_Kneall Eradicator_** is an [**Alien**]({{< ref "/categories/" >}}Alien-Ships-and-Stations) [AI]({{< ref "/categories/" >}}NPC-Ships) ship roughly equivalent to a [Prototype]({{< ref "/categories/" >}}Prototypes).
 
 ## Description
 

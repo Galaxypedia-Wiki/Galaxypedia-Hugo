@@ -10,7 +10,7 @@ categories:
 title: Scourge
 ---
 
-The **_Scourge_** was a unique [**AI**]({{< ref "/categories/" >}}NPC-Ships) ship added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020)
+{{< shipInfobox >}} {{< notices/npcShip >}} The **_Scourge_** was a unique [**AI**]({{< ref "/categories/" >}}NPC-Ships) ship added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020)
 
 ## Description
 

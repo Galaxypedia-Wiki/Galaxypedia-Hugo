@@ -11,7 +11,7 @@ categories:
 title: Flea
 ---
 
-The **Flea** is a Battlecruiser that is part of the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **Flea** is a Battlecruiser that is part of the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
 _This article describes the player-owned ship. For the NPC ship with the same model, see **[Scout]({{< ref "/wiki/" >}}Alien-Scout)**._
 

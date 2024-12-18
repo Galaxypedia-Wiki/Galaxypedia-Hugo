@@ -8,7 +8,7 @@ categories:
 title: Pill
 ---
 
-The **_Pill_** was O_Zumi's personal **[Admin Ship]({{< ref "/wiki/" >}}:category:admin)**.
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_Pill_** was O_Zumi's personal **[Admin Ship]({{< ref "/wiki/" >}}:category:admin)**.
 
 ## Description
 

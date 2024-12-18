@@ -9,7 +9,7 @@ categories:
 title: Valkerac
 ---
 
-The **_Valkerac_** is a [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) added during the [2021 Halloween Event]({{< ref "/categories/" >}}Halloween-2021). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Valkerac_** is a [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) added during the [2021 Halloween Event]({{< ref "/categories/" >}}Halloween-2021). 
 
 ## Description
 

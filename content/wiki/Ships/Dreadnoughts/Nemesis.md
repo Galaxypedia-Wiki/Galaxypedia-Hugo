@@ -12,7 +12,7 @@ categories:
 title: Nemesis
 ---
 
-The **_Nemesis_** is a powerful [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) with both [Spinal]({{< ref "/wiki/" >}}Spinals) and [Turret]({{< ref "/wiki/" >}}Turrets) capabilities.
+{{< shipInfobox >}} The **_Nemesis_** is a powerful [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) with both [Spinal]({{< ref "/wiki/" >}}Spinals) and [Turret]({{< ref "/wiki/" >}}Turrets) capabilities.
 
 ## Description
 

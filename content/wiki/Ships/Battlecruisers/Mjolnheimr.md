@@ -10,7 +10,7 @@ categories:
 title: Mjolnheimr
 ---
 
-The'Mjolnheimr***is a** [Battlecruiser]({{< ref "/wiki/" >}}:category:battlecruiser)**based on the [Slipstream]({{< ref "/wiki/" >}}Slipstream)**.*' 
+{{< shipInfobox >}} The'Mjolnheimr***is a** [Battlecruiser]({{< ref "/wiki/" >}}:category:battlecruiser)**based on the [Slipstream]({{< ref "/wiki/" >}}Slipstream)**.*' 
 
 ##  Description
 

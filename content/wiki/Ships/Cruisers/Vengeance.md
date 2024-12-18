@@ -10,7 +10,7 @@ categories:
 title: Vengeance
 ---
 
-The **_Vengeance_** is a Shield-heavy [**Cruiser**]({{< ref "/categories/" >}}Cruisers) entirely focused on [Spinals]({{< ref "/wiki/" >}}Spinals). 
+{{< shipInfobox >}} The **_Vengeance_** is a Shield-heavy [**Cruiser**]({{< ref "/categories/" >}}Cruisers) entirely focused on [Spinals]({{< ref "/wiki/" >}}Spinals). 
 
 ## Description
 

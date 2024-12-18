@@ -12,7 +12,7 @@ categories:
 title: Imperator
 ---
 
-The **_Imperator_** is a large and tanky [Advanced]({{< ref "/categories/" >}}Advanced-Ships) **[Battleship]({{< ref "/wiki/" >}}:category:battleship)**. 
+{{< shipInfobox >}} {{< notices/advancedShip >}} The **_Imperator_** is a large and tanky [Advanced]({{< ref "/categories/" >}}Advanced-Ships) **[Battleship]({{< ref "/wiki/" >}}:category:battleship)**. 
 
 ## Description
 

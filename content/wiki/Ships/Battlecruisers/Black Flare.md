@@ -11,7 +11,7 @@ categories:
 title: Black Flare
 ---
 
-The **_Black Flare_** is a powerful **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** known for its tackling ability.
+{{< shipInfobox >}} The **_Black Flare_** is a powerful **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** known for its tackling ability.
 
 ## Description
 

@@ -10,7 +10,7 @@ categories:
 title: Helios
 ---
 
-The Helios is a powerful and extremely fast [Battleship.]({{< ref "/categories/" >}}Battleships) 
+{{< shipInfobox >}} {{< notices/advancedShip >}} The Helios is a powerful and extremely fast [Battleship.]({{< ref "/categories/" >}}Battleships) 
 
 ## Description
 

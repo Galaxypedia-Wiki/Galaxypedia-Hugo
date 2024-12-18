@@ -8,7 +8,7 @@ categories:
 title: Apogee
 ---
 
-The **Apogee** is a limited Battlecruiser, and a part of the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **Apogee** is a limited Battlecruiser, and a part of the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023). 
 
 ## Description
 

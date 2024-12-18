@@ -9,7 +9,7 @@ categories:
 title: Rapture
 ---
 
-The **_Rapture_** is a [Siege]({{< ref "/wiki/" >}}Sieging)-focused [**Carrier**]({{< ref "/categories/" >}}Carriers)with Medium and Heavy [Turrets]({{< ref "/wiki/" >}}Turrets).
+{{< shipInfobox >}} The **_Rapture_** is a [Siege]({{< ref "/wiki/" >}}Sieging)-focused [**Carrier**]({{< ref "/categories/" >}}Carriers)with Medium and Heavy [Turrets]({{< ref "/wiki/" >}}Turrets).
 _Not to be confused with the [Raptor]({{< ref "/wiki/" >}}Raptor)_ 
 
 ## Description

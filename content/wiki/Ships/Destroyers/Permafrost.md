@@ -9,7 +9,7 @@ categories:
 title: Permafrost
 ---
 
-The **_Permafrost_** is a [**Destroyer-class**]({{< ref "/categories/" >}}Destroyers) ship added during Galaxy's [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Permafrost_** is a [**Destroyer-class**]({{< ref "/categories/" >}}Destroyers) ship added during Galaxy's [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019). 
 
 ## Description
 

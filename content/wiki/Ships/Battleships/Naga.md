@@ -8,7 +8,7 @@ categories:
 title: Naga
 ---
 
-The **_Naga_** is a [**Battleship**]({{< ref "/categories/" >}}Battleships) from Part 2 of the [2020 Halloween Event]({{< ref "/categories/" >}}Halloween-2020). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Naga_** is a [**Battleship**]({{< ref "/categories/" >}}Battleships) from Part 2 of the [2020 Halloween Event]({{< ref "/categories/" >}}Halloween-2020). 
 
 ## Description
 

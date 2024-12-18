@@ -6,7 +6,7 @@ categories:
 title: Key2
 ---
 
-The **_Key2_** is a small, weak [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ship modeled after the [Kneall Scout]({{< ref "/wiki/" >}}Kneall-Scout).
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_Key2_** is a small, weak [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ship modeled after the [Kneall Scout]({{< ref "/wiki/" >}}Kneall-Scout).
 
 ## Description
 

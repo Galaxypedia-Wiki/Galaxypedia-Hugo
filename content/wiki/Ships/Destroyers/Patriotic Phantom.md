@@ -10,7 +10,7 @@ categories:
 title: Patriotic Phantom
 ---
 
-The **_Patriotic Phantom_** was a **[Limited]({{< ref "/categories/" >}}Limited-Ships)** [4th of July]({{< ref "/categories/" >}}Fourth-of-July-2019) reskin of the [**Destroyer-class**]({{< ref "/categories/" >}}Destroyers) [Phantom]({{< ref "/wiki/" >}}Phantom). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic Phantom_** was a **[Limited]({{< ref "/categories/" >}}Limited-Ships)** [4th of July]({{< ref "/categories/" >}}Fourth-of-July-2019) reskin of the [**Destroyer-class**]({{< ref "/categories/" >}}Destroyers) [Phantom]({{< ref "/wiki/" >}}Phantom). 
 
 ## Description
 

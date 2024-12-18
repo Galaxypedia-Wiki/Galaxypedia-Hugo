@@ -4,7 +4,7 @@ aliases:
 title: Lunar Cloud
 ---
 
-## Introduction
+{{< notices/underConstruction >}} ## Introduction
 
 **_Lunar Cloud_** (known as LC) is a clan that is governed by a democracy of 9 players.
 

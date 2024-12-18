@@ -6,7 +6,7 @@ categories:
 title: Galaxy VIP Lounge
 ---
 
-## Description
+{{< notices/outdatedInfo >}} ## Description
 
 The **VIP Lounge** is a lounge at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) which only people with the [Galaxy VIP Gamepass]({{< ref "/wiki/" >}}Galaxy-VIP-Gamepass) can enter. As of a recent update, it is now mostly made of glass and is much more spacious than before. It also allows you to buy food and gear. These will be with you until you die, reset, or leave the game. Food and gear cost small amounts of credits.
 

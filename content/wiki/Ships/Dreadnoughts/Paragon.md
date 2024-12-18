@@ -11,7 +11,7 @@ categories:
 title: Paragon
 ---
 
-The Paragon is a quest dreadnought made by the [U.N.E.]({{< ref "/wiki/" >}}U.N.E) It is known for it's extremely fast speed and considerable damage.
+{{< shipInfobox >}} The Paragon is a quest dreadnought made by the [U.N.E.]({{< ref "/wiki/" >}}U.N.E) It is known for it's extremely fast speed and considerable damage.
 
 ## Description
 

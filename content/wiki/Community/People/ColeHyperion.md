@@ -6,7 +6,7 @@ categories:
 title: ColeHyperion
 ---
 
-ColeHyperion _(also known in short as "Cole")_ is a Galaxy Administrator, commonly called a Furry and Femboy by the community although he denies this. <[Roblox Account](https://www.roblox.com/users/153397648/profile)>
+{{< notices/underConstruction >}} {{< notices/outdatedInfo >}} ColeHyperion _(also known in short as "Cole")_ is a Galaxy Administrator, commonly called a Furry and Femboy by the community although he denies this. <[Roblox Account](https://www.roblox.com/users/153397648/profile)>
 
 ## Story
 

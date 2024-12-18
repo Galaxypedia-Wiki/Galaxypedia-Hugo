@@ -8,7 +8,7 @@ categories:
 title: Guillotine
 ---
 
-The **_Guillotine_** is a [**Cruiser**]({{< ref "/categories/" >}}Cruisers) added in the first part of the Mega Update.
+{{< shipInfobox >}} The **_Guillotine_** is a [**Cruiser**]({{< ref "/categories/" >}}Cruisers) added in the first part of the Mega Update.
 
 ## Description
 

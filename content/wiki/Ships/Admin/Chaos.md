@@ -8,7 +8,7 @@ categories:
 title: Chaos
 ---
 
-The **_Chaos_** is one of the most popular [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ships among the [Galaxy Staff]({{< ref "/wiki/" >}}Galaxy-Staff).
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_Chaos_** is one of the most popular [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ships among the [Galaxy Staff]({{< ref "/wiki/" >}}Galaxy-Staff).
 
 ## Description
 

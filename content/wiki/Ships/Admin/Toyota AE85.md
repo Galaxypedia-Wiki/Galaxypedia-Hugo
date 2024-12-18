@@ -8,7 +8,7 @@ categories:
 title: Toyota AE85
 ---
 
-The **Toyota (AE85)** is an [**Admin Ship**]({{< ref "/categories/" >}}Admin-Ships).
+{{< shipInfobox >}} {{< notices/adminShip >}} The **Toyota (AE85)** is an [**Admin Ship**]({{< ref "/categories/" >}}Admin-Ships).
 
 ## Description
 

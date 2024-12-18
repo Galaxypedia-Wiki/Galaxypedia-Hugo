@@ -7,4 +7,4 @@ categories:
 title: Lament
 ---
 
-The Lament was an NPC ship added for the 2021 Halloween event, It has a fast speed and strong turrets
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The Lament was an NPC ship added for the 2021 Halloween event, It has a fast speed and strong turrets

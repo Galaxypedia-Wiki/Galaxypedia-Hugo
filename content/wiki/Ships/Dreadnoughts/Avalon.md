@@ -13,7 +13,7 @@ categories:
 title: Avalon
 ---
 
-The **_Avalon_** is a light, [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts). 
+{{< shipInfobox >}} The **_Avalon_** is a light, [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts). 
 
 ## Description
 

@@ -8,7 +8,7 @@ categories:
 title: Frenzy
 ---
 
-The**_Frenzy_** is a [Fighter-class ship]({{< ref "/wiki/" >}}:category:fighters) modeled after the Fury.
+{{< shipInfobox >}} The**_Frenzy_** is a [Fighter-class ship]({{< ref "/wiki/" >}}:category:fighters) modeled after the Fury.
 
 ![Old Frenzy
 Model(s)](7134A05D-B539-42D9-9B09-01F229CB1038.png "Old Frenzy Model(s)")

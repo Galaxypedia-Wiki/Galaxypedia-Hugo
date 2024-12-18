@@ -11,7 +11,7 @@ categories:
 title: Arthur
 ---
 
-The **_Arthur_** is a fast and powerful **[Cruiser]({{< ref "/categories/" >}}Cruisers)**.
+{{< shipInfobox >}} The **_Arthur_** is a fast and powerful **[Cruiser]({{< ref "/categories/" >}}Cruisers)**.
 
 ## Description
 

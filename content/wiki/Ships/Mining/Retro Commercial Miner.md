@@ -9,7 +9,7 @@ categories:
 title: Retro Commercial Miner
 ---
 
-The **_Retro Commercial Miner_** is a Retro Model of the [Commercial Miner]({{< ref "/wiki/" >}}Commercial-Miner).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Commercial Miner_** is a Retro Model of the [Commercial Miner]({{< ref "/wiki/" >}}Commercial-Miner).
 
 ## Description
 

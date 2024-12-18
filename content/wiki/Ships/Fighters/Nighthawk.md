@@ -8,7 +8,7 @@ categories:
 title: Nighthawk
 ---
 
-The **_Nighthawk_** is a fast but weak [**Fighter**]({{< ref "/categories/" >}}Fighters).
+{{< shipInfobox >}} The **_Nighthawk_** is a fast but weak [**Fighter**]({{< ref "/categories/" >}}Fighters).
 
 ## Description
 

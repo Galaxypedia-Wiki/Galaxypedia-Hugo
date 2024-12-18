@@ -7,7 +7,7 @@ categories:
 title: Striker
 ---
 
-The **_Striker_** is a [**Fighter-class**]({{< ref "/categories/" >}}Fighters) ship found in multiple [Carriers]({{< ref "/categories/" >}}Carriers). 
+{{< shipInfobox >}} The **_Striker_** is a [**Fighter-class**]({{< ref "/categories/" >}}Fighters) ship found in multiple [Carriers]({{< ref "/categories/" >}}Carriers). 
 
 ## Description
 

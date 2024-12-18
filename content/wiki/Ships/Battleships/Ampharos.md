@@ -11,7 +11,7 @@ categories:
 title: Ampharos
 ---
 
-The **_Ampharos_** is a [**Battleship**]({{< ref "/categories/" >}}Battleships) great for defending heavy [Dreadnought]({{< ref "/categories/" >}}Dreadnoughts) ships during a siege. 
+{{< shipInfobox >}} The **_Ampharos_** is a [**Battleship**]({{< ref "/categories/" >}}Battleships) great for defending heavy [Dreadnought]({{< ref "/categories/" >}}Dreadnoughts) ships during a siege. 
 
 ## Description
 

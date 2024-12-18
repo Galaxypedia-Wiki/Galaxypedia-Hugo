@@ -7,7 +7,7 @@ categories:
 title: Peter Gryphon
 ---
 
-## Description
+{{< shipInfobox >}} {{< notices/adminShip >}} ## Description
 
 The **peter gryphon** was a small [Admin]({{< ref "/categories/" >}}Admin-Ships) ship available to only Admins in Galaxy. It was a Peter Griffin-themed recolor of the [Gryphon]({{< ref "/wiki/" >}}Gryphon) that played an instrumental version of the Family Guy theme.
 

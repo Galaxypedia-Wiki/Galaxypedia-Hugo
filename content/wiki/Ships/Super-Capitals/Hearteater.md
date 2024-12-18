@@ -9,7 +9,7 @@ categories:
 title: Hearteater
 ---
 
-_This article describes the NPC vessel. To see the player ship counterpart, see [Widowmaker]({{< ref "/wiki/" >}}Widowmaker)._ The **Hearteater** is a Pirate AI [Super Capital]({{< ref "/categories/" >}}Super-Capital-Ships) (formerly a [Battleship]({{< ref "/categories/" >}}Battleships)) released on February 14th, 2022; during the Valentine's Day 2022 Event. 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/outdatedInfo >}} {{< notices/npcShip >}} _This article describes the NPC vessel. To see the player ship counterpart, see [Widowmaker]({{< ref "/wiki/" >}}Widowmaker)._ The **Hearteater** is a Pirate AI [Super Capital]({{< ref "/categories/" >}}Super-Capital-Ships) (formerly a [Battleship]({{< ref "/categories/" >}}Battleships)) released on February 14th, 2022; during the Valentine's Day 2022 Event. 
 
 ## Description
 

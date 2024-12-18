@@ -11,7 +11,7 @@ categories:
 title: Astaroth
 ---
 
-The **_Astaroth_** is a precursor [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) that is part of the Halloween Event 2019.
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Astaroth_** is a precursor [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) that is part of the Halloween Event 2019.
 
 ## Description
 

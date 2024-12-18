@@ -7,7 +7,7 @@ categories:
 title: Egg
 ---
 
-The **_Egg_**is s0phied's personal **[Admin]({{< ref "/categories/" >}}Admin-Ships)**[ **Ship**]({{< ref "/categories/" >}}Admin-Ships).
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_Egg_**is s0phied's personal **[Admin]({{< ref "/categories/" >}}Admin-Ships)**[ **Ship**]({{< ref "/categories/" >}}Admin-Ships).
 
 ## Description
 

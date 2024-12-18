@@ -13,7 +13,7 @@ categories:
 title: United States of Razor
 ---
 
-The **_United States of Razor_** is a limited edition remodel of the old [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing) for the President's Day Event.  
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_United States of Razor_** is a limited edition remodel of the old [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing) for the President's Day Event.  
 
 ## Description
 

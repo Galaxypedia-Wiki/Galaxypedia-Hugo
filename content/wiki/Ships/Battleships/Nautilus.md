@@ -8,7 +8,7 @@ categories:
 title: Nautilus
 ---
 
-The **_Nautilus_** is a unique **[Battleship]({{< ref "/categories/" >}}Battleships)** added unexpectedly on April 5th, 2020.
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Nautilus_** is a unique **[Battleship]({{< ref "/categories/" >}}Battleships)** added unexpectedly on April 5th, 2020.
 
 ## Description
 

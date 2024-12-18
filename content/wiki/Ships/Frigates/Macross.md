@@ -8,7 +8,7 @@ categories:
 title: Macross
 ---
 
-The **Macross** is a [Limited]({{< ref "/categories/" >}}Limited-Ships) [Frigate]({{< ref "/categories/" >}}Frigates) released during the [Fourth of July 2022]({{< ref "/wiki/" >}}Fourth-of-July-2022) event (Rereleased during the Fourth of July 2023 event). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **Macross** is a [Limited]({{< ref "/categories/" >}}Limited-Ships) [Frigate]({{< ref "/categories/" >}}Frigates) released during the [Fourth of July 2022]({{< ref "/wiki/" >}}Fourth-of-July-2022) event (Rereleased during the Fourth of July 2023 event). 
 
 ## Description
 

@@ -10,7 +10,7 @@ categories:
 title: Ishkur
 ---
 
-The **_Ishkur_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Frigate**]({{< ref "/categories/" >}}Frigates).
+{{< shipInfobox >}} The **_Ishkur_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Frigate**]({{< ref "/categories/" >}}Frigates).
 
 ## Description
 

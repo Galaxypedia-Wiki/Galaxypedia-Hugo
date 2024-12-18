@@ -10,7 +10,7 @@ categories:
 title: Nyx
 ---
 
-The **_Nyx_** is one of the largest ships in Galaxy and has one of the highest health totals out of all carriers, along with the highest fighter dps of all non-limited [Carriers]({{< ref "/categories/" >}}Carriers).
+{{< shipInfobox >}} {{< notices/outdatedInfo >}} The **_Nyx_** is one of the largest ships in Galaxy and has one of the highest health totals out of all carriers, along with the highest fighter dps of all non-limited [Carriers]({{< ref "/categories/" >}}Carriers).
 
 ## Description
 

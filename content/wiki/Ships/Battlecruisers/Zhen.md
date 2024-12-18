@@ -10,7 +10,7 @@ categories:
 title: Zhen
 ---
 
-The **_Zhen_** is a swift and [**Advanced**]({{< ref "/categories/" >}}Advanced-Ships) **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)**.
+{{< shipInfobox >}} {{< notices/advancedShip >}} The **_Zhen_** is a swift and [**Advanced**]({{< ref "/categories/" >}}Advanced-Ships) **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)**.
 
 ## Description
 

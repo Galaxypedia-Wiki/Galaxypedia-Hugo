@@ -8,7 +8,7 @@ categories:
 title: Devil's Broom
 ---
 
-The **_Devil's Broom_** is a [**Cruiser**]({{< ref "/categories/" >}}Cruisers) added during the [2021 Halloween Event]({{< ref "/categories/" >}}Halloween-2021).
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Devil's Broom_** is a [**Cruiser**]({{< ref "/categories/" >}}Cruisers) added during the [2021 Halloween Event]({{< ref "/categories/" >}}Halloween-2021).
 
 ## Description
 

@@ -7,7 +7,7 @@ categories:
 title: Anathema
 ---
 
-_This page is about the player-ownable vessel. If you're looking for the NPC variant, see [An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗]({{< ref "/wiki/" >}}An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗)._
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} _This page is about the player-ownable vessel. If you're looking for the NPC variant, see [An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗]({{< ref "/wiki/" >}}An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗)._
 
 The **Anathema** is a [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022) [Quest]({{< ref "/categories/" >}}Quests) [Battlecruiser]({{< ref "/categories/" >}}Battlecruisers).
 

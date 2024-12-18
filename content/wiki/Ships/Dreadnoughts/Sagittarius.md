@@ -10,7 +10,7 @@ categories:
 title: Sagittarius
 ---
 
-The **_Sagittarius_** is a long-range shield-breaking [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts). 
+{{< shipInfobox >}} The **_Sagittarius_** is a long-range shield-breaking [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts). 
 
 ## Description
 

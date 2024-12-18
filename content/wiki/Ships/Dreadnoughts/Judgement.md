@@ -11,7 +11,7 @@ categories:
 title: Judgement
 ---
 
-The **_Judgement_**is a Shield-oriented Support/PvP [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts). It is an extremely good ship for the destruction of large ships. 
+{{< shipInfobox >}} The **_Judgement_**is a Shield-oriented Support/PvP [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts). It is an extremely good ship for the destruction of large ships. 
 
 ## Description
 

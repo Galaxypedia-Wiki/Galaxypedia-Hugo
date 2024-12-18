@@ -14,7 +14,7 @@ categories:
 title: Cyber Leviathan
 ---
 
-The **_Cyber Leviathan_**is a redesigned version of the [Leviathan]({{< ref "/wiki/" >}}Leviathan) made for the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Cyber Leviathan_**is a redesigned version of the [Leviathan]({{< ref "/wiki/" >}}Leviathan) made for the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018). 
 
 ## Description
 

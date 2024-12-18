@@ -12,7 +12,7 @@ categories:
 title: Retro Cyclops
 ---
 
-The **_Retro Cyclops_** is a replica of the original** **[Cyclops-class]({{< ref "/wiki/" >}}Cyclops) **[Dreadnought]({{< ref "/categories/" >}}Dreadnoughts)** added during the [Retro Ship Event 2020]({{< ref "/wiki/" >}}Retro-Ship-Event-2020). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Cyclops_** is a replica of the original** **[Cyclops-class]({{< ref "/wiki/" >}}Cyclops) **[Dreadnought]({{< ref "/categories/" >}}Dreadnoughts)** added during the [Retro Ship Event 2020]({{< ref "/wiki/" >}}Retro-Ship-Event-2020). 
 
 ## Description
 

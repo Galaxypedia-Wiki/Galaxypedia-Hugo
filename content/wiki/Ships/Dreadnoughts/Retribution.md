@@ -12,7 +12,7 @@ categories:
 title: Retribution
 ---
 
-**_Retribution_** is a multi-purpose **[Dreadnought]({{< ref "/categories/" >}}Dreadnoughts)**. 
+{{< shipInfobox >}} **_Retribution_** is a multi-purpose **[Dreadnought]({{< ref "/categories/" >}}Dreadnoughts)**. 
 
 ## Description
 

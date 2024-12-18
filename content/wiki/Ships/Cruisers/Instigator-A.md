@@ -11,7 +11,7 @@ categories:
 title: Instigator-A
 ---
 
-_Not to be confused with the [**Fighter-class**]({{< ref "/categories/" >}}Fighters) [Instigator]({{< ref "/wiki/" >}}Instigator)._
+{{< shipInfobox >}} _Not to be confused with the [**Fighter-class**]({{< ref "/categories/" >}}Fighters) [Instigator]({{< ref "/wiki/" >}}Instigator)._
 
 The Instigator-A is a [**Cruiser-class**]({{< ref "/categories/" >}}Cruisers) variant of the [Nimitz]({{< ref "/wiki/" >}}Nimitz)'s [Instigator]({{< ref "/wiki/" >}}Instigator) fighter.
 

@@ -10,7 +10,7 @@ categories:
 title: Necromancer
 ---
 
-The **_Necromancer_** is a boss [**AI**]({{< ref "/categories/" >}}NPC-Ships) ship added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) 
+{{< shipInfobox >}} {{< notices/npcShip >}} The **_Necromancer_** is a boss [**AI**]({{< ref "/categories/" >}}NPC-Ships) ship added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) 
 
 ## Description
 

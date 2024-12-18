@@ -9,7 +9,7 @@ categories:
 title: Prowler
 ---
 
-The **_Prowler_** is a cheap but strong [**Battleship**]({{< ref "/categories/" >}}Battleships). 
+{{< shipInfobox >}} The **_Prowler_** is a cheap but strong [**Battleship**]({{< ref "/categories/" >}}Battleships). 
 
 ## Description
 

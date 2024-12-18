@@ -9,7 +9,7 @@ categories:
 title: Maple Galaxy
 ---
 
-The **Maple Galaxy** is an improved galaxy only given to Galaxy Staff Members. 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **Maple Galaxy** is an improved galaxy only given to Galaxy Staff Members. 
 
 ## Description
 

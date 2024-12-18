@@ -7,7 +7,7 @@ categories:
 title: Enigma
 ---
 
-The **Enigma** is a **[Developer-only Ship]({{< ref "/categories/" >}}Admin-Ships)** comprised of an amalgamation of now-removed features.''
+{{< shipInfobox >}} {{< notices/removed >}} The **Enigma** is a **[Developer-only Ship]({{< ref "/categories/" >}}Admin-Ships)** comprised of an amalgamation of now-removed features.''
 
 ## Description
 

@@ -8,7 +8,7 @@ categories:
 title: Hijacked Kodiak
 ---
 
-The **_Hijacked Kodiak_** is an unobtainable [Super Capital]({{< ref "/categories/" >}}Super-Capital-Ships) that differs somewhat from the original [Kodiak]({{< ref "/wiki/" >}}Kodiak). 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/superCapitalShip >}} The **_Hijacked Kodiak_** is an unobtainable [Super Capital]({{< ref "/categories/" >}}Super-Capital-Ships) that differs somewhat from the original [Kodiak]({{< ref "/wiki/" >}}Kodiak). 
 
 ## Description
 

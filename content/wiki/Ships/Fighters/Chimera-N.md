@@ -9,7 +9,7 @@ categories:
 title: Chimera-N
 ---
 
-## Description
+{{< shipInfobox >}} {{< notices/underConstruction >}} ## Description
 
 The Chimera-N is a fighter for the carrier [Conqueror]({{< ref "/wiki/" >}}Conqueror) that uses the model of the [Chimera-S]({{< ref "/wiki/" >}}Chimera-S)
 

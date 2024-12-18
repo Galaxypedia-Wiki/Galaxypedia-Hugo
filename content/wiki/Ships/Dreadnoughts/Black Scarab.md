@@ -11,7 +11,7 @@ categories:
 title: Black Scarab
 ---
 
-The **_Black Scarab_**is a powerful event [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) from phase two of the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Black Scarab_**is a powerful event [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) from phase two of the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020). 
 
 ## Description
 

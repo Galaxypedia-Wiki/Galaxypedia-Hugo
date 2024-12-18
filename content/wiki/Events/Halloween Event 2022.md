@@ -7,7 +7,7 @@ categories:
 title: Halloween Event 2022
 ---
 
-<h3 style="font-size:13pt;color:#ff7500;float: left;
+{{< notices/removed >}} <h3 style="font-size:13pt;color:#ff7500;float: left;
     margin-left: 10.5%;">
 
 ***'[...] Osiris [...] Fleet [...] Several signatures [...] Heavy losses [...]** **_They're multiplying!_** **Send [...] Urgently!***'

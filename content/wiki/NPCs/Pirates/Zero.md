@@ -9,7 +9,7 @@ categories:
 title: Zero
 ---
 
-The **_Zero_**is a very good [**Destroyer**]({{< ref "/wiki/" >}}:category:destroyer) for dog-fighting.
+{{< shipInfobox >}} The **_Zero_**is a very good [**Destroyer**]({{< ref "/wiki/" >}}:category:destroyer) for dog-fighting.
 
 ## Description
 

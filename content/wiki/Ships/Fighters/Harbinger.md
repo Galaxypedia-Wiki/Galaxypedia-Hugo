@@ -8,7 +8,7 @@ categories:
 title: Harbinger
 ---
 
-The **_Harbinger_** is a large **[Fighter]({{< ref "/categories/" >}}Fighters)** spawned by the [Prometheus]({{< ref "/wiki/" >}}Prometheus). 
+{{< shipInfobox >}} The **_Harbinger_** is a large **[Fighter]({{< ref "/categories/" >}}Fighters)** spawned by the [Prometheus]({{< ref "/wiki/" >}}Prometheus). 
 
 ## Description 
 

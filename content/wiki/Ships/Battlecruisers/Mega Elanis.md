@@ -7,7 +7,7 @@ categories:
 title: Mega Elanis
 ---
 
-_This page is about the Battlecruiser. If you're looking for the Fighter variant, see [Elanis]({{< ref "/wiki/" >}}Elanis)._
+{{< shipInfobox >}} {{< notices/limitedShip >}} _This page is about the Battlecruiser. If you're looking for the Fighter variant, see [Elanis]({{< ref "/wiki/" >}}Elanis)._
 
 The **Mega Elanis** was a free [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers)-class ship with surprisingly good weaponry. It is currently disabled. It is the only max speed ship with Turrets.
 

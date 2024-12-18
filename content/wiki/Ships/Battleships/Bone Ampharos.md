@@ -15,7 +15,7 @@ categories:
 title: Bone Ampharos
 ---
 
-The **_Bone Ampharos_** is a limited edition version of the [Ampharos]({{< ref "/wiki/" >}}Ampharos) belonging to the Halloween Event 2017.
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Bone Ampharos_** is a limited edition version of the [Ampharos]({{< ref "/wiki/" >}}Ampharos) belonging to the Halloween Event 2017.
 
 ## Description
 

@@ -10,7 +10,7 @@ categories:
 title: Obliterator
 ---
 
-The **_Obliterator_** is an extremely powerful [Alien]({{< ref "/wiki/" >}}Aliens)-themed [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts).
+{{< shipInfobox >}} The **_Obliterator_** is an extremely powerful [Alien]({{< ref "/wiki/" >}}Aliens)-themed [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts).
 
 ## Description
 

@@ -10,7 +10,7 @@ categories:
 title: Retro Aegis
 ---
 
-The Retro Aegis is the retro version of the [Aegis]({{< ref "/wiki/" >}}Aegis), a very powerful shield-shredding Limited [Battleship]({{< ref "/wiki/" >}}Ships).
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The Retro Aegis is the retro version of the [Aegis]({{< ref "/wiki/" >}}Aegis), a very powerful shield-shredding Limited [Battleship]({{< ref "/wiki/" >}}Ships).
 
 ## Description
 

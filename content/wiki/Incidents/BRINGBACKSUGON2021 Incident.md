@@ -6,7 +6,7 @@ categories:
 title: BRINGBACKSUGON2021 Incident
 ---
 
-2 days after the [demotion of Galaxy Developer Sugondese]({{< ref "/wiki/" >}}Sugondese-Dev-Demotion), the event known as the **#BRINGBACKSUGON2021 Incident** occurred.
+{{< notices/communityIncident >}} 2 days after the [demotion of Galaxy Developer Sugondese]({{< ref "/wiki/" >}}Sugondese-Dev-Demotion), the event known as the **#BRINGBACKSUGON2021 Incident** occurred.
 
 ## Summary
 

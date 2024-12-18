@@ -10,7 +10,7 @@ categories:
 title: Revenant
 ---
 
-The **Revenant** is a [Battleship]({{< ref "/categories/" >}}Battleships) added during the first part of the [2021 Halloween Event]({{< ref "/categories/" >}}Halloween-2021). 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **Revenant** is a [Battleship]({{< ref "/categories/" >}}Battleships) added during the first part of the [2021 Halloween Event]({{< ref "/categories/" >}}Halloween-2021). 
 
 ## Description
 
