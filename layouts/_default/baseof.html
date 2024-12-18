@@ -4,7 +4,12 @@
     <!-- Meta tags -->
     <meta
       name="title"
-      content="Galaxypedia - {{ .Title }}"
+      content="{{ if .Title }}
+        Galaxypedia -
+        {{ .Title }}
+      {{ else }}
+        Galaxypedia
+      {{ end }}"
       property="og:title"
       property="twitter:title"
     />
