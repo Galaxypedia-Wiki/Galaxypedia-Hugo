@@ -41,14 +41,26 @@ jobs:
           HUGO_ENVIRONMENT: ${{ inputs.development && 'development' || 'production' }}
           ACTOR: ${{ github.event.pull_request.user.login }}
           REF: ${{ github.event.pull_request.head.ref }}
+          BASE_REPO: ${{ github.repository }}
+          HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
         run: |
+          echo "Building for $HUGO_ENVIRONMENT"
           if [ "$HUGO_ENVIRONMENT" = "production" ]; then
             export HUGO_PAGE_URL="https://v2.galaxypedia.org"
           else
-            export HUGO_PAGE_URL="https://${ACTOR}-${REF}.galaxypedia.pages.dev"
+            if [ "$BASE_REPO" = "$HEAD_REPO" ]; then
+              slug="${REF}"
+            else
+              slug="${ACTOR}-${REF}"
+            fi
+
+            trimmed=${slug:0:28} # cloudflare pages trims the subdomain to 28 characters
+            result=${trimmed%-}
+
+            export HUGO_BASE_URL="https://${result}.galaxypedia.pages.dev"
           fi
-          echo $HUGO_PAGE_URL
-          hugo --minify --baseURL "$HUGO_PAGE_URL"
+          echo $HUGO_BASE_URL
+          hugo --minify --baseURL "$HUGO_BASE_URL"
       - name: Build Pagefind index
         run: pnpm pagefind
       - name: Upload build artifact
