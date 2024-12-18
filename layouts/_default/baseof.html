@@ -65,6 +65,13 @@
       {{ end }}
       {{ $t.Stop }}
     {{ end }}
+    <link href="{{ .Site.BaseURL }}pagefind/pagefind-ui.css" rel="stylesheet" />
+    <script src="{{ .Site.BaseURL }}pagefind/pagefind-ui.js"></script>
+  <script>
+    window.addEventListener("DOMContentLoaded", (event) => {
+      new PagefindUI({ element: "#search" });
+    });
+  </script>
   </head>
   <body>
     <div class="content markdown">
