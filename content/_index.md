@@ -1,3 +1,7 @@
+---
+description: The new era of the Galaxy Wiki
+---
+
 <div class="text-center">
 
 <div class="mb-8 select-none break-words" style="container-type: inline-size;">
