@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Sanguine
+  - /wiki/Sanguine
 categories:
-- Fighters
-- Ships
-- Support Ships
-- Limited Ships
-- Removed From Game
+  - Fighters
+  - Ships
+  - Support Ships
+  - Limited Ships
+  - Removed From Game
 title: Sanguine
 ---
 
-{{< shipInfobox >}} The **_Sanguine_** was the original [**Fighter**]({{< ref "/categories/" >}}fighters) found in the [Sakala]({{< ref "/wiki/" >}}Sakala). 
+{{< shipInfobox >}} The **_Sanguine_** was the original [**Fighter**]({{< ref "/categories/" >}}fighters) found in the [Sakala]({{< ref "/wiki/" >}}Sakala).
 
 ## Description
 
@@ -44,7 +44,7 @@ The **Sanguine** is a large and powerful [Fighter]({{< ref "/categories/" >}}fig
 - Good against [Frigates]({{< ref "/categories/" >}}frigates) or other Fighters smaller than it, but is unable to combat larger ships on its own.
 - Use in swarms and with other ships to create a powerful force.
 
-## Version History 
+## Version History
 
 - Received a nerf to its shield health in version ???
 - Received a "retro" remodel inspired by the Gargoyle from Star Conflict in version .64c.

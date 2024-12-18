@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Oblivion
+  - /wiki/Oblivion
 categories:
-- Ships
-- Capital Ships
-- Super Capital Ships
-- PVP Ships
+  - Ships
+  - Capital Ships
+  - Super Capital Ships
+  - PVP Ships
 title: Oblivion
 ---
 
@@ -45,7 +45,7 @@ Key Characteristics:
   - However, it is possible to fight off smaller swarms on your own, provided you are using the ship's module to constantly teleport and keep your enemies out of your blind spots as much as possible. Although, you have to be careful that you do not do so while isolated for too long, or you will likely become the target of a heavy assault by a fleet of many enemy ships.
 - Avoid fighting ships like the [Astraeus]({{< ref "/wiki/" >}}Astraeus) which are able to use their long range and high alpha damage against you without support. This ship is capable of a lot, but do not forget that its range is rather limited by comparison to [siege ships]({{< ref "/categories/" >}}siege-ships).
 
-## Version History 
+## Version History
 
 Version Changes Date (UTC)
 

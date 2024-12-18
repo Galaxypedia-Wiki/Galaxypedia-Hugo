@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Consul
+  - /wiki/Consul
 categories:
-- Ships
-- Battleships
-- PVP Ships
-- Capital Ships
+  - Ships
+  - Battleships
+  - PVP Ships
+  - Capital Ships
 title: Consul
 ---
 
@@ -40,7 +40,7 @@ The **Consul**has little to no interior with one teleporter on the back of the s
 - Try to stay in ranges or at angles that maximize the turret lines of sight.
 - Turn your ship sideways when fighting ships above/below you so your Triple Heavy Lasers and Heavy LR Laser are both in field of view.
 
-## Version History 
+## Version History
 
 - Received a remodel in version .66b.
 - [Shields]({{< ref "/wiki/" >}}Shields) reduced to 3000 and [Hull]({{< ref "/wiki/" >}}Hull) reduced to 2350 in version .69a1.

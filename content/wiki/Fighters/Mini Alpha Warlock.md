@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Mini-Alpha-Warlock
+  - /wiki/Mini-Alpha-Warlock
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Mini Alpha Warlock
 ---
 

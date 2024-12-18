@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Noob
+  - /wiki/Noob
 categories:
-- Removed From Game
-- Limited Ships
-- Halloween 2018
-- NPCS
-- Christmas Event 2018
+  - Removed From Game
+  - Limited Ships
+  - Halloween 2018
+  - NPCS
+  - Christmas Event 2018
 title: Noob
 ---
 

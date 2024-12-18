@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Zhanado
+  - /wiki/Zhanado
 categories:
-- Frigates
-- PVP Ships
-- Ships
-- Support Ships
-- Pirate Ships
-- VIP Ships
+  - Frigates
+  - PVP Ships
+  - Ships
+  - Support Ships
+  - Pirate Ships
+  - VIP Ships
 title: Zhanado
 ---
 
-{{< shipInfobox >}} The **_Zhanado_** is a powerfuland cheap **[Frigate]({{< ref "/categories/" >}}frigates)** that focuses on [Spinals]({{< ref "/wiki/" >}}Spinals). 
+{{< shipInfobox >}} The **_Zhanado_** is a powerfuland cheap **[Frigate]({{< ref "/categories/" >}}frigates)** that focuses on [Spinals]({{< ref "/wiki/" >}}Spinals).
 
 ## Description
 
@@ -41,7 +41,7 @@ The interior of the **Zhanado** is a cockpit with a chair, in which features a j
 - While it is still a relatively slow Frigate, utilize your small figure to dogfight with larger ships.
 - Great when used in a swarm due to its fairly high Spinal damage.
 
-## Version History 
+## Version History
 
 - Price and ore requirement was increased from original price-point.
 - Received remodel in update right after the Capital Cannons update part 1, but no official update name was given. The remodel also removed the VIP requirement.

@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Stimulant-Andromeda
+  - /wiki/Stimulant-Andromeda
 categories:
-- NPC Ships
-- Ultimate Retro Ship Event 2022
-- Dreadnoughts
-- Bosses
-- Ships
+  - NPC Ships
+  - Ultimate Retro Ship Event 2022
+  - Dreadnoughts
+  - Bosses
+  - Ships
 title: Stimulant Andromeda
 ---
 

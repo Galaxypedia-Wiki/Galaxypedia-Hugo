@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Nyx
+  - /wiki/Nyx
 categories:
-- Ships
-- Carriers
-- Support Ships
-- PVP Ships
-- Capital Ships
+  - Ships
+  - Carriers
+  - Support Ships
+  - PVP Ships
+  - Capital Ships
 title: Nyx
 ---
 
@@ -57,7 +57,7 @@ Upon entering the bridge you will be teleported to an empty black box with the p
 - If the enemy faction is sieging, try to use your own fighters to defend the base.
 - Though the **Nyx** is capable of tanking, always be ready to escape or despawn, as being dived could easily lead to death due to the **Nyx's** low mobility and firepower. Never overestimate the vessel's health.
 
-## Version History 
+## Version History
 
 - As of December 20, 2021 the Nyx requires 8 Armored Platings.
 - Buffed in version .64c to add 2 [Medium Lasers]({{< ref "/wiki/" >}}Turrets) and 2 [Light Gatling Cannons]({{< ref "/wiki/" >}}Turrets).

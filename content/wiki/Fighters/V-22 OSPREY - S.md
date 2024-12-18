@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/V-22-OSPREY---S
+  - /wiki/V-22-OSPREY---S
 categories:
-- Fighters
-- PVP Ships
-- Support Ships
-- Ships
+  - Fighters
+  - PVP Ships
+  - Support Ships
+  - Ships
 title: V-22 OSPREY - S
 ---
 

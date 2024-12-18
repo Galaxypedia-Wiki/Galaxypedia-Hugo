@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Behemoth
+  - /wiki/Behemoth
 categories:
-- Dreadnoughts
-- PVP Ships
-- Siege Ships
-- Ships
-- Support Ships
-- All-Rounder Ships
-- Pirate Ships
-- Capital Ships
-- Broadsides
+  - Dreadnoughts
+  - PVP Ships
+  - Siege Ships
+  - Ships
+  - Support Ships
+  - All-Rounder Ships
+  - Pirate Ships
+  - Capital Ships
+  - Broadsides
 title: Behemoth
 ---
 
-{{< shipInfobox >}} The **_Behemoth_** is a powerful PvP [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts). 
+{{< shipInfobox >}} The **_Behemoth_** is a powerful PvP [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
 
 ## Description
 
@@ -44,7 +44,7 @@ The **Behemoth** has a very small interior. It consists of a square room with a 
 
 - Use the **Behemoth's** good [Turret]({{< ref "/wiki/" >}}Turrets) placement to your advantage in battles with bigger [ships]({{< ref "/wiki/" >}}ships).
 
-## Version History 
+## Version History
 
 - Remodeled in version ???.
 - Remodeled again in version ???.

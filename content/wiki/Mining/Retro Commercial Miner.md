@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Retro-Commercial-Miner
+  - /wiki/Retro-Commercial-Miner
 categories:
-- Mining Ships
-- Ships
-- Retro Ship Event 2021
-- Limited Ships
+  - Mining Ships
+  - Ships
+  - Retro Ship Event 2021
+  - Limited Ships
 title: Retro Commercial Miner
 ---
 
@@ -43,7 +43,7 @@ The **Retro Commercial Miner** has almost no interior. There is just a large gla
 - Never mine in a [War]({{< ref "/wiki/" >}}War).
 - Mine in a Private Server if you have access to one.
 
-## Version History 
+## Version History
 
 - Added in version .73a3 as part of the 2021 Retro Ship Event.
 - Ore Hold buffed from 2500 to 3250, Turn Speed nerfed from 0.8 to 0.55, Acceleration buffed from 10 to 40 after the Retro Event ended.

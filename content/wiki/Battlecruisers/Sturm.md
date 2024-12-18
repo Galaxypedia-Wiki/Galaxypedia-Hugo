@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Sturm
+  - /wiki/Sturm
 categories:
-- Battlecruisers
-- Pirate Ships
-- PVP Ships
-- Support Ships
-- Ships
-- Hull breakers
+  - Battlecruisers
+  - Pirate Ships
+  - PVP Ships
+  - Support Ships
+  - Ships
+  - Hull breakers
 title: Sturm
 ---
 
-{{< shipInfobox >}} {{< notices/outdatedInfo >}} The **_Sturm_** is a fast PVP **[Battlecruiser]({{< ref "/wiki/" >}}:category:battlecruiser)**. 
+{{< shipInfobox >}} {{< notices/outdatedInfo >}} The **_Sturm_** is a fast PVP **[Battlecruiser]({{< ref "/wiki/" >}}:category:battlecruiser)**.
 
 ## Description
 
@@ -43,7 +43,7 @@ There is no longer an interior as the ship now has the dreaded forward facing do
 - Always keep an eye on the minimap, as a high-firepower ship such as a Dreadnought or Battleship could easily destroy you.
 - Make hiding in blindspots your first priority, and use your high mobility to stay there, because what good is high firepower if someone evaporates your small health pool.
 
-## Version History 
+## Version History
 
 - Remodeled in version .66b.
 - Remodeled in version .69a2.

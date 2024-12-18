@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Vampire-X-R4
+  - /wiki/Vampire-X-R4
 categories:
-- Ships
-- Cruisers
-- Limited Ships
-- Halloween 2020
+  - Ships
+  - Cruisers
+  - Limited Ships
+  - Halloween 2020
 title: Vampire X-R4
 ---
 
@@ -39,7 +39,7 @@ The interior of the **Vampire X-R4** is a simple cockpit with a display.
 - Distract Starbase turrets at close ranges during sieges.
 - Use the high turn speed to easily dodge turret fire.
 
-## Version History 
+## Version History
 
 - Spinal count increased from 1 set of 2 Medium Phasers to 2 sets of 3 Medium Phasers in version .72e1
 - One set of Spinals switched from Phasers to Cannons, top speed buffed from 296 to 350, and acceleration buffed from 29 to 35 in version .75a

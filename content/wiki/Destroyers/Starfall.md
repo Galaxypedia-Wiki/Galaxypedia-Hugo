@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Starfall
+  - /wiki/Starfall
 categories:
-- Ships
-- Destroyers
-- PVP Ships
-- Support Ships
+  - Ships
+  - Destroyers
+  - PVP Ships
+  - Support Ships
 title: Starfall
 ---
 
@@ -39,7 +39,7 @@ The **Starfall** interior has the pilot seat as well as a passenger seat behin
 
 - Keep in mind that most [ships]({{< ref "/wiki/" >}}ships) have [Turrets]({{< ref "/wiki/" >}}Turrets) on top so be aware to stay out of their line of fire.
 
-## Version History 
+## Version History
 
 - Cargo Hold was decreased by 1 in .75a3.
 - The **Starfall** got its HP nerfed from 1000/1000 to 700/650 in an unknown sub-version of update .61g.

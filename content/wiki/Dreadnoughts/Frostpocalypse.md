@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Frostpocalypse
+  - /wiki/Frostpocalypse
 categories:
-- Dreadnoughts
-- Limited Ships
-- Reskins
-- Christmas Event 2018
-- Capital Ships
-- Ships
-- PVP Ships
-- Support Ships
-- Siege Ships
+  - Dreadnoughts
+  - Limited Ships
+  - Reskins
+  - Christmas Event 2018
+  - Capital Ships
+  - Ships
+  - PVP Ships
+  - Support Ships
+  - Siege Ships
 title: Frostpocalypse
 ---
 
@@ -44,7 +44,7 @@ The **Frostpocalypse** has an interior similar to the interior of the regular [A
 
 - PvP other large ships with your fleet and stay close to the front lines, enabling your team to attack from the sides or support from afar.
 
-## Version History 
+## Version History
 
 - Added in .65b.
 - The [Large Railguns]({{< ref "/wiki/" >}}Turrets) got nerfed and were replaced by [Medium Railguns]({{< ref "/wiki/" >}}Turrets) in an unspecified version.

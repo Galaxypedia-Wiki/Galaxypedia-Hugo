@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Arctic-Fox
+  - /wiki/Arctic-Fox
 categories:
-- NPC Ships
-- Christmas Event 2022
-- Battleships
-- Ships
+  - NPC Ships
+  - Christmas Event 2022
+  - Battleships
+  - Ships
 title: Arctic Fox
 ---
 

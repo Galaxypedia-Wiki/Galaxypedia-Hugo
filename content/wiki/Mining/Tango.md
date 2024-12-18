@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Tango
+  - /wiki/Tango
 categories:
-- Ships
-- Mining Ships
+  - Ships
+  - Mining Ships
 title: Tango
 ---
 
-{{< shipInfobox >}} The **_Tango_** is a small and fast early-game [**Miner**]({{< ref "/categories/" >}}mining-ships)-class ship. 
+{{< shipInfobox >}} The **_Tango_** is a small and fast early-game [**Miner**]({{< ref "/categories/" >}}mining-ships)-class ship.
 
 ## Description
 
@@ -48,7 +48,7 @@ The minuscule interior of the **Tango** consists of a dome that houses the cockp
 - If [Mining]({{< ref "/wiki/" >}}Mining) at [War]({{< ref "/wiki/" >}}War), check the [Minimap]({{< ref "/wiki/" >}}Minimap) every 30 seconds; however, it can be very foolish to insist on mining during a [War]({{< ref "/wiki/" >}}War).
 - If mining at war, stay close to your [Starbase]({{< ref "/wiki/" >}}Starbase) for protection.
 
-## Version History 
+## Version History
 
 - Was given a remodel .56?
 - .61h1? - [Warp Drive]({{< ref "/wiki/" >}}Warp-Drive) added.

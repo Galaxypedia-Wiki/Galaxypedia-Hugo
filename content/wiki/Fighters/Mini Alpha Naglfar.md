@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Mini-Alpha-Naglfar
+  - /wiki/Mini-Alpha-Naglfar
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Mini Alpha Naglfar
 ---
 

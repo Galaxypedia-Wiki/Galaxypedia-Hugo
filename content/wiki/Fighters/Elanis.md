@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Elanis
+  - /wiki/Elanis
 categories:
-- Ships
-- Fighters
-- PVP Ships
-- Support Ships
+  - Ships
+  - Fighters
+  - PVP Ships
+  - Support Ships
 title: Elanis
 ---
 
@@ -50,7 +50,7 @@ The interior of the **Elanis **is entered through a teleporter at the back, an
 - Use your turrets while recalled without the problem of needing to be recalled in order for the Hevnetier to warp.
 - Can be used with the [Hevnetier]({{< ref "/wiki/" >}}Hevnetier) in conjunction to offset its low hull damage.
 
-## Version History 
+## Version History
 
 - Introduced in version .69a2.
 - Buffed in .75a3^(Please list what was changed about the ship)^.

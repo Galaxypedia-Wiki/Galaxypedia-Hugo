@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Scowling
+  - /wiki/Scowling
 categories:
-- Ships
-- Battlecruisers
-- NPC Ships
-- Pirate Ships
+  - Ships
+  - Battlecruisers
+  - NPC Ships
+  - Pirate Ships
 title: Scowling
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Scowling_** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) class ship based on the [Nidhogg]({{< ref "/wiki/" >}}Nidhogg). 
+{{< shipInfobox >}} {{< notices/npcShip >}} The **_Scowling_** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) class ship based on the [Nidhogg]({{< ref "/wiki/" >}}Nidhogg).
 
 ## Description
 
@@ -35,7 +35,7 @@ This ship does not have an interior
 
 - Use a ship with powerful and accurate [Hull-breaking]({{< ref "/categories/" >}}hull-breakers) [turrets]({{< ref "/wiki/" >}}turrets) to defeat this ship as it is small and has little shields
 
-## Version History 
+## Version History
 
 - Removed from build menu on June 2nd, 2021 (version .72e1)
 - Originally called Hijacked Nidhogg. Was renamed when re-added to game as an NPC ship to prevent people who bought it from being able to use it.

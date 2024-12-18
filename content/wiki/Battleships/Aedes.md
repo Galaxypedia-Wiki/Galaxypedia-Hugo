@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Aedes
+  - /wiki/Aedes
 categories:
-- Halloween 2022
-- Ships
-- Limited Ships
-- Battleships
-- Capital Ships
+  - Halloween 2022
+  - Ships
+  - Limited Ships
+  - Battleships
+  - Capital Ships
 title: Aedes
 ---
 

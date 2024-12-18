@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Epoka
+  - /wiki/Epoka
 categories:
-- Ships
-- Limited Ships
-- Dreadnoughts
-- PVP Ships
-- Halloween 2021
-- Hull breakers
+  - Ships
+  - Limited Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Halloween 2021
+  - Hull breakers
 title: Epoka
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Epoka_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) which was added in the second part of [Halloween Event 2021]({{< ref "/categories/" >}}halloween-2021). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Epoka_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) which was added in the second part of [Halloween Event 2021]({{< ref "/categories/" >}}halloween-2021).
 
 ## Description
 
@@ -68,7 +68,7 @@ The **Interior** is a simple grey box with the seat in the center; It is located
 
 - Use this ship on those who are already [hulled]({{< ref "/wiki/" >}}Galaxy-Slang) while let others do shield damage.
 
-## Version History 
+## Version History
 
 - Added in version .74b3 during the second part of the Halloween Event 2021.
 - Refunded, along with other [Halloween Event 2021]({{< ref "/wiki/" >}}Halloween-Event-2021) ships due to broken models in version .75a10.

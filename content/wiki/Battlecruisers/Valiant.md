@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Valiant
+  - /wiki/Valiant
 categories:
-- Battlecruisers
-- PVP Ships
-- Support Ships
-- Pirate Ships
-- All-Rounder Ships
-- Ships
+  - Battlecruisers
+  - PVP Ships
+  - Support Ships
+  - Pirate Ships
+  - All-Rounder Ships
+  - Ships
 title: Valiant
 ---
 
@@ -41,7 +41,7 @@ The interior of the Valiant is accessed by a teleport pad in the top middle of t
 - Keep people in your turret line of sight, and try and get in their blind spot.
 - Keep moving at full speed at all times to avoid getting shot by enemies.
 
-## Version History 
+## Version History
 
 - Added in .65a6.
 - Top speed increased to 130, turn speed increased to 0.59, acceleration increased to 29, lost 2 [Light Flak Cannons]({{< ref "/wiki/" >}}Turrets) and received a remodel in version .68e.

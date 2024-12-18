@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Waspinator
+  - /wiki/Waspinator
 categories:
-- Ships
-- Carriers
-- April Fool\'s Event 2022
-- Limited Ships
+  - Ships
+  - Carriers
+  - April Fool\'s Event 2022
+  - Limited Ships
 title: Waspinator
 ---
 
@@ -49,7 +49,7 @@ The Interior is identical to the [Wasp]({{< ref "/wiki/" >}}Wasp).
 
 - <s>Scare Most Players with this Ship, even [Super Capital Ships]({{< ref "/categories/" >}}super-capital-ships) would run away seeing this warp to them.</s>
 
-## Version History 
+## Version History
 
 - Added in version .75a9, after the introduction of the [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022).
 - Price of the ship was increased tenfold twice after its initial release in .75a9.

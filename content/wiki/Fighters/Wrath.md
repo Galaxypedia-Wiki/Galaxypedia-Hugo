@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Wrath
+  - /wiki/Wrath
 categories:
-- Fighters
-- Removed From Game
-- Ships
+  - Fighters
+  - Removed From Game
+  - Ships
 title: Wrath
 ---
 

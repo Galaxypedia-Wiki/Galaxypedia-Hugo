@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Galaxy-(ship)
+  - /wiki/Galaxy-(ship)
 categories:
-- Ships
-- Mining Ships
-- VIP Ships
+  - Ships
+  - Mining Ships
+  - VIP Ships
 title: Galaxy (ship)
 ---
 
@@ -45,7 +45,7 @@ The interior of the Galaxy can be accessed via teleporter on the docking ramp. T
 - The mining lasers have a range of 6.5k. Additionally, you can utilize the various ship angles to have all of your turret's mining, this is due to the overwhelming length of the Galaxy.
 - Beware of warp traps and dock blocks.
 
-## Version History 
+## Version History
 
 - Disabled along with all other Advanced Ships (previously identified as Artifact Ships) in version .65a due to people cheating to get [Artifacts]({{< ref "/wiki/" >}}Artifacts).
 - Re-enabled in version .65b, but cost increased dramatically from 795,900 Credits to 2.5 million Credits.

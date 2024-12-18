@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Paragon
+  - /wiki/Paragon
 categories:
-- Dreadnoughts
-- Support Ships
-- PVP Ships
-- Ships
-- Capital Ships
-- U.N.E
+  - Dreadnoughts
+  - Support Ships
+  - PVP Ships
+  - Ships
+  - Capital Ships
+  - U.N.E
 title: Paragon
 ---
 
@@ -42,7 +42,7 @@ The Paragon looks somewhat similar to the [Galaxy]({{< ref "/wiki/" >}}Galaxy), 
 - This ship will be a large target, so be wary of players attempting to dive this ship.
 - Use the damage output and extreme speed of this ship to get into a fight, deal damage, and escape before reinforcements arrive.
 
-## Version History 
+## Version History
 
 - Introduced in version .77a19.
 - Received three health buffs in version .77a22. hull: 8000 > 9500. Shield and hull: 12500/9500 > 17000/7500. Shield and hull: 17000/7500 > 20000/7000.

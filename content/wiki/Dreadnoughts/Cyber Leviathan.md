@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Cyber-Leviathan
+  - /wiki/Cyber-Leviathan
 categories:
-- Ships
-- Capital Ships
-- Dreadnoughts
-- Limited Ships
-- Reskins
-- Halloween 2018
-- All-Rounder Ships
-- PVP Ships
-- Hull breakers
+  - Ships
+  - Capital Ships
+  - Dreadnoughts
+  - Limited Ships
+  - Reskins
+  - Halloween 2018
+  - All-Rounder Ships
+  - PVP Ships
+  - Hull breakers
 title: Cyber Leviathan
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Cyber Leviathan_**is a redesigned version of the [Leviathan]({{< ref "/wiki/" >}}Leviathan) made for the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Cyber Leviathan_**is a redesigned version of the [Leviathan]({{< ref "/wiki/" >}}Leviathan) made for the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018).
 
 ## Description
 
@@ -47,7 +47,7 @@ The **Cyber Leviathan's** interior is similar to the Leviathan's interior. The o
 - Utilize it in a fleet.
 - Be extremely careful with this, as people are going to focus fire on a **Cyber Leviathan**.
 
-## Version History 
+## Version History
 
 - Speed was increased by 1 in version .75a3.
 - Added in .65a as part of [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018).

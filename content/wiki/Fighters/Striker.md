@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Striker
+  - /wiki/Striker
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Striker
 ---
 
-{{< shipInfobox >}} The **_Striker_** is a [**Fighter-class**]({{< ref "/categories/" >}}fighters) ship found in multiple [Carriers]({{< ref "/categories/" >}}carriers). 
+{{< shipInfobox >}} The **_Striker_** is a [**Fighter-class**]({{< ref "/categories/" >}}fighters) ship found in multiple [Carriers]({{< ref "/categories/" >}}carriers).
 
 ## Description
 
@@ -35,7 +35,7 @@ Like all fighter class ships, the Striker has little in the way of an interior.
 - Swarm enemy ships with your other fighters.
 - Focus on swarming and destroying AA ships like the [Ampharos]({{< ref "/wiki/" >}}Ampharos) or [Hyron]({{< ref "/wiki/" >}}Hyron) first, as they will shred you if left alone.
 
-## Version History 
+## Version History
 
 - Shields buffed from 250 to 360 in an unknown version.
 

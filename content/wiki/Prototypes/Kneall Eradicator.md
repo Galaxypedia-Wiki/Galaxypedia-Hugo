@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Kneall-Eradicator
+  - /wiki/Kneall-Eradicator
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
-- Capital Ships
-- Support Ships
-- PVP Ships
-- Super Capital Ships
-- Prototypes
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
+  - Capital Ships
+  - Support Ships
+  - PVP Ships
+  - Super Capital Ships
+  - Prototypes
 title: Kneall Eradicator
 ---
 
@@ -32,6 +32,6 @@ The **Kneall Eradicator** is a [Kneall]({{< ref "/wiki/" >}}Kneall) [Prototype](
 
 - [Punisher Weapon Salvage]({{< ref "/wiki/" >}}Punisher-Weapon-Salvage) (1%)
 
-## Version History 
+## Version History
 
 ## Trivia

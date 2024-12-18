@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Foxfire
+  - /wiki/Foxfire
 categories:
-- Fighters
-- Ships
-- Support Ships
+  - Fighters
+  - Ships
+  - Support Ships
 title: Foxfire
 ---
 
@@ -37,7 +37,7 @@ The Interior of the **Foxfire** is nothing more than a small cockpit containing
 - Utilize drifting and hit-and-run tactic to survive as long as possible while dealing the maximum amount of damage.
 - Avoid attacking any ship that can take down fighters easily, such as the Ampharos or the Mjolheimr.
 
-## Version History 
+## Version History
 
 - Removed from the Nimitz in an unknown version.
 - Nimitz remodel reverted, making this ship playable again in an unknown version.

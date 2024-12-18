@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Apostle
+  - /wiki/Apostle
 categories:
-- Destroyers
-- Ships
-- PVP Ships
-- Pirate Ships
-- All-Rounder Ships
+  - Destroyers
+  - Ships
+  - PVP Ships
+  - Pirate Ships
+  - All-Rounder Ships
 title: Apostle
 ---
 
@@ -37,7 +37,7 @@ The **Apostle** is a good pirating ship armed with several [Spinals]({{< ref "/w
 - Avoid approaching an enemy [Starbase]({{< ref "/wiki/" >}}Starbase) alone.
 - Stay above your enemy so your turrets can hit along with your spinals.
 
-## Version History 
+## Version History
 
 - Max Shield reduced from 880 to 800, spinal barrels reduced from 6/3 to 4/2 in version .66b.
 

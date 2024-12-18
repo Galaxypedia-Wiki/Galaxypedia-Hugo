@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Maple-Syrup-Launcher
+  - /wiki/Maple-Syrup-Launcher
 categories:
-- Reskins
-- Ships
-- Battlecruisers
-- Fourth of July 2021
+  - Reskins
+  - Ships
+  - Battlecruisers
+  - Fourth of July 2021
 title: Maple Syrup Launcher
 ---
 
@@ -35,7 +35,7 @@ The interior of the **Maple Syrup Launcher** is simple and largely identical to 
 - Use this ship against large, slow targets or at close range to maximize its damage output.
 - Support ships like the [Ampharos]({{< ref "/wiki/" >}}Ampharos) with high-accuracy turrets can be vital to fend off smaller enemy ships that are hard to hit with torpedoes.
 
-## Version History 
+## Version History
 
 - No logged changes?
 

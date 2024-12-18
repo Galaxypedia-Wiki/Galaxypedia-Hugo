@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Baby-Leviathan
+  - /wiki/Baby-Leviathan
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Baby Leviathan
 ---
 
@@ -32,7 +32,7 @@ Just a single tiny chair
 
 - Fly through the skies with the baby leviathan at your side.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

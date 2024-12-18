@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Stimulant-Nyxesion
+  - /wiki/Stimulant-Nyxesion
 categories:
-- NPC Ships
-- Ultimate Retro Ship Event 2022
-- Destroyers
-- Ships
+  - NPC Ships
+  - Ultimate Retro Ship Event 2022
+  - Destroyers
+  - Ships
 title: Stimulant Nyxesion
 ---
 

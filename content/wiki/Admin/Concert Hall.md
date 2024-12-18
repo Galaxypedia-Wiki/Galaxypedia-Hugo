@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Concert-Hall
+  - /wiki/Concert-Hall
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Concert Hall
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/adminShip >}} The **Concert Hall** is an Admin Ship with a lot of health. 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/adminShip >}} The **Concert Hall** is an Admin Ship with a lot of health.
 
 ## Description
 
@@ -35,6 +35,6 @@ The Concert Hall has no interior.
 
 - Continually fly around fast at longer ranges to not be hit
 
-## Version History 
+## Version History
 
 Nothing known has been changed with this ship

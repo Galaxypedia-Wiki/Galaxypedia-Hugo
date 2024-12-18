@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Pill
+  - /wiki/Pill
 categories:
-- Admin Ships
-- Ships
-- Removed From Game
+  - Admin Ships
+  - Ships
+  - Removed From Game
 title: Pill
 ---
 
@@ -31,7 +31,7 @@ The **Pill** does not need an interior to fly.
 
 - Go fast.
 
-## Version History 
+## Version History
 
 - Removed along with most of the **[Admin Ships]({{< ref "/categories/" >}}admin-ships)** in version .62a1.
 

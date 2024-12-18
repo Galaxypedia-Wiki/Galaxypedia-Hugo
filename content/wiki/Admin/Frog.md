@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Frog
+  - /wiki/Frog
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: Frog
 ---
 
@@ -33,7 +33,7 @@ No interior; its pilot seat is hidden and non-collidable.
 
 - Become frog, fly through walls and into bases.
 
-## Version History 
+## Version History
 
 - Added in .73f19
 

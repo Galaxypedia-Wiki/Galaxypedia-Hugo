@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Hallowlight
+  - /wiki/Hallowlight
 categories:
-- PVP Ships
-- Limited Ships
-- Reskins
-- Halloween 2018
-- Battleships
-- Capital Ships
-- All-Rounder Ships
-- Ships
+  - PVP Ships
+  - Limited Ships
+  - Reskins
+  - Halloween 2018
+  - Battleships
+  - Capital Ships
+  - All-Rounder Ships
+  - Ships
 title: Hallowlight
 ---
 
@@ -45,7 +45,7 @@ The interior is the same interior as the [Hawklight]({{< ref "/wiki/" >}}Hawklig
 - Your 8 [Medium Cannons]({{< ref "/wiki/" >}}Spinals) prove deadly to hulled targets. You should be able to kill hulled targets and run with a bit of shield remaining.
 - Depending on the pilot using it, it can possibly solo some [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts).
 
-## Version History 
+## Version History
 
 - Added in .65a.
 - Shield increased from 3500 to 4000, Hull increased from 2000 to 3000 in version .65b.

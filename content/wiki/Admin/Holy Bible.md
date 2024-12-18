@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Holy-Bible
+  - /wiki/Holy-Bible
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Holy Bible
 ---
 
@@ -33,7 +33,7 @@ The Holy Bible has no interior.
 - Get other people to envy you.
 - Laugh at peasants.
 
-## Version History 
+## Version History
 
 - No changes logged
 

@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Kodiak-A
+  - /wiki/Kodiak-A
 categories:
-- Ships
-- Admin Ships
-- Removed From Game
+  - Ships
+  - Admin Ships
+  - Removed From Game
 title: Kodiak A
 ---
 

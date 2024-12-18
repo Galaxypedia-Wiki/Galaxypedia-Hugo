@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Stimulant-Grievion
+  - /wiki/Stimulant-Grievion
 categories:
-- NPC Ships
-- Ultimate Retro Ship Event 2022
-- Battleships
-- Bosses
-- Ships
+  - NPC Ships
+  - Ultimate Retro Ship Event 2022
+  - Battleships
+  - Bosses
+  - Ships
 title: Stimulant Grievion
 ---
 

@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Arctic-Sparrow
+  - /wiki/Arctic-Sparrow
 categories:
-- Limited Ships
-- Reskins
-- Ships
-- Frigates
-- Christmas Event 2018
-- PVP Ships
-- Support Ships
+  - Limited Ships
+  - Reskins
+  - Ships
+  - Frigates
+  - Christmas Event 2018
+  - PVP Ships
+  - Support Ships
 title: Arctic Sparrow
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Arctic Sparrow_** was a redesign of the [**Frigate-class**]({{< ref "/categories/" >}}frigates) [Osprey]({{< ref "/wiki/" >}}Osprey) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Arctic Sparrow_** was a redesign of the [**Frigate-class**]({{< ref "/categories/" >}}frigates) [Osprey]({{< ref "/wiki/" >}}Osprey) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018).
 
 ## Description
 
@@ -38,7 +38,7 @@ The **Arctic Sparrow**has a holiday-themed interior with a lit fireplace, sever
 
 - Removed from the game, cannot be used.
 
-## Version History 
+## Version History
 
 - Added in Version .65b.
 - Cargo hold size fixed in an unknown version.

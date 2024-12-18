@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Saturn
-- /wiki/Industrial-Miner
+  - /wiki/Saturn
+  - /wiki/Industrial-Miner
 categories:
-- Ships
-- Mining Ships
+  - Ships
+  - Mining Ships
 title: Saturn
 ---
 
-{{< shipInfobox >}} The **_Saturn_** is an affordable **[Miner]({{< ref "/categories/" >}}mining-ships)** class ship with two [Medium Mining Lasers]({{< ref "/wiki/" >}}Turrets). 
+{{< shipInfobox >}} The **_Saturn_** is an affordable **[Miner]({{< ref "/categories/" >}}mining-ships)** class ship with two [Medium Mining Lasers]({{< ref "/wiki/" >}}Turrets).
 
 ## Description
 
@@ -44,7 +44,7 @@ The **Saturn** interior consists only of a short, yellow and gray hallway separa
 
 - Don't mine at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) during [War]({{< ref "/wiki/" >}}War), especially without protection.
 
-## Version History 
+## Version History
 
 - Received a remodel in version .56b.
 - Received a buff that increased its mining range by 50%.

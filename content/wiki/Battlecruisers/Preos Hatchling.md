@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Preos-Hatchling
+  - /wiki/Preos-Hatchling
 categories:
-- Ships
-- Halloween 2021
-- Battlecruisers
+  - Ships
+  - Halloween 2021
+  - Battlecruisers
 title: Preos Hatchling
 ---
 
-{{< shipInfobox >}} The **_Preos Hatchling_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) that players "evolve" from the [Preos Egg]({{< ref "/wiki/" >}}Preos-Egg). 
+{{< shipInfobox >}} The **_Preos Hatchling_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) that players "evolve" from the [Preos Egg]({{< ref "/wiki/" >}}Preos-Egg).
 
 ## Description
 
@@ -33,7 +33,7 @@ Instead of an interior, there is a purple circular room with a green seat. This 
 
 - Don't spawn the ship until the next stage is available. Once lost you wont be able to get it back, meaning you won't be able to unlock the true potential of the **Preos.**
 
-## Version History 
+## Version History
 
 - Removed in version .75a37
 

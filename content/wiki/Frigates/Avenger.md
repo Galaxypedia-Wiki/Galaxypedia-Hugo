@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Avenger
+  - /wiki/Avenger
 categories:
-- Ships
-- Frigates
-- Support Ships
-- PVP Ships
+  - Ships
+  - Frigates
+  - Support Ships
+  - PVP Ships
 title: Avenger
 ---
 
-{{< shipInfobox >}} The **_Avenger_**is a fast and powerful **[Frigate]({{< ref "/categories/" >}}frigates).** 
+{{< shipInfobox >}} The **_Avenger_**is a fast and powerful **[Frigate]({{< ref "/categories/" >}}frigates).**
 
 ## Description
 
@@ -39,7 +39,7 @@ The interior of the **Avenger** is mostly empty. There is a small cockpit in the
 - Support larger ships like the [Inquisitor]({{< ref "/wiki/" >}}Inquisitor) by shredding the enemy's shield, then running when they get hulled.
 - Team up with an [Abyss]({{< ref "/wiki/" >}}Abyss) to deal some damage on Cruisers and Battlecruisers. You shred the shield, the [Abyss]({{< ref "/wiki/" >}}Abyss) shreds the hull.
 
-## Version History 
+## Version History
 
 - Received a buff in version .61g adding the two [Turrets]({{< ref "/wiki/" >}}Turrets).
 - Received a remodel in update ????

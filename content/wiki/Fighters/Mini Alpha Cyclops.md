@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Mini-Alpha-Cyclops
+  - /wiki/Mini-Alpha-Cyclops
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Mini Alpha Cyclops
 ---
 

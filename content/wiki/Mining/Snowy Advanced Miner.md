@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Snowy-Advanced-Miner
+  - /wiki/Snowy-Advanced-Miner
 categories:
-- Ships
-- Christmas Event 2018
-- Limited Ships
-- Mining Ships
-- Reskins
+  - Ships
+  - Christmas Event 2018
+  - Limited Ships
+  - Mining Ships
+  - Reskins
 title: Snowy Advanced Miner
 ---
 
@@ -41,7 +41,7 @@ The pilot seat is housed inside of a spherical glass pane topped with a Santa ha
 - If possible, mine in a [VIP Server]({{< ref "/wiki/" >}}Galaxy-VIP-Servers) to avoid Pirates. However, Aliens can still spawn.
 - Try to check your map every 20 seconds for Aliens and other enemies.
 
-## Version History 
+## Version History
 
 - Light Laser removed in version .65b.
 - Ore Hold increased from 1800 to 4500 later in version .65b.

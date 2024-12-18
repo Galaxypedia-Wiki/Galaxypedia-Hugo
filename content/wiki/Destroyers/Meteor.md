@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Meteor
+  - /wiki/Meteor
 categories:
-- Ships
-- Destroyers
-- Support Ships
-- PVP Ships
+  - Ships
+  - Destroyers
+  - Support Ships
+  - PVP Ships
 title: Meteor
 ---
 
-{{< shipInfobox >}} The **_Meteor_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class ship. 
+{{< shipInfobox >}} The **_Meteor_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class ship.
 
 ## Description
 
@@ -36,7 +36,7 @@ The **Meteor** is a medium-sized ship with no windows and little interior. You e
 - Don't get this ship if you can't use spinals.
 - Swarms are very effective with this ship due to its great [Spinal]({{< ref "/wiki/" >}}Spinals) firepower.
 
-## Version History 
+## Version History
 
 - [Turrets]({{< ref "/wiki/" >}}Turrets) removed (1 Light Gatling Cannon, 1 Light Gatling Laser), 1 Small Cannon added, and received a remodel in version .69d.
 - Lost 1 Small Cannon in version .72e1?

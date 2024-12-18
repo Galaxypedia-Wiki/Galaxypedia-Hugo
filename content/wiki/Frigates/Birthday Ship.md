@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Birthday-Ship
+  - /wiki/Birthday-Ship
 categories:
-- Ships
-- Frigates
+  - Ships
+  - Frigates
 title: Birthday Ship
 ---
 
@@ -27,7 +27,7 @@ The **Birthday Ship** is a limited [Frigate]({{< ref "/categories/" >}}frigates)
 
 - Fly around in your birthday cake, but never at war
 
-## Version History 
+## Version History
 
 - Added in version .72a
 

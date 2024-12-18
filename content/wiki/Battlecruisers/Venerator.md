@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Venerator
+  - /wiki/Venerator
 categories:
-- Battlecruisers
-- Ships
-- U.N.E
-- PvP Ships
+  - Battlecruisers
+  - Ships
+  - U.N.E
+  - PvP Ships
 title: Venerator
 ---
 
@@ -34,7 +34,7 @@ The interior is just a black box with a small square at the front and a teleport
 
 - Is an expensive quest ship, which makes it a target for other players.
 
-## Version History 
+## Version History
 
 - Added in .77a18 with the return of the [Kneall Stronghold]({{< ref "/wiki/" >}}Kneall-Stronghold).
 - Received a shield nerf in .77a19. 5000 > 4000

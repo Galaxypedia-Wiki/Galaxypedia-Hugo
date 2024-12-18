@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Decimator
+  - /wiki/Decimator
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
-- Bosses
-- Dreadnoughts
-- Capital Ships
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
+  - Bosses
+  - Dreadnoughts
+  - Capital Ships
 title: Decimator
 ---
 
@@ -37,7 +37,7 @@ The main and best way to deal with the Decimator is to get extremely near it _(<
 
 The wreck of a **_Decimator_** contains 200 [Alien Parts]({{< ref "/wiki/" >}}Alien-Part), 35k in Combat Rewards and 8 Plasma Batteries.
 
-## Version History 
+## Version History
 
 - Spawns disabled during parts of the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021) _(.72e)_.
 - Gained 8 Huge Torpedoes with a 200-second interval in version .73c10.

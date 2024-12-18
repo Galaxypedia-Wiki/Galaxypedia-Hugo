@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Galactic
+  - /wiki/Galactic
 categories:
-- Ships
-- Mining Ships
+  - Ships
+  - Mining Ships
 title: Galactic
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Galactic_** is a massive **[Miner-Class]({{< ref "/categories/" >}}mining-ships)** Ship. 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Galactic_** is a massive **[Miner-Class]({{< ref "/categories/" >}}mining-ships)** Ship.
 
 ## Description
 
@@ -29,7 +29,7 @@ Big ship.
 
 There is absolutely no way to kill this ship since it's hitbox isn't actually focus-able by turrets nor easily spinable.
 
-## Version History 
+## Version History
 
 - No logged changes?
 

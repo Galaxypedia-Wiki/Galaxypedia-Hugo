@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Patriotic-Viper
+  - /wiki/Patriotic-Viper
 categories:
-- Frigates
-- Ships
-- Limited Ships
-- Fourth of July 2019
-- Fourth of July 2020
-- Siege Ships
-- Reskins
-- Removed From Game
+  - Frigates
+  - Ships
+  - Limited Ships
+  - Fourth of July 2019
+  - Fourth of July 2020
+  - Siege Ships
+  - Reskins
+  - Removed From Game
 title: Patriotic Viper
 ---
 
@@ -38,7 +38,7 @@ The **Patriotic Viper** has the same interior as its base ship, the [Viper]({{< 
 - Use the **Patriotic Viper's** high speed to avoid enemy fire.
 - Swarm with the **Patriotic Viper** for insane damage output in a short amount of time.
 
-## Version History 
+## Version History
 
 - Added in version .65b on July 5th as part of the [2019 Fourth of July]({{< ref "/categories/" >}}fourth-of-july-2019) event.
 - Was re-released during the [2020 Fourth of July]({{< ref "/categories/" >}}fourth-of-july-2020) event.

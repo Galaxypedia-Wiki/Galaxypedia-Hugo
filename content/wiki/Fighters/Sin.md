@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Sin
+  - /wiki/Sin
 categories:
-- Halloween 2021
-- Ships
-- Fighters
+  - Halloween 2021
+  - Ships
+  - Fighters
 title: Sin
 ---
 
-{{< shipInfobox >}} The **_Sin_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) unique to the [Halkaryak]({{< ref "/wiki/" >}}Halkaryak) 
+{{< shipInfobox >}} The **_Sin_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) unique to the [Halkaryak]({{< ref "/wiki/" >}}Halkaryak)
 
 ## Description
 
@@ -33,6 +33,6 @@ Like every other fighter, it has no interior.
 
 - Focus your attacks on enemies that are hulled.
 
-## Version History 
+## Version History
 
 ## Trivia

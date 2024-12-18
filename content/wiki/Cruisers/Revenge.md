@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Revenge
+  - /wiki/Revenge
 categories:
-- Ships
-- Cruisers
-- Halloween 2020
+  - Ships
+  - Cruisers
+  - Halloween 2020
 title: Revenge
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Revenge_** is a limited event [**Cruiser**]({{< ref "/categories/" >}}cruisers). 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Revenge_** is a limited event [**Cruiser**]({{< ref "/categories/" >}}cruisers).
 
 ## Description
 
@@ -36,7 +36,7 @@ The **Revenge**has a very detailed interior featuring a cockpit and a bedroom. D
 - Only use this if you sure that you won't lose it as its a limited ship with low health.
 - Access enemy blindspots, and deal tons of damage from there.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

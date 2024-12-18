@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Reklfar-🇫🇷
+  - /wiki/Reklfar-🇫🇷
 categories:
-- Ships
-- Limited Ships
-- Battleships
-- Capital Ships
+  - Ships
+  - Limited Ships
+  - Battleships
+  - Capital Ships
 title: Reklfar 🇫🇷
 ---
 
@@ -34,7 +34,7 @@ It features the same model as the [Retro Naglfar]({{< ref "/wiki/" >}}Retro-Nagl
 
 -
 
-## Version History 
+## Version History
 
 -
 

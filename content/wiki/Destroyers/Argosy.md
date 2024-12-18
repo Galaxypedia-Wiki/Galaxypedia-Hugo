@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Argosy
+  - /wiki/Argosy
 categories:
-- Destroyers
-- Ships
-- Pirate Ships
-- Support Ships
-- PVP Ships
+  - Destroyers
+  - Ships
+  - Pirate Ships
+  - Support Ships
+  - PVP Ships
 title: Argosy
 ---
 
-{{< shipInfobox >}} The **_Argosy_** is a hull-tanked **[Destroyer]({{< ref "/categories/" >}}destroyers)** which focuses on dealing hull damage. 
+{{< shipInfobox >}} The **_Argosy_** is a hull-tanked **[Destroyer]({{< ref "/categories/" >}}destroyers)** which focuses on dealing hull damage.
 
 ## Description
 

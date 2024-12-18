@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Among-Us
+  - /wiki/Among-Us
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Among Us
 ---
 

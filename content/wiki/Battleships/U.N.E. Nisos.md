@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/U.N.E.-Nisos
+  - /wiki/U.N.E.-Nisos
 categories:
-- NPC Ships
-- Battleships
-- Capital Ships
-- Ships
-- U.N.E
+  - NPC Ships
+  - Battleships
+  - Capital Ships
+  - Ships
+  - U.N.E
 title: U.N.E. Nisos
 ---
 
@@ -34,7 +34,7 @@ However, since the bulk of its firepower comes from its spinals, it has a massiv
 
 - Lure powerful enemy AI ships such as a [Galleon]({{< ref "/wiki/" >}}Galleon) or [Decimator]({{< ref "/wiki/" >}}Decimator) to it, if engaged, it will call other [U.N.E]({{< ref "/wiki/" >}}U.N.E) ships around the map to attack it.
 
-## Version History 
+## Version History
 
 - Released in version.69f.
 

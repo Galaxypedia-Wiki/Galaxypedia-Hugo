@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Mini-Alpha-Leviathan
+  - /wiki/Mini-Alpha-Leviathan
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Mini Alpha Leviathan
 ---
 

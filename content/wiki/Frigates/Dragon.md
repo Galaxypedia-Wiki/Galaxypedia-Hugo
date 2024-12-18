@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Dragon
+  - /wiki/Dragon
 categories:
-- Limited Ships
-- Reskins
-- Halloween 2018
-- Ships
-- Frigates
-- Support Ships
+  - Limited Ships
+  - Reskins
+  - Halloween 2018
+  - Ships
+  - Frigates
+  - Support Ships
 title: Dragon
 ---
 
@@ -35,7 +35,7 @@ The **Dragon** has a small interior with a cockpit and some controls.
 
 - Not useful for anything outside of showing off.
 
-## Version History 
+## Version History
 
 - Added on October 19th, 2018, during the Halloween update (.65a).
 - Added back in version 73a3 for purchase with a Class E permit.

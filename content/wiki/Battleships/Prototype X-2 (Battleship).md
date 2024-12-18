@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Prototype-X-2-(Battleship)
-- /wiki/Prototype-X---2
+  - /wiki/Prototype-X-2-(Battleship)
+  - /wiki/Prototype-X---2
 categories:
-- Ships
-- Battleships
+  - Ships
+  - Battleships
 title: Prototype X-2 (Battleship)
 ---
 
@@ -35,7 +35,7 @@ The interior is identical to that of the [Prototype X-2]({{< ref "/wiki/" >}}Pro
 - Very expensive at 200k credits; considered by most buyers to be a waste of money.
 - Limited, meaning it cannot be regained once lost.
 
-## Version History 
+## Version History
 
 - Was removed along with [Prototype X/1]({{< ref "/wiki/" >}}Prototype-X/1) in version .75a10. Players who owned this ship and/or the X/1 was refunded.
 

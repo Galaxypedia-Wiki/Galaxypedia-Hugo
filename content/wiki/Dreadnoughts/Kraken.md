@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Kraken
+  - /wiki/Kraken
 categories:
-- Ships
-- Dreadnoughts
-- Siege Ships
-- PVP Ships
-- Capital Ships
-- Pirate Ships
+  - Ships
+  - Dreadnoughts
+  - Siege Ships
+  - PVP Ships
+  - Capital Ships
+  - Pirate Ships
 title: Kraken
 ---
 
@@ -65,7 +65,7 @@ The interior is a simple cockpit with a chair and computer with one of the thumb
 ![Listed costs for each of the quest
 items.](KrakenQuestCosts.png "Listed costs for each of the quest items.")
 
-## Version History 
+## Version History
 
 - Added in .65a3.
 - In .65a6, it got its own custom [Turrets]({{< ref "/wiki/" >}}Turrets).

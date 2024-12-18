@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Aeaphiel
+  - /wiki/Aeaphiel
 categories:
-- Ships
-- Battlecruisers
-- VIP Ships
-- Pirate Ships
-- PVP Ships
-- Support Ships
+  - Ships
+  - Battlecruisers
+  - VIP Ships
+  - Pirate Ships
+  - PVP Ships
+  - Support Ships
 title: Aeaphiel
 ---
 
-{{< shipInfobox >}} {{< notices/vipShip >}} The **_Aeaphiel_** is a fast all-rounder **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)**. 
+{{< shipInfobox >}} {{< notices/vipShip >}} The **_Aeaphiel_** is a fast all-rounder **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)**.
 
 ## Description
 
@@ -45,7 +45,7 @@ The **Aeaphiel** has no interior, you just walk through the cockpit glass into t
 - Avoid AA ships at the class of [Capital Ships]({{< ref "/categories/" >}}capital-ships), their accurate firepower is enough to destroy this ship.
 - If possible, use this ship in swarms against large ships as you can easily overwhelm and destroy an overconfident large target.
 
-## Version History 
+## Version History
 
 - Light Laser changed to Light Cannon in .64d, shield increased by 150
 - Max Shield increased to 2350 from 2150 in .65b

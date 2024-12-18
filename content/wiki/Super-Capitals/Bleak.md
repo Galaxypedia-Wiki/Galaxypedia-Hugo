@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Bleak
+  - /wiki/Bleak
 categories:
-- Ships
-- Pirate Ships
-- Bosses
-- NPCS
-- NPC Ships
-- Super Capital Ships
+  - Ships
+  - Pirate Ships
+  - Bosses
+  - NPCS
+  - NPC Ships
+  - Super Capital Ships
 title: Bleak
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **Bleak** is a Pirate Boss. 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **Bleak** is a Pirate Boss.
 
 ## Description
 
@@ -39,7 +39,7 @@ The Bleak has similar design elements to that of the [Nautilus]({{< ref "/wiki/"
 
 - Unknown.
 
-## Version History 
+## Version History
 
 - Added in the MEGA Update Part 1.
 

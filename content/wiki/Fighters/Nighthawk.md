@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Nighthawk
+  - /wiki/Nighthawk
 categories:
-- Fighters
-- Ships
-- Support Ships
+  - Fighters
+  - Ships
+  - Support Ships
 title: Nighthawk
 ---
 
@@ -38,7 +38,7 @@ Like all fighter class ships, the **Nighthawk** has little in the way of an inte
 - Use its speed to scout a Starbase. You can jump out of the ship above the Starbase and stand inside and give information about ships and Starbase condition.
 - Avoid ships with high maneuverability or lots of small turrets. Ships like the [Tempest]({{< ref "/wiki/" >}}Tempest), [Ampharos]({{< ref "/wiki/" >}}Ampharos) and most [Cruisers]({{< ref "/categories/" >}}cruisers) will easily take fighters down, especially at close range.
 
-## Version History 
+## Version History
 
 - Buffed in .75a3.
 - Remodeled in .64f.

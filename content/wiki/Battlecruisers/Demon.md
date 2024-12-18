@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Demon
+  - /wiki/Demon
 categories:
-- Limited Ships
-- Halloween 2019
-- Ships
-- PVP Ships
-- Battlecruisers
+  - Limited Ships
+  - Halloween 2019
+  - Ships
+  - PVP Ships
+  - Battlecruisers
 title: Demon
 ---
 
@@ -43,7 +43,7 @@ There is a teleporter in the back of the ship, it leads to a small confined area
 - Try to go below the ship you are attacking as most of your [Turrets]({{< ref "/wiki/" >}}Turrets) are on top.
 - Try to go against [Ships]({{< ref "/wiki/" >}}Ships) which are hulled or are Hull-focused.
 
-## Version History 
+## Version History
 
 - Added during the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019) in version .66b
 

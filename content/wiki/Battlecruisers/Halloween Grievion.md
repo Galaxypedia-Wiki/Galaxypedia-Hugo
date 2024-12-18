@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Halloween-Grievion
+  - /wiki/Halloween-Grievion
 categories:
-- Ships
-- Limited Ships
-- Battlecruisers
-- Halloween 2016
-- PVP Ships
-- Support Ships
-- Pirate Ships
-- Removed From Game
+  - Ships
+  - Limited Ships
+  - Battlecruisers
+  - Halloween 2016
+  - PVP Ships
+  - Support Ships
+  - Pirate Ships
+  - Removed From Game
 title: Halloween Grievion
 ---
 
@@ -40,7 +40,7 @@ The **Halloween Grievion** had the same interior as the original ship.
 - Try to go under your opponent due to all of the Turrets being located on the top.
 - Use its [Spinals]({{< ref "/wiki/" >}}Spinals) to dish out heavy [Hull]({{< ref "/wiki/" >}}Hull) damage.
 
-## Version History 
+## Version History
 
 - Added in an unknown version.
 - Removed in an unknown version.

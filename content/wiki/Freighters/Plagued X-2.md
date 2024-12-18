@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Plagued-X-2
+  - /wiki/Plagued-X-2
 categories:
-- Ships
-- Freighters
+  - Ships
+  - Freighters
 title: Plagued X-2
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/adminShip >}} The **_Plagued X-2_** is a **[Freighter]({{< ref "/categories/" >}}freighters)** with an extremely high top speed and a cargo hold rivaling that of the [E Class]({{< ref "/wiki/" >}}E-Class). 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/adminShip >}} The **_Plagued X-2_** is a **[Freighter]({{< ref "/categories/" >}}freighters)** with an extremely high top speed and a cargo hold rivaling that of the [E Class]({{< ref "/wiki/" >}}E-Class).
 
 ## Description
 
@@ -33,7 +33,7 @@ X-2 but all it's fancy lights have been turned off
 
 ## Strategy
 
-## Version History 
+## Version History
 
 - Shield nerfed from 7,500 --> 5,000, Hull nerfed from 7,500 to 5,000 in version _.75a10_.
 

@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Peter-Gryphon
+  - /wiki/Peter-Gryphon
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Peter Gryphon
 ---
 
@@ -30,7 +30,7 @@ The **peter gryphon** was a reskinned [Gryphon]({{< ref "/wiki/" >}}Gryphon) and
 - Laugh at peasants.
 - It seems today-
 
-## Version History 
+## Version History
 
 - Added in an unknown version.
 - Removed in an unknown version.

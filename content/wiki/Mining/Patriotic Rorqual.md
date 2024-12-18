@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Patriotic-Rorqual
+  - /wiki/Patriotic-Rorqual
 categories:
-- Ships
-- Mining Ships
-- Limited Ships
-- Black Friday 2019
-- Fourth of July 2018
-- Fourth of July 2020
-- Reskins
+  - Ships
+  - Mining Ships
+  - Limited Ships
+  - Black Friday 2019
+  - Fourth of July 2018
+  - Fourth of July 2020
+  - Reskins
 title: Patriotic Rorqual
 ---
 
@@ -46,7 +46,7 @@ The **Patriotic Rorqual** has an interior very similar to that of the original [
 - If you are mining in a Faction that is at War, only mine near your Starbase.
 - Due to the fact that it is a limited ship use it rarely.
 
-## Version History 
+## Version History
 
 - Released in version update .62c2.
 - Received a small color change adding blue (color updated to a more sharper, but realistic version).

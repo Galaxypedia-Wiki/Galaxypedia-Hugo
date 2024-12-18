@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Kodiak
+  - /wiki/Kodiak
 categories:
-- NPC Ships
-- Pirate Ships
-- Bosses
-- Capital Ships
-- Super Capital Ships
-- Ships
+  - NPC Ships
+  - Pirate Ships
+  - Bosses
+  - Capital Ships
+  - Super Capital Ships
+  - Ships
 title: Kodiak
 ---
 
@@ -67,7 +67,7 @@ The wreck of the Kodiak contains 2 Quantum Cores, 2 Kodiak Platings, 60 Plasma B
 
 **Note:** _You can only loot up to 1 quantum core, 1 kodiak plating, 5 plasma batteries and 30 armor scrap from Kodiak at once. If you wish to loot more, transfer/sell your loot at the Mega Base then loot again. Material scrap has no loot limit and you can loot all of them in one go if you have enough cargo hold._
 
-## Version History 
+## Version History
 
 - Disabled in an unknown version.
 - It was previously equipped with 4 Triple Heavy Cannons and 4 Triple Heavy Lasers, but in version .65a6, with the [Kraken]({{< ref "/wiki/" >}}Kraken).

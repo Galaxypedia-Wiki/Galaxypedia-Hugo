@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/SS
+  - /wiki/SS
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: SS
 ---
 
@@ -32,7 +32,7 @@ The **ß** has a small platform under the main part of the ship for the pilot an
 - Use this ship alongside combat vessels so that enemies have trouble looking at the battle.
 - Be fast, but not 2_Fast.
 
-## Version History 
+## Version History
 
 - Originally added under the name 'Hmm...', but later removed.
 - Added again with the final name, but was again removed.

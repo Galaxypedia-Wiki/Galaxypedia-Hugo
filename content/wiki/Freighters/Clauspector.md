@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Clauspector
+  - /wiki/Clauspector
 categories:
-- Christmas Event 2018
-- Freighters
-- Limited Ships
-- Reskins
-- Ships
+  - Christmas Event 2018
+  - Freighters
+  - Limited Ships
+  - Reskins
+  - Ships
 title: Clauspector
 ---
 
@@ -38,7 +38,7 @@ The **Clauspector **has a very simplistic interior. In front of the teleporter
 - Do not travel alone.
 - <s>Don't travel without your Christmas spirit and snowballs.</s>
 
-## Version History 
+## Version History
 
 - Added in Version .65b.
 - Removed in version .75a37

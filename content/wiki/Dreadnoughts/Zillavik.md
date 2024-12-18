@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Zillavik
+  - /wiki/Zillavik
 categories:
-- Ships
-- Dreadnoughts
-- Halloween 2021
+  - Ships
+  - Dreadnoughts
+  - Halloween 2021
 title: Zillavik
 ---
 
@@ -41,7 +41,7 @@ The interior consists of a small room, with two slightly different levels. The s
 - Use your high [hull]({{< ref "/wiki/" >}}hull) damage to decimate ships with high hull health such as [Armageddon]({{< ref "/wiki/" >}}Armageddon).
 - Pair up with a shield-breaker like [Crescendo]({{< ref "/wiki/" >}}Crescendo), [Zeus]({{< ref "/wiki/" >}}Zeus), or [Sagittarius]({{< ref "/wiki/" >}}Sagittarius), to boost your effectiveness in battle.
 
-## Version History 
+## Version History
 
 - Price increased from 800,000 credits to 1,200,000 credits in version .74b3 (?)
 - Price reduced from 1,200,000 credits to 1,000,000 credits in .74b3.

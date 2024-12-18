@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Contributor-Ship-❤️
+  - /wiki/Contributor-Ship-❤️
 categories:
-- Frigates
-- Ships
-- Limited Ships
+  - Frigates
+  - Ships
+  - Limited Ships
 title: Contributor Ship ❤️
 ---
 

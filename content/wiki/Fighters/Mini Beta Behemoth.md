@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Mini-Beta-Behemoth
+  - /wiki/Mini-Beta-Behemoth
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Mini Beta Behemoth
 ---
 

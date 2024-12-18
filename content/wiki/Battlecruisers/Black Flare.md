@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Black-Flare
+  - /wiki/Black-Flare
 categories:
-- Ships
-- Battlecruisers
-- PVP Ships
-- Pirate Ships
-- Support Ships
-- Siege Ships
+  - Ships
+  - Battlecruisers
+  - PVP Ships
+  - Pirate Ships
+  - Support Ships
+  - Siege Ships
 title: Black Flare
 ---
 
@@ -50,7 +50,7 @@ The interior contains a hallway about half the length of the ship. There are sea
 - Use this in swarms for amazing combined damage.
 - You can attack a [Ship]({{< ref "/wiki/" >}}Ships) with a large blindspot by taking advantage of your high mobility.
 
-## Version History 
+## Version History
 
 - The **Black Flare** received a remodel in the .55 range due to its main model being uneditable.
 - The ship was reverted to an optimized version of its previous model in .61g due to the current model having a high part count.

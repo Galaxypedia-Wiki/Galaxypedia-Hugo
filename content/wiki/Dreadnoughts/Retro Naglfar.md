@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Retro-Naglfar
+  - /wiki/Retro-Naglfar
 categories:
-- Ships
-- Limited Ships
-- Dreadnoughts
-- Black Friday 2019
-- Capital Ships
-- Retro Ship Event 2019
+  - Ships
+  - Limited Ships
+  - Dreadnoughts
+  - Black Friday 2019
+  - Capital Ships
+  - Retro Ship Event 2019
 title: Retro Naglfar
 ---
 
@@ -40,7 +40,7 @@ A simple chair in a box. No details in the pilot area at all except for a window
 
 - Melt a ships shields and let your allies with [Hull-breaking]({{< ref "/categories/" >}}hull-breakers) ships finish off the ships to make this a massive threat.
 
-## Version History 
+## Version History
 
 - Added in .66b, along with the other Retro event ships in the [Black Friday Event 2019]({{< ref "/wiki/" >}}Black-Friday-Event-2019).
 

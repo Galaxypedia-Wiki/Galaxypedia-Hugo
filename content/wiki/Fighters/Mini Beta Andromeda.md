@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Mini-Beta-Andromeda
+  - /wiki/Mini-Beta-Andromeda
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Mini Beta Andromeda
 ---
 

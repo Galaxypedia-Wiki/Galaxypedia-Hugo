@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Mammoth
+  - /wiki/Mammoth
 categories:
-- Mining Ships
-- Ships
-- VIP Ships
+  - Mining Ships
+  - Ships
+  - VIP Ships
 title: Mammoth
 ---
 
@@ -42,7 +42,7 @@ The **Mammoth** has a very large interior for its class. The ship is entered thr
 - Don't mine at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) if at [War]({{< ref "/wiki/" >}}War) and are unprotected. It's not worth it, even with the ability to warp.
 - It's better to mine at large clusters of ores since they are easily harvested and the [Medium Mining Lasers]({{< ref "/wiki/" >}}Turrets) will not be out of range when mining.
 
-## Version History 
+## Version History
 
 - Received a few minor tweaks in .59a affecting mobility and health pool.
 - Received a rebalance in .59d, replacing 4 [Medium Mining Lasers]({{< ref "/wiki/" >}}Turrets) with 8 [Small Mining Lasers]({{< ref "/wiki/" >}}Turrets).
