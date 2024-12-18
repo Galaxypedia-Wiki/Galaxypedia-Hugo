@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Lukieluuk2
+  - /wiki/Lukieluuk2
 categories:
-- Biographies
+  - Biographies
 title: Lukieluuk2
 ---
 

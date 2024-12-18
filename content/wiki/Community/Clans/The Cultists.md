@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/The-Cultists
+  - /wiki/The-Cultists
 categories:
-- Clans
+  - Clans
 title: The Cultists
 ---
 

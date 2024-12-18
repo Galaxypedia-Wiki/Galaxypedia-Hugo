@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Frost-Core
+  - /wiki/Frost-Core
 categories:
-- Event Items
-- Christmas Event 2022
+  - Event Items
+  - Christmas Event 2022
 title: Frost Core
 ---
 

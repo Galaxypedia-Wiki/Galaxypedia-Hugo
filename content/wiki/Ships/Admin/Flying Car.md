@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Flying-Car
+  - /wiki/Flying-Car
 categories:
-- Ships
-- Admin Ships
-- Removed From Game
+  - Ships
+  - Admin Ships
+  - Removed From Game
 title: Flying Car
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Flying Car_** is an **[Admin Ship]({{< ref "/categories/" >}}Admin-Ships)** that is a shopping cart with a seat mounted in the center and thrusters mounted on the left and right that feature trails. 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_Flying Car_** is an **[Admin Ship]({{< ref "/categories/" >}}Admin-Ships)** that is a shopping cart with a seat mounted in the center and thrusters mounted on the left and right that feature trails.
 
 ## Description
 
@@ -30,7 +30,7 @@ There is a luxurious pilot's seat mounted inside the shopping cart.
 
 - Go shopping, but maybe not in the middle of a war.
 
-## Version History 
+## Version History
 
 - Removed along with most of the [Admin Ships]({{< ref "/categories/" >}}Admin-Ships) in version .62a1.
 - Added back in an unknown version.

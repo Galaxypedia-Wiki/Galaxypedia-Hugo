@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Pumpkin
+  - /wiki/Pumpkin
 title: Pumpkin
 ---
 

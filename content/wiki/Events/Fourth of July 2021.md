@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Fourth-of-July-2021
+  - /wiki/Fourth-of-July-2021
 categories:
-- Events
+  - Events
 title: Fourth of July 2021
 ---
 

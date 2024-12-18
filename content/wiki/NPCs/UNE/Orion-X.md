@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Orion-X
+  - /wiki/Orion-X
 categories:
-- NPC Ships
-- U.N.E
-- Ships
+  - NPC Ships
+  - U.N.E
+  - Ships
 title: Orion-X
 ---
 

@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Halloween-Event-2020
+  - /wiki/Halloween-Event-2020
 categories:
-- Events
+  - Events
 title: Halloween Event 2020
 ---
 

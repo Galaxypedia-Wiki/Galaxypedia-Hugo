@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Ship-Stereo-System-Gamepass
+  - /wiki/Ship-Stereo-System-Gamepass
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Ship Stereo System Gamepass
 ---
 

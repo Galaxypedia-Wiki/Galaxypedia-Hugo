@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Atheon
+  - /wiki/Atheon
 categories:
-- Advanced Ships
-- Support Ships
-- Cruisers
-- Quests
-- Ships
+  - Advanced Ships
+  - Support Ships
+  - Cruisers
+  - Quests
+  - Ships
 title: Atheon
 ---
 
-{{< shipInfobox >}} {{< notices/advancedShip >}} The **_Atheon_** is an **[Advanced]({{< ref "/categories/" >}}Advanced-Ships) [Cruiser]({{< ref "/categories/" >}}Cruisers)** with five of its own custom turrets. 
+{{< shipInfobox >}} {{< notices/advancedShip >}} The **_Atheon_** is an **[Advanced]({{< ref "/categories/" >}}Advanced-Ships) [Cruiser]({{< ref "/categories/" >}}Cruisers)** with five of its own custom turrets.
 
 ## Description
 
@@ -49,7 +49,7 @@ The **Atheon** has a very simple interior; you enter through an oval cockpit con
 - Use this in swarms to completely annihilate shield tanks.
 - Use the lack of popularity to your advantage, and easily destroy ships like [Battleships]({{< ref "/categories/" >}}Battleships) and [Dreadnoughts]({{< ref "/categories/" >}}Dreadnoughts) piloted by newer players.
 
-## Version History 
+## Version History
 
 - Added in version .66b
 - Advanced turrets replaced with equivalent custom turrets in version .66b.

@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Sugondese-Dev-Demotion
+  - /wiki/Sugondese-Dev-Demotion
 categories:
-- Incidents
+  - Incidents
 title: Sugondese Dev Demotion
 ---
 

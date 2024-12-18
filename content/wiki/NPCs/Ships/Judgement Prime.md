@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Judgement-Prime
+  - /wiki/Judgement-Prime
 categories:
-- Ships
-- NPC Ships
+  - Ships
+  - NPC Ships
 title: Judgement Prime
 ---
 

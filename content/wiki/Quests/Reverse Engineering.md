@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Reverse-Engineering
+  - /wiki/Reverse-Engineering
 categories:
-- Quests
-- NPCS
-- Kneall Events
+  - Quests
+  - NPCS
+  - Kneall Events
 title: Reverse Engineering
 ---
 
@@ -27,7 +27,7 @@ The quest is located inside the [Kneall Outpost]({{< ref "/wiki/" >}}Kneall-Outp
 teleporter towards the inside of the [Kneall
 Outpost](Kneall_Outpost "wikilink")](Knealloutpostteleporter.png "Location of the teleporter towards the inside of the Kneall Outpost")
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Biokari]: Hello, who are you?</span>
 

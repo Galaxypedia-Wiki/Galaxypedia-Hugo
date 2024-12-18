@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Delta-Ship
+  - /wiki/Delta-Ship
 categories:
-- Ships
+  - Ships
 title: Delta Ship
 ---
 
@@ -34,7 +34,7 @@ The Delta Ship's appearance is in the shape of a triangle. The middle is hollowe
 
 There aren't really any strategies for this ship.
 
-## Version History 
+## Version History
 
 Added in .77c20
 

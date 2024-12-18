@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Preos-Adult
-- /wiki/Plagued-Preos-Adult
+  - /wiki/Preos-Adult
+  - /wiki/Plagued-Preos-Adult
 categories:
-- Ships
-- Dreadnoughts
+  - Ships
+  - Dreadnoughts
 title: Preos Adult
 ---
 
@@ -41,7 +41,7 @@ The interior is identical to the interiors of the previous Preos ships: a purple
 - Avoid smaller ships, as your inaccurate turrets will be unable to hit them.
 - Pair up with a shield-breaker to maximize your combat effectivity.
 
-## Version History 
+## Version History
 
 - Spinals moved towards the center .75a12
 - Removed in version .75a37

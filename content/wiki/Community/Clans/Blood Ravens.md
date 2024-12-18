@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Blood-Ravens
+  - /wiki/Blood-Ravens
 categories:
-- Galaxy Lore Pages
-- Clans
+  - Galaxy Lore Pages
+  - Clans
 title: Blood Ravens
 ---
 

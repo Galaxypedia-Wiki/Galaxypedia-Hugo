@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Viking
+  - /wiki/Viking
 categories:
-- Destroyers
-- Limited Ships
-- Christmas Event 2017
-- Ships
-- Support Ships
-- Siege Ships
-- PVP Ships
-- Reskins
+  - Destroyers
+  - Limited Ships
+  - Christmas Event 2017
+  - Ships
+  - Support Ships
+  - Siege Ships
+  - PVP Ships
+  - Reskins
 title: Viking
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Viking_** is a [**Limited Event**]({{< ref "/categories/" >}}Limited-Ships) reskin of the [Centurion]({{< ref "/wiki/" >}}Centurion). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Viking_** is a [**Limited Event**]({{< ref "/categories/" >}}Limited-Ships) reskin of the [Centurion]({{< ref "/wiki/" >}}Centurion).
 
 ## Description
 
@@ -43,7 +43,7 @@ The interior is the old [Centurion]({{< ref "/wiki/" >}}Centurion) interior but 
 - Useful in fleets for helping to destroy bases and ships.
 - Chase down [hulled]({{< ref "/wiki/" >}}hull) ships and use your high-damage [Spinals]({{< ref "/wiki/" >}}Spinals) and [Turrets]({{< ref "/wiki/" >}}Turrets) to finish them off.
 
-## Version History 
+## Version History
 
 - Shortly after .60 was released, this ship got a remodel.
 - ".61+" saw the replacement of 2 of the 4 Light Flak Cannons with 2 Light Cannons.

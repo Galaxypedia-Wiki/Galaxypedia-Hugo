@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Annihilator
+  - /wiki/Annihilator
 categories:
-- Carriers
-- Ships
-- PVP Ships
-- Support Ships
-- Capital Ships
-- Alien Ships and Stations
-- Limited Ships
-- Kneall Events
+  - Carriers
+  - Ships
+  - PVP Ships
+  - Support Ships
+  - Capital Ships
+  - Alien Ships and Stations
+  - Limited Ships
+  - Kneall Events
 title: Annihilator
 ---
 
@@ -63,7 +63,7 @@ The <u>**Interior**</u> is identical to the interior of the [Obliterator]({{< re
 - Try not to engage when you don't have fighters. This ship is only extremely powerful when paired with its fighters.
 - If you think your ship will be destroyed, Warp your ship away as **far as possible** from your own fleet or starbase as the nuke has a whopping radius of , and if possible, you can warp to the enemy's fleet or starbase to bring the nuke there instead.
 
-## Version History 
+## Version History
 
 - Added in version .75a10
 - Formerly unobtainable & Turret DPS slightly nerfed (Titan Kneall Cannon cooldown 2.8s -> 3s) after the end of the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event). Received an ambience as well.

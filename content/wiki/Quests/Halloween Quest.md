@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Halloween-Quest
+  - /wiki/Halloween-Quest
 categories:
-- Halloween 2017
-- Quests
-- Limited Ships
-- Removed From Game
+  - Halloween 2017
+  - Quests
+  - Limited Ships
+  - Removed From Game
 title: Halloween Quest
 ---
 

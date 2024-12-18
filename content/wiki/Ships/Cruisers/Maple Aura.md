@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Maple-Aura
+  - /wiki/Maple-Aura
 categories:
-- Ships
-- Cruisers
-- Fourth of July 2021
-- Limited Ships
-- Reskins
+  - Ships
+  - Cruisers
+  - Fourth of July 2021
+  - Limited Ships
+  - Reskins
 title: Maple Aura
 ---
 
@@ -20,7 +20,7 @@ title: Maple Aura
 
 ## Strategy
 
-## Version History 
+## Version History
 
 - No logged changes?
 

@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Sean
+  - /wiki/Sean
 categories:
-- Halloween 2018
-- NPCS
-- Removed From Game
-- Limited Ships
-- Halloween 2019
+  - Halloween 2018
+  - NPCS
+  - Removed From Game
+  - Limited Ships
+  - Halloween 2019
 title: Sean
 ---
 
@@ -18,7 +18,7 @@ title: Sean
 
 **Sean** was last seen in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) observatory fighting a giant spider with his robotic fists.
 
-## Dialogue - 2018 
+## Dialogue - 2018
 
 <u>Sean</u>: "Uh, hello?"
 
@@ -36,7 +36,7 @@ title: Sean
 
 <u>Player</u>: "Right... I'll just be leaving now..."
 
-## Dialogue - 2019 
+## Dialogue - 2019
 
 <u>Sean</u>: "Are you trying to hug that spider?"
 

@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Stimulant-Subjugator
-- /wiki/The-Gardener
+  - /wiki/Stimulant-Subjugator
+  - /wiki/The-Gardener
 categories:
-- NPC Ships
-- Ultimate Retro Ship Event 2022
-- Titans
-- Bosses
-- Ships
+  - NPC Ships
+  - Ultimate Retro Ship Event 2022
+  - Titans
+  - Bosses
+  - Ships
 title: Stimulant Subjugator
 ---
 

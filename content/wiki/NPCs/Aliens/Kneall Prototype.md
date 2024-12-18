@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Kneall-Prototype
+  - /wiki/Kneall-Prototype
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
-- Bosses
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
+  - Bosses
 title: Kneall Prototype
 ---
 

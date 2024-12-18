@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Truck-C
+  - /wiki/Truck-C
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Truck-C
 ---
 
@@ -31,7 +31,7 @@ The pilot seat is in the back left corner. There are 2 benches with UNE officers
 
 - Work with other fighters to take down foes.
 
-## Version History 
+## Version History
 
 ?
 

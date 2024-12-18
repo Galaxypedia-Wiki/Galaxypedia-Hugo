@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗
+  - /wiki/An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗
 title: An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗
 ---
 

@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Key
+  - /wiki/Key
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: Key
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Key_** is a small, weak [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ship modeled after the [Kneall Scout]({{< ref "/wiki/" >}}Kneall-Scout). 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_Key_** is a small, weak [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ship modeled after the [Kneall Scout]({{< ref "/wiki/" >}}Kneall-Scout).
 
 ## Description
 

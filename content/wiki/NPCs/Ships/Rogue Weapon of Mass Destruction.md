@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Rogue-Weapon-of-Mass-Destruction
+  - /wiki/Rogue-Weapon-of-Mass-Destruction
 categories:
-- NPC Ships
-- Fourth of July 2021
-- Ships
+  - NPC Ships
+  - Fourth of July 2021
+  - Ships
 title: Rogue Weapon of Mass Destruction
 ---
 
@@ -33,7 +33,7 @@ The interior is the same as the Armageddon but with a change of colors.
 
 ## Strategy
 
-## Version History 
+## Version History
 
 - No logged changes
 

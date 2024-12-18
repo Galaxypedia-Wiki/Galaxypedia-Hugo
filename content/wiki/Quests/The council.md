@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/The-council
+  - /wiki/The-council
 categories:
-- Quests
-- April Fool\'s Event 2022
+  - Quests
+  - April Fool\'s Event 2022
 title: The council
 ---
 
@@ -19,7 +19,7 @@ Adadda.png|The quest itself Waspcouncil.png|The Council
 
 The **Entrance** can be found in Terminal A in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) inside the roof behind the library, then the player is teleported to a large area which is 650k studs away from Mega Base making it hard for the player to move around, the player then has to overcome a small obby before entrance in the "Wasp Heaven" can be achieved.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <u>Quest Wasp</u>: "Who are you..."
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Starforce6000
+  - /wiki/Starforce6000
 title: Starforce6000
 ---
 

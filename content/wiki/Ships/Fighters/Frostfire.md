@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Frostfire
+  - /wiki/Frostfire
 categories:
-- Fighters
-- Limited Ships
-- Christmas Event 2019
-- Ships
+  - Fighters
+  - Limited Ships
+  - Christmas Event 2019
+  - Ships
 title: Frostfire
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} The **_Frostfire_** is a [**Fighter**]({{< ref "/categories/" >}}Fighters) found on the [Hailstorm]({{< ref "/wiki/" >}}Hailstorm). 
+{{< shipInfobox >}} {{< notices/underConstruction >}} The **_Frostfire_** is a [**Fighter**]({{< ref "/categories/" >}}Fighters) found on the [Hailstorm]({{< ref "/wiki/" >}}Hailstorm).
 
 ## Description
 
@@ -37,7 +37,7 @@ Most of the ship isn't solid, The interior is mainly just a seat.
 
 Use speed and maneuverability to your advantage, get within 4k range of your target and lose your spinals.
 
-## Version History 
+## Version History
 
 - HP buffed from 1k/1k shield/hull to 1.2k/1.2k shield/hull, speed increased from 180 to 230, 2 Medium Phasers increased to 4 Medium Phasers, and also given 2 Light Lasers, 2 Tiny Lasers for turrets in version ???.
 

@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Aura
+  - /wiki/Aura
 categories:
-- Ships
-- Cruisers
+  - Ships
+  - Cruisers
 title: Aura
 ---
 
@@ -40,7 +40,7 @@ The Interior contains a very advanced layout of computers and navigation systems
 - Try to stay in a group when engaging larger targets.
 - Always tail other spinal ships if possible, as they lack the power to take you down in a short amount of time.
 
-## Version History 
+## Version History
 
 - Introduced in .66b.
 - Spinal configuration and barrel count fixed.

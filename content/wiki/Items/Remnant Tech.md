@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Remnant-Tech
+  - /wiki/Remnant-Tech
 categories:
-- Event Items
-- Halloween 2022
+  - Event Items
+  - Halloween 2022
 title: Remnant Tech
 ---
 
@@ -33,9 +33,9 @@ Ship Amount
 
 ## Quests
 
-### Spooky Item Trade 
+### Spooky Item Trade
 
-**Requires:** 10 Remnant Techs. **Reward:** ??? Credits.  "AvHunterr" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #-32423491212.
+**Requires:** 10 Remnant Techs. **Reward:** ??? Credits. "AvHunterr" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #-32423491212.
 
 **Dialogue:**
 

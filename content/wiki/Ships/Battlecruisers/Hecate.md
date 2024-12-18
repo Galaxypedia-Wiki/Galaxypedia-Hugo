@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Hecate
+  - /wiki/Hecate
 categories:
-- Ships
-- Battlecruisers
-- PVP Ships
-- Support Ships
+  - Ships
+  - Battlecruisers
+  - PVP Ships
+  - Support Ships
 title: Hecate
 ---
 
-{{< shipInfobox >}} {{< notices/vipShip >}} The **_Hecate_** Is a **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** Class ship that excels at crushing the hulls of other ships. 
+{{< shipInfobox >}} {{< notices/vipShip >}} The **_Hecate_** Is a **[Battlecruiser]({{< ref "/categories/" >}}Battlecruisers)** Class ship that excels at crushing the hulls of other ships.
 
 ## Description
 
@@ -43,7 +43,7 @@ The current design's interior is very empty. You enter using a door in the side,
 - This ship does not perform well alone against multiple small ships. Stay with a fleet.
 - Use this ship in sieges. Its [Cannons]({{< ref "/wiki/" >}}Spinals) deal high hull damage and it is capable of taking down other [Battlecruisers]({{< ref "/categories/" >}}Battlecruisers), such as the [Dire Wolf]({{< ref "/wiki/" >}}Dire-Wolf). It can even challenge some [Battleships]({{< ref "/categories/" >}}Battleships) such the [Cutlass]({{< ref "/wiki/" >}}Cutlass).
 
-## Version History 
+## Version History
 
 - Remodeled in .61h.
 - Remodeled and rebalanced^(Please add statistic changes here)^ in version .74b14.

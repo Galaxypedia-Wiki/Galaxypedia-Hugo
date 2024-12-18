@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/How-To-Play-Galaxy
+  - /wiki/How-To-Play-Galaxy
 categories:
-- Getting_Started
+  - Getting_Started
 title: How To Play Galaxy
 ---
 

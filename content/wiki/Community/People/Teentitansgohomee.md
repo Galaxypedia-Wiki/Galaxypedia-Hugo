@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Teentitansgohomee
+  - /wiki/Teentitansgohomee
 categories:
-- Biographies
+  - Biographies
 title: Teentitansgohomee
 ---
 

@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Blackgate
+  - /wiki/Blackgate
 categories:
-- Halloween 2020
-- Dreadnoughts
-- Limited Ships
-- PVP Ships
-- Siege Ships
-- Ships
+  - Halloween 2020
+  - Dreadnoughts
+  - Limited Ships
+  - PVP Ships
+  - Siege Ships
+  - Ships
 title: Blackgate
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Blackgate_** is a [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) that was available during Phase 3 of the event. 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Blackgate_** is a [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts) that was available during Phase 3 of the event.
 
 ## Description
 
@@ -40,7 +40,7 @@ The **Blackgate** has a very detailed interior with two floors and a futuristic 
 - Use this ship against Shield-based ships.
 - Make sure to check the map/leaderboard once in awhile to prevent losing your ship to a raid.
 
-## Version History 
+## Version History
 
 - Hull reduced from 12,500 to 12,000 in version .69c
 - Added a spawn sound in version .69d.

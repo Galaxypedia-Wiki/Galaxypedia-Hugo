@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Starhunter
+  - /wiki/Starhunter
 categories:
-- Fighters
-- Ships
+  - Fighters
+  - Ships
 title: Starhunter
 ---
 
@@ -37,7 +37,7 @@ The **Starhunter** has a simple interior with a singular bucket seat in the comp
 - Target heavy siege ships with [shield]({{< ref "/wiki/" >}}Shields) based health like the [Judgement]({{< ref "/wiki/" >}}Judgement), they will have a difficult time destroying you while you quickly destroy their shields with your phasers.
 - Hide in blindspots, or fighter bays when attacking [Carriers]({{< ref "/categories/" >}}Carriers).
 
-## Version History 
+## Version History
 
 - Re-added in version .68b
 - Speed reduced from 325 to 225 in version .69b1

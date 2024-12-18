@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/C-Class
+  - /wiki/C-Class
 categories:
-- Ships
-- Freighters
-- Promotion/Raffles
+  - Ships
+  - Freighters
+  - Promotion/Raffles
 title: C Class
 ---
 
@@ -42,7 +42,7 @@ The **C Class** is a large Freighter that resembles an old model of the [E Class
 - Don't use this for [Trading]({{< ref "/wiki/" >}}Trading) during war, unless you are confident you will not die as you will be targeted.
 - Treat this ship like it's a trophy.
 
-## Version History 
+## Version History
 
 - Removed in version .69a2, due to the cancellation of the tournament.
 

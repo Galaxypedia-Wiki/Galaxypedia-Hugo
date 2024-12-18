@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Andromeda
+  - /wiki/Andromeda
 categories:
-- Dreadnoughts
-- VIP Ships
-- Support Ships
-- PVP Ships
-- Capital Ships
-- Siege Ships
-- Ships
+  - Dreadnoughts
+  - VIP Ships
+  - Support Ships
+  - PVP Ships
+  - Capital Ships
+  - Siege Ships
+  - Ships
 title: Andromeda
 ---
 
-{{< shipInfobox >}} {{< notices/vipShip >}} The **_Andromeda_** is the first [Spinal]({{< ref "/wiki/" >}}Spinals)-based [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts). 
+{{< shipInfobox >}} {{< notices/vipShip >}} The **_Andromeda_** is the first [Spinal]({{< ref "/wiki/" >}}Spinals)-based [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts).
 
 ## Description
 
@@ -49,7 +49,7 @@ The **Andromeda** has a somewhat small interior, accessible only by a teleporter
 - Use it as an extra gun during sieges, its main strong suit is DPS.
 - Best used in fleet wars, let your teammates tank while you do huge damage to the enemies.
 
-## Version History 
+## Version History
 
 - Turn Speed increased from 0.05 to 0.07 in version .64f.
 - Received Turrets in .65b.

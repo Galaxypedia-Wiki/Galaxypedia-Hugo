@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Zorpism-Demotion-Incident
+  - /wiki/Zorpism-Demotion-Incident
 title: Zorpism Demotion Incident
 ---
 

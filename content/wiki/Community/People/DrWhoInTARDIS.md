@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/DrWhoInTARDIS
+  - /wiki/DrWhoInTARDIS
 categories:
-- Biographies
+  - Biographies
 title: DrWhoInTARDIS
 ---
 

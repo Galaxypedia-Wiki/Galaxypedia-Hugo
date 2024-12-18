@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Apotheosis
+  - /wiki/Apotheosis
 categories:
-- Halloween 2022
-- Ships
-- Limited Ships
-- Battleships
-- Capital Ships
+  - Halloween 2022
+  - Ships
+  - Limited Ships
+  - Battleships
+  - Capital Ships
 title: Apotheosis
 ---
 
 {{< shipInfobox >}} {{< notices/limitedShip >}} _This page is about the player-ownable vessel. If you're looking for the NPC variant, see [Ab̵̼̓e̷̋̀r̸͆̂r̵͈͐a̷͋̚ť̶̚i̵̐̈́ó̵̝n̷̚͝]({{< ref "/wiki/" >}}Ab̵̼̓e̷̋̀r̸͆̂r̵͈͐a̷͋̚ť̶̚i̵̐̈́ó̵̝n̷̚͝)._
 
-The **_Apotheosis_** is a powerful hull breaking PVP [Battleship]({{< ref "/categories/" >}}Battleships) from the [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022). 
+The **_Apotheosis_** is a powerful hull breaking PVP [Battleship]({{< ref "/categories/" >}}Battleships) from the [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022).
 
 ## Description
 

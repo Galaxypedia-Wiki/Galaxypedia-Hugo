@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Maple-Galaxy
+  - /wiki/Maple-Galaxy
 categories:
-- Ships
-- Mining Ships
-- Admin Ships
-- Limited Ships
+  - Ships
+  - Mining Ships
+  - Admin Ships
+  - Limited Ships
 title: Maple Galaxy
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **Maple Galaxy** is an improved galaxy only given to Galaxy Staff Members. 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **Maple Galaxy** is an improved galaxy only given to Galaxy Staff Members.
 
 ## Description
 

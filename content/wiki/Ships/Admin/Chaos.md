@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Chaos
+  - /wiki/Chaos
 categories:
-- Ships
-- Admin Ships
-- Removed From Game
+  - Ships
+  - Admin Ships
+  - Removed From Game
 title: Chaos
 ---
 

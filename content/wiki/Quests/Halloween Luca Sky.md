@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Halloween-Luca-Sky
+  - /wiki/Halloween-Luca-Sky
 categories:
-- Halloween 2017
-- Quests
-- Limited Ships
-- Removed From Game
+  - Halloween 2017
+  - Quests
+  - Limited Ships
+  - Removed From Game
 title: Halloween Luca Sky
 ---
 

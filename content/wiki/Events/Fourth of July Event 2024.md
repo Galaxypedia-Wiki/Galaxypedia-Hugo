@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Fourth-of-July-Event-2024
+  - /wiki/Fourth-of-July-Event-2024
 categories:
-- Events
-- Fourth of July 2024
+  - Events
+  - Fourth of July 2024
 title: Fourth of July Event 2024
 ---
 
@@ -16,7 +16,7 @@ To obtain the Liberator, You would speak with an eagle (seen below). You would a
 - [The Patriot]({{< ref "/wiki/" >}}The-Patriot)
 - [Liberator]({{< ref "/wiki/" >}}Liberator)
 
-## NPC Ships 
+## NPC Ships
 
 - Insurgent Raider
 - ![The Eagle that would give you the

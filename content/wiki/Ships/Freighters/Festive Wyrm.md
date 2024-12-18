@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Festive-Wyrm
+  - /wiki/Festive-Wyrm
 categories:
-- Limited Ships
-- Reskins
-- Ships
-- Christmas Event 2018
-- Freighters
+  - Limited Ships
+  - Reskins
+  - Ships
+  - Christmas Event 2018
+  - Freighters
 title: Festive Wyrm
 ---
 
@@ -37,7 +37,7 @@ The **Festive Wyrm** has the same tiny interior as the [Wyrm]({{< ref "/wiki/" >
 - Use your speed to get to loot and run away before [Pirates]({{< ref "/wiki/" >}}Pirating) can even get to you.
 - Use your high speed and tiny size to dodge enemy fire.
 
-## Version History 
+## Version History
 
 - Added in .65b.
 - Fixed part-shift .75a12

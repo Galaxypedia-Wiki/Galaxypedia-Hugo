@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/The-plague
+  - /wiki/The-plague
 categories:
-- Quests
-- NPCS
-- Limited Ships
-- Halloween 2022
+  - Quests
+  - NPCS
+  - Limited Ships
+  - Halloween 2022
 title: The plague
 ---
 
@@ -24,7 +24,7 @@ The items required for the completion of the quest are the following:
 
 The wreck of the Apotheosis is located very far away from the map and can only be accessed by a teleporter situated on the ceiling of a secret room. To reach the teleporter, the player must go behind the decoy NPC and jump. Said secret room can be accessed by another teleporter located at the top of the [Mega Base]({{< ref "/wiki/" >}}Mega-Base)'s observatory, inside the giant pumpkin.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">Apotheosis: "REQUIRED"</span>
 

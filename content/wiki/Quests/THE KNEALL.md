@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/THE-KNEALL
+  - /wiki/THE-KNEALL
 categories:
-- Quests
-- NPCS
-- Kneall Events
+  - Quests
+  - NPCS
+  - Kneall Events
 title: THE KNEALL
 ---
 
@@ -22,7 +22,7 @@ The Items that the quest needs to build the [Onslaught]({{< ref "/wiki/" >}}Onsl
 
 **Rev** is found sitting above the large portal of the [Kneall Outpost]({{< ref "/wiki/" >}}Kneall-Outpost).
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Rev]: KNEALL</span>
 

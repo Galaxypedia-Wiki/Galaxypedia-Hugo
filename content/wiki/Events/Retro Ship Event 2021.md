@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Retro-Ship-Event-2021
+  - /wiki/Retro-Ship-Event-2021
 categories:
-- Events
+  - Events
 title: Retro Ship Event 2021
 ---
 

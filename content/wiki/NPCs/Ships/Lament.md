@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Lament
+  - /wiki/Lament
 categories:
-- Ships
-- NPC Ships
+  - Ships
+  - NPC Ships
 title: Lament
 ---
 

@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Helios
+  - /wiki/Helios
 categories:
-- Ships
-- Battleships
-- Advanced Ships
-- PVP Ships
-- Pirate Ships
+  - Ships
+  - Battleships
+  - Advanced Ships
+  - PVP Ships
+  - Pirate Ships
 title: Helios
 ---
 
-{{< shipInfobox >}} {{< notices/advancedShip >}} The Helios is a powerful and extremely fast [Battleship.]({{< ref "/categories/" >}}Battleships) 
+{{< shipInfobox >}} {{< notices/advancedShip >}} The Helios is a powerful and extremely fast [Battleship.]({{< ref "/categories/" >}}Battleships)
 
 ## Description
 
@@ -28,7 +28,7 @@ The Interior is a black room with a pilot seat and a teleporter leading outside.
 
 - Very high damage output with its advanced [Turrets]({{< ref "/wiki/" >}}Turrets) and [Spinals]({{< ref "/wiki/" >}}Spinal-Weaponry) for a [Battleship]({{< ref "/categories/" >}}Battleships), being higher than most [Dreadnoughts]({{< ref "/categories/" >}}Dreadnoughts).
 - Fast and flat, allowing for easier dodging and reduced damage when [Drifting]({{< ref "/wiki/" >}}Strategies#Drifting).
-- Insanely fast and agile for a [Battleship]({{< ref "/categories/" >}}Battleships), having a top speed of  and  Turn Speed.
+- Insanely fast and agile for a [Battleship]({{< ref "/categories/" >}}Battleships), having a top speed of and Turn Speed.
 - Large Cargo Hold for a [Battleship]({{< ref "/categories/" >}}Battleships).
 - One of the few ships with 100% [Drift]({{< ref "/wiki/" >}}Strategies#Drifting) Percentage.
 - Speed, Maneuverability, and Firepower all make up for the Helios' lack of hull integrity.
@@ -60,7 +60,7 @@ The Interior is a black room with a pilot seat and a teleporter leading outside.
 - Like other [Advanced Ships,]({{< ref "/categories/" >}}Advanced-Ships) it is extremely effective in swarms. Gather a few more of this ship for extremely devastating DPS capable of quickly destroying almost any normal ship.
 - Against fleets, you have a very good chance of being targeted because other players will see you as an advanced [Battleship]({{< ref "/categories/" >}}Battleships) kill. This could result you being dived even after taking little damage.
 
-## Version History 
+## Version History
 
 - Added in .66b
 - Max speed decreased from 160 to 145, Phaser size reduced from Huge to Large, spinal firing interval increased from 0.01/0.1s (Cannon/Phaser) to 0.4/0.4s.

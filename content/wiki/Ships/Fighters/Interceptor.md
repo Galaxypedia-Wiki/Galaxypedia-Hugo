@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Interceptor
+  - /wiki/Interceptor
 categories:
-- Fighters
-- Support Ships
-- PVP Ships
-- Ships
+  - Fighters
+  - Support Ships
+  - PVP Ships
+  - Ships
 title: Interceptor
 ---
 
@@ -38,7 +38,7 @@ Like all fighter class ships, the **Interceptor** has little in the way of an in
 - Swarming with all [Fighters]({{< ref "/categories/" >}}Fighters) from [Nimitz]({{< ref "/wiki/" >}}Nimitz) creates huge damage comparable to a [Battlecruiser]({{< ref "/categories/" >}}Battlecruisers) or some [Battleships]({{< ref "/categories/" >}}Battleships).
 - Good for warding off enemy scouts. Additionally, it can defend from [Aliens]({{< ref "/wiki/" >}}Aliens) when no one else is available.
 
-## Version History 
+## Version History
 
 - Small Flak Cannon replaced with Medium Flak Cannon / Light Laser replaced with Medium Laser in .61g.
 

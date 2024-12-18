@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Beta-Warlock
+  - /wiki/Beta-Warlock
 categories:
-- Battleships
-- Ships
-- PVP Ships
-- Support Ships
-- Siege Ships
-- Capital Ships
-- Retro Ship Event 2021
+  - Battleships
+  - Ships
+  - PVP Ships
+  - Support Ships
+  - Siege Ships
+  - Capital Ships
+  - Retro Ship Event 2021
 title: Beta Warlock
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Beta Warlock_** is a [Limited]({{< ref "/categories/" >}}Limited-Ships) [**Battleship**]({{< ref "/categories/" >}}Battleships) added during the [2021 Retro Ship Event]({{< ref "/categories/" >}}Retro-Ship-Event-2021) 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Beta Warlock_** is a [Limited]({{< ref "/categories/" >}}Limited-Ships) [**Battleship**]({{< ref "/categories/" >}}Battleships) added during the [2021 Retro Ship Event]({{< ref "/categories/" >}}Retro-Ship-Event-2021)
 
 ## Description
 
@@ -41,7 +41,7 @@ The interior of the **Beta Warlock** is very long and narrow, requiring walking 
 - This battleship can easily take down other battleships and even some dreads due to its superior maneuverability and damage.
 - Only use it if backed up by people you 100% trust.
 
-## Version History 
+## Version History
 
 - Explosion size 100 ----> 470 .75a12
 

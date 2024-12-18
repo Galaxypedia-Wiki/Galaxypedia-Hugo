@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Wraith
+  - /wiki/Wraith
 categories:
-- Fighters
-- Siege Ships
-- Ships
+  - Fighters
+  - Siege Ships
+  - Ships
 title: Wraith
 ---
 
-{{< shipInfobox >}} The **_Wraith_** is a unique [**Fighter**]({{< ref "/categories/" >}}Fighters) carried by the [Skeletal Ghostealis]({{< ref "/wiki/" >}}Skeletal-Ghostealis). 
+{{< shipInfobox >}} The **_Wraith_** is a unique [**Fighter**]({{< ref "/categories/" >}}Fighters) carried by the [Skeletal Ghostealis]({{< ref "/wiki/" >}}Skeletal-Ghostealis).
 
 ## Description
 
@@ -44,7 +44,7 @@ The <u>**Interior**</u> is extremely small and empty, just like most other [Figh
 - Focus on swarming and destroying [AA]({{< ref "/wiki/" >}}Galaxy-Slang) ships like the [Ampharos]({{< ref "/wiki/" >}}Ampharos) or [Hyron]({{< ref "/wiki/" >}}Hyron) first, as they will shred you if left alone.
 - Use the ship's high maneuverability to get into the blind spots of larger ships and deal heavy spinal damage.
 
-## Version History 
+## Version History
 
 - Received a buff to its (G) [Spinal]({{< ref "/wiki/" >}}Spinals) in an unknown version update, which replaced its 4 Tiny Cannons with 1 Small Torpedo.
 - Received a remodel in version .69e.

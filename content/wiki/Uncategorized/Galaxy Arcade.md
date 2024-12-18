@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Galaxy-Arcade
+  - /wiki/Galaxy-Arcade
 title: Galaxy Arcade
 ---
 

@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Festive-Wasp
+  - /wiki/Festive-Wasp
 categories:
-- Ships
-- Limited Ships
-- Reskins
-- Christmas Event 2017
-- Mining Ships
+  - Ships
+  - Limited Ships
+  - Reskins
+  - Christmas Event 2017
+  - Mining Ships
 title: Festive Wasp
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Festive Wasp_** is a [Limited Event]({{< ref "/categories/" >}}Limited-Ships) version of the **[Miner-Class]({{< ref "/categories/" >}}Mining-Ships)**ship [Wasp]({{< ref "/wiki/" >}}Wasp). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Festive Wasp_** is a [Limited Event]({{< ref "/categories/" >}}Limited-Ships) version of the **[Miner-Class]({{< ref "/categories/" >}}Mining-Ships)**ship [Wasp]({{< ref "/wiki/" >}}Wasp).
 
 ## Description
 
@@ -49,7 +49,7 @@ Like the Wasp, the **Festive Wasp** has no interior.
 - Treat this ship like a trophy, don't sell it or use it, ONLY use it if you are sure there is no [Aliens]({{< ref "/wiki/" >}}Aliens) around you and there are no factions which had declared war on you.
 - If you decided to use this ship, if a faction had declared war on you or an alien attacks you, quickly Dock at the nearest [starbase]({{< ref "/wiki/" >}}starbase) and despawn your [ship]({{< ref "/wiki/" >}}ships), ASAP.
 
-## Version History 
+## Version History
 
 - Added in update .60a
 - Received a buff in update .60d that buffed Top Speed from 175 to 300.

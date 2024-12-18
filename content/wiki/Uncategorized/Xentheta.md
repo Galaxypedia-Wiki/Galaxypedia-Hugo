@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Xentheta
+  - /wiki/Xentheta
 title: Xentheta
 ---
 

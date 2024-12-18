@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Blue-Torp-Wasp
+  - /wiki/Blue-Torp-Wasp
 categories:
-- Limited Ships
-- Reskins
-- Frigates
-- PVP Ships
-- Ships
-- Hidden Events
+  - Limited Ships
+  - Reskins
+  - Frigates
+  - PVP Ships
+  - Ships
+  - Hidden Events
 title: Blue Torp Wasp
 ---
 
@@ -40,7 +40,7 @@ The **Blue Torp Wasp** has no interior. The exterior is simply a reskinned wasp.
 - Group up with more **Blue Torp Wasps** to unleash your Torpedo fury!
 - Never fight alone.
 
-## Version History 
+## Version History
 
 - Removed from the build menu in version .66b (August 19, 2019).
 -

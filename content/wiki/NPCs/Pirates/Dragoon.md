@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Dragoon
+  - /wiki/Dragoon
 categories:
-- NPC Ships
-- Pirate Ships
-- Ships
+  - NPC Ships
+  - Pirate Ships
+  - Ships
 title: Dragoon
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Dragoon_** is a Pirate [**AI**]({{< ref "/categories/" >}}NPC-Ships) [**Frigate**]({{< ref "/categories/" >}}Frigates). 
+{{< shipInfobox >}} {{< notices/npcShip >}} The **_Dragoon_** is a Pirate [**AI**]({{< ref "/categories/" >}}NPC-Ships) [**Frigate**]({{< ref "/categories/" >}}Frigates).
 
 ## Description
 
@@ -25,7 +25,7 @@ The **Dragoon** is a small, quick, and lightly-armed AI pirate ship that drops a
 
 - 5 [Armor Scrap]({{< ref "/wiki/" >}}Armor-Scrap), 20 [Material Scrap]({{< ref "/wiki/" >}}Material-Scrap).
 
-## Version History 
+## Version History
 
 - Was accidentally released in version .73a3 in new servers under the name "Zagon" but was quickly removed
 - Loot was added following the introduction of [Armor Scrap]({{< ref "/wiki/" >}}Armor-Scrap) to the game in version .73c

@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Nautilus-Blueprint
+  - /wiki/Nautilus-Blueprint
 categories:
-- Items
+  - Items
 title: Nautilus Blueprint
 ---
 

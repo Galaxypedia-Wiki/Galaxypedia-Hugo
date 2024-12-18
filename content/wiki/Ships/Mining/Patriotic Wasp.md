@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Patriotic-Wasp
+  - /wiki/Patriotic-Wasp
 categories:
-- Limited Ships
-- Ships
-- Mining Ships
-- Fourth of July 2021
-- Reskins
+  - Limited Ships
+  - Ships
+  - Mining Ships
+  - Fourth of July 2021
+  - Reskins
 title: Patriotic Wasp
 ---
 
-{{< shipInfobox >}} {{< notices/removed >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Patriotic Wasp_** is a [Limited]({{< ref "/categories/" >}}Limited-Ships) [**Miner**]({{< ref "/categories/" >}}Mining-Ships) from the [2021 Fourth of July Event]({{< ref "/wiki/" >}}Fourth-of-July-2021). 
+{{< shipInfobox >}} {{< notices/removed >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Patriotic Wasp_** is a [Limited]({{< ref "/categories/" >}}Limited-Ships) [**Miner**]({{< ref "/categories/" >}}Mining-Ships) from the [2021 Fourth of July Event]({{< ref "/wiki/" >}}Fourth-of-July-2021).
 
 ## Description
 
@@ -37,7 +37,7 @@ According to Yname, the **Patriotic Wasp**'s model was accidentally deleted with
 - Mine close to your base to ensure that if any enemies are coming, that you can dock quickly and respawn.
 - Check the mini-map often, look out for any alien or pirate ships that are around.
 
-## Version History 
+## Version History
 
 - Had it's [Large Patriotic Mining Laser]({{< ref "/wiki/" >}}Turrets) swapped out for a [Patriotic Mining Laser]({{< ref "/wiki/" >}}Turrets), increased the range from 6,175 to 6,500 in version .75a10.
 

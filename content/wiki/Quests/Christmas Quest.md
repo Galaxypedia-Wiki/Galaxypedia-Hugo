@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Christmas-Quest
+  - /wiki/Christmas-Quest
 categories:
-- Christmas Event 2017
-- Quests
-- Limited Ships
-- Removed From Game
+  - Christmas Event 2017
+  - Quests
+  - Limited Ships
+  - Removed From Game
 title: Christmas Quest
 ---
 

@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Remnant-Spore
+  - /wiki/Remnant-Spore
 categories:
-- Event Items
-- Halloween 2022
-- Quests
+  - Event Items
+  - Halloween 2022
+  - Quests
 title: Remnant Spore
 ---
 
@@ -22,7 +22,7 @@ Ship Amount
 
 : **Ships that need Remnant Spores to build**
 
-### NPC Ships 
+### NPC Ships
 
 Ship Amount
 
@@ -30,13 +30,13 @@ Ship Amount
 
 [Ø₴łⱤł₴ ⱠɆ₲łØ₦]({{< ref "/wiki/" >}}Ø₴łⱤł₴-ⱠɆ₲łØ₦) 50 [Ar̴͑̈ć̶͝h̸̑̎ä̷͗y̵̓̆n̵͛̌]({{< ref "/wiki/" >}}Ar̴͑̈ć̶͝h̸̑̎ä̷͗y̵̓̆n̵͛̌) 30 [Pl̸͌͝å̷̛g̸͑̃ȗ̵͠e̵͌̔d̴̑͘ ̴̌̀O̵͛͘s̶̏̕i̷̓͒r̷̓͋ì̵͝s̵̓̊]({{< ref "/wiki/" >}}Pl̸͌͝å̷̛g̸͑̃ȗ̵͠e̵͌̔d̴̑͘-̴̌̀O̵͛͘s̶̏̕i̷̓͒r̷̓͋ì̵͝s̵̓̊) 10 [Ab̵̼̓e̷̋̀r̸͆̂r̵͈͐a̷͋̚ť̶̚i̵̐̈́ó̵̝n̷̚͝]({{< ref "/wiki/" >}}Ab̵̼̓e̷̋̀r̸͆̂r̵͈͐a̷͋̚ť̶̚i̵̐̈́ó̵̝n̷̚͝) 5 [An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗]({{< ref "/wiki/" >}}An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗) 1
 
-## Removed Quests 
+## Removed Quests
 
 _Halloween Ship Quests can be found in the page **[Staff Hall]({{< ref "/wiki/" >}}Staff-Hall)**._
 
-### Spore -> Ice Shard 
+### Spore -> Ice Shard
 
-**Requires:** 15 Remnant Spores. **Reward:** 15 [Ice Shard]({{< ref "/wiki/" >}}Ice-Shard).  "Spore -> Ice Shard" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20221101.
+**Requires:** 15 Remnant Spores. **Reward:** 15 [Ice Shard]({{< ref "/wiki/" >}}Ice-Shard). "Spore -> Ice Shard" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20221101.
 
 **Dialogue:**
 
@@ -66,9 +66,9 @@ _When speaking with Spore -> Ice Shard again_
 
 _If player has the required items, they will receive 15 [Ice Shard]({{< ref "/wiki/" >}}Ice-Shard) as a reward._
 
-### Spooky Item Trade 
+### Spooky Item Trade
 
-**Requires:** 10 Remnant Spores. **Reward:** 50000 Credits.  "Rocket_GotG" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #-324234912.
+**Requires:** 10 Remnant Spores. **Reward:** 50000 Credits. "Rocket_GotG" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #-324234912.
 
 **Dialogue:**
 
@@ -90,9 +90,9 @@ _When speaking with Rocket_GotG again_
 
 _If player has the required items, they will receive 50000 Credits as a reward._
 
-### Spooky Item Trade 2 
+### Spooky Item Trade 2
 
-**Requires:** 100 Remnant Spores. **Reward:** 500000 Credits.  "lolhahalolhaha" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #-324234914.
+**Requires:** 100 Remnant Spores. **Reward:** 500000 Credits. "lolhahalolhaha" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #-324234914.
 
 **Dialogue:**
 

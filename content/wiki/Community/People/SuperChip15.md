@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/SuperChip15
+  - /wiki/SuperChip15
 categories:
-- Biographies
+  - Biographies
 title: SuperChip15
 ---
 

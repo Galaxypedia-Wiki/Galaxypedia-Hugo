@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Xeiron-Industries
+  - /wiki/Xeiron-Industries
 categories:
-- Galaxy Lore Pages
+  - Galaxy Lore Pages
 title: Xeiron Industries
 ---
 

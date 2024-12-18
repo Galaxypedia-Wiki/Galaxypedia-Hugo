@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Boss-Spawn-Time
+  - /wiki/Boss-Spawn-Time
 categories:
-- Bosses
-- Game Mechanics
-- NPC Ships
+  - Bosses
+  - Game Mechanics
+  - NPC Ships
 title: Boss Spawn Time
 ---
 
@@ -12,7 +12,7 @@ This page simply condenses all of the boss spawn intervals into one place for co
 
 ---
 
-### **Boss Spawn Intervals:** 
+### **Boss Spawn Intervals:**
 
 **Every 28.3 minutes:**
 

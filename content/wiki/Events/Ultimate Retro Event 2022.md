@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Ultimate-Retro-Event-2022
+  - /wiki/Ultimate-Retro-Event-2022
 categories:
-- Events
-- Ultimate Retro Ship Event 2022
+  - Events
+  - Ultimate Retro Ship Event 2022
 title: Ultimate Retro Event 2022
 ---
 
@@ -47,7 +47,7 @@ Retro Andromeda-icon.png|[Retro Andromeda]({{< ref "/wiki/" >}}Retro-Andromeda) 
 
 Retro Nyx-icon.png|[Retro Nyx]({{< ref "/wiki/" >}}Retro-Nyx)
 
-### NPC Ships 
+### NPC Ships
 
 _Note that Stimulant NPC Ships only spawn in Public Servers._
 

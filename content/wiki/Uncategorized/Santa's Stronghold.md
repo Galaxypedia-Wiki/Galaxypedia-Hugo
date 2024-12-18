@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Santa's-Stronghold
+  - /wiki/Santa's-Stronghold
 title: Santa's Stronghold
 ---
 

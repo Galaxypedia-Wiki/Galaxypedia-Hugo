@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Headless-Horseman
+  - /wiki/Headless-Horseman
 categories:
-- Quests
-- Halloween 2017
-- Removed From Game
-- Limited Ships
-- NPCS
+  - Quests
+  - Halloween 2017
+  - Removed From Game
+  - Limited Ships
+  - NPCS
 title: Headless Horseman
 ---
 
@@ -16,7 +16,7 @@ The **_Headless Horseman_** was an [**NPC**]({{< ref "/categories/" >}}NPCS) add
 
 The **Headless Horseman** was an NPC based on the American folktale. He would spawn in the [Halloween Mega Base]({{< ref "/wiki/" >}}Halloween-Mega-Base) and would give "Halloween Quest".
 
-## Halloween Quest 
+## Halloween Quest
 
 The Halloween Quest is started after you speak to the **Headless Horseman**. He will give you a quest to collect 5 [Space Pumpkins]({{< ref "/wiki/" >}}Space-Pumpkin) and put them in your [Warehouse]({{< ref "/wiki/" >}}Warehouse). To obtain a Space Pumpkin, you would have to defeat the [Grim Reaper]({{< ref "/wiki/" >}}Grim-Reaper), which would spawn in servers. Once the Grim Reaper is destroyed, it would drop 0-4 Space Pumpkins.
 

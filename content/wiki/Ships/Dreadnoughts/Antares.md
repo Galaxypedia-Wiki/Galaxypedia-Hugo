@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Antares
+  - /wiki/Antares
 categories:
-- Ships
-- Dreadnoughts
-- Siege Ships
-- Limited Ships
-- Christmas Event 2019
-- Capital Ships
-- Hull breakers
+  - Ships
+  - Dreadnoughts
+  - Siege Ships
+  - Limited Ships
+  - Christmas Event 2019
+  - Capital Ships
+  - Hull breakers
 title: Antares
 ---
 
@@ -51,7 +51,7 @@ The Interior of the **Antares** is a nicely detailed small room with walls cover
 - It is very hard to take out small ships with this so bring [AA]({{< ref "/wiki/" >}}Galaxy-Terminology) support with you.
 - Bring a shield shredder like the [Zeus]({{< ref "/wiki/" >}}Zeus) or [Sagittarius]({{< ref "/wiki/" >}}Sagittarius) with you to quickly cripple or destroy enemy capital ships.
 
-## Version History 
+## Version History
 
 - Buffed in version .75a5. 1 medium flak and 1 dual cannon were swapped out for 2 Heavy Icy Artillery Cannons. 2 heavy point defense lasers swapped out for 2 Super LR lasers. Torpedo interval reduced to 0.1. Speed buffed to 60 and acceleration buffed to 15. Turn speed was buffed to 0.15. Hull health increased from 6000 to 6500.
 - Hull and Shields buffed to 8,800 and 7,200 in an unknown verwsion

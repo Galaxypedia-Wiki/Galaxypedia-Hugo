@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Dimensional-Alloy
+  - /wiki/Dimensional-Alloy
 categories:
-- Items
+  - Items
 title: Dimensional Alloy
 ---
 

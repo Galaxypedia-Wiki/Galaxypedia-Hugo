@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Suspicious-ore
+  - /wiki/Suspicious-ore
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Suspicious ore
 ---
 
@@ -30,7 +30,7 @@ The **Suspicious Ore** is a strange Fighter that cannot be spawned at any base o
 
 - Fly around and annoy ships, but avoid all incoming fire to prevent being one-shot
 
-## Version History 
+## Version History
 
 - No logged changes
 

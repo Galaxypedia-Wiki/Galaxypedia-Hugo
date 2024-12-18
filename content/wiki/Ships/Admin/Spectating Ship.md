@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Spectating-Ship
+  - /wiki/Spectating-Ship
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: Spectating Ship
 ---
 
@@ -34,7 +34,7 @@ The interior is nothing more than a small box containing the pilot's seat.
 
 - Use the ship's dark, small body and incredible health/maneuverability to watch huge battles in near complete safety.
 
-## Version History 
+## Version History
 
 - Buffed in .65b---Hull increased from 1,000,000 to 10,000,000, Shield increased from 1,000,000 to 10,000,000, Top Speed increased from 1,000 to 2,500
 - Received a remodel in version .67c.

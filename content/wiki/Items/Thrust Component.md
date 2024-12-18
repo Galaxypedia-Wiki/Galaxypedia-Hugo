@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Thrust-Component
+  - /wiki/Thrust-Component
 categories:
-- Items
+  - Items
 title: Thrust Component
 ---
 

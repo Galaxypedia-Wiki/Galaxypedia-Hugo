@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Kneall-Fleet-(Ship)
+  - /wiki/Kneall-Fleet-(Ship)
 title: Kneall Fleet (Ship)
 ---
 

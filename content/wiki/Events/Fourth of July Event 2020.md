@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Fourth-of-July-Event-2020
+  - /wiki/Fourth-of-July-Event-2020
 categories:
-- Events
+  - Events
 title: Fourth of July Event 2020
 ---
 
@@ -17,8 +17,7 @@ Patriotic Viper-icon.png|[Patriotic Viper]({{< ref "/wiki/" >}}Patriotic-Viper) 
 <div class="TDiv">
 # Trivia
 
-- **Update Log Description**: _Celebrate the United States' independence with three returning ships from previous events! A shrine to the Eagle has been created in the Mega Base, maybe it knows something...
-  This event will last for three days_
+- **Update Log Description**: _Celebrate the United States' independence with three returning ships from previous events! A shrine to the Eagle has been created in the Mega Base, maybe it knows something... This event will last for three days_
 - Unlike the previous Fourth of July events, this event saw the introduction of a completely unique ship, the [Liberator]({{< ref "/wiki/" >}}Liberator) and Freedom Galaxy rather than only introducing reskins of existing ships.
 - The total cost to obtain the ships at the time of the event was 3,710,347 credits
 - On the 9th the admins were told to enter and shut down the servers; they shut down a UCU server and others but were unable to get them all. On the 15th the last server, controlled by Blackhawks, was shut down by Roblox for their weekly update.

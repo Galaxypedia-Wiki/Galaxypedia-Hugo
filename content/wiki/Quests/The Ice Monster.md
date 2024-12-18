@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/The-Ice-Monster
-- /wiki/Yeti
+  - /wiki/The-Ice-Monster
+  - /wiki/Yeti
 categories:
-- Christmas Event 2017
-- Limited Ships
-- Quests
-- NPCS
+  - Christmas Event 2017
+  - Limited Ships
+  - Quests
+  - NPCS
 title: The Ice Monster
 ---
 

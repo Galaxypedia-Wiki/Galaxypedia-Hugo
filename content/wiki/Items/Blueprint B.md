@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Blueprint-B
+  - /wiki/Blueprint-B
 categories:
-- Event Items
+  - Event Items
 title: Blueprint B
 ---
 
@@ -10,4 +10,4 @@ title: Blueprint B
 
 **_It currently has no use or purpose._**
 
- [Halloween Event 2021]({{< ref "/wiki/" >}}Halloween-Event-2021)
+[Halloween Event 2021]({{< ref "/wiki/" >}}Halloween-Event-2021)

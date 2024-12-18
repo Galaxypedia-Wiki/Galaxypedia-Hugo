@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Ragnarok
+  - /wiki/Ragnarok
 title: Ragnarok
 ---
 
@@ -24,7 +24,7 @@ Unknown
 
 Unknown
 
-## Version History 
+## Version History
 
 Unknown
 

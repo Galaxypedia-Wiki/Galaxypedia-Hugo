@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Codes
+  - /wiki/Codes
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Codes
 ---
 
@@ -22,7 +22,7 @@ Code Reward Status
 
 **TANGO** [Miner-class]({{< ref "/categories/" >}}Mining-Ships) [Tango]({{< ref "/wiki/" >}}Tango) [ship]({{< ref "/wiki/" >}}Ships) Active **SPACE** [Destroyer-class]({{< ref "/categories/" >}}Destroyers) [Zero]({{< ref "/wiki/" >}}Zero) [ship]({{< ref "/wiki/" >}}Ships) Active **FREEMONEY** 2,000 [Credits]({{< ref "/wiki/" >}}Credits) Active **BUILDKIT** 120 [Silicate]({{< ref "/wiki/" >}}Ores), 90 [Carbon]({{< ref "/wiki/" >}}Ores), and 50 [Iridium]({{< ref "/wiki/" >}}Ores) Active **DELTA** [Destroyer-class]({{< ref "/categories/" >}}Destroyers) [Crucible]({{< ref "/wiki/" >}}Crucible) [ship]({{< ref "/wiki/" >}}Ships), with an additional bonus award of 100,000 credits for the first user to redeem the code. Active <s>**ONEMILLION**</s> Gives the [:Category:Battlecruiser]({{< ref "/categories/" >}}Battlecruisers) Delta ship as a celebration for the game hitting 1 million visits. Expired as of February 9, 2024
 
-## Version History 
+## Version History
 
 - **??? (Please add previous related changes if possible)**
 - Code "DELTA" added in version .76a11.

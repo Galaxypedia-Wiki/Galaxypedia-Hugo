@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Rcouret
+  - /wiki/Rcouret
 categories:
-- Biographies
+  - Biographies
 title: Rcouret
 ---
 

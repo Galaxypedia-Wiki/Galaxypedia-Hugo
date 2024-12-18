@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Cranefly
-- /wiki/Alien-Cranefly
+  - /wiki/Cranefly
+  - /wiki/Alien-Cranefly
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
-- Avellians= Ships and Stations
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
+  - Avellians= Ships and Stations
 title: Cranefly
 ---
 

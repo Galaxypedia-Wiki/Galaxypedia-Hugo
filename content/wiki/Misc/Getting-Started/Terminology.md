@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Terminology
-- /wiki/Abbreviations
-- /wiki/Galaxy-Slang
-- /wiki/Galaxy-Terminology
+  - /wiki/Terminology
+  - /wiki/Abbreviations
+  - /wiki/Galaxy-Slang
+  - /wiki/Galaxy-Terminology
 categories:
-- Game Mechanics
-- Getting Started
+  - Game Mechanics
+  - Getting Started
 title: Terminology
 ---
 

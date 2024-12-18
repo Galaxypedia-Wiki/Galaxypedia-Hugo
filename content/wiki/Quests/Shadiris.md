@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Shadiris
+  - /wiki/Shadiris
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Shadiris
 ---
 
@@ -13,15 +13,15 @@ title: Shadiris
 
 Hello World!
 
-## Weekly Rotation 
+## Weekly Rotation
 
-### [Insert text here]({{< ref "/wiki/" >}}Insert-text-here) 
+### [Insert text here]({{< ref "/wiki/" >}}Insert-text-here)
 
 ## Location
 
 Hello World!
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Shadiris]: " Hello World! "</span>
 

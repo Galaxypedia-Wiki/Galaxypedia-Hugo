@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Sagittarius
+  - /wiki/Sagittarius
 categories:
-- Ships
-- Dreadnoughts
-- Support Ships
-- Siege Ships
-- Capital Ships
+  - Ships
+  - Dreadnoughts
+  - Support Ships
+  - Siege Ships
+  - Capital Ships
 title: Sagittarius
 ---
 
-{{< shipInfobox >}} The **_Sagittarius_** is a long-range shield-breaking [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts). 
+{{< shipInfobox >}} The **_Sagittarius_** is a long-range shield-breaking [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts).
 
 ## Description
 
@@ -45,7 +45,7 @@ You enter the interior using a teleporter on the back of the ship. When you are 
 - Use your Spinals; more than half of your damage output comes from them.
 - Only use this if your team can support you effectively.
 
-## Version History 
+## Version History
 
 - When it was added into the game the **Sagittarius** was nerfed heavily from the original model, being stripped of two Light Flak Cannons, two Light Lasers, -450 Shield, -450 Hull, and 12 speed.
 - Remodeled in an unknown version.

@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Evilpleeber
+  - /wiki/Evilpleeber
 categories:
-- Quests
+  - Quests
 title: Evilpleeber
 ---
 
@@ -17,7 +17,7 @@ tree](Evilpleeber-top.png "Evilpleeber in the tree, from within the tree") **Evi
 ![Evilpleeber's Location Within the Mega
 Base](Evilpleeber-location.png "Evilpleeber's Location Within the Mega Base") **Evilpleeber** is located on a branch in a tree within the [Mega Base]({{< ref "/wiki/" >}}Mega-Base). Specifically, he is in a tree under the bridge that leads to Terminal C.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <u>Evilpleeber</u>: "<span style="color:orange">Death</span>"
 

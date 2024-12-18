@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Minimap
+  - /wiki/Minimap
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Minimap
 ---
 

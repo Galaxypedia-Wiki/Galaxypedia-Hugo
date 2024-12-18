@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/War-Studio
+  - /wiki/War-Studio
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: War Studio
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_War Studio_** is an **[Admin]({{< ref "/categories/" >}}Admin-Ships)** class ship, its model being a recolor of the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2). 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_War Studio_** is an **[Admin]({{< ref "/categories/" >}}Admin-Ships)** class ship, its model being a recolor of the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2).
 
 ## Description
 
@@ -29,7 +29,7 @@ The outside of **_War Studio_** is an orange recolor of the [Prototype X-2]({{< 
 
 - Scare enemies due to sheer intimidation.
 
-## Version History 
+## Version History
 
 ???
 

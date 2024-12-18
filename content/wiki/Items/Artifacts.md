@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Artifacts
+  - /wiki/Artifacts
 categories:
-- Items
+  - Items
 title: Artifacts
 ---
 
@@ -12,10 +12,10 @@ title: Artifacts
 
 **Artifacts** can found at any point in space, but are quite rare and are only visible on the HUD 1000 studs or below, making this strategy of finding artifacts slow and inconsistent. Killing the pirate ship [X-0]({{< ref "/wiki/" >}}X-0) is the only other way to acquire these materials, but it is the only way of acquiring large amounts of artifacts, so it is competitive and difficult to loot the [X-0]({{< ref "/wiki/" >}}X-0) before other players do.
 
-## Artifact List 
+## Artifact List
 
-### [Antimatter Shard]({{< ref "/wiki/" >}}Antimatter-Shard) 
+### [Antimatter Shard]({{< ref "/wiki/" >}}Antimatter-Shard)
 
-### [Ascension Crystal]({{< ref "/wiki/" >}}Ascension-Crystal) 
+### [Ascension Crystal]({{< ref "/wiki/" >}}Ascension-Crystal)
 
 ### [Data Archive]({{< ref "/wiki/" >}}Data-Archive)

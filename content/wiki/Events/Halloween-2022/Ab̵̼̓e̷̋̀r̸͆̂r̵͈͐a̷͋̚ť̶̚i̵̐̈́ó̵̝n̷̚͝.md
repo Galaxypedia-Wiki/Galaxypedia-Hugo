@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Ab̵̼̓e̷̋̀r̸͆̂r̵͈͐a̷͋̚ť̶̚i̵̐̈́ó̵̝n̷̚͝
-- /wiki/Aberration
+  - /wiki/Ab̵̼̓e̷̋̀r̸͆̂r̵͈͐a̷͋̚ť̶̚i̵̐̈́ó̵̝n̷̚͝
+  - /wiki/Aberration
 categories:
-- Halloween 2022
+  - Halloween 2022
 title: Ab̵̼̓e̷̋̀r̸͆̂r̵͈͐a̷͋̚ť̶̚i̵̐̈́ó̵̝n̷̚͝
 ---
 

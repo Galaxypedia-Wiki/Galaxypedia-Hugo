@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Future-Updates
+  - /wiki/Future-Updates
 title: Future Updates
 ---
 

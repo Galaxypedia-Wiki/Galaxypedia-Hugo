@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Pirate-Avenger
+  - /wiki/Pirate-Avenger
 title: Pirate Avenger
 ---
 
@@ -24,7 +24,7 @@ The interior of the **_Pirate Avenger_** is mostly empty. There is a small cockp
 
 ???
 
-## Version History 
+## Version History
 
 - ???
 

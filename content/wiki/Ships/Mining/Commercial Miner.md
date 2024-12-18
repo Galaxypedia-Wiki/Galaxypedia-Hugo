@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Commercial-Miner
+  - /wiki/Commercial-Miner
 categories:
-- Mining Ships
-- Ships
+  - Mining Ships
+  - Ships
 title: Commercial Miner
 ---
 
@@ -41,7 +41,7 @@ The **Commercial Miner** has almost no interior. There is just a large glass coc
 - Never mine in a [War]({{< ref "/wiki/" >}}War).
 - Mine in a Private Server if you have access to one.
 
-## Version History 
+## Version History
 
 - Was added in update .61g
 - .61h1? - [Warp Drive]({{< ref "/wiki/" >}}Warp-Drive) added.

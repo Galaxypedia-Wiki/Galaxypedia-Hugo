@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Galaxy-Star-Wars-Event
+  - /wiki/Galaxy-Star-Wars-Event
 categories:
-- Quests
-- NPCS
-- Removed From Game
-- Limited Ships
-- Events
+  - Quests
+  - NPCS
+  - Removed From Game
+  - Limited Ships
+  - Events
 title: Galaxy Star Wars Event
 ---
 

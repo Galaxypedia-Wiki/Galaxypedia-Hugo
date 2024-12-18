@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Chimera-S
+  - /wiki/Chimera-S
 categories:
-- NPC Ships
-- U.N.E
-- Ships
+  - NPC Ships
+  - U.N.E
+  - Ships
 title: Chimera-S
 ---
 

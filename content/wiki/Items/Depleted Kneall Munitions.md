@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Depleted-Kneall-Munitions
+  - /wiki/Depleted-Kneall-Munitions
 categories:
-- Items
+  - Items
 title: Depleted Kneall Munitions
 ---
 

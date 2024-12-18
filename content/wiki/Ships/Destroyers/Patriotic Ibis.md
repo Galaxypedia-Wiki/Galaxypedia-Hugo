@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Patriotic-Ibis
+  - /wiki/Patriotic-Ibis
 categories:
-- Destroyers
-- Limited Ships
-- Fourth of July 2019
-- Reskins
+  - Destroyers
+  - Limited Ships
+  - Fourth of July 2019
+  - Reskins
 title: Patriotic Ibis
 ---
 
@@ -33,7 +33,7 @@ When you enter the **Patriotic Ibis**, it's identical to the Ibis's interior. To
 
 - Do not use this, it is exactly the same as Ibis (aside from cost and the fact that it is a reskin), also suffers from being limited.
 
-## Version History 
+## Version History
 
 - Added in version .65b on July 5th as part of the 2019 Fourth of July event.
 - Removed in unknown version.

@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Venerator-Armor-Plates
-- /wiki/Venerator-Armor-Platings
+  - /wiki/Venerator-Armor-Plates
+  - /wiki/Venerator-Armor-Platings
 categories:
-- Items
+  - Items
 title: Venerator Armor Plates
 ---
 

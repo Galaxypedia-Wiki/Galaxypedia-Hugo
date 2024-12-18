@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Smallketchup82-Fiverr-Event
+  - /wiki/Smallketchup82-Fiverr-Event
 title: Smallketchup82 Fiverr Event
 ---
 

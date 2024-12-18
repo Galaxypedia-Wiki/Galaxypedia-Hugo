@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Reaver
+  - /wiki/Reaver
 categories:
-- Ships
-- Cruisers
-- Support Ships
-- PVP Ships
+  - Ships
+  - Cruisers
+  - Support Ships
+  - PVP Ships
 title: Reaver
 ---
 
@@ -44,7 +44,7 @@ The text found above the refrigerator originates from [this message](https://dis
 - Drift around targets to hit your spinals while still dodging incoming fire.
 - Only fight bigger ships if they are slow with inaccurate turrets or have a blind spot for you to exploit.
 
-## Version History 
+## Version History
 
 - Remodeled in .64f (original version shown below).
 

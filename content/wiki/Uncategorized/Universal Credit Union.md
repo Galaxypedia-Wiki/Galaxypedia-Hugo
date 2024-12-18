@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Universal-Credit-Union
+  - /wiki/Universal-Credit-Union
 title: Universal Credit Union
 ---
 

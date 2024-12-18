@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Confinium
+  - /wiki/Confinium
 categories:
-- Biographies
+  - Biographies
 title: Confinium
 ---
 

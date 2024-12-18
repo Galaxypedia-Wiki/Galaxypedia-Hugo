@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Wyrm
+  - /wiki/Wyrm
 categories:
-- Ships
-- Freighters
+  - Ships
+  - Freighters
 title: Wyrm
 ---
 
@@ -41,7 +41,7 @@ The Wyrm is a small, rounded ship featuring a pair of small wings and tail fins.
 - Check how far away [Aliens]({{< ref "/wiki/" >}}Aliens) are and where they are heading to.
 - You can afford to take some risks with this ship as it is free to rebuild. However, note that you will lose all the cargo you were carrying upon destruction.
 
-## Version History 
+## Version History
 
 - Added in version .34.
 - Made a free ship and given to new players starting in version .56.

@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Easter-event-2022
+  - /wiki/Easter-event-2022
 categories:
-- Events
+  - Events
 title: Easter event 2022
 ---
 

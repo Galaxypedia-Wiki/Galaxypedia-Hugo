@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Dimensional-Cache
+  - /wiki/Dimensional-Cache
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Dimensional Cache
 ---
 
@@ -35,7 +35,7 @@ Once the entrance is found, players can then walk into the crack and be teleport
 - _The Red circle in the guide highlights the Statue and the Wyrm wreck and the Green circle highlights the crack to where to entrance to the cave is._
 - _When [Aqueous]({{< ref "/wiki/" >}}Aqueous) is upgraded to Level 2 or higher, the [Wyrm]({{< ref "/wiki/" >}}Wyrm) wreck will disappear._
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">Archive: <ACTIVATING...></span>
 

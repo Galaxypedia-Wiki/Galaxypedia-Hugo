@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Charged-Kneall-Munitions
+  - /wiki/Charged-Kneall-Munitions
 categories:
-- Items
+  - Items
 title: Charged Kneall Munitions
 ---
 

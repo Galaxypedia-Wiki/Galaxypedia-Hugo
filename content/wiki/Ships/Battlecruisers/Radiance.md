@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Radiance
+  - /wiki/Radiance
 categories:
-- Ships
-- Battlecruisers
-- PVP Ships
+  - Ships
+  - Battlecruisers
+  - PVP Ships
 title: Radiance
 ---
 
@@ -40,7 +40,7 @@ Once you go through the main entrance (in the back of the ship) you will see a l
 - Similar in weaponry to the [Dire Wolf]({{< ref "/wiki/" >}}Dire-Wolf), the **Radiance** is more optimized for dealing with smaller ships, while the Dire Wolf can fight better against larger ships.
 - This ship pairs well with the [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing) as it shreds shield while the Razor Wing is a [hull]({{< ref "/wiki/" >}}hull) destroyer.
 
-## Version History 
+## Version History
 
 - 4 Light Lasers replaced with 2 Medium Lasers in .64d. Also gained 300 more shield health.
 - Received a remodel in version .66n.

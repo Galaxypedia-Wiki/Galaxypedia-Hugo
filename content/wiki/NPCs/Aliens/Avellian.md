@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Avellian
-- /wiki/The-Avellian-Armada
+  - /wiki/Avellian
+  - /wiki/The-Avellian-Armada
 categories:
-- Alien Ships and Stations
-- Galaxy Lore Pages
-- Avellians= Ships and Stations
+  - Alien Ships and Stations
+  - Galaxy Lore Pages
+  - Avellians= Ships and Stations
 title: Avellian
 ---
 

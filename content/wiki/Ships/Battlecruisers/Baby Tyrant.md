@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Baby-Tyrant
+  - /wiki/Baby-Tyrant
 categories:
-- Battlecruisers
-- Ships
-- Limited Ships
-- April Fools 2020
+  - Battlecruisers
+  - Ships
+  - Limited Ships
+  - April Fools 2020
 title: Baby Tyrant
 ---
 
@@ -32,7 +32,7 @@ The **Baby Tyrant**is an event [Battlecruiser]({{< ref "/categories/" >}}Battlec
 
 - This ship's speed and firepower makes it excellent at pirating miners and freighters. In addition, it could be used as a support ship for swarming [Dreadnoughts](https://roblox-galaxy-official.fandom.com/wiki/Category%3ADreadnought) or [Super Capitals](https://roblox-galaxy-official.fandom.com/wiki/Category:Super_Capital_Ship)
 
-## Version History 
+## Version History
 
 - Model Fixed in ???
 

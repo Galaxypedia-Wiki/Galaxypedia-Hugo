@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Antimatter-Shard
+  - /wiki/Antimatter-Shard
 categories:
-- Items
+  - Items
 title: Antimatter Shard
 ---
 

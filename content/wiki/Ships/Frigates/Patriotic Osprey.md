@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Patriotic-Osprey
+  - /wiki/Patriotic-Osprey
 categories:
-- Ships
-- Frigates
-- Limited Ships
-- Fourth of July 2019
-- Reskins
+  - Ships
+  - Frigates
+  - Limited Ships
+  - Fourth of July 2019
+  - Reskins
 title: Patriotic Osprey
 ---
 
@@ -31,7 +31,7 @@ The **Patriotic Osprey** shares its interior with its regular counterpart, inclu
 - Other stats are the same as a regular [Osprey]({{< ref "/wiki/" >}}Osprey).
 - Prime target for [Pirates]({{< ref "/wiki/" >}}Pirating).
 
-## Version History 
+## Version History
 
 - Added in version .65b on July 5th as part of the 2019 Fourth of July event.
 

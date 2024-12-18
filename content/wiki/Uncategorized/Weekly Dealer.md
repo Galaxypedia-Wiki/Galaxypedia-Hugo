@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Weekly-Dealer
+  - /wiki/Weekly-Dealer
 title: Weekly Dealer
 ---
 

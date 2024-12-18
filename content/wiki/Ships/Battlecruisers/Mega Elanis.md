@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Mega-Elanis
+  - /wiki/Mega-Elanis
 categories:
-- Ships
-- Battlecruisers
+  - Ships
+  - Battlecruisers
 title: Mega Elanis
 ---
 
@@ -40,7 +40,7 @@ There is no interior on the Mega Elanis, you are completely exposed to the infin
 - Go with an escort, such as a Carrier.
 - Keep it as a trophy, since it technically can't have any other use.
 
-## Version History 
+## Version History
 
 - Brought to the Battlecruiser Build menu for free on March 31st, 2022, at the beginning of the April Fools' event.
 - Taken offsale with the end of the April Fool's Event 2022, while being unspawnable after that.

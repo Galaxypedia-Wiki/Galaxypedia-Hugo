@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Chad-Swarmer
+  - /wiki/Chad-Swarmer
 categories:
-- Ships
-- Admin Ships
-- Alien Ships and Stations
+  - Ships
+  - Admin Ships
+  - Alien Ships and Stations
 title: Chad Swarmer
 ---
 
@@ -38,7 +38,7 @@ The interior is composed of an Alien [Swarmer]({{< ref "/wiki/" >}}Swarmer) prot
 - Attack your opponents with your menacing presence.
 - Use the extreme shield and speed to tank enemy fire or starbases, even at point-blank range!
 
-## Version History 
+## Version History
 
 - Shield changed from ? to 25,000
 

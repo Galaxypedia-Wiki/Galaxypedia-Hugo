@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Intact-Bastion-Module
+  - /wiki/Intact-Bastion-Module
 categories:
-- Items
+  - Items
 title: Intact Bastion Module
 ---
 

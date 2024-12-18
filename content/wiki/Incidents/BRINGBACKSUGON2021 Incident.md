@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/BRINGBACKSUGON2021-Incident
+  - /wiki/BRINGBACKSUGON2021-Incident
 categories:
-- Incidents
+  - Incidents
 title: BRINGBACKSUGON2021 Incident
 ---
 

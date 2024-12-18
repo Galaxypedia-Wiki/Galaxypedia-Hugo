@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Panther
+  - /wiki/Panther
 categories:
-- Ships
-- Battleships
-- Capital Ships
-- PVP Ships
-- Support Ships
-- Pirate Ships
+  - Ships
+  - Battleships
+  - Capital Ships
+  - PVP Ships
+  - Support Ships
+  - Pirate Ships
 title: Panther
 ---
 
@@ -53,7 +53,7 @@ The interior of the **Panther** is very similar to that of the [Armageddon]({{
 - If you know that there is no escape nuke yourself and you have the slight chance of taking something with you
 - The **Panther** has a play style similar to the [Helios]({{< ref "/wiki/" >}}Helios), as both are glass cannons, extremely maneuverable, and can do huge amounts of damage.
 
-## Version History 
+## Version History
 
 - .61h1 - Speed reduced, HP slightly increased.
 

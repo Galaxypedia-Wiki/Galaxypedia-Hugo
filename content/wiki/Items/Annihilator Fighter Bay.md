@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Annihilator-Fighter-Bay
+  - /wiki/Annihilator-Fighter-Bay
 categories:
-- Items
+  - Items
 title: Annihilator Fighter Bay
 ---
 

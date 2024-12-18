@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Enigma
+  - /wiki/Enigma
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Enigma
 ---
 
@@ -33,7 +33,7 @@ The interior is a rectangular Myriad, containing two admin ships which is the ol
 
 - ???
 
-## Version History 
+## Version History
 
 - ???
 

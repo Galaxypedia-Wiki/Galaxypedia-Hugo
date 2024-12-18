@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Witch
+  - /wiki/Witch
 categories:
-- Battleships
-- PVP Ships
-- Pirate Ships
-- Support Ships
-- Capital Ships
-- Ships
+  - Battleships
+  - PVP Ships
+  - Pirate Ships
+  - Support Ships
+  - Capital Ships
+  - Ships
 title: Witch
 ---
 
-{{< shipInfobox >}} The **_Witch_** is a fast, stripped down combat **[Battleship]({{< ref "/categories/" >}}Battleships)** modeled after the [Warlock]({{< ref "/wiki/" >}}Warlock). 
+{{< shipInfobox >}} The **_Witch_** is a fast, stripped down combat **[Battleship]({{< ref "/categories/" >}}Battleships)** modeled after the [Warlock]({{< ref "/wiki/" >}}Warlock).
 
 ## Description
 
@@ -46,7 +46,7 @@ The interior of the **Witch** is the exact same as the interior of the [Warlock]
 - The **Witch** is highly recommended for PvP, as the **Witch** has an amazing balance of speed, firepower, range, durability, and cost.
 - Great for use as a fleet ship, as it has enough smaller turrets and speed to kill smaller ships attacking your fleet, but can also deal out large DPS against large targets.
 
-##  Version History 
+##  Version History
 
 - Received a test remodel in .62a1 (there was also a bug that removed its [Spinals]({{< ref "/wiki/" >}}Spinals)).
 - Buffed in .66b, increasing its shield from 2250 to 3250, its hull from 2000 to 2500, as well as receiving a Triple Heavy Laser.

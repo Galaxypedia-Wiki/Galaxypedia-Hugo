@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Rift-Guardian
+  - /wiki/Rift-Guardian
 categories:
-- NPC Ships
-- Halloween 2020
-- Alien Ships and Stations
-- Ships
+  - NPC Ships
+  - Halloween 2020
+  - Alien Ships and Stations
+  - Ships
 title: Rift Guardian
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Rift Guardian_** is a unique [**AI**]({{< ref "/categories/" >}}NPC-Ships) ship that appeared in the [Halloween 2020]({{< ref "/categories/" >}}Halloween-2020) event. It is the weaker version of the [Rift Custodian]({{< ref "/wiki/" >}}Rift-Custodian). 
+{{< shipInfobox >}} {{< notices/npcShip >}} The **_Rift Guardian_** is a unique [**AI**]({{< ref "/categories/" >}}NPC-Ships) ship that appeared in the [Halloween 2020]({{< ref "/categories/" >}}Halloween-2020) event. It is the weaker version of the [Rift Custodian]({{< ref "/wiki/" >}}Rift-Custodian).
 
 ## Description
 
@@ -19,11 +19,11 @@ The **Rift Guardian** is an AI ship which model, [Turrets]({{< ref "/wiki/" >}}T
 
 ## Strategy
 
-### Use a Starbase 
+### Use a Starbase
 
 Lure it towards a Level 5 Starbase through an [Alien Serv]({{< ref "/wiki/" >}}Alien-Serv) or [Alien Sourge]({{< ref "/wiki/" >}}Alien-Scourge) call and then bring out a high DPS Dreadnought or Battleship from another base, warp over to that Level 5 Starbase, and attack it while the starbase attacks it as well. Attack the rear of the ship, since that is the blindspot for most of its turrets, while the starbase dishes out high damage, making it an easy kill.
 
-### Use two Starbases 
+### Use two Starbases
 
 A more risky but cost efficient way is to simply build two Level 2 Starbases and immediately lure it before alien numbers multiply.
 
@@ -33,7 +33,7 @@ Another way is to have an alt with you or an friend in a server with a Wyrm/Wasp
 
 Inside the rift, spinals are mostly unusable. Rift Guardians and [Rift Custodians]({{< ref "/wiki/" >}}Rift-Custodian) are shield tanks, so you need ships with high turret-based shield DPS. The best ship in the game for this is the [Jupiter]({{< ref "/wiki/" >}}Jupiter).
 
-#### Recommended Ships 
+#### Recommended Ships
 
 ##### Cruiser
 
@@ -59,7 +59,7 @@ Inside the rift, spinals are mostly unusable. Rift Guardians and [Rift Custodian
 2.  [Zeus]({{< ref "/wiki/" >}}Zeus)
 3.  [Incarnate]({{< ref "/wiki/" >}}Incarnate)
 
-##### Super Capital 
+##### Super Capital
 
 1.  [Subjugator]({{< ref "/wiki/" >}}Subjugator)
 2.  [Oblivion]({{< ref "/wiki/" >}}Oblivion)

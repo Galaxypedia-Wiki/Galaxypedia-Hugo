@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Xenophile
+  - /wiki/Xenophile
 categories:
-- Fighters
-- Support Ships
-- Ships
+  - Fighters
+  - Support Ships
+  - Ships
 title: Xenophile
 ---
 
@@ -37,7 +37,7 @@ Like all fighter class ships, the **Xenophile** has little in the way of an inte
 - Avoid ships with high-accuracy or high rate-of-fire turrets (Gatlings), as they can deal significant damage to fighters and will destroy them if given the chance.
 - Use your insane speed to distract weapon fire while others rake down the target.
 
-## Version History 
+## Version History
 
 - Remodeled in version ??
 

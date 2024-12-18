@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Interceptor-F
+  - /wiki/Interceptor-F
 categories:
-- Fighters
-- Ships
+  - Fighters
+  - Ships
 title: Interceptor F
 ---
 
@@ -34,7 +34,7 @@ The **Interceptor F**'s interior is so small that the user cannot even fit comp
 - Annoy larger ships with your powerful [Spinal]({{< ref "/wiki/" >}}Spinals) weaponry while also dodging their incoming attacks with your high Top Speed.
 - This Fighter is best used in a swarm. Attack the enemy with high speed and with its high shield damage, a swarm will bring enemy ships to Hull quickly.
 
-## Version History 
+## Version History
 
 - Removed from the Nimitz in an unknown version.
 - Nimitz remodel reverted, making this ship playable again in an unknown version.

@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Paragon-Trusters
+  - /wiki/Paragon-Trusters
 categories:
-- Items
+  - Items
 title: Paragon Trusters
 ---
 

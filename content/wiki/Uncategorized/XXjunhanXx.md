@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/XXjunhanXx
+  - /wiki/XXjunhanXx
 title: XXjunhanXx
 ---
 

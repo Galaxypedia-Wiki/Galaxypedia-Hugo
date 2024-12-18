@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Forgotten-Soul
+  - /wiki/Forgotten-Soul
 categories:
-- Event Items
+  - Event Items
 title: Forgotten Soul
 ---
 

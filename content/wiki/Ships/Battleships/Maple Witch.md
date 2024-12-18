@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Maple-Witch
+  - /wiki/Maple-Witch
 categories:
-- Reskins
-- Ships
-- Battleships
-- Fourth of July 2021
-- Capital Ships
-- Pirate Ships
+  - Reskins
+  - Ships
+  - Battleships
+  - Fourth of July 2021
+  - Capital Ships
+  - Pirate Ships
 title: Maple Witch
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Maple Witch_** is a [**Battleship**]({{< ref "/categories/" >}}Battleships) released for the [Galaxy 4th of July Event]({{< ref "/categories/" >}}Fourth-of-July-2021) Part 2 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Maple Witch_** is a [**Battleship**]({{< ref "/categories/" >}}Battleships) released for the [Galaxy 4th of July Event]({{< ref "/categories/" >}}Fourth-of-July-2021) Part 2
 
 ## Description
 
@@ -38,7 +38,7 @@ The interior of the **Maple Witch** is the same as the [Witch]({{< ref "/wiki/" 
 - The Maple Witch is an amazing pirate ship, so use this ship for attacking lone miners as the firepower it wields can easily shred miners within seconds.
 - This ship is also extremely effective at hunting down Pirate [Scowlings]({{< ref "/wiki/" >}}Scowling) for credits, but using its [Spinals]({{< ref "/wiki/" >}}Spinals) is essential to maximize the damage dealt and minimize the time spent in combat.
 
-## Version History 
+## Version History
 
 - Price increased in version .72e4
 - Top speed decreased by 10, turn speed decreased by 0.05 in version .72f

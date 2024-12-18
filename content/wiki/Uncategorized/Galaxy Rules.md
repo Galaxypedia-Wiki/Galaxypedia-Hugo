@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Galaxy-Rules
+  - /wiki/Galaxy-Rules
 categories:
-- Staff-Only Pages
+  - Staff-Only Pages
 title: Galaxy Rules
 ---
 

@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Prikkit
+  - /wiki/Prikkit
 categories:
-- Ships
-- Destroyers
-- Limited Ships
-- Halloween 2021
+  - Ships
+  - Destroyers
+  - Limited Ships
+  - Halloween 2021
 title: Prikkit
 ---
 
@@ -54,7 +54,7 @@ The interior is cramped, circular, and it's seat is a bright yellow version of t
 
 • Use it's high hull dps to finish off anyone that is hulled.
 
-## Version History 
+## Version History
 
 - Speed increased (230 -> 270) .75a12
 

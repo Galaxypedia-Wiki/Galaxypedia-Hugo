@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Slipstream
+  - /wiki/Slipstream
 categories:
-- Dreadnoughts
-- Support Ships
-- Ships
-- Pirate Ships
-- Capital Ships
-- Alien Ships and Stations
+  - Dreadnoughts
+  - Support Ships
+  - Ships
+  - Pirate Ships
+  - Capital Ships
+  - Alien Ships and Stations
 title: Slipstream
 ---
 
@@ -58,7 +58,7 @@ all*"</span>|none](Peaceforall.png ""Peace For all"|none")
 - Easily pirate defenseless miners and freighters with the speed and turret firepower.
 - 2-3 of these, much like the triple [Osiris]({{< ref "/wiki/" >}}Osiris), can easily cut down dreadnoughts and fight against most [Super Capitals]({{< ref "/categories/" >}}Super-Capital-Ships). Don't be afraid to take on lone dreadnoughts, though stay vigilant as lone dreadnoughts may be a bait.
 
-## Version History 
+## Version History
 
 - Hull buffed from 6150 to 7150 and turn speed increased from 0.07 to 0.1 in .65b.
 - Turn speed increased to 0.19 from 0.1 in .65b.

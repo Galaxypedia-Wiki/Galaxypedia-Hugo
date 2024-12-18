@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Banshee
+  - /wiki/Banshee
 categories:
-- Ships
-- Cruisers
-- PVP Ships
-- Pirate Ships
+  - Ships
+  - Cruisers
+  - PVP Ships
+  - Pirate Ships
 title: Banshee
 ---
 
@@ -37,7 +37,7 @@ The **Banshee's** interior is quite basic, being a simple green orb at the cente
 - Use this ship against bigger ships that lack the weaponry to target smaller ships.
 - Like the Spectre, it's best use is as a chaser. (Hunting down stray Miners and Freighters)
 
-## Version History 
+## Version History
 
 - Added in .64f.
 - Nerfed in .65a, having its top speed reduced to 140 from 160 and having it's turn speed reduced to 0.18 from 0.5, as well as spinal down-sizing.

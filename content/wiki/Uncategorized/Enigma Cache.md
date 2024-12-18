@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Enigma-Cache
+  - /wiki/Enigma-Cache
 title: Enigma Cache
 ---
 

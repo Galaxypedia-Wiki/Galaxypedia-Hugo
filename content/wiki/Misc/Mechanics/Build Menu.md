@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Build-Menu
-- /wiki/BM
+  - /wiki/Build-Menu
+  - /wiki/BM
 categories:
-- Game Mechanics
-- Ships
+  - Game Mechanics
+  - Ships
 title: Build Menu
 ---
 
@@ -18,7 +18,7 @@ Once you click on a ship, it will show you most of its stats, its description, a
 
 **Build and Material costs of ships are sorted from the cheapest ships being on-top of the list, and the most expensive ships of a ship type being on the bottom of the list.**
 
-## Limited Ships 
+## Limited Ships
 
 [Limited]({{< ref "/categories/" >}}Limited-Ships) Ships are a special type of ships that are usually much more powerful, expensive and rare and are usually acquired from [Quests]({{< ref "/wiki/" >}}Quests) in [Events]({{< ref "/categories/" >}}Events), but many Limited Ships are also able to be built, both in the Build Menu, and the **Limited Build Menu**.
 

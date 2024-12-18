@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Alien-Monitor
+  - /wiki/Alien-Monitor
 title: Alien Monitor
 ---
 

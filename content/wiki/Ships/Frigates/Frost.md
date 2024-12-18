@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Frost
+  - /wiki/Frost
 categories:
-- Ships
-- NPC Ships
-- Christmas Event 2022
-- Frigates
+  - Ships
+  - NPC Ships
+  - Christmas Event 2022
+  - Frigates
 title: Frost
 ---
 

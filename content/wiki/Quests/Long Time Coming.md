@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Long-Time-Coming
+  - /wiki/Long-Time-Coming
 categories:
-- Quests
+  - Quests
 title: Long Time Coming
 ---
 

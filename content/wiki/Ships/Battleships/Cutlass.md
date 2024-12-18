@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Cutlass
+  - /wiki/Cutlass
 categories:
-- Ships
-- Battleships
-- Capital Ships
-- Support Ships
-- All-Rounder Ships
-- Siege Ships
-- Pirate Ships
+  - Ships
+  - Battleships
+  - Capital Ships
+  - Support Ships
+  - All-Rounder Ships
+  - Siege Ships
+  - Pirate Ships
 title: Cutlass
 ---
 
-{{< shipInfobox >}} The **_Cutlass_** is a [Hull]({{< ref "/wiki/" >}}Hull)-focused [**Battleship**]({{< ref "/categories/" >}}Battleships) 
+{{< shipInfobox >}} The **_Cutlass_** is a [Hull]({{< ref "/wiki/" >}}Hull)-focused [**Battleship**]({{< ref "/categories/" >}}Battleships)
 
 ## Description
 
@@ -46,7 +46,7 @@ TBA
 - Target hulled [Capital Ships]({{< ref "/categories/" >}}Capital-Ships) as your Heavy Railguns and Large Cannon can cripple them harder and potentially score a kill.
 - Useful as a decent hull tank against shield-focused weaponry.
 
-## Version History 
+## Version History
 
 - Added in version .65b.
 - Hull increased from 5500 to 6500 in version .66b.

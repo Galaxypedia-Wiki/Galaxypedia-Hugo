@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Antares-Comet
+  - /wiki/Antares-Comet
 categories:
-- Starbases
-- Christmas Event 2020
+  - Starbases
+  - Christmas Event 2020
 title: Antares Comet
 ---
 

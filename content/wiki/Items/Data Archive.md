@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Data-Archive
+  - /wiki/Data-Archive
 categories:
-- Items
+  - Items
 title: Data Archive
 ---
 

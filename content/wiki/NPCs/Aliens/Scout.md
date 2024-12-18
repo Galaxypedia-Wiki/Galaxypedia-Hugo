@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Scout
-- /wiki/Alien-Scout
+  - /wiki/Scout
+  - /wiki/Alien-Scout
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
-- Avellians= Ships and Stations
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
+  - Avellians= Ships and Stations
 title: Scout
 ---
 

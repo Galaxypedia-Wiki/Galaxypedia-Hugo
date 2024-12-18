@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Embryo
+  - /wiki/Embryo
 categories:
-- Event Items
+  - Event Items
 title: Embryo
 ---
 

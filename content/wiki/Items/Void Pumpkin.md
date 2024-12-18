@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Void-Pumpkin
+  - /wiki/Void-Pumpkin
 categories:
-- Event Items
+  - Event Items
 title: Void Pumpkin
 ---
 

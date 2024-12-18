@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Key3
+  - /wiki/Key3
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: Key3
 ---
 

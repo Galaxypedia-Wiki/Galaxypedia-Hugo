@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Galaxy
+  - /wiki/Galaxy
 title: Galaxy
 ---
 

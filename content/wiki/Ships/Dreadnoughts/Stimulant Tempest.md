@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Stimulant-Tempest
+  - /wiki/Stimulant-Tempest
 categories:
-- NPC Ships
-- Ultimate Retro Ship Event 2022
-- Dreadnoughts
-- Bosses
-- Ships
+  - NPC Ships
+  - Ultimate Retro Ship Event 2022
+  - Dreadnoughts
+  - Bosses
+  - Ships
 title: Stimulant Tempest
 ---
 

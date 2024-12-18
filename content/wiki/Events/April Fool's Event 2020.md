@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/April-Fool's-Event-2020
+  - /wiki/April-Fool's-Event-2020
 categories:
-- Events
+  - Events
 title: April Fool's Event 2020
 ---
 

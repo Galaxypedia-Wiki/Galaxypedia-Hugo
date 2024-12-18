@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Scout-Component
+  - /wiki/Scout-Component
 categories:
-- Event Items
-- Ultimate Retro Ship Event 2022
+  - Event Items
+  - Ultimate Retro Ship Event 2022
 title: Scout Component
 ---
 

@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Sakala
+  - /wiki/Sakala
 categories:
-- Carriers
-- Ships
-- Support Ships
-- Capital Ships
-- Pirate Ships
-- Promotion/Raffles
+  - Carriers
+  - Ships
+  - Support Ships
+  - Capital Ships
+  - Pirate Ships
+  - Promotion/Raffles
 title: Sakala
 ---
 
@@ -45,7 +45,7 @@ The interior of the **Sakala** is a small metal box with a pilot's seat and 7 t
 - Avoid [Dreadnoughts]({{< ref "/categories/" >}}Dreadnoughts) and [Super Capital]({{< ref "/categories/" >}}Super-Capital-Ships) ships.
 - Don't use this as your everyday [Carrier]({{< ref "/categories/" >}}Carriers). It is a limited ship. Treat it as such to avoid losing it.
 
-## Version History 
+## Version History
 
 - Remodeled in an unknown version.
 - Fighters changed from [Sanguine]({{< ref "/wiki/" >}}Sanguine) to [Firehawk]({{< ref "/wiki/" >}}Firehawk) in .65a.

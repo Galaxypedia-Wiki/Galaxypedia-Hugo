@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Ores
+  - /wiki/Ores
 categories:
-- Items
-- Galaxy Lore Pages
+  - Items
+  - Galaxy Lore Pages
 title: Ores
 ---
 

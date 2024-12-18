@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/The-Holy-Kryuvian-Empire
+  - /wiki/The-Holy-Kryuvian-Empire
 categories:
-- Galaxy Lore Pages
-- Clans
+  - Galaxy Lore Pages
+  - Clans
 title: The Holy Kryuvian Empire
 ---
 

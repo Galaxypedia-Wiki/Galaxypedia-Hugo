@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Medicine-&-Supplies
+  - /wiki/Medicine-&-Supplies
 categories:
-- Event Items
+  - Event Items
 title: Medicine & Supplies
 ---
 

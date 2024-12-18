@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/U.N.E-Harbor-Master
+  - /wiki/U.N.E-Harbor-Master
 categories:
-- NPCS
-- Quests
-- Limited Ships
+  - NPCS
+  - Quests
+  - Limited Ships
 title: U.N.E Harbor Master
 ---
 
@@ -16,9 +16,9 @@ The U.N.E Harbor Master is the quest giver for Quest #5 - "Give U.N.E Harbor Mas
 
 The U.N.E Harbor Master is located in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) on the second floor of **Terminal C.** ![]({{< ref "/wiki/" >}}Mega-Base-C.png-"Mega-Base-C.png"){width="400" height="400"}![]({{< ref "/wiki/" >}}Inside-Terminal-C.png-"Inside-Terminal-C.png"){width="400" height="400"}
 
-## Quest Dialogue 
+## Quest Dialogue
 
-<u>U.N.E. Harbor Master:</u> "Welcome to the U.N.E Recruiting Outpost, how [may]* I help you?"
+<u>U.N.E. Harbor Master:</u> "Welcome to the U.N.E Recruiting Outpost, how [may]\* I help you?"
 
 <u>Player:</u> "What is this prototype ship rumor?"
 
@@ -38,7 +38,7 @@ The U.N.E Harbor Master is located in the [Mega Base]({{< ref "/wiki/" >}}Mega-B
 
 _("Quest #5 - Prototype X-1 Quest" appears in Quest Menu)_
 
-_*actual dialogue says "many," not "may."_
+_\*actual dialogue says "many," not "may."_
 
 ## Glitches
 

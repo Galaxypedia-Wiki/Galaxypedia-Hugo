@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Bastion
+  - /wiki/Bastion
 categories:
-- Ships
-- Battlecruisers
-- Support Ships
-- PVP Ships
-- Pirate Ships
-- All-Rounder Ships
+  - Ships
+  - Battlecruisers
+  - Support Ships
+  - PVP Ships
+  - Pirate Ships
+  - All-Rounder Ships
 title: Bastion
 ---
 
@@ -41,7 +41,7 @@ Once entering the **Bastion**, you will enter a small room with no interior but 
 - Best used for attacking [Ships]({{< ref "/wiki/" >}}Ships) below its size, as it has trouble with [Ships]({{< ref "/wiki/" >}}Ships) of same class due to its inferior mobility causing it to be unable to escape easily.
 - Against [Battlecruisers]({{< ref "/categories/" >}}Battlecruisers), exploiting blind spots is your best bet against them.
 
-## Version History 
+## Version History
 
 - In an older version <span>it used to have a massive explosion upon death, which heavily damaged nearby [Ships]({{< ref "/wiki/" >}}Ships) and destroyed base </span>[Turrets]({{< ref "/wiki/" >}}Turrets)<span>. This has since been fixed.</span>
 - Buffed in .64d to gain another [Medium Laser]({{< ref "/wiki/" >}}Turrets) and 100 more health in each stat.

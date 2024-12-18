@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Devastator
+  - /wiki/Devastator
 categories:
-- Alien Ships and Stations
-- Ships
-- Bosses
-- Kneall Events
+  - Alien Ships and Stations
+  - Ships
+  - Bosses
+  - Kneall Events
 title: Devastator
 ---
 

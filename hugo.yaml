@@ -21,4 +21,4 @@ markup:
       unsafe: true # Allow HTML in md files
 
 taxonomies:
-    category: categories
+  category: categories

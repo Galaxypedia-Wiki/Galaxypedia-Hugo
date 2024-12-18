@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Dreadnought-Weekly-Dealer
+  - /wiki/Dreadnought-Weekly-Dealer
 categories:
-- Quests
+  - Quests
 title: Dreadnought Weekly Dealer
 ---
 
@@ -18,7 +18,7 @@ Not to be confused with the [Battleship Weekly Dealer]({{< ref "/wiki/" >}}Battl
 
 Dreadnaught Weekly Dealer (Shadiris) is located in the Megabase near the statue of a cog
 
-## Quest Dialogue 
+## Quest Dialogue
 
 Shadiris: I can get you ships at a discount through my secret method
 
@@ -34,7 +34,7 @@ Player: Anything else I need to know?
 
 Shadiris: Make sure you don't have a (Shipname) already, or I will take your credits without compensation
 
-### Ending Dialouge 
+### Ending Dialouge
 
 Shadiris: Ready to receive your (Shipname)?
 

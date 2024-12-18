@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Damage-Resistance
+  - /wiki/Damage-Resistance
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Damage Resistance
 ---
 

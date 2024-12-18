@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Monogram
+  - /wiki/Monogram
 categories:
-- Quests
-- Limited Ships
-- NPCS
+  - Quests
+  - Limited Ships
+  - NPCS
 title: Monogram
 ---
 
@@ -18,7 +18,7 @@ The **Monogram's** task is to analyze a drone locked within the ice of [Aqueous]
 
 The Monogram can be found inside a small research station on an asteroid in the asteroid belt around [Aqueous]({{< ref "/wiki/" >}}Aqueous). ![]({{< ref "/wiki/" >}}S-BirdsEyeMonoLobby.PNG.png-"S-BirdsEyeMonoLobby.PNG.png"){width="400" height="400"}
 
-## Quest Dialogue 
+## Quest Dialogue
 
 _Note that this quest is no longer active and cannot be completed_
 

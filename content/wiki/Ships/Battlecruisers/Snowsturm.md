@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Snowsturm
+  - /wiki/Snowsturm
 categories:
-- Ships
-- Battlecruisers
-- Christmas Event 2020
-- Reskins
+  - Ships
+  - Battlecruisers
+  - Christmas Event 2020
+  - Reskins
 title: Snowsturm
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Snowsturm_** is a [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) added during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020). It was re-introduced during the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Snowsturm_** is a [**Battlecruiser**]({{< ref "/categories/" >}}Battlecruisers) added during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020). It was re-introduced during the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
 ## Description
 
@@ -40,7 +40,7 @@ Please document the interior if you own this ship.
 
 - Treat it as you would any other limited ship, not using it often to avoid losing it.
 
-## Version History 
+## Version History
 
 - Shields increased from 1250 to 3000 and 2 [Medium Lasers]({{< ref "/wiki/" >}}Turrets) replaced with 2 [Medium Ice Lasers]({{< ref "/wiki/" >}}Turrets) in version .70a.
 

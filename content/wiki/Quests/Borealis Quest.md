@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Borealis-Quest
+  - /wiki/Borealis-Quest
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Borealis Quest
 ---
 
@@ -28,7 +28,7 @@ The Quest is located hidden under [Mega Base]({{< ref "/wiki/" >}}Mega-Base) nea
 ![centre|Video guide on the location of the Borealis
 Quest.](BorealisQuest.mp4 "centre|Video guide on the location of the Borealis Quest.")
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Darth_Vader12]: Help, he trapped me here.</span>
 

@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Patriotic-Crucible
+  - /wiki/Patriotic-Crucible
 categories:
-- Ships
-- Destroyers
-- Limited Ships
-- Fourth of July 2019
-- Reskins
+  - Ships
+  - Destroyers
+  - Limited Ships
+  - Fourth of July 2019
+  - Reskins
 title: Patriotic Crucible
 ---
 
@@ -30,7 +30,7 @@ The **Patriotic Crucible**, as with the Crucible, has no real interior. The seat
 - Prime target for Pirates.
 - Once you lose this ship you can't get it back after the event ends.
 
-## Version History 
+## Version History
 
 - Added in version .65b on July 5th as part of the 2019 Fourth of July event.
 - 4 Tiny Cannons upsized to 4 Small Cannons, Top Speed increased from 185 to 195, 2 Light Patriotic Lasers, 2 Tiny Lasers, 2 Tiny Flak Cannons added and received a remodel in version .72c.

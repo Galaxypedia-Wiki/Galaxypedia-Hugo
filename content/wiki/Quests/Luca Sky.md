@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Luca-Sky
+  - /wiki/Luca-Sky
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Luca Sky
 ---
 
@@ -22,7 +22,7 @@ Quests number 1 and 2 were disabled later on, though their respective quest NPCs
 
 **Luca Sky** can be found inside the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) between terminals C and D, beside the Alien translation board and in front of an ad display board.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <u>Luca Sky</u>: "Oh this is terrible! Someone please help me!"
 

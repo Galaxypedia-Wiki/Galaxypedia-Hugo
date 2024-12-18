@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Assimilations
+  - /wiki/Assimilations
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Assimilations
 ---
 

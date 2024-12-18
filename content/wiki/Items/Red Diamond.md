@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Red-Diamond
+  - /wiki/Red-Diamond
 categories:
-- Items
+  - Items
 title: Red Diamond
 ---
 

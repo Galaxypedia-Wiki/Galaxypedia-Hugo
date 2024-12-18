@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Endgame
+  - /wiki/Endgame
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Endgame
 ---
 

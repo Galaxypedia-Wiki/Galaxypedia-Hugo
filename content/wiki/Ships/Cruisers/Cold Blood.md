@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Cold-Blood
+  - /wiki/Cold-Blood
 categories:
-- Ships
-- Limited Ships
-- Reskins
-- Christmas Event 2018
-- PVP Ships
-- Support Ships
-- Cruisers
+  - Ships
+  - Limited Ships
+  - Reskins
+  - Christmas Event 2018
+  - PVP Ships
+  - Support Ships
+  - Cruisers
 title: Cold Blood
 ---
 
@@ -38,7 +38,7 @@ The **_Cold Blood_**has the same interior as the [Orion]({{< ref "/wiki/" >}}Or
 
 - Don't spawn this ship unless you want to die.
 
-## Version History 
+## Version History
 
 - Added in Version .65b.
 - No logged changes.

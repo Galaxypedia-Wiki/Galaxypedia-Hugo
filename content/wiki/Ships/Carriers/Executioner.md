@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Executioner
+  - /wiki/Executioner
 categories:
-- Carriers
-- Capital Ships
-- Ships
-- PVP Ships
-- Support Ships
+  - Carriers
+  - Capital Ships
+  - Ships
+  - PVP Ships
+  - Support Ships
 title: Executioner
 ---
 
-{{< shipInfobox >}} The **_Executioner_** is a Dreadnought-like **[Carrier]({{< ref "/categories/" >}}Carriers)** equipped with two resilient and powerful fighters. 
+{{< shipInfobox >}} The **_Executioner_** is a Dreadnought-like **[Carrier]({{< ref "/categories/" >}}Carriers)** equipped with two resilient and powerful fighters.
 
 ## Description
 
@@ -47,7 +47,7 @@ The interior of the **Executioner** is a room with 3 teleporters: one to get in 
 - Use the [Fighters]({{< ref "/categories/" >}}Fighters) as a distraction for the [Starbase]({{< ref "/wiki/" >}}Starbase) [Turrets]({{< ref "/wiki/" >}}Turrets) or even enemy [Ships]({{< ref "/wiki/" >}}Ships) as they might overreact seeing your Battlecruiser-sized [Fighters]({{< ref "/categories/" >}}Fighters).
 - Release [Fighters]({{< ref "/categories/" >}}Fighters), both fighters get used, recall them, they can still attack even if recalled.
 
-## Version History 
+## Version History
 
 - Health increased from 6250/5250 to 8000/6000 in version .68d.
 

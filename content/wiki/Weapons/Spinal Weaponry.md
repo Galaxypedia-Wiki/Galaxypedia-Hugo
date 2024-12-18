@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Spinal-Weaponry
-- /wiki/Spinals
+  - /wiki/Spinal-Weaponry
+  - /wiki/Spinals
 categories:
-- Weapons
-- Game Mechanics
+  - Weapons
+  - Game Mechanics
 title: Spinal Weaponry
 ---
 

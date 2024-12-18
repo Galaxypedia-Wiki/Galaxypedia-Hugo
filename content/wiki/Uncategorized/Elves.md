@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Elves
+  - /wiki/Elves
 title: Elves
 ---
 

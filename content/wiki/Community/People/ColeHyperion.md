@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/ColeHyperion
+  - /wiki/ColeHyperion
 categories:
-- Biographies
+  - Biographies
 title: ColeHyperion
 ---
 

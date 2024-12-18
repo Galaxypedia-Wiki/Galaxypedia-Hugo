@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Catalyst
+  - /wiki/Catalyst
 categories:
-- Ships
-- Dreadnoughts
-- Capital Ships
-- PVP Ships
-- Support Ships
+  - Ships
+  - Dreadnoughts
+  - Capital Ships
+  - PVP Ships
+  - Support Ships
 title: Catalyst
 ---
 
@@ -43,7 +43,7 @@ The ship is mostly light grey in colour, with some black and neon blue spots her
 - Don't attempt to fight maneuverable or agile ships(including many Battleships) without support, as they can get and stay in your blind-spots due to the poor turn speed and size of the ship.
 - If necessary, you can be the tank due to your VERY large health pool. But, do not recklessly tank in ship-ship combat, as you will most likely be shredded without doing much damage in return.
 
-## Version History 
+## Version History
 
 - Shield/Hull changed from 5750/6750 to 6580/6520, armament buffed, remodelled in version .66b.
 - Shield changed from 6580 to 6540 and its total cost dropped from 202k to 163k in version .66c.

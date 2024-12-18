@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Black-Friday-Event-2020
+  - /wiki/Black-Friday-Event-2020
 categories:
-- Events
+  - Events
 title: Black Friday Event 2020
 ---
 

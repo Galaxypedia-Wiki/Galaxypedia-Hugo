@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/VOID
+  - /wiki/VOID
 categories:
-- Clans
+  - Clans
 title: VOID
 ---
 

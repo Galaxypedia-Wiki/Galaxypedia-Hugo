@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Yname
+  - /wiki/Yname
 categories:
-- Biographies
+  - Biographies
 title: Yname
 ---
 

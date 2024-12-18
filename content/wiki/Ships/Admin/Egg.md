@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Egg
+  - /wiki/Egg
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: Egg
 ---
 
@@ -33,7 +33,7 @@ The **Egg** does not have an interior. The seat is strapped to the top and lies 
 
 - Not much. Fly around and let people bask in the glory of your **Egg**.
 
-## Version History 
+## Version History
 
 - Added in Version .64c
 

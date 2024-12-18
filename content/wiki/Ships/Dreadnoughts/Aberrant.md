@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Aberrant
+  - /wiki/Aberrant
 categories:
-- Halloween 2019
-- Ships
-- Dreadnoughts
-- PVP Ships
-- Capital Ships
-- Limited Ships
+  - Halloween 2019
+  - Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Capital Ships
+  - Limited Ships
 title: Aberrant
 ---
 
@@ -40,7 +40,7 @@ The interior consists of a small corridor with a teleporter you enter in, then a
 - Avoid smaller [Ships]({{< ref "/wiki/" >}}Ships), as your Turrets are not accurate enough to hit them.
 - Use sparingly, as it is costly and will become unobtainable after the event.
 
-## Version History 
+## Version History
 
 - Heavy Bio-Accelerators fixed in .66b to fire correctly.
 - Hull increased from 4250 to 5250 in version .66b.

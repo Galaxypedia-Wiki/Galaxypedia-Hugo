@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Bruiser-Part
+  - /wiki/Bruiser-Part
 categories:
-- Items
-- Event Items
-- Kneall Events
+  - Items
+  - Event Items
+  - Kneall Events
 title: Bruiser Part
 ---
 
@@ -16,11 +16,11 @@ The [Devastator]({{< ref "/wiki/" >}}Devastator) drops 100 Bruiser Parts per wre
 
 The list of [Quests]({{< ref "/wiki/" >}}Quests) where the Bruiser Part is used.
 
-### [Reverse Engineering]({{< ref "/wiki/" >}}Reverse-Engineering) 
+### [Reverse Engineering]({{< ref "/wiki/" >}}Reverse-Engineering)
 
-### Bruiser Parts, 200 
+### Bruiser Parts, 200
 
-**Requires:** 200 Bruiser Parts. **Reward:** 165000 Credits.  "Bruiser Parts" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20202601.
+**Requires:** 200 Bruiser Parts. **Reward:** 165000 Credits. "Bruiser Parts" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20202601.
 
 **Dialogue:**
 

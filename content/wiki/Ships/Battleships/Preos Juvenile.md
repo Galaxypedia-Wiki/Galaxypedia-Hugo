@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Preos-Juvenile
+  - /wiki/Preos-Juvenile
 categories:
-- Ships
-- Battleships
+  - Ships
+  - Battleships
 title: Preos Juvenile
 ---
 
@@ -39,7 +39,7 @@ The interior is identical to the interiors of the previous Preos ships: a purple
 - Use your speed to your advantage in battle.
 - Avoid hull-shredders such as the [Ridgebreaker]({{< ref "/wiki/" >}}Ridgebreaker), as they can annihilate you with their turrets.
 
-## Version History 
+## Version History
 
 - Explosion size 100 ----> 400 .75a12
 - Removed in version .75a37

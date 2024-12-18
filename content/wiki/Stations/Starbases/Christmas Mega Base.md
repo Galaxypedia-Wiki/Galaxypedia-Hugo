@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Christmas-Mega-Base
+  - /wiki/Christmas-Mega-Base
 categories:
-- Limited Ships
-- Christmas Event 2017
-- Starbases
-- Removed From Game
-- Christmas Event 2018
-- Christmas Event 2019
-- Christmas Event 2020
+  - Limited Ships
+  - Christmas Event 2017
+  - Starbases
+  - Removed From Game
+  - Christmas Event 2018
+  - Christmas Event 2019
+  - Christmas Event 2020
 title: Christmas Mega Base
 ---
 

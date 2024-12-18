@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Carvainir
+  - /wiki/Carvainir
 categories:
-- Ships
-- Capital Ships
-- Support Ships
-- Battleships
+  - Ships
+  - Capital Ships
+  - Support Ships
+  - Battleships
 title: Carvainir
 ---
 
@@ -46,7 +46,7 @@ The ship docks with the front of the ship facing the terminal. Players can walk 
 - To get full turret line of sight, point the left or right of the ship directly towards the target. However, this is difficult to maintain and can easily result in several turrets losing line of sight if there are even slight deviations in angle towards the target.
 - Use this ship to bait [Pirates]({{< ref "/wiki/" >}}Pirates) at [Mega Base]({{< ref "/wiki/" >}}Mega-Base) and finish them off.
 
-## Version History 
+## Version History
 
 - Received a remodel in .61g.
 - Received 250 more Cargo Hold and another remodel in .61h(?).

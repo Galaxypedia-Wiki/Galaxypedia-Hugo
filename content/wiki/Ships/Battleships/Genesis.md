@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Genesis
+  - /wiki/Genesis
 categories:
-- Battleships
-- Support Ships
-- PVP Ships
-- Pirate Ships
-- All-Rounder Ships
-- Ships
-- Capital Ships
-- Broadsides
+  - Battleships
+  - Support Ships
+  - PVP Ships
+  - Pirate Ships
+  - All-Rounder Ships
+  - Ships
+  - Capital Ships
+  - Broadsides
 title: Genesis
 ---
 
-{{< shipInfobox >}} The **_Genesis_** is a heavily armed PvP/Support [**Battleship**]({{< ref "/categories/" >}}Battleships) With unique broadside spinals. 
+{{< shipInfobox >}} The **_Genesis_** is a heavily armed PvP/Support [**Battleship**]({{< ref "/categories/" >}}Battleships) With unique broadside spinals.
 
 ## Description
 
@@ -48,7 +48,7 @@ The interior of the **Genesis **is a simple room with a blue panel sitting in 
 - If possible, make use of the Spinal weapons, as they are very powerful and can do a lot of [Shield]({{< ref "/wiki/" >}}Shields) damage quickly.
 - Front-facing or broadside-facing angles may be most effective to maximize turret lines of sight.
 
-## Version History 
+## Version History
 
 - Suspended temporarily for lag reduction tests.
 - Was unsuspended in version ???

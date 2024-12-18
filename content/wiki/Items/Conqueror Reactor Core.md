@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Conqueror-Reactor-Core
+  - /wiki/Conqueror-Reactor-Core
 categories:
-- Items
+  - Items
 title: Conqueror Reactor Core
 ---
 

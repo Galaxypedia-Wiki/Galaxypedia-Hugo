@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Arctic-Wasteland
+  - /wiki/Arctic-Wasteland
 categories:
-- Ships
-- Dreadnoughts
-- Limited Ships
-- Reskins
-- Fourth of July 2021
+  - Ships
+  - Dreadnoughts
+  - Limited Ships
+  - Reskins
+  - Fourth of July 2021
 title: Arctic Wasteland
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Arctic Wasteland_** is a [limited]({{< ref "/categories/" >}}Limited-Ships) Canadian-themed [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts). 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Arctic Wasteland_** is a [limited]({{< ref "/categories/" >}}Limited-Ships) Canadian-themed [**Dreadnought**]({{< ref "/categories/" >}}Dreadnoughts).
 
 ## Description
 
@@ -38,7 +38,7 @@ The **Arctic Wasteland's** interior is a small black box with a teleporter and a
 
 - Get under your opponents allowing all your turrets to fire.
 
-## Version History 
+## Version History
 
 - No logged changes
 

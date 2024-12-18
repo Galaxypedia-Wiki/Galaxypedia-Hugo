@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Nixesion
+  - /wiki/Nixesion
 categories:
-- Fighters
-- Ships
-- PVP Ships
-- Support Ships
+  - Fighters
+  - Ships
+  - PVP Ships
+  - Support Ships
 title: Nixesion
 ---
 
@@ -48,7 +48,7 @@ Like all fighter class ships, the **Nixesion** has little in the way of an inter
 - Focus on destroying ships like the [Ampharos]({{< ref "/wiki/" >}}Ampharos) first. Anything with a high count of light Turrets will easily rip apart **Nixesions** due to their slower speed, and **Nixesions** lack warp drives to escape. The best thing you can do is attempt to destroy threats like this as quickly as possible.
 - Overpower the enemy with swarms of **Nixesions**. Even a tempest can't fight back if enough fighters attack it.
 
-## Version History 
+## Version History
 
 - Remodeled in an unknown version.
 - Received a remodel in version .66m, spinal count buffed from 3/4 to 4/6 along with 70 extra hull health.

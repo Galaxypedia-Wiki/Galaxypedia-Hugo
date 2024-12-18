@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/UNE-Subjugator
-- /wiki/U.N.E-Subjugator
+  - /wiki/UNE-Subjugator
+  - /wiki/U.N.E-Subjugator
 categories:
-- NPC Ships
-- Capital Ships
-- Super Capital Ships
-- Ships
-- U.N.E
+  - NPC Ships
+  - Capital Ships
+  - Super Capital Ships
+  - Ships
+  - U.N.E
 title: UNE Subjugator
 ---
 
@@ -37,7 +37,7 @@ It will leave it's guarding post to respond to other [U.N.E]({{< ref "/wiki/" >}
 
 - Be sure to warp away as far as possible as when it's somehow destroyed, it will leave a **10k Stud nuke**, dealing tremendous amounts of damage to any ship close it.
 
-## Version History 
+## Version History
 
 - Added in version 69f.
 - Spawned naturally along with other [U.N.E]({{< ref "/wiki/" >}}U.N.E) capital ships during the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event) in version .75a10

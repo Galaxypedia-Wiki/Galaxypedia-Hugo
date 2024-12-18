@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Gift-Quests
+  - /wiki/Gift-Quests
 categories:
-- NPCS
-- Quests
-- Christmas Event 2021
+  - NPCS
+  - Quests
+  - Christmas Event 2021
 title: Gift Quests
 ---
 

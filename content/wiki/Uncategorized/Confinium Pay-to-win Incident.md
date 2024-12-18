@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Confinium-Pay-to-win-Incident
+  - /wiki/Confinium-Pay-to-win-Incident
 title: Confinium Pay-to-win Incident
 ---
 

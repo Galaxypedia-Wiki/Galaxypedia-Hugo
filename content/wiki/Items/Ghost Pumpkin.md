@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Ghost-Pumpkin
+  - /wiki/Ghost-Pumpkin
 categories:
-- Quests
-- Halloween 2018
-- Limited Ships
-- Removed From Game
-- Event Items
+  - Quests
+  - Halloween 2018
+  - Limited Ships
+  - Removed From Game
+  - Event Items
 title: Ghost Pumpkin
 ---
 

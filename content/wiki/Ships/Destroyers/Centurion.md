@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Centurion
+  - /wiki/Centurion
 categories:
-- Ships
-- Destroyers
-- Support Ships
-- Siege Ships
-- PVP Ships
+  - Ships
+  - Destroyers
+  - Support Ships
+  - Siege Ships
+  - PVP Ships
 title: Centurion
 ---
 
@@ -39,7 +39,7 @@ The Centurion is a [Destroyer]({{< ref "/categories/" >}}Destroyers) that has a 
 - Can be used to help a fleet in taking down[Starbases]({{< ref "/wiki/" >}}Starbase) or large [Ships]({{< ref "/wiki/" >}}Ships)
 - Can be combined with shield shredding ships such as the [Gideon]({{< ref "/wiki/" >}}Gideon) to make a devastating combo.
 
-## Version History 
+## Version History
 
 - Remodeled in version .66b
 

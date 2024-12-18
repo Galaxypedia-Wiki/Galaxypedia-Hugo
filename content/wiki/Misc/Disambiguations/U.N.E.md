@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/U.N.E
-- /wiki/UNE
+  - /wiki/U.N.E
+  - /wiki/UNE
 categories:
-- Disambiguations
+  - Disambiguations
 title: U.N.E
 ---
 

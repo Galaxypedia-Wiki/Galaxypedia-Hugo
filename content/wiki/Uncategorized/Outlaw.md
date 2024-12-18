@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Outlaw
+  - /wiki/Outlaw
 title: Outlaw
 ---
 

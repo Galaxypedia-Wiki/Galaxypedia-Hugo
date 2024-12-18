@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Bruiser
-- /wiki/Kneall-Bruiser
+  - /wiki/Bruiser
+  - /wiki/Kneall-Bruiser
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
 title: Bruiser
 ---
 

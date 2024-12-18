@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Factions
-- /wiki/Player-Factions
+  - /wiki/Factions
+  - /wiki/Player-Factions
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Factions
 ---
 
@@ -15,6 +15,6 @@ title: Factions
 
 The player who creates the **faction** is the leader. This gives them permissions to upgrade their [Starbase]({{< ref "/wiki/" >}}Starbase)(s), declare [War]({{< ref "/wiki/" >}}War), make peace, and propose [Alliances]({{< ref "/wiki/" >}}Alliances), as well as other **faction** management options. After the leader leaves the game or **faction**, another player is selected leader at random, or the leader can appoint someone else as the leader to take their place.
 
-## Base Credits 
+## Base Credits
 
 [Starbases]({{< ref "/wiki/" >}}Starbase) need [Credits]({{< ref "/wiki/" >}}Credits) to be able to buy materials and be upgraded, they are generated automatically from negative taxes or the base's own income, which is earned from territory. A base can reach negative credits if people dump enough [Ores]({{< ref "/wiki/" >}}Ores).![]({{< ref "/wiki/" >}}Create-a-faction.JPG-"Create-a-faction.JPG"){width="239" height="239"} ![]({{< ref "/wiki/" >}}Join-a-faction.JPG-"Join-a-faction.JPG"){width="220" height="220"}![]({{< ref "/wiki/" >}}FreedomBaseWouldBeMad.png-"FreedomBaseWouldBeMad.png"){width="245" height="245"}

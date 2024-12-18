@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/LMNOP
+  - /wiki/LMNOP
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: LMNOP
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_LMNOP_** is one of the largest current [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ships. 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_LMNOP_** is one of the largest current [**Admin**]({{< ref "/categories/" >}}Admin-Ships) ships.
 
 ## Description
 

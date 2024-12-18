@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Punisher-Weapon-Salvage
+  - /wiki/Punisher-Weapon-Salvage
 categories:
-- Items
+  - Items
 title: Punisher Weapon Salvage
 ---
 

@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/The-Rift
+  - /wiki/The-Rift
 categories:
-- Halloween 2020
-- Alien Ships and Stations
+  - Halloween 2020
+  - Alien Ships and Stations
 title: The Rift
 ---
 

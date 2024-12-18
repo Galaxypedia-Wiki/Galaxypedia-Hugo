@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Tennhausen
+  - /wiki/Tennhausen
 categories:
-- Ships
-- Dreadnoughts
-- PVP Ships
-- Support Ships
-- Siege Ships
-- All-Rounder Ships
-- Capital Ships
+  - Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Support Ships
+  - Siege Ships
+  - All-Rounder Ships
+  - Capital Ships
 title: Tennhausen
 ---
 
-{{< shipInfobox >}} The **_Tennhausen_**is a balanced [**_Dreadnought_**]({{< ref "/categories/" >}}Dreadnoughts) commonly seen in Galaxy.  
+{{< shipInfobox >}} The **_Tennhausen_**is a balanced [**_Dreadnought_**]({{< ref "/categories/" >}}Dreadnoughts) commonly seen in Galaxy.
 
 ## Description
 
@@ -41,7 +41,7 @@ The ship's interior consists of a simply designed room with a teleporter.
 - Stay under your opponent so all of your [Turrets]({{< ref "/wiki/" >}}Turrets) can fire.
 - Always be ready to reposition if somebody attempts to exploit your blind spot.
 
-## Version History 
+## Version History
 
 - Remodel by oChaosWarrioro added in .60d.
 - Its [Medium Cannons]({{< ref "/wiki/" >}}Turrets) were switched to [Dual Medium Cannons]({{< ref "/wiki/" >}}Turrets) and 2 of its [Heavy Lasers]({{< ref "/wiki/" >}}Turrets) were switched to [Triple Heavy Lasers]({{< ref "/wiki/" >}}Turrets) in version .63h.

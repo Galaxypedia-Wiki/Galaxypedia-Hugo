@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Swarmer
-- /wiki/Alien-Swarmer
+  - /wiki/Swarmer
+  - /wiki/Alien-Swarmer
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
 title: Swarmer
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Swarmer_**is an AI [**Alien**]({{< ref "/wiki/" >}}Aliens) ship made by the **[Kneall]({{< ref "/wiki/" >}}Kneall)**. 
+{{< shipInfobox >}} {{< notices/npcShip >}} The **_Swarmer_**is an AI [**Alien**]({{< ref "/wiki/" >}}Aliens) ship made by the **[Kneall]({{< ref "/wiki/" >}}Kneall)**.
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/3D-Printed-Apocalypse
+  - /wiki/3D-Printed-Apocalypse
 categories:
-- Ships
-- Dreadnoughts
+  - Ships
+  - Dreadnoughts
 title: 3D Printed Apocalypse
 ---
 
@@ -43,6 +43,6 @@ The _3D Printed Apocalypse_ exterior looks almost identical to the [Apocalypse](
 - If possible, shoot hulled ships to maximize your damage output
 - Use your turret's range. The farther away you are from your target, the harder it is to land shots on you.
 
-## Version History 
+## Version History
 
 ## Trivia

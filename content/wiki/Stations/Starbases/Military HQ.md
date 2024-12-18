@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Military-HQ
+  - /wiki/Military-HQ
 categories:
-- Starbases
-- Removed From Game
+  - Starbases
+  - Removed From Game
 title: Military HQ
 ---
 

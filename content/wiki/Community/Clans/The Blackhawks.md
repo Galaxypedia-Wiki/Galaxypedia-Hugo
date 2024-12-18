@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/The-Blackhawks
-- /wiki/Blackhawks
+  - /wiki/The-Blackhawks
+  - /wiki/Blackhawks
 categories:
-- Clans
+  - Clans
 title: The Blackhawks
 ---
 

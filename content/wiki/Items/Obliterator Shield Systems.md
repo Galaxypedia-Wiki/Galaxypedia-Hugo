@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Obliterator-Shield-Systems
+  - /wiki/Obliterator-Shield-Systems
 categories:
-- Items
+  - Items
 title: Obliterator Shield Systems
 ---
 

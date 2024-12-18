@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Duck-Blox
+  - /wiki/Duck-Blox
 categories:
-- Biographies
+  - Biographies
 title: Duck Blox
 ---
 

@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Pl̸͌͝å̷̛g̸͑̃ȗ̵͠e̵͌̔d̴̑͘-̴̌̀O̵͛͘s̶̏̕i̷̓͒r̷̓͋ì̵͝s̵̓̊
-- /wiki/Plagued-Osiris
+  - /wiki/Pl̸͌͝å̷̛g̸͑̃ȗ̵͠e̵͌̔d̴̑͘-̴̌̀O̵͛͘s̶̏̕i̷̓͒r̷̓͋ì̵͝s̵̓̊
+  - /wiki/Plagued-Osiris
 categories:
-- NPC Ships
-- Ships
-- Halloween 2022
-- Alien Ships and Stations
-- Super Capital Ships
-- Bosses
+  - NPC Ships
+  - Ships
+  - Halloween 2022
+  - Alien Ships and Stations
+  - Super Capital Ships
+  - Bosses
 title: Pl̸͌͝å̷̛g̸͑̃ȗ̵͠e̵͌̔d̴̑͘ ̴̌̀O̵͛͘s̶̏̕i̷̓͒r̷̓͋ì̵͝s̵̓̊
 ---
 

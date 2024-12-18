@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Operator
-- /wiki/Aludra-Quest
+  - /wiki/Operator
+  - /wiki/Aludra-Quest
 categories:
-- Quests
-- NPCS
-- Christmas Event 2022
+  - Quests
+  - NPCS
+  - Christmas Event 2022
 title: Operator
 ---
 
@@ -26,7 +26,7 @@ The quest is located above the [U.N.E Starbase]({{< ref "/wiki/" >}}U.N.E-Starba
 ![The U.N.E Research Station above its
 starbase](AlundraQuest1.png "The U.N.E Research Station above its starbase")
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Operator]: We're creating a weapon.</span>
 

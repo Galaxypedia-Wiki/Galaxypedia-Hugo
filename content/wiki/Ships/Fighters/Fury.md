@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Fury
+  - /wiki/Fury
 categories:
-- Ships
-- Fighters
-- Support Ships
+  - Ships
+  - Fighters
+  - Support Ships
 title: Fury
 ---
 
@@ -35,7 +35,7 @@ The **Fury**'s interior is entered through its cockpit window. Inside, there is 
 - **Furies** are usually used to swarm a large ship or provide cover in sieges. A skilled swarm of furies can obliterate a ship's Shield health within 30 seconds, leaving it to be easily finished off. The strategy with **Furies** is to dive-bomb if the target is large, or slow down and wait for your target to move into a vulnerable position if they're too fast or small.
 - Deal as much damage as possible before being destroyed by your target. Fire your [Spinals]({{< ref "/wiki/" >}}Spinals) as often as possible.
 
-## Version History 
+## Version History
 
 - Remodeled in an unknown version.
 - Remodeled again in an unknown version.

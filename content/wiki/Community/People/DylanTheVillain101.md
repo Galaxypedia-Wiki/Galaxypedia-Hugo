@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/DylanTheVillain101
+  - /wiki/DylanTheVillain101
 categories:
-- Biographies
+  - Biographies
 title: DylanTheVillain101
 ---
 

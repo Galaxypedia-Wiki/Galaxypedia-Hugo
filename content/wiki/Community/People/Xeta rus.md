@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Xeta-rus
+  - /wiki/Xeta-rus
 categories:
-- Biographies
+  - Biographies
 title: Xeta rus
 ---
 

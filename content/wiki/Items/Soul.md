@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Soul
+  - /wiki/Soul
 categories:
-- Event Items
+  - Event Items
 title: Soul
 ---
 

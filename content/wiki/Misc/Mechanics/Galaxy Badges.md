@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Galaxy-Badges
+  - /wiki/Galaxy-Badges
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Galaxy Badges
 ---
 

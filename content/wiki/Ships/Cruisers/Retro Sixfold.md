@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Retro-Sixfold
+  - /wiki/Retro-Sixfold
 categories:
-- Ships
-- Cruisers
-- Limited Ships
-- Black Friday 2019
-- Retro Ship Event 2019
+  - Ships
+  - Cruisers
+  - Limited Ships
+  - Black Friday 2019
+  - Retro Ship Event 2019
 title: Retro Sixfold
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Sixfold_** is a **[limited-edition]({{< ref "/categories/" >}}Limited-Ships)** version of the [Sixfold]({{< ref "/wiki/" >}}Sixfold) that features its original model and armament. 
+{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Sixfold_** is a **[limited-edition]({{< ref "/categories/" >}}Limited-Ships)** version of the [Sixfold]({{< ref "/wiki/" >}}Sixfold) that features its original model and armament.
 
 ## Description
 
@@ -36,7 +36,7 @@ The **Retro Sixfold's** interior is a simple corridor with team-color stripes fa
 
 - Be sure to use your spinals when your enemy is hulled, as they are your primary source of hull damage.
 
-## Version History 
+## Version History
 
 - Added in .66b along with the [Retro Ship Event 2020]({{< ref "/categories/" >}}Retro-Ship-Event-2020).
 - Received a buff in .66b shortly after the event ended.

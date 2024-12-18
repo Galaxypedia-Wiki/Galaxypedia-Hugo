@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Cobra-Imperium
+  - /wiki/Cobra-Imperium
 categories:
-- Galaxy Lore Pages
-- Clans
+  - Galaxy Lore Pages
+  - Clans
 title: Cobra Imperium
 ---
 

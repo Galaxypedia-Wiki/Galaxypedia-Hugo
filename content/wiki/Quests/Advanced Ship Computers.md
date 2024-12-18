@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Advanced-Ship-Computers
-- /wiki/Ship-Computers
+  - /wiki/Advanced-Ship-Computers
+  - /wiki/Ship-Computers
 categories:
-- NPCS
-- Quests
-- Advanced Ships
+  - NPCS
+  - Quests
+  - Advanced Ships
 title: Advanced Ship Computers
 ---
 
@@ -15,7 +15,7 @@ title: Advanced Ship Computers
 
 The **_Advanced Ship Computers_** were a group of Computers used to sell [Advanced Ships]({{< ref "/categories/" >}}Advanced-Ships), and was only the source.
 
-## Ship Rotation 
+## Ship Rotation
 
 Advanced Ship Computers used to have what is called a **Ship Rotation**. Ship Rotation decides what [Advanced Ships]({{< ref "/categories/" >}}Advanced-Ships) should be On-sale and Off-sale for the month. This made [Advanced Ships]({{< ref "/categories/" >}}Advanced-Ships) have a semi-limited status.
 
@@ -23,7 +23,7 @@ Advanced Ship Computers used to have what is called a **Ship Rotation**. Ship Ro
 
 Each Advanced Ship Computer had an image icon of an [Advanced Ship]({{< ref "/categories/" >}}Advanced-Ships). This dictates what [Advanced Ship]({{< ref "/categories/" >}}Advanced-Ships) it sold. This was then changed to be moved in terminal C instead of the original terminal D
 
-## Version History 
+## Version History
 
 - Some of the **Ship Computers** were disabled, in version .66b excluding those for the [Galaxy]({{< ref "/wiki/" >}}Galaxy) and the [Super Capital Ships]({{< ref "/categories/" >}}Super-Capital-Ships).
 

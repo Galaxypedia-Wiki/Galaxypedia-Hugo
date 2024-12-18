@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Key2
+  - /wiki/Key2
 categories:
-- Ships
+  - Ships
 title: Key2
 ---
 

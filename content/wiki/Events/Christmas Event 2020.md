@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Christmas-Event-2020
+  - /wiki/Christmas-Event-2020
 categories:
-- Events
+  - Events
 title: Christmas Event 2020
 ---
 

@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Halloween-Event-2019
+  - /wiki/Halloween-Event-2019
 categories:
-- Events
+  - Events
 title: Halloween Event 2019
 ---
 

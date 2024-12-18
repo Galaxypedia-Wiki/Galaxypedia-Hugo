@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Biokari
+  - /wiki/Biokari
 categories:
-- NPCS
-- Kneall Events
-- Halloween 2022
+  - NPCS
+  - Kneall Events
+  - Halloween 2022
 title: Biokari
 ---
 
@@ -16,7 +16,7 @@ title: Biokari
 
 **Biokari** is located inside the [Mega base]({{< ref "/wiki/" >}}Mega-Base) spawn where she is entrapped in a cage.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 **Note:** There is no second option in the quest dialogue. Additionally, any grammatical errors in the quest dialogue will be shown and not corrected.
 

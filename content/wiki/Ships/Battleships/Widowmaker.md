@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Widowmaker
+  - /wiki/Widowmaker
 categories:
-- Ships
-- Battleships
-- PVP Ships
-- Support Ships
-- Pirate Ships
-- All-Rounder Ships
-- Capital Ships
-- Limited Ships
+  - Ships
+  - Battleships
+  - PVP Ships
+  - Support Ships
+  - Pirate Ships
+  - All-Rounder Ships
+  - Capital Ships
+  - Limited Ships
 title: Widowmaker
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} _This article describes the player vessel. To see the NPC counterpart, see [Hearteater]({{< ref "/wiki/" >}}Hearteater)._ The **Widowmaker** is a [Battleship]({{< ref "/categories/" >}}Battleships) released on February 14th, 2022; during the Valentine's Day 2022 Event. 
+{{< shipInfobox >}} {{< notices/limitedShip >}} _This article describes the player vessel. To see the NPC counterpart, see [Hearteater]({{< ref "/wiki/" >}}Hearteater)._ The **Widowmaker** is a [Battleship]({{< ref "/categories/" >}}Battleships) released on February 14th, 2022; during the Valentine's Day 2022 Event.
 
 ## Description
 
@@ -42,7 +42,7 @@ The **Widowmaker's** interior consists of a teleporter, a short hallway, and a p
 - This ship will likely be focused by competent players, due to its [Limited]({{< ref "/categories/" >}}Limited-Ships) status.
 - This ship is not great for AA duty, as four of its turrets are PDLs with terrible accuracy.
 
-## Version History 
+## Version History
 
 - Added in version .75a5.
 - Shield buffed from 2,700 to 3,900, hull buffed from 2,400 to 3,760, speed increased to 120, 6 small cannons --> 4 large cannons in version .75a5.

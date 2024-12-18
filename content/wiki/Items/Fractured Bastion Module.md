@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Fractured-Bastion-Module
+  - /wiki/Fractured-Bastion-Module
 categories:
-- Items
+  - Items
 title: Fractured Bastion Module
 ---
 

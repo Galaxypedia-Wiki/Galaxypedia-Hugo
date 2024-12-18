@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Permits
-- /wiki/SC-Build-Permit
+  - /wiki/Permits
+  - /wiki/SC-Build-Permit
 categories:
-- Game Mechanics
-- Items
+  - Game Mechanics
+  - Items
 title: Permits
 ---
 

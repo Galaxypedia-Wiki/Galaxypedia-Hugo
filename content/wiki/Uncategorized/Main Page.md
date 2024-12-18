@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Main-Page
+  - /wiki/Main-Page
 title: Main Page
 ---
 
@@ -95,7 +95,7 @@ The new era of the Galaxy Wiki
 </div>
 </div>
 
-### Looking to join the Discord? 
+### Looking to join the Discord?
 
 [Galaxy](https://galaxy.casa/) has a number of Discord Servers you can join as well as a bot that shares information from Galaxypedia straight to Discord.
 
@@ -107,6 +107,6 @@ The new era of the Galaxy Wiki
 
 [Galaxy Info](https://info.galaxy.casa/)
 
-### Want to edit? 
+### Want to edit?
 
 Simply [create an account](https://robloxgalaxy.wiki/index.php?title=Special:CreateAccount&returnto=Main+Page), confirm your email, and start editing! Read the [Community Guidelines]({{< ref "/wiki/" >}}Galaxypedia:Terms-of-Service#4.2.-Community-Guidelines) to view the site rules. Read the [Formatting Policy]({{< ref "/wiki/" >}}Galaxypedia:Formatting-Policy) to learn how things are supposed to look on the Galaxypedia, and use the [MediaWiki Editing Guide]({{< ref "/wiki/" >}}mediawikiwiki:Help:Editing) for help with editing mechanics (images, tables, etc).

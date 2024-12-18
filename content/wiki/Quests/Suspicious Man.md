@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Suspicious-Man
+  - /wiki/Suspicious-Man
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Suspicious Man
 ---
 
@@ -13,7 +13,7 @@ title: Suspicious Man
 
 Hello_World!
 
-## Plasma Batteries 
+## Plasma Batteries
 
 Hello_World!
 
@@ -21,7 +21,7 @@ Hello_World!
 
 Hello_World!
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Suspicious Man]: " Hello_World! "</span>
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Lunar-Cloud
+  - /wiki/Lunar-Cloud
 title: Lunar Cloud
 ---
 

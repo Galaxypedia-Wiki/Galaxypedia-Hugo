@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Jetpack
+  - /wiki/Jetpack
 categories:
-- Ships
+  - Ships
 title: Jetpack
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Jetpack_**is a small **[Admin]({{< ref "/categories/" >}}Admin-Ships)**[ **Ship**]({{< ref "/categories/" >}}Admin-Ships) that does not follow conventional ship guidelines. 
+{{< shipInfobox >}} {{< notices/adminShip >}} The **_Jetpack_**is a small **[Admin]({{< ref "/categories/" >}}Admin-Ships)**[ **Ship**]({{< ref "/categories/" >}}Admin-Ships) that does not follow conventional ship guidelines.
 
 ## Description
 
@@ -32,7 +32,7 @@ The **Jetpack**, being a small, simple ship, has no interior.
 - The ship is unarmed, so it is purely there for show.
 - Flex on others because they don't have the Jetpack.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

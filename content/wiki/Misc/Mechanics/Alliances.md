@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Alliances
+  - /wiki/Alliances
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Alliances
 ---
 
@@ -25,7 +25,7 @@ When a faction wars another faction, the attacking faction will automatically de
 - Typically, your teams will work together, even as one team. However, this is not always the case.
 - Docked ships at allied Starbases/Planets will allow you to repair your ship just as it would at your own Starbase/Planet (?)
 
-## Version History 
+## Version History
 
 - Alliances were disabled in version .70c due to a planned re-write of the general diplomacy system
 - Alliances were re-enabled in version .73e with basic functionality; faction leaders could join three preset alliances ("Alpha," "Beta," or "Gamma"), and other factions could send a request to the founding faction to join those alliances.

@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Outrider
-- /wiki/Kneall-Outrider
+  - /wiki/Outrider
+  - /wiki/Kneall-Outrider
 categories:
-- NPC Ships
-- Alien Ships and Stations
-- Ships
+  - NPC Ships
+  - Alien Ships and Stations
+  - Ships
 title: Outrider
 ---
 
@@ -33,7 +33,7 @@ Their size also allows players to try and brute force the kill with a battlecrui
 
 Outrider wrecks give 50 Alien Parts.
 
-## Version History 
+## Version History
 
 - Renamed from **Kneall Outrider** to **Outrider** in version .69d2
 

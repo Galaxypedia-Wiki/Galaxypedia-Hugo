@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/FrameWorks
+  - /wiki/FrameWorks
 categories:
-- Clans
+  - Clans
 title: FrameWorks
 ---
 

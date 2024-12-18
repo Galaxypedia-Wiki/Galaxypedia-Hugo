@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Territory
+  - /wiki/Territory
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Territory
 ---
 

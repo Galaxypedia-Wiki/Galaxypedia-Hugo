@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Shadowstrike
-- /wiki/Alien-Shadowmane
-- /wiki/Alien-Shadowstrike
+  - /wiki/Shadowstrike
+  - /wiki/Alien-Shadowmane
+  - /wiki/Alien-Shadowstrike
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
-- Avellians= Ships and Stations
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
+  - Avellians= Ships and Stations
 title: Shadowstrike
 ---
 

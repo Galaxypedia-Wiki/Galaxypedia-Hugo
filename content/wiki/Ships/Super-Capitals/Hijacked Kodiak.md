@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Hijacked-Kodiak
+  - /wiki/Hijacked-Kodiak
 categories:
-- Ships
-- Super Capital Ships
-- Capital Ships
+  - Ships
+  - Super Capital Ships
+  - Capital Ships
 title: Hijacked Kodiak
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/superCapitalShip >}} The **_Hijacked Kodiak_** is an unobtainable [Super Capital]({{< ref "/categories/" >}}Super-Capital-Ships) that differs somewhat from the original [Kodiak]({{< ref "/wiki/" >}}Kodiak). 
+{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/superCapitalShip >}} The **_Hijacked Kodiak_** is an unobtainable [Super Capital]({{< ref "/categories/" >}}Super-Capital-Ships) that differs somewhat from the original [Kodiak]({{< ref "/wiki/" >}}Kodiak).
 
 ## Description
 
@@ -30,7 +30,7 @@ The **Hijacked Kodiak** is an unobtainable ship that serves an unknown purpose. 
 
 - ?
 
-## Version History 
+## Version History
 
 - Turrets buffed in version .72e1
 

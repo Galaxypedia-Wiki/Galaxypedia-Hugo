@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Kneall-Core
+  - /wiki/Kneall-Core
 categories:
-- Items
+  - Items
 title: Kneall Core
 ---
 

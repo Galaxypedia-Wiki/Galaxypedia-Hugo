@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Inflictor
+  - /wiki/Inflictor
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Inflictor
 ---
 
@@ -39,7 +39,7 @@ The ship is thin and long resembling the shape of a > shaped fish with a dark bl
 
 - Swarm them.
 
-## Version History 
+## Version History
 
 - Its torpedoes and phasers became small as of 02/12/2022.
 - Its hp and speed was buffed as of 02/05/2022.

@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Chaotic-Unity
+  - /wiki/Chaotic-Unity
 categories:
-- Galaxy Lore Pages
-- Clans
+  - Galaxy Lore Pages
+  - Clans
 title: Chaotic Unity
 ---
 

@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Ascension-Crystal
+  - /wiki/Ascension-Crystal
 categories:
-- Items
+  - Items
 title: Ascension Crystal
 ---
 

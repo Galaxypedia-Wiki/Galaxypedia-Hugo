@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Diplomacy-Menu
+  - /wiki/Diplomacy-Menu
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Diplomacy Menu
 ---
 

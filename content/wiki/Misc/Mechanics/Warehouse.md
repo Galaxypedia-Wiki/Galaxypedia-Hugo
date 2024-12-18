@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Warehouse
+  - /wiki/Warehouse
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Warehouse
 ---
 

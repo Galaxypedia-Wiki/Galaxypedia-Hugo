@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Credits
+  - /wiki/Credits
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Credits
 ---
 
@@ -10,6 +10,6 @@ title: Credits
 
 Typically, people earn credits by [Mining]({{< ref "/wiki/" >}}Mining) or [Trading]({{< ref "/wiki/" >}}Trading). However, some more experienced players [Pirate]({{< ref "/wiki/" >}}Pirating) to earn credits.
 
-### Buying Credits 
+### Buying Credits
 
-As an alternative to the normal methods, Credits may be purchased using [ROBUX]({{< ref "/wiki/" >}}w:c:roblox:Robux). Buying credits helps support Galaxy.  ![]({{< ref "/wiki/" >}}RobuxForCredits.png-"RobuxForCredits.png"){width="500"}
+As an alternative to the normal methods, Credits may be purchased using [ROBUX]({{< ref "/wiki/" >}}w:c:roblox:Robux). Buying credits helps support Galaxy. ![]({{< ref "/wiki/" >}}RobuxForCredits.png-"RobuxForCredits.png"){width="500"}

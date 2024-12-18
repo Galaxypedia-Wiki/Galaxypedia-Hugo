@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Bonehawk
+  - /wiki/Bonehawk
 categories:
-- Limited Ships
-- Fighters
-- Halloween 2018
-- Ships
+  - Limited Ships
+  - Fighters
+  - Halloween 2018
+  - Ships
 title: Bonehawk
 ---
 

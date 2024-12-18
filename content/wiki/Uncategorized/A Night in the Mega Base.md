@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/A-Night-in-the-Mega-Base
+  - /wiki/A-Night-in-the-Mega-Base
 title: A Night in the Mega Base
 ---
 

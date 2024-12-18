@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Kodiak-Plating
+  - /wiki/Kodiak-Plating
 categories:
-- Items
+  - Items
 title: Kodiak Plating
 ---
 

@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Christmas-Event-2021
+  - /wiki/Christmas-Event-2021
 categories:
-- Christmas Event 2021
+  - Christmas Event 2021
 title: Christmas Event 2021
 ---
 

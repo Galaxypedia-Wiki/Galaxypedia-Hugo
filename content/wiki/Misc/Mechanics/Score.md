@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Score
+  - /wiki/Score
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Score
 ---
 
@@ -14,11 +14,7 @@ _Not to be confused with [Bounty]({{< ref "/wiki/" >}}Bounty)._
 
 <div class="jcConfig" style="display: none;">
 
-template  = Template:CalculatorAttempt
-form      = loyaltyCalcForm
-result    = loyaltyCalcResult
-param     = loy|Target Loyalty|42|int|1-100
-param     = cLoy|Concurrent Loyalty|1|int|1-99
+template  = Template:CalculatorAttempt form      = loyaltyCalcForm result    = loyaltyCalcResult param     = loy|Target Loyalty|42|int|1-100 param     = cLoy|Concurrent Loyalty|1|int|1-99
 
 </div>
 <div id="loyaltyCalcResult">

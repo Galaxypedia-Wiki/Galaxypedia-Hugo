@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Rogue-Arctic-Wasteland
+  - /wiki/Rogue-Arctic-Wasteland
 categories:
-- NPC Ships
-- Fourth of July 2021
-- Ships
+  - NPC Ships
+  - Fourth of July 2021
+  - Ships
 title: Rogue Arctic Wasteland
 ---
 
@@ -31,7 +31,7 @@ The Rogue Arctic Wasteland's Interior is a small black box with a teleporter and
 
 ## Strategy
 
-## Version History 
+## Version History
 
 - No logged changes
 

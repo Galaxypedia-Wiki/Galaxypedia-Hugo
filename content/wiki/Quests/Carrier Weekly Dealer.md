@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Carrier-Weekly-Dealer
+  - /wiki/Carrier-Weekly-Dealer
 categories:
-- Quests
+  - Quests
 title: Carrier Weekly Dealer
 ---
 
@@ -16,7 +16,7 @@ Carrier Weekly Dealer (Jaxumi92) sells players 1 random [Carrier]({{< ref "/cate
 
 Carrier Weekly Dealer (Jaxumi92) is located in the Megabase near the Updates list
 
-## Quest Dialogue 
+## Quest Dialogue
 
 Jaxumi92: I can get you carriers at a discount through my secret method
 
@@ -32,7 +32,7 @@ Player: Anything else I need to know?
 
 Jaxumi92: Make sure you don't have a (Shipname) already, or I will take your credits without compensation
 
-### Ending Dialouge 
+### Ending Dialouge
 
 Jaxumi92: Ready to receive your (Shipname)?
 

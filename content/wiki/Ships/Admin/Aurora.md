@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Aurora
+  - /wiki/Aurora
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Aurora
 ---
 
@@ -45,7 +45,7 @@ The **Aurora** features:
   - Go on a luxury space cruise.
   - Throw a party.
 
-## Version History 
+## Version History
 
 - Removed along with most of the [**Admin Ships**]({{< ref "/categories/" >}}Admin-Ships) in version .62a1.
 - Re-added in version .68e???

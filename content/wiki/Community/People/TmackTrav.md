@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/TmackTrav
+  - /wiki/TmackTrav
 categories:
-- Biographies
+  - Biographies
 title: TmackTrav
 ---
 

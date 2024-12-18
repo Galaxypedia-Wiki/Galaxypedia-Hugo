@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Raptor
+  - /wiki/Raptor
 categories:
-- Ships
-- Fighters
-- Support Ships
-- PVP Ships
+  - Ships
+  - Fighters
+  - Support Ships
+  - PVP Ships
 title: Raptor
 ---
 
@@ -37,7 +37,7 @@ The **Raptor** has no interior. Like all [Fighters]({{< ref "/categories/" >}}Fi
 - Make sure to assist your fleet by defending against smaller [Ships]({{< ref "/wiki/" >}}Ships) or by pestering larger ones.
 - Stay close to your fleet's ships or with a group of other [Fighters]({{< ref "/categories/" >}}Fighters); never go out on your own.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

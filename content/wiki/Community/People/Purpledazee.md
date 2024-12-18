@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Purpledazee
+  - /wiki/Purpledazee
 categories:
-- Biographies
+  - Biographies
 title: Purpledazee
 ---
 

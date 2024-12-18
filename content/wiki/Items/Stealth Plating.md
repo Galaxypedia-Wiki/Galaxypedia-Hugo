@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Stealth-Plating
+  - /wiki/Stealth-Plating
 categories:
-- Stealth Ships
-- Items
+  - Stealth Ships
+  - Items
 title: Stealth Plating
 ---
 

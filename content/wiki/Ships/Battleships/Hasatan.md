@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Hasatan
+  - /wiki/Hasatan
 categories:
-- Ships
-- Battleships
-- Siege Ships
-- Capital Ships
+  - Ships
+  - Battleships
+  - Siege Ships
+  - Capital Ships
 title: Hasatan
 ---
 
@@ -48,7 +48,7 @@ The entrance has a teleporter that teleports the player to the pilot room which 
 - Very effective with the "[Outside The Box]({{< ref "/wiki/" >}}Strategies)" tactic.
 - Can be good against [Dreadnoughts]({{< ref "/categories/" >}}Dreadnoughts) if it's constantly on its blind spots. However, it's bad against any ships smaller or faster than a Battleship.
 
-## Version History 
+## Version History
 
 - Remodeled in version .61d.
 - Received a buff in .66b increasing its [Shield]({{< ref "/wiki/" >}}Shields) from 2500 to 3000, its [Hull]({{< ref "/wiki/" >}}Hull) from 2000 to 3000, increasing the [Torpedo]({{< ref "/wiki/" >}}Spinals) size from large to huge, and revamping the [Turret]({{< ref "/wiki/" >}}Turrets) loadout. It was also remodeled.

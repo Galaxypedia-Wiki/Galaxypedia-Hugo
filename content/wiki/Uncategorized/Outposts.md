@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Outposts
+  - /wiki/Outposts
 title: Outposts
 ---
 
@@ -15,7 +15,7 @@ server.](OutpostSpam.png "The spamming of outposts in an eco server.")
 
 The **_Outpost_** looks exactly like a [Starbase]({{< ref "/wiki/" >}}Starbase).
 
-## Creating an outpost 
+## Creating an outpost
 
 An outpost can be built by a leader of a [Faction]({{< ref "/wiki/" >}}Factions) in exchange of the current selected starbase's resources. Building an outpost costs 25k silicate, 5k carbon, 4k iridium and 1k uranium. When selected a [Transport Vessel]({{< ref "/wiki/" >}}Transport-Vessel) will fly to the selected spot (very slowly due to the Transport Vessel's lack of a warp drive) and once arrived will start spinning in place for around 20 seconds before spawning a new starbase.
 

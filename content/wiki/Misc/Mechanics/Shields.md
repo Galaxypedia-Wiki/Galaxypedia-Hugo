@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Shields
+  - /wiki/Shields
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Shields
 ---
 
@@ -27,7 +27,7 @@ title: Shields
 
 - Speed helps minimize physical damage to your ship. If you can outmaneuver the enemy ship or incoming fire with amazing dog-fighting skills, then you won't have to worry about your **Shields** or [Hull]({{< ref "/wiki/" >}}Hull) too much.
 
-## Version History 
+## Version History
 
 - (Please list all previous changes)
 - Shields changed to have specific healing rates per [Ship]({{< ref "/wiki/" >}}Ships) class while in combat (with the exception of [stealth ships]({{< ref "/categories/" >}}Stealth-Ships), which now no longer regenerate their shields outside of being docked), as well as now having the behavior of the shields failing when they are depleted, staying offline for 20 seconds before they regenerate quickly to a partially full state in version .76b28.

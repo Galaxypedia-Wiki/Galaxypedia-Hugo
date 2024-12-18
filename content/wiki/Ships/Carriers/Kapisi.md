@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Kapisi
+  - /wiki/Kapisi
 categories:
-- Carriers
-- Limited Ships
-- Halloween 2018
-- Ships
-- PVP Ships
-- Support Ships
-- Capital Ships
-- Promotion/Raffles
+  - Carriers
+  - Limited Ships
+  - Halloween 2018
+  - Ships
+  - PVP Ships
+  - Support Ships
+  - Capital Ships
+  - Promotion/Raffles
 title: Kapisi
 ---
 
@@ -49,7 +49,7 @@ Like it's original counterpart, the [Sakala]({{< ref "/wiki/" >}}Sakala), the in
 - Stay at the back of the fleet and take down any large ships that come near you.
 - While the **Kapisi** has a combined health of 43,000 it wouldn't be recommended to tank anything due to the amount of players that would target a hulled, limited [Carrier]({{< ref "/categories/" >}}Carriers).
 
-## Version History 
+## Version History
 
 - Made unobtainable after the [Halloween 2018 Event]({{< ref "/wiki/" >}}Halloween-Event-2018) ended.
 - Health increased from 7000/7000 to 9000/9000 in version .68d.

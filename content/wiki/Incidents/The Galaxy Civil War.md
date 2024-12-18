@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/The-Galaxy-Civil-War
+  - /wiki/The-Galaxy-Civil-War
 categories:
-- Staff-Only Pages
-- Incidents
+  - Staff-Only Pages
+  - Incidents
 title: The Galaxy Civil War
 ---
 

@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Quantum-Core
+  - /wiki/Quantum-Core
 categories:
-- Items
+  - Items
 title: Quantum Core
 ---
 
@@ -24,11 +24,11 @@ Ship Amount Onsale
 
 The list of [Quests]({{< ref "/wiki/" >}}Quests) where the Quantum Core is used.
 
-### [Advanced Systems]({{< ref "/wiki/" >}}Advanced-Systems) 
+### [Advanced Systems]({{< ref "/wiki/" >}}Advanced-Systems)
 
-### [Charybdis OCS]({{< ref "/wiki/" >}}Charybdis-OCS) 
+### [Charybdis OCS]({{< ref "/wiki/" >}}Charybdis-OCS)
 
-### [The Last Signal]({{< ref "/wiki/" >}}The-Last-Signal) 
+### [The Last Signal]({{< ref "/wiki/" >}}The-Last-Signal)
 
 ### [Spooky]({{< ref "/wiki/" >}}Lucifer-Core)
 

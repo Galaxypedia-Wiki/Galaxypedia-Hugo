@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Goliath-X
+  - /wiki/Goliath-X
 categories:
-- Admin Ships
-- Ships
-- Removed From Game
+  - Admin Ships
+  - Ships
+  - Removed From Game
 title: Goliath X
 ---
 
@@ -37,7 +37,7 @@ The **Goliath X** dock point leads you to a corridor with 3 doors. It featured a
 - Use the speed to your advantage and dodge incoming attacks.
 - Use it to make other people jealous.
 
-## Version History 
+## Version History
 
 - Removed along with most of the **[Admin Ships]({{< ref "/categories/" >}}Admin-Ships)** in version .62a1.
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Galaxy-Development
+  - /wiki/Galaxy-Development
 title: Galaxy Development
 ---
 

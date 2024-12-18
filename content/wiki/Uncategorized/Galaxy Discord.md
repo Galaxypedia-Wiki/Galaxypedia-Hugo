@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/Galaxy-Discord
+  - /wiki/Galaxy-Discord
 title: Galaxy Discord
 ---
 

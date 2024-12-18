@@ -1,6 +1,6 @@
 ---
 aliases:
-- /wiki/U.N.E-Starbase-12
+  - /wiki/U.N.E-Starbase-12
 title: U.N.E Starbase 12
 ---
 

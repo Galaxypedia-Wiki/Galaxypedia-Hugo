@@ -1,8 +1,8 @@
 ---
 aliases:
-- /wiki/Loyalty
+  - /wiki/Loyalty
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Loyalty
 ---
 

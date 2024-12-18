@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Bionicle-Part
+  - /wiki/Bionicle-Part
 categories:
-- Event Items
-- Kneall Events
+  - Event Items
+  - Kneall Events
 title: Bionicle Part
 ---
 
@@ -15,11 +15,11 @@ The [Devastator]({{< ref "/wiki/" >}}Devastator) drops 50 Bionicle Parts per wre
 
 The list of [Quests]({{< ref "/wiki/" >}}Quests) where the Bionicle Part is used.
 
-### [Reverse Engineering]({{< ref "/wiki/" >}}Reverse-Engineering) 
+### [Reverse Engineering]({{< ref "/wiki/" >}}Reverse-Engineering)
 
-### Bionicle Parts, 10 
+### Bionicle Parts, 10
 
-**Requires:** 100 Bionicle Parts. **Reward:** 110000 Credits.  "Bionicle Parts" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20202602.
+**Requires:** 100 Bionicle Parts. **Reward:** 110000 Credits. "Bionicle Parts" is the [NPC]({{< ref "/categories/" >}}NPCS) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20202602.
 
 **Dialogue:**
 

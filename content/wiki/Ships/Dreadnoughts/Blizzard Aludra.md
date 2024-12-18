@@ -1,11 +1,11 @@
 ---
 aliases:
-- /wiki/Blizzard-Aludra
+  - /wiki/Blizzard-Aludra
 categories:
-- NPC Ships
-- Christmas Event 2022
-- Dreadnoughts
-- Ships
+  - NPC Ships
+  - Christmas Event 2022
+  - Dreadnoughts
+  - Ships
 title: Blizzard Aludra
 ---
 

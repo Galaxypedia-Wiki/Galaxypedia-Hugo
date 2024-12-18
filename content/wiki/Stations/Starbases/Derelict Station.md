@@ -1,9 +1,9 @@
 ---
 aliases:
-- /wiki/Derelict-Station
+  - /wiki/Derelict-Station
 categories:
-- Starbases
-- Quests
+  - Starbases
+  - Quests
 title: Derelict Station
 ---
 
@@ -15,7 +15,7 @@ The **Derelict Station** is a [starbase]({{< ref "/wiki/" >}}starbase) that was 
 
 The **Derelict Station** has only 4 terminals, the same amount as a level 1 [Starbase]({{< ref "/wiki/" >}}Starbase). The interior is mostly small with 2 hallways going to different rooms in the station, each connected to terminals. There is a quarters that players may spawn in with some knocked over chairs and tables. Near some of the terminals are green and purple teleporters that lead to the other side of the [Starbase]({{< ref "/wiki/" >}}Starbase).
 
-## Version History 
+## Version History
 
 - **Derelict Station** received a remodel in version .66b. It shared many of the same features, but was made more detailed than the original.
 - Became the home to one of many optional player quests added in version .66b
