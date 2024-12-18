@@ -1,0 +1,29 @@
+{
+  "name": "galaxypedia-hugo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write",
+    "linkrot": "linkinator ./public --config ./linkinator.config.json",
+    "pagefind": "pagefind --site public",
+    "index": "pnpm pagefind",
+    "build": "hugo && pnpm pagefind",
+    "ci": "hugo --minify --baseURL '$PAGEURL' && pnpm pagefind && pnpm linkrot",
+    "serve": "pnpm build && hugo server -D"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "prettier-plugin-go-template": "^0.0.15",
+    "prettier-plugin-tailwind-css": "^1.5.0"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "4.0.0-beta.5",
+    "linkinator": "^6.1.2",
+    "pagefind": "^1.2.0",
+    "tailwindcss": "4.0.0-beta.5"
+  }
+}
