@@ -1,0 +1,26 @@
+<header>
+  <div class="flex flex-row items-center h-16">
+    <a href="/" class="flex flex-row items-center">
+      <img
+        src="{{ .Site.BaseURL }}favicon.svg"
+        alt="Galaxypedia Logo"
+        class="w-auto h-20 mr-4"
+      />
+      <h1
+        class="text-[2cqw] text-white"
+        style="font-family: 'Rocket Rinder', Arial;"
+      >
+        Galaxypedia
+      </h1>
+    </a>
+    <div class="flex justify-center flex-grow">
+      <script src="{{ .Site.BaseURL }}pagefind/pagefind-ui.js"></script>
+      <div id="search" class="p-2 mx-8 border-2 border-white rounded-md"></div>
+      <script>
+        window.addEventListener("DOMContentLoaded", (event) => {
+          new PagefindUI({ element: "#search", showSubResults: true });
+        });
+      </script>
+    </div>
+  </div>
+</header>
