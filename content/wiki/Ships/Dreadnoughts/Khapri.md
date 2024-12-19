@@ -10,7 +10,11 @@ categories:
 title: Khapri
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **Khapri** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) from the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **Khapri** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) from the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
 _This article describes the player-owned ship. For the NPC boss ship with the same model, see **[Adversary]({{< ref "/wiki/" >}}Alien-Adversary)**._
 

@@ -8,7 +8,9 @@ categories:
 title: Instigator
 ---
 
-{{< shipInfobox >}} _Not to be confused with the [**Cruiser-class**]({{< ref "/categories/" >}}cruisers) [Instigator-A]({{< ref "/wiki/" >}}Instigator-A)._
+{{< shipInfobox >}}
+
+_Not to be confused with the [**Cruiser-class**]({{< ref "/categories/" >}}cruisers) [Instigator-A]({{< ref "/wiki/" >}}Instigator-A)._
 
 The **_Instigator _**is a [**Fighter**]({{< ref "/categories/" >}}fighters) that spawns on the [Nimitz]({{< ref "/wiki/" >}}Nimitz).
 

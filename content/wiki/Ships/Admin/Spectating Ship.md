@@ -7,7 +7,13 @@ categories:
 title: Spectating Ship
 ---
 
-{{< shipInfobox >}} {{< notices/outdatedInfo >}} {{< notices/adminShip >}} The **_Spectating Ship_** is a tiny **[Admin Ship]({{< ref "/categories/" >}}admin-ships)** used primarily by Admins to spectate matches either in an Admin Event, a Tournament, or in Galaxy itself.
+{{< shipInfobox >}}
+
+{{< notices/outdatedInfo >}}
+
+{{< notices/adminShip >}}
+
+The **_Spectating Ship_** is a tiny **[Admin Ship]({{< ref "/categories/" >}}admin-ships)** used primarily by Admins to spectate matches either in an Admin Event, a Tournament, or in Galaxy itself.
 
 ## Description
 

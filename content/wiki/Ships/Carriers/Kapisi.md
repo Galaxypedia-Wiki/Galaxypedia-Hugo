@@ -13,7 +13,11 @@ categories:
 title: Kapisi
 ---
 
-{{< shipInfobox >}} {{< notices/premiumShip >}} The **_Kapisi_** was an exclusive [**Carrier**]({{< ref "/categories/" >}}limited-ships) for those who contributed to or purchased from the Galaxy Store during the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018). It is now available in the Robux shop menu for 6,500 Robux.
+{{< shipInfobox >}}
+
+{{< notices/premiumShip >}}
+
+The **_Kapisi_** was an exclusive [**Carrier**]({{< ref "/categories/" >}}limited-ships) for those who contributed to or purchased from the Galaxy Store during the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018). It is now available in the Robux shop menu for 6,500 Robux.
 
 ## Description
 

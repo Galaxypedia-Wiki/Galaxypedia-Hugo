@@ -8,7 +8,11 @@ categories:
 title: Christmas Tree
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **Christmas Tree** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020). It was also re-introduced in the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **Christmas Tree** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020). It was also re-introduced in the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
 ## Description
 

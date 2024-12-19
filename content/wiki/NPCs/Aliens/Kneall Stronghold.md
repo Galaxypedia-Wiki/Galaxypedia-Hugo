@@ -7,7 +7,9 @@ categories:
 title: Kneall Stronghold
 ---
 
-{{< shipInfobox >}} ## Description
+{{< shipInfobox >}}
+
+## Description
 
 The **Kneall Starbase** (also known as the **Stronghold**) is the equivalent of an **Alien Starbase**, from which waves of aliens spawn. Currently, this event will appear once in each server, when there is only one team left in Endgame.
 

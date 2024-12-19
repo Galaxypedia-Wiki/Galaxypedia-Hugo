@@ -8,7 +8,9 @@ categories:
 title: Python
 ---
 
-{{< shipInfobox >}} The **_Python_** is a fast and powerful [**Frigate**]({{< ref "/categories/" >}}frigates).
+{{< shipInfobox >}}
+
+The **_Python_** is a fast and powerful [**Frigate**]({{< ref "/categories/" >}}frigates).
 
 ## Description
 

@@ -10,7 +10,11 @@ categories:
 title: Punisher
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Punisher_** (Also known as **Alien Punisher** or **Kneall Punisher**) is an AI **[Alien]({{< ref "/wiki/" >}}Aliens) **ship made and used by the [Kneall]({{< ref "/wiki/" >}}Kneall).
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+The **_Punisher_** (Also known as **Alien Punisher** or **Kneall Punisher**) is an AI **[Alien]({{< ref "/wiki/" >}}Aliens) **ship made and used by the [Kneall]({{< ref "/wiki/" >}}Kneall).
 
 ## Description
 

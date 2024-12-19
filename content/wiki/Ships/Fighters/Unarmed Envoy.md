@@ -7,7 +7,9 @@ categories:
 title: Unarmed Envoy
 ---
 
-{{< shipInfobox >}} The **_Unarmed Envoy_** was a small, limited remake of the [Dropship]({{< ref "/wiki/" >}}Dropship) [Destroyer]({{< ref "/categories/" >}}destroyers) that uses a reskinned old model, and is a [Destroyer]({{< ref "/categories/" >}}destroyers)-[Fighter]({{< ref "/categories/" >}}fighters) hybrid, eventually removed once it stopped spawning on the Lucifer Station.
+{{< shipInfobox >}}
+
+The **_Unarmed Envoy_** was a small, limited remake of the [Dropship]({{< ref "/wiki/" >}}Dropship) [Destroyer]({{< ref "/categories/" >}}destroyers) that uses a reskinned old model, and is a [Destroyer]({{< ref "/categories/" >}}destroyers)-[Fighter]({{< ref "/categories/" >}}fighters) hybrid, eventually removed once it stopped spawning on the Lucifer Station.
 
 ## Description
 

@@ -10,7 +10,11 @@ categories:
 title: Patriotic Crucible
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic Crucible_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Destroyer-class]({{< ref "/categories/" >}}destroyers) [Crucible]({{< ref "/wiki/" >}}Crucible).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Patriotic Crucible_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Destroyer-class]({{< ref "/categories/" >}}destroyers) [Crucible]({{< ref "/wiki/" >}}Crucible).
 
 ## Description
 

@@ -9,7 +9,9 @@ categories:
 title: Avenger
 ---
 
-{{< shipInfobox >}} The **_Avenger_**is a fast and powerful **[Frigate]({{< ref "/categories/" >}}frigates).**
+{{< shipInfobox >}}
+
+The **_Avenger_**is a fast and powerful **[Frigate]({{< ref "/categories/" >}}frigates).**
 
 ## Description
 

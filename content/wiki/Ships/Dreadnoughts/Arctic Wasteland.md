@@ -10,7 +10,11 @@ categories:
 title: Arctic Wasteland
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Arctic Wasteland_** is a [limited]({{< ref "/categories/" >}}limited-ships) Canadian-themed [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Arctic Wasteland_** is a [limited]({{< ref "/categories/" >}}limited-ships) Canadian-themed [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
 
 ## Description
 

@@ -9,7 +9,9 @@ categories:
 title: Valkyrie
 ---
 
-{{< shipInfobox >}} The **_Valkyrie_** is one of the most powerful [Fighters]({{< ref "/categories/" >}}fighters) in Galaxy. It only spawns in the [Icarus]({{< ref "/wiki/" >}}Icarus), replacing its former two [Nixesions]({{< ref "/wiki/" >}}Nyxesion).
+{{< shipInfobox >}}
+
+The **_Valkyrie_** is one of the most powerful [Fighters]({{< ref "/categories/" >}}fighters) in Galaxy. It only spawns in the [Icarus]({{< ref "/wiki/" >}}Icarus), replacing its former two [Nixesions]({{< ref "/wiki/" >}}Nyxesion).
 
 ## Description
 

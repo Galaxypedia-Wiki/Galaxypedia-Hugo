@@ -9,7 +9,11 @@ categories:
 title: Snowsturm
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Snowsturm_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020). It was re-introduced during the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Snowsturm_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020). It was re-introduced during the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
 ## Description
 

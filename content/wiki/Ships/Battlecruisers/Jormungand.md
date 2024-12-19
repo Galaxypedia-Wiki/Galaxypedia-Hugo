@@ -9,7 +9,11 @@ categories:
 title: Jormungand
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Jormungand_** is a Pirate **[AI]({{< ref "/categories/" >}}npc-ships) [Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** that acts as the big brother to the [Dragoon]({{< ref "/wiki/" >}}Dragoon).
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+The **_Jormungand_** is a Pirate **[AI]({{< ref "/categories/" >}}npc-ships) [Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** that acts as the big brother to the [Dragoon]({{< ref "/wiki/" >}}Dragoon).
 
 ## Description
 

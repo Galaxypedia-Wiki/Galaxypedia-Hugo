@@ -6,7 +6,9 @@ categories:
 title: Christmas Event 2021
 ---
 
-{{< notices/removed >}} **Christmas Event 2021** is a limited time event that was held on the 25th of December, 2021. This year, the event ships comprise of those from the [Christmas Event 2020]({{< ref "/wiki/" >}}Christmas-Event-2020), and several new event ships.
+{{< notices/removed >}}
+
+**Christmas Event 2021** is a limited time event that was held on the 25th of December, 2021. This year, the event ships comprise of those from the [Christmas Event 2020]({{< ref "/wiki/" >}}Christmas-Event-2020), and several new event ships.
 
 Similar to the [Halloween Event 2021]({{< ref "/categories/" >}}halloween-2021), the event has been split into two parts, each introducing their own event ships. The new NPCs that are introduced also drop Snowflakes, which are required to build the event ships. The Avellian Stronghold also drops 1 Blueprint A and Blueprint B, which are needed for future event quests
 

@@ -7,7 +7,9 @@ categories:
 title: Advanced Miner
 ---
 
-{{< shipInfobox >}} The **_Advanced Miner_**is a relatively cheap **[Miner]({{< ref "/categories/" >}}mining-ships)** class ship with four [Small Mining Lasers]({{< ref "/wiki/" >}}Turrets).
+{{< shipInfobox >}}
+
+The **_Advanced Miner_**is a relatively cheap **[Miner]({{< ref "/categories/" >}}mining-ships)** class ship with four [Small Mining Lasers]({{< ref "/wiki/" >}}Turrets).
 
 ## Description
 

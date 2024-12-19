@@ -7,7 +7,13 @@ categories:
 title: Judgement Prime
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **Judgement Prime** is a special type of AI enemy ship which does not spawn naturally. It is based off the [Judgement]({{< ref "/wiki/" >}}Judgement).
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/npcShip >}}
+
+The **Judgement Prime** is a special type of AI enemy ship which does not spawn naturally. It is based off the [Judgement]({{< ref "/wiki/" >}}Judgement).
 
 ## Summary
 

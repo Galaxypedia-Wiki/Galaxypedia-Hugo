@@ -6,7 +6,9 @@ categories:
 title: Battleship Weekly Dealer
 ---
 
-{{< notices/removed >}} ![]({{< ref "/wiki/" >}}Battleshipweeklydealerbetter.png-"Battleshipweeklydealerbetter.png") The Battleship Weekly Dealer (Shadiris' Apprentice) is ship dealer added on June 10 2022
+{{< notices/removed >}}
+
+![]({{< ref "/wiki/" >}}Battleshipweeklydealerbetter.png-"Battleshipweeklydealerbetter.png") The Battleship Weekly Dealer (Shadiris' Apprentice) is ship dealer added on June 10 2022
 
 ## Description
 

@@ -10,7 +10,11 @@ categories:
 title: Adversary
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Adversary_** is an [Avellian]({{< ref "/wiki/" >}}Avellian) AI Boss dreadnought that served as the main boss of the [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021).
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+The **_Adversary_** is an [Avellian]({{< ref "/wiki/" >}}Avellian) AI Boss dreadnought that served as the main boss of the [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
 ## Description
 

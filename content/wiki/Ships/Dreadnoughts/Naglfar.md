@@ -10,7 +10,9 @@ categories:
 title: Naglfar
 ---
 
-{{< shipInfobox >}} The **_Naglfar_** is a [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with high maneuverability and speed.
+{{< shipInfobox >}}
+
+The **_Naglfar_** is a [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with high maneuverability and speed.
 
 ## Description
 

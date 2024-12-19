@@ -10,7 +10,11 @@ categories:
 title: Retro Prototype X-1
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Prototype X-1_**is a Retro Variant of the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Retro Prototype X-1_**is a Retro Variant of the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1).
 
 ## Description
 

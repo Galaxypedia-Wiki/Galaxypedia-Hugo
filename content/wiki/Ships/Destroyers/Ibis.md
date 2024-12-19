@@ -9,7 +9,9 @@ categories:
 title: Ibis
 ---
 
-{{< shipInfobox >}} The **_Ibis_** is a cheap and well-armed **[Destroyer]({{< ref "/categories/" >}}destroyers)** commonly seen in Galaxy.
+{{< shipInfobox >}}
+
+The **_Ibis_** is a cheap and well-armed **[Destroyer]({{< ref "/categories/" >}}destroyers)** commonly seen in Galaxy.
 
 ## Description
 

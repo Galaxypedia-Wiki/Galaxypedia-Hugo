@@ -6,7 +6,9 @@ categories:
 title: Sugondese Dev Demotion
 ---
 
-{{< notices/communityIncident >}} This article documents the events that lead to the demotion of Sugondese from Developer rank.
+{{< notices/communityIncident >}}
+
+This article documents the events that lead to the demotion of Sugondese from Developer rank.
 
 ## Summary
 

@@ -11,7 +11,9 @@ categories:
 title: Aegis
 ---
 
-{{< shipInfobox >}} The **_Aegis_** is a **[Battleship]({{< ref "/categories/" >}}battleships)** that focuses on Shield health and [Turrets]({{< ref "/wiki/" >}}Turrets).
+{{< shipInfobox >}}
+
+The **_Aegis_** is a **[Battleship]({{< ref "/categories/" >}}battleships)** that focuses on Shield health and [Turrets]({{< ref "/wiki/" >}}Turrets).
 
 ## Description
 

@@ -10,7 +10,9 @@ categories:
 title: Argosy
 ---
 
-{{< shipInfobox >}} The **_Argosy_** is a hull-tanked **[Destroyer]({{< ref "/categories/" >}}destroyers)** which focuses on dealing hull damage.
+{{< shipInfobox >}}
+
+The **_Argosy_** is a hull-tanked **[Destroyer]({{< ref "/categories/" >}}destroyers)** which focuses on dealing hull damage.
 
 ## Description
 

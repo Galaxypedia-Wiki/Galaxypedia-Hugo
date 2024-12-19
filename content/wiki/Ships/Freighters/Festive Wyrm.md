@@ -10,7 +10,11 @@ categories:
 title: Festive Wyrm
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Festive Wyrm_** is a [**Limited Event**]({{< ref "/categories/" >}}limited-ships)**[Freighter]({{< ref "/categories/" >}}freighters)** that was released on December 31st, 2018. It is a redesigned version of the old [Wyrm]({{< ref "/wiki/" >}}Wyrm).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Festive Wyrm_** is a [**Limited Event**]({{< ref "/categories/" >}}limited-ships)**[Freighter]({{< ref "/categories/" >}}freighters)** that was released on December 31st, 2018. It is a redesigned version of the old [Wyrm]({{< ref "/wiki/" >}}Wyrm).
 
 ## Description
 

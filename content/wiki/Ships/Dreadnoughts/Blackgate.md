@@ -11,7 +11,11 @@ categories:
 title: Blackgate
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Blackgate_** is a [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) that was available during Phase 3 of the event.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Blackgate_** is a [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) that was available during Phase 3 of the event.
 
 ## Description
 

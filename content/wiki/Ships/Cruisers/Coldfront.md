@@ -10,7 +10,11 @@ categories:
 title: Coldfront
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Coldfront_** is a [**Cruiser**]({{< ref "/categories/" >}}cruisers) added during the second stage of the [2019 Christmas event]({{< ref "/wiki/" >}}Christmas-Event-2019).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Coldfront_** is a [**Cruiser**]({{< ref "/categories/" >}}cruisers) added during the second stage of the [2019 Christmas event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Desription 
 

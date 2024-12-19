@@ -7,7 +7,9 @@ categories:
 title: Mini Alpha Cyclops
 ---
 
-{{< shipInfobox >}} The **_Mini Alpha Cyclops_** is a [Fighter-class]({{< ref "/categories/" >}}fighters) ship found in the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship).
+{{< shipInfobox >}}
+
+The **_Mini Alpha Cyclops_** is a [Fighter-class]({{< ref "/categories/" >}}fighters) ship found in the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship).
 
 ## Description
 

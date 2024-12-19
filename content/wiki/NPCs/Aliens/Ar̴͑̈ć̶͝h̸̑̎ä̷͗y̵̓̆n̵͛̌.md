@@ -12,7 +12,13 @@ categories:
 title: Ar̴͑̈ć̶͝h̸̑̎ä̷͗y̵̓̆n̵͛̌
 ---
 
-{{< shipInfobox >}} {{< notices/removed >}} {{< notices/npcShip >}} The **Ar̴͑̈ć̶͝h̸̑̎ä̷͗y̵̓̆n̵͛̌** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Titan]({{< ref "/categories/" >}}titans) that spawned during Part 2 of the [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022).
+{{< shipInfobox >}}
+
+{{< notices/removed >}}
+
+{{< notices/npcShip >}}
+
+The **Ar̴͑̈ć̶͝h̸̑̎ä̷͗y̵̓̆n̵͛̌** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Titan]({{< ref "/categories/" >}}titans) that spawned during Part 2 of the [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022).
 
 ## Description
 

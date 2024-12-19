@@ -9,7 +9,11 @@ categories:
 title: Hecate
 ---
 
-{{< shipInfobox >}} {{< notices/vipShip >}} The **_Hecate_** Is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** Class ship that excels at crushing the hulls of other ships.
+{{< shipInfobox >}}
+
+{{< notices/vipShip >}}
+
+The **_Hecate_** Is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** Class ship that excels at crushing the hulls of other ships.
 
 ## Description
 

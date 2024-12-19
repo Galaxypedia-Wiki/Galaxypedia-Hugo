@@ -8,7 +8,9 @@ categories:
 title: Preos Egg
 ---
 
-{{< shipInfobox >}} The **_Preos Egg_** is a small [**Cruiser**]({{< ref "/categories/" >}}cruisers) that's completely unarmed.
+{{< shipInfobox >}}
+
+The **_Preos Egg_** is a small [**Cruiser**]({{< ref "/categories/" >}}cruisers) that's completely unarmed.
 
 ## Description
 

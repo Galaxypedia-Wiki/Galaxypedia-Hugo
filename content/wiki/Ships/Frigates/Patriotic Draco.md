@@ -10,7 +10,11 @@ categories:
 title: Patriotic Draco
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic Draco_** is a very fast [Frigate]({{< ref "/categories/" >}}frigates) released for the [Fourth of July 2021]({{< ref "/categories/" >}}fourth-of-july-2021) Event Part 1.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Patriotic Draco_** is a very fast [Frigate]({{< ref "/categories/" >}}frigates) released for the [Fourth of July 2021]({{< ref "/categories/" >}}fourth-of-july-2021) Event Part 1.
 
 ## Description
 

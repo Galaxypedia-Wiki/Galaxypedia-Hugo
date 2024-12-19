@@ -10,7 +10,9 @@ categories:
 title: Leecher
 ---
 
-{{< shipInfobox >}} The **_Leecher_** is a decently fast and heavily armed [**Destroyer**]({{< ref "/categories/" >}}destroyers).
+{{< shipInfobox >}}
+
+The **_Leecher_** is a decently fast and heavily armed [**Destroyer**]({{< ref "/categories/" >}}destroyers).
 
 ## Description
 

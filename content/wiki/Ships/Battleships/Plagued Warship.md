@@ -10,7 +10,11 @@ categories:
 title: Plagued Warship
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Plagued Warship_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) that was introduced in the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019). It was formerly the [Genesis]({{< ref "/wiki/" >}}Genesis)'s limited counterpart before its remodel.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Plagued Warship_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) that was introduced in the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019). It was formerly the [Genesis]({{< ref "/wiki/" >}}Genesis)'s limited counterpart before its remodel.
 
 ## Description
 

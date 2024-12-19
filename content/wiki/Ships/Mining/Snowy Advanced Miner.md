@@ -10,7 +10,9 @@ categories:
 title: Snowy Advanced Miner
 ---
 
-{{< shipInfobox >}} The**_Snowy Advanced Miner_**is a [**Miner**]({{< ref "/categories/" >}}mining-ships) with 8 small [Mining Lasers]({{< ref "/wiki/" >}}Turrets). It was the first Miner to be armed, sporting a single Light Laser Turret, but that has since been removed.
+{{< shipInfobox >}}
+
+The**_Snowy Advanced Miner_**is a [**Miner**]({{< ref "/categories/" >}}mining-ships) with 8 small [Mining Lasers]({{< ref "/wiki/" >}}Turrets). It was the first Miner to be armed, sporting a single Light Laser Turret, but that has since been removed.
 
 ## Description
 

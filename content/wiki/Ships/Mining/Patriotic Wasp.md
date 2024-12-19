@@ -10,7 +10,15 @@ categories:
 title: Patriotic Wasp
 ---
 
-{{< shipInfobox >}} {{< notices/removed >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Patriotic Wasp_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [**Miner**]({{< ref "/categories/" >}}mining-ships) from the [2021 Fourth of July Event]({{< ref "/wiki/" >}}Fourth-of-July-2021).
+{{< shipInfobox >}}
+
+{{< notices/removed >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/limitedShip >}}
+
+The **_Patriotic Wasp_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [**Miner**]({{< ref "/categories/" >}}mining-ships) from the [2021 Fourth of July Event]({{< ref "/wiki/" >}}Fourth-of-July-2021).
 
 ## Description
 

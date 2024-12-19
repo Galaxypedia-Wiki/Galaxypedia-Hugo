@@ -13,7 +13,9 @@ categories:
 title: Halloween Grievion
 ---
 
-{{< shipInfobox >}} The **_Halloween Grievion_** was a limited-time change to the [Grievion]({{< ref "/wiki/" >}}Grievion) during the [2016 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2016).
+{{< shipInfobox >}}
+
+The **_Halloween Grievion_** was a limited-time change to the [Grievion]({{< ref "/wiki/" >}}Grievion) during the [2016 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2016).
 
 ##  Description
 

@@ -11,7 +11,9 @@ categories:
 title: Kraken
 ---
 
-{{< shipInfobox >}} The **_Kraken_** is a long range [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) with powerful [Turrets]({{< ref "/wiki/" >}}Turrets) and equally powerful spinals.
+{{< shipInfobox >}}
+
+The **_Kraken_** is a long range [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) with powerful [Turrets]({{< ref "/wiki/" >}}Turrets) and equally powerful spinals.
 
 ## Description
 

@@ -10,7 +10,13 @@ categories:
 title: Icebreaker
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} ## Description
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/limitedShip >}}
+
+## Description
 
 The Icebreaker is a reskin of the [Tennhausen]({{< ref "/wiki/" >}}Tennhausen) for the [Galaxy Fourth Of July 2021 Event.]({{< ref "/categories/" >}}fourth-of-july-2021)
 

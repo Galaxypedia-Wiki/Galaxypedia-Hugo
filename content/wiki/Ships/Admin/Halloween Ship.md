@@ -8,7 +8,11 @@ categories:
 title: Halloween Ship
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Halloween Ship_** is an early **[Admin Ship]({{< ref "/categories/" >}}admin-ships)**.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Halloween Ship_** is an early **[Admin Ship]({{< ref "/categories/" >}}admin-ships)**.
 
 ## Description
 

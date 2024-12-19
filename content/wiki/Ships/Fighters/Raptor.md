@@ -9,7 +9,9 @@ categories:
 title: Raptor
 ---
 
-{{< shipInfobox >}} The **_Raptor_** is the signature [**Fighter**]({{< ref "/categories/" >}}fighters) of the [Carrier]({{< ref "/categories/" >}}carriers)-class ship [Warlord]({{< ref "/wiki/" >}}Warlord).
+{{< shipInfobox >}}
+
+The **_Raptor_** is the signature [**Fighter**]({{< ref "/categories/" >}}fighters) of the [Carrier]({{< ref "/categories/" >}}carriers)-class ship [Warlord]({{< ref "/wiki/" >}}Warlord).
 
 ## Description
 

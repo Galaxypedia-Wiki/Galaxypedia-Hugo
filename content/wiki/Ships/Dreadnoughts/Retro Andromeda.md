@@ -10,7 +10,11 @@ categories:
 title: Retro Andromeda
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Andromeda_** is a replica of the original [Andromeda Model]({{< ref "/wiki/" >}}Andromeda) **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the [Retro Ship Event 2021]({{< ref "/wiki/" >}}Retro-Ship-Event-2020).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Retro Andromeda_** is a replica of the original [Andromeda Model]({{< ref "/wiki/" >}}Andromeda) **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the [Retro Ship Event 2021]({{< ref "/wiki/" >}}Retro-Ship-Event-2020).
 
 ## Description
 

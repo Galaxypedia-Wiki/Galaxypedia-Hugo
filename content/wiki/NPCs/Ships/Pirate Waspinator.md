@@ -7,7 +7,9 @@ categories:
 title: Pirate Waspinator
 ---
 
-{{< shipInfobox >}} The Pirate Waspinator is a pirate-controlled version of the Waspinator. It is Identical to the original Waspinator but with a red color. It is the strongest non-boss pirate ship.
+{{< shipInfobox >}}
+
+The Pirate Waspinator is a pirate-controlled version of the Waspinator. It is Identical to the original Waspinator but with a red color. It is the strongest non-boss pirate ship.
 
 ## How to beat
 

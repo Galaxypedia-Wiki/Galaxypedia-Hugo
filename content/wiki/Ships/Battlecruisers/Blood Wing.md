@@ -14,7 +14,11 @@ categories:
 title: Blood Wing
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Blood Wing_** is a limited edition ship for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Blood Wing_** is a limited edition ship for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
 
 ## Description
 

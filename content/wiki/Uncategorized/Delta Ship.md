@@ -6,7 +6,9 @@ categories:
 title: Delta Ship
 ---
 
-{{< shipInfobox >}} The **Delta Ship** was created for Galaxy Delta when it reached 1 million visits.
+{{< shipInfobox >}}
+
+The **Delta Ship** was created for Galaxy Delta when it reached 1 million visits.
 
 ## Description
 

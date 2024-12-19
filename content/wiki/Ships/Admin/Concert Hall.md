@@ -7,7 +7,13 @@ categories:
 title: Concert Hall
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/adminShip >}} The **Concert Hall** is an Admin Ship with a lot of health.
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/adminShip >}}
+
+The **Concert Hall** is an Admin Ship with a lot of health.
 
 ## Description
 

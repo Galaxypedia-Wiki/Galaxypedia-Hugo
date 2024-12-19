@@ -10,7 +10,11 @@ categories:
 title: Patriotic Defiance
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic Defiance_**is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Defiance]({{< ref "/wiki/" >}}Defiance).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Patriotic Defiance_**is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Defiance]({{< ref "/wiki/" >}}Defiance).
 
 ## Description
 

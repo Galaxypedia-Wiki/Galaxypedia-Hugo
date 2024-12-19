@@ -9,7 +9,11 @@ categories:
 title: Theia
 ---
 
-{{< shipInfobox >}} {{< notices/superCapitalShip >}} The **_Theia_**is an extremely powerful Glass Cannon PVP-oriented [**Super Capital Ship**]({{< ref "/categories/" >}}super-capital-ships)
+{{< shipInfobox >}}
+
+{{< notices/superCapitalShip >}}
+
+The **_Theia_**is an extremely powerful Glass Cannon PVP-oriented [**Super Capital Ship**]({{< ref "/categories/" >}}super-capital-ships)
 
 ## Description
 

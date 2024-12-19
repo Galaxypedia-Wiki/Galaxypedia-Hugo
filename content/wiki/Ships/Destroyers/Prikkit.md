@@ -9,7 +9,11 @@ categories:
 title: Prikkit
 ---
 
-{{< shipInfobox >}} {{< notices/removed >}} The **Prikkit** is a Destroyer that is part of the second stage of the [2021 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2021).
+{{< shipInfobox >}}
+
+{{< notices/removed >}}
+
+The **Prikkit** is a Destroyer that is part of the second stage of the [2021 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2021).
 
 ## Description
 

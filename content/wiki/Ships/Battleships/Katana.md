@@ -10,7 +10,9 @@ categories:
 title: Katana
 ---
 
-{{< shipInfobox >}} The **_Katana_** is an agile PvP **[Battleship]({{< ref "/categories/" >}}battleships)** that shares a model with the [Plagued Warship]({{< ref "/wiki/" >}}Plagued-Warship).
+{{< shipInfobox >}}
+
+The **_Katana_** is an agile PvP **[Battleship]({{< ref "/categories/" >}}battleships)** that shares a model with the [Plagued Warship]({{< ref "/wiki/" >}}Plagued-Warship).
 
 ## Description
 

@@ -8,7 +8,9 @@ categories:
 title: C Class
 ---
 
-{{< shipInfobox >}} The **_C Class_** is a **[Freighter]({{< ref "/categories/" >}}freighters)** which was going to be awarded to first and second-place winners of the [Galaxy Tournament](https://challonge.com/GalaxyAT).
+{{< shipInfobox >}}
+
+The **_C Class_** is a **[Freighter]({{< ref "/categories/" >}}freighters)** which was going to be awarded to first and second-place winners of the [Galaxy Tournament](https://challonge.com/GalaxyAT).
 
 ## Description
 

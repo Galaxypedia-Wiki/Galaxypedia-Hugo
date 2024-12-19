@@ -8,7 +8,11 @@ categories:
 title: Rogue Weapon of Mass Destruction
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} ## Description
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+## Description
 
 The **_Rogue Weapon of Mass Weapon Destruction_** is a Pirate **[AI]({{< ref "/categories/" >}}npc-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** reskin of the [Armageddon]({{< ref "/wiki/" >}}Armageddon) for the [Galaxy Fourth Of July 2021 Event]({{< ref "/categories/" >}}fourth-of-july-2021).
 

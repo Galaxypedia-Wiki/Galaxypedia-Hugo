@@ -12,7 +12,9 @@ categories:
 title: Ridgebreaker
 ---
 
-{{< shipInfobox >}} The **_Ridgebreaker_** is a large, slow **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)**-Class ship designed specifically for [sieging]({{< ref "/wiki/" >}}sieging).
+{{< shipInfobox >}}
+
+The **_Ridgebreaker_** is a large, slow **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)**-Class ship designed specifically for [sieging]({{< ref "/wiki/" >}}sieging).
 
 ## Description
 

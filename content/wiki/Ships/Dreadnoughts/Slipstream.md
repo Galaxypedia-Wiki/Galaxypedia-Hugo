@@ -11,7 +11,11 @@ categories:
 title: Slipstream
 ---
 
-{{< shipInfobox >}} {{< notices/advancedShip >}} The **_Slipstream_** is a fast and maneuverable [Slarfie]({{< ref "/wiki/" >}}Slarfie) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with a focus on speed and turret firepower.
+{{< shipInfobox >}}
+
+{{< notices/advancedShip >}}
+
+The **_Slipstream_** is a fast and maneuverable [Slarfie]({{< ref "/wiki/" >}}Slarfie) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with a focus on speed and turret firepower.
 
 ## Description
 

@@ -7,7 +7,9 @@ categories:
 title: Luca Sky
 ---
 
-{{< notices/underConstruction >}} ![Luca Sky inside [Mega
+{{< notices/underConstruction >}}
+
+![Luca Sky inside [Mega
 Base](Mega_Base "wikilink")](Luca_sky.png "Luca Sky inside Mega Base") **_Luca Sky_** is a Quest NPC added during the [**Galaxy Star Wars Event**]({{< ref "/wiki/" >}}Galaxy-Star-Wars-Event) alongside [**Billy Ray Joe**]({{< ref "/wiki/" >}}Billy-Ray-Joe).
 
 ## Description

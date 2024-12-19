@@ -9,7 +9,11 @@ categories:
 title: Double Fractal
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Double Fractal_** is [**Frigate**]({{< ref "/categories/" >}}frigates) which is part of the second stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Double Fractal_** is [**Frigate**]({{< ref "/categories/" >}}frigates) which is part of the second stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Description
 

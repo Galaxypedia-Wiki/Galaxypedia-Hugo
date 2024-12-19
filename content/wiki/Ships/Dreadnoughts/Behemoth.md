@@ -14,7 +14,9 @@ categories:
 title: Behemoth
 ---
 
-{{< shipInfobox >}} The **_Behemoth_** is a powerful PvP [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
+{{< shipInfobox >}}
+
+The **_Behemoth_** is a powerful PvP [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
 
 ## Description
 

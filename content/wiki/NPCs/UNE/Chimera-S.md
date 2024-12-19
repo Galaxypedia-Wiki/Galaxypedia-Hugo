@@ -8,7 +8,11 @@ categories:
 title: Chimera-S
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} _This article describes the NPC ship. for the weaker, player-obtainable vessel, see [Chimera]({{< ref "/wiki/" >}}Chimera)._
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+_This article describes the NPC ship. for the weaker, player-obtainable vessel, see [Chimera]({{< ref "/wiki/" >}}Chimera)._
 
 The **_Chimera-S_** is a friendly [U.N.E]({{< ref "/wiki/" >}}U.N.E) ship that passively hunts [Kneall]({{< ref "/wiki/" >}}Kneall) ships.
 

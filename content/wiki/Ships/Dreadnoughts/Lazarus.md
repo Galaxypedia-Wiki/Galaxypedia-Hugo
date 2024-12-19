@@ -12,7 +12,11 @@ categories:
 title: Lazarus
 ---
 
-{{< shipInfobox >}} {{< notices/vipShip >}} The **_Lazarus_** is a [VIP]({{< ref "/wiki/" >}}Galaxy-VIP-Gamepass)-exclusive PvP-based **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** with high Shield health and firepower.
+{{< shipInfobox >}}
+
+{{< notices/vipShip >}}
+
+The **_Lazarus_** is a [VIP]({{< ref "/wiki/" >}}Galaxy-VIP-Gamepass)-exclusive PvP-based **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** with high Shield health and firepower.
 
 ## Description
 

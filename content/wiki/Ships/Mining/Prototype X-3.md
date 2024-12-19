@@ -10,7 +10,11 @@ categories:
 title: Prototype X-3
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Prototype X-3_** is a [Miner-Class]({{< ref "/categories/" >}}mining-ships) April Fools' ship.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Prototype X-3_** is a [Miner-Class]({{< ref "/categories/" >}}mining-ships) April Fools' ship.
 
 ## Description
 

@@ -7,7 +7,9 @@ categories:
 title: Ascendant
 ---
 
-{{< shipInfobox >}} The **Ascendant** is a event Dreadnought added in the [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022).
+{{< shipInfobox >}}
+
+The **Ascendant** is a event Dreadnought added in the [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022).
 
 ## Description
 

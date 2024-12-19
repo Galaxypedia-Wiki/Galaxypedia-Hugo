@@ -13,7 +13,11 @@ categories:
 title: Alpha Ship
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Alpha Ship_**is a [**Carrier**]({{< ref "/categories/" >}}carriers) only available to [Alpha Players]({{< ref "/wiki/" >}}Galaxy-Badges).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Alpha Ship_**is a [**Carrier**]({{< ref "/categories/" >}}carriers) only available to [Alpha Players]({{< ref "/wiki/" >}}Galaxy-Badges).
 
 ## Description
 

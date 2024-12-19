@@ -10,7 +10,11 @@ categories:
 title: Mantid
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The Mantid is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) from the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The Mantid is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) from the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
 ## Description
 

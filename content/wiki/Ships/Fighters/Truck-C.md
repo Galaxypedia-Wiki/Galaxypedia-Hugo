@@ -7,7 +7,9 @@ categories:
 title: Truck-C
 ---
 
-{{< shipInfobox >}} ## Description
+{{< shipInfobox >}}
+
+## Description
 
 One of the 4 uniquely disguised fighters on Pyramus, this one looks like a troop carrier.
 

@@ -7,7 +7,9 @@ categories:
 title: Shadiris
 ---
 
-{{< notices/underConstruction >}} **_Shadiris_** is an NPC who offers weekly discounted ships.
+{{< notices/underConstruction >}}
+
+**_Shadiris_** is an NPC who offers weekly discounted ships.
 
 ## Description
 

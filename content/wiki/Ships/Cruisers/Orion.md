@@ -11,7 +11,9 @@ categories:
 title: Orion
 ---
 
-{{< shipInfobox >}} The **Orion** is a heavy Cruiser, borderline battlecruiser made by the [U.N.E.]({{< ref "/wiki/" >}}United-Nations-of-Earth) that has very high health for a Cruiser, decent [Spinal]({{< ref "/wiki/" >}}Spinals) damage, and light [turrets]({{< ref "/wiki/" >}}turrets) in case any small ships attack.
+{{< shipInfobox >}}
+
+The **Orion** is a heavy Cruiser, borderline battlecruiser made by the [U.N.E.]({{< ref "/wiki/" >}}United-Nations-of-Earth) that has very high health for a Cruiser, decent [Spinal]({{< ref "/wiki/" >}}Spinals) damage, and light [turrets]({{< ref "/wiki/" >}}turrets) in case any small ships attack.
 
 ## Description
 

@@ -10,7 +10,9 @@ categories:
 title: Vigilance
 ---
 
-{{< shipInfobox >}} The **_Vigilance_** is a heavy [Turret]({{< ref "/wiki/" >}}Turrets)-focused [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers).
+{{< shipInfobox >}}
+
+The **_Vigilance_** is a heavy [Turret]({{< ref "/wiki/" >}}Turrets)-focused [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers).
 
 ## Description
 

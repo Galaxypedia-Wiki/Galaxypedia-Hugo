@@ -9,7 +9,11 @@ categories:
 title: Dominion
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Dominion_** is a Canadian-themed [**Super Capital**]({{< ref "/categories/" >}}super-capital-ships) briefly released during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Dominion_** is a Canadian-themed [**Super Capital**]({{< ref "/categories/" >}}super-capital-ships) briefly released during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021).
 
 ## Description
 

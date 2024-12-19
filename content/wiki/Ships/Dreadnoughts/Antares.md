@@ -12,7 +12,11 @@ categories:
 title: Antares
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Antares_** is a **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** that was part of the second stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019) and was re-introduced in the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Antares_** is a **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** that was part of the second stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019) and was re-introduced in the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
 
 ## Description
 

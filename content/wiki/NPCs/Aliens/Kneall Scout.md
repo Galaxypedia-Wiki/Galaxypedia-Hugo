@@ -8,7 +8,11 @@ categories:
 title: Kneall Scout
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Kneall Scout_** is an **Alien** AI ship and part of the [Kneall]({{< ref "/wiki/" >}}Kneall) Fleet.
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+The **_Kneall Scout_** is an **Alien** AI ship and part of the [Kneall]({{< ref "/wiki/" >}}Kneall) Fleet.
 
 ## Description
 

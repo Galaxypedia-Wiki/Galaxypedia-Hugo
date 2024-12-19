@@ -9,7 +9,11 @@ categories:
 title: Discordite Cluster
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Discordite Cluster_** is a unique **[Freighter]({{< ref "/categories/" >}}freighters)** given to people that boosted the [Galaxy Discord Server](https://discordapp.com/invite/FCGGXvk).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Discordite Cluster_** is a unique **[Freighter]({{< ref "/categories/" >}}freighters)** given to people that boosted the [Galaxy Discord Server](https://discordapp.com/invite/FCGGXvk).
 
 ## Description
 

@@ -8,7 +8,9 @@ categories:
 title: Blitz
 ---
 
-{{< shipInfobox >}} The **_Blitz_** is a powerful [**Fighter**]({{< ref "/categories/" >}}fighters) found in the [Borealis]({{< ref "/wiki/" >}}Borealis).
+{{< shipInfobox >}}
+
+The **_Blitz_** is a powerful [**Fighter**]({{< ref "/categories/" >}}fighters) found in the [Borealis]({{< ref "/wiki/" >}}Borealis).
 
 ## Description
 

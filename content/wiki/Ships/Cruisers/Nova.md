@@ -9,7 +9,9 @@ categories:
 title: Nova
 ---
 
-{{< shipInfobox >}} The **_Nova_**is a [**Cruiser**]({{< ref "/categories/" >}}cruisers) class ship focusing heavily on [Spinal]({{< ref "/wiki/" >}}Spinals) Weaponry.
+{{< shipInfobox >}}
+
+The **_Nova_**is a [**Cruiser**]({{< ref "/categories/" >}}cruisers) class ship focusing heavily on [Spinal]({{< ref "/wiki/" >}}Spinals) Weaponry.
 
 ## Description
 

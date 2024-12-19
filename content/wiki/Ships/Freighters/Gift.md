@@ -9,7 +9,9 @@ categories:
 title: Gift
 ---
 
-{{< shipInfobox >}} The **_Gift_** was a limited quest [Freighter]({{< ref "/categories/" >}}freighters) Ship.
+{{< shipInfobox >}}
+
+The **_Gift_** was a limited quest [Freighter]({{< ref "/categories/" >}}freighters) Ship.
 
 ## Description
 

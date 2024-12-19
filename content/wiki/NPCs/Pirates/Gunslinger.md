@@ -11,7 +11,9 @@ categories:
 title: Gunslinger
 ---
 
-{{< shipInfobox >}} The **_Gunslinger_** is a powerful [**Cruiser**]({{< ref "/categories/" >}}cruisers) that has rather unique [Medium Cannons]({{< ref "/wiki/" >}}Spinals) mounted on top of the ship.
+{{< shipInfobox >}}
+
+The **_Gunslinger_** is a powerful [**Cruiser**]({{< ref "/categories/" >}}cruisers) that has rather unique [Medium Cannons]({{< ref "/wiki/" >}}Spinals) mounted on top of the ship.
 
 ## Description
 

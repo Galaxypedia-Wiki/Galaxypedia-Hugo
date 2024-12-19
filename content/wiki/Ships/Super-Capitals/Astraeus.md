@@ -9,7 +9,11 @@ categories:
 title: Astraeus
 ---
 
-{{< shipInfobox >}} {{< notices/superCapitalShip >}} The **Astraeus** is a powerful and long range [Super Capital Ship]({{< ref "/categories/" >}}super-capital-ships) with one of the highest [Alpha Damage]({{< ref "/wiki/" >}}Galaxy-Slang) in the game.
+{{< shipInfobox >}}
+
+{{< notices/superCapitalShip >}}
+
+The **Astraeus** is a powerful and long range [Super Capital Ship]({{< ref "/categories/" >}}super-capital-ships) with one of the highest [Alpha Damage]({{< ref "/wiki/" >}}Galaxy-Slang) in the game.
 
 ## Description
 

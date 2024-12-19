@@ -13,7 +13,9 @@ categories:
 title: Genesis
 ---
 
-{{< shipInfobox >}} The **_Genesis_** is a heavily armed PvP/Support [**Battleship**]({{< ref "/categories/" >}}battleships) With unique broadside spinals.
+{{< shipInfobox >}}
+
+The **_Genesis_** is a heavily armed PvP/Support [**Battleship**]({{< ref "/categories/" >}}battleships) With unique broadside spinals.
 
 ## Description
 

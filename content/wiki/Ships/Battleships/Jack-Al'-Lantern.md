@@ -11,7 +11,11 @@ categories:
 title: Jack-Al'-Lantern
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Jack-Al'-Lantern_** is a powerful [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**Battleship**]({{< ref "/categories/" >}}battleships).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Jack-Al'-Lantern_** is a powerful [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**Battleship**]({{< ref "/categories/" >}}battleships).
 
 ## Description
 

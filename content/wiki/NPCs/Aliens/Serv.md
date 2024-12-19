@@ -10,7 +10,11 @@ categories:
 title: Serv
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Serv_** (also known as **Alien Serv**) was a unique [**AI**]({{< ref "/categories/" >}}npc-ships) ship added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020)
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+The **_Serv_** (also known as **Alien Serv**) was a unique [**AI**]({{< ref "/categories/" >}}npc-ships) ship added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020)
 
 ## Description
 

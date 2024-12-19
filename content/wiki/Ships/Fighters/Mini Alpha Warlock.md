@@ -7,7 +7,9 @@ categories:
 title: Mini Alpha Warlock
 ---
 
-{{< shipInfobox >}} ![Front Right view of Mini Alpha
+{{< shipInfobox >}}
+
+![Front Right view of Mini Alpha
 Warlock](Mini_Alpha_Warlock_view.png "Front Right view of Mini Alpha Warlock") The **_Mini Alpha Warlock_** is a [Fighter-class]({{< ref "/categories/" >}}fighters) ship found in the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship).
 
 ## Description

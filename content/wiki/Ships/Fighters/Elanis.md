@@ -9,7 +9,9 @@ categories:
 title: Elanis
 ---
 
-{{< shipInfobox >}} The **_Elanis _**is a large and extremely powerful shield-breaking [**Fighter**]({{< ref "/categories/" >}}fighters) made by the [Slarfie]({{< ref "/wiki/" >}}Slarfie) that is found exclusively on the [Hevnetier]({{< ref "/wiki/" >}}Hevnetier).
+{{< shipInfobox >}}
+
+The **_Elanis _**is a large and extremely powerful shield-breaking [**Fighter**]({{< ref "/categories/" >}}fighters) made by the [Slarfie]({{< ref "/wiki/" >}}Slarfie) that is found exclusively on the [Hevnetier]({{< ref "/wiki/" >}}Hevnetier).
 
 ## Description
 

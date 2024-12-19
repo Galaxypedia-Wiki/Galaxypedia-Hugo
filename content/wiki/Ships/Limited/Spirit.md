@@ -11,7 +11,11 @@ categories:
 title: Spirit
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Spirit_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) that only spawns in the [Ghoul Nyx]({{< ref "/wiki/" >}}Ghoul-Nyx).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Spirit_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) that only spawns in the [Ghoul Nyx]({{< ref "/wiki/" >}}Ghoul-Nyx).
 
 ##  Description
 

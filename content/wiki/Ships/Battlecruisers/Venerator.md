@@ -9,7 +9,11 @@ categories:
 title: Venerator
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} ## Description
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+## Description
 
 The **Venerator** is a Battlecruiser made by the [U.N.E.]({{< ref "/wiki/" >}}U.N.E) with shield focused [turrets]({{< ref "/wiki/" >}}turrets) and hull focus [spinals]({{< ref "/wiki/" >}}Spinal-Weaponry).
 

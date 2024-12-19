@@ -9,7 +9,13 @@ categories:
 title: Retro Vanguard
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The Retro Vanguard is an Event Carrier for the [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024).
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/limitedShip >}}
+
+The Retro Vanguard is an Event Carrier for the [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024).
 
 ## Description
 

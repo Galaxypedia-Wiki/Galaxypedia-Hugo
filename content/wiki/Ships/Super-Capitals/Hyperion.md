@@ -10,7 +10,11 @@ categories:
 title: Hyperion
 ---
 
-{{< shipInfobox >}} {{< notices/superCapitalShip >}} The **_Hyperion_** is one of the six **[Super Capital Ships]({{< ref "/categories/" >}}super-capital-ships)** in the game. This enormous ship can easily stand up to other large ships.
+{{< shipInfobox >}}
+
+{{< notices/superCapitalShip >}}
+
+The **_Hyperion_** is one of the six **[Super Capital Ships]({{< ref "/categories/" >}}super-capital-ships)** in the game. This enormous ship can easily stand up to other large ships.
 
 ## Description
 

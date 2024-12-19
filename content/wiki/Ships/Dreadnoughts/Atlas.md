@@ -12,7 +12,9 @@ categories:
 title: Atlas
 ---
 
-{{< shipInfobox >}} The **_Atlas_** is an oddly-shaped [Limited]({{< ref "/categories/" >}}limited-ships) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
+{{< shipInfobox >}}
+
+The **_Atlas_** is an oddly-shaped [Limited]({{< ref "/categories/" >}}limited-ships) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
 
 ## Description
 

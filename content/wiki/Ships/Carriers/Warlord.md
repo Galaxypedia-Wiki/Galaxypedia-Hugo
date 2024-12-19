@@ -9,7 +9,9 @@ categories:
 title: Warlord
 ---
 
-{{< shipInfobox >}} The **_Warlord_** is a small [**Carrier**]({{< ref "/categories/" >}}carriers) / [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) hybrid focused more on [Turret]({{< ref "/wiki/" >}}Turrets) firepower than [Fighters]({{< ref "/categories/" >}}fighters).
+{{< shipInfobox >}}
+
+The **_Warlord_** is a small [**Carrier**]({{< ref "/categories/" >}}carriers) / [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) hybrid focused more on [Turret]({{< ref "/wiki/" >}}Turrets) firepower than [Fighters]({{< ref "/categories/" >}}fighters).
 
 ## Description
 

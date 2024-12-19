@@ -11,7 +11,11 @@ categories:
 title: Retro Naglfar
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Naglfar_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Naglfar]({{< ref "/wiki/" >}}Naglfar) that features its original model and armament.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Retro Naglfar_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Naglfar]({{< ref "/wiki/" >}}Naglfar) that features its original model and armament.
 
 ## Description
 

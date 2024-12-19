@@ -10,7 +10,9 @@ categories:
 title: Corvid
 ---
 
-{{< shipInfobox >}} The **_Corvid_** is a relatively large [Turret]({{< ref "/wiki/" >}}Turrets)-based hull breaker [**Destroyer**]({{< ref "/categories/" >}}destroyers).
+{{< shipInfobox >}}
+
+The **_Corvid_** is a relatively large [Turret]({{< ref "/wiki/" >}}Turrets)-based hull breaker [**Destroyer**]({{< ref "/categories/" >}}destroyers).
 
 ## Description
 

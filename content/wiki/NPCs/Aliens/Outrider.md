@@ -9,7 +9,11 @@ categories:
 title: Outrider
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Outrider_** is an [**Alien**]({{< ref "/categories/" >}}alien-ships-and-stations)AI ship with an array of turret and spinal-based weaponry.
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+The **_Outrider_** is an [**Alien**]({{< ref "/categories/" >}}alien-ships-and-stations)AI ship with an array of turret and spinal-based weaponry.
 
 ## Description
 

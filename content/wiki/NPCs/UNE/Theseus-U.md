@@ -10,7 +10,11 @@ categories:
 title: Theseus-U
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **Theseus-U** is a [U.N.E]({{< ref "/categories/" >}}u.n.e) [Quest]({{< ref "/categories/" >}}quests) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) released during the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **Theseus-U** is a [U.N.E]({{< ref "/categories/" >}}u.n.e) [Quest]({{< ref "/categories/" >}}quests) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) released during the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023).
 
 ## Description
 

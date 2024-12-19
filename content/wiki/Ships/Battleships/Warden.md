@@ -9,7 +9,9 @@ categories:
 title: Warden
 ---
 
-{{< shipInfobox >}} The **_Warden_** is a cheap, agile PvP **[Battleship]({{< ref "/categories/" >}}battleships)** with an emphasis on shield damage.
+{{< shipInfobox >}}
+
+The **_Warden_** is a cheap, agile PvP **[Battleship]({{< ref "/categories/" >}}battleships)** with an emphasis on shield damage.
 
 ## Description
 

@@ -8,7 +8,13 @@ categories:
 title: Hellkeeper
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **_Hellkeeper_** is a Pirate [**AI**]({{< ref "/categories/" >}}npc-ships) Boss added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021).
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/npcShip >}}
+
+The **_Hellkeeper_** is a Pirate [**AI**]({{< ref "/categories/" >}}npc-ships) Boss added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021).
 
 ## Description
 

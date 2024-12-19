@@ -8,7 +8,11 @@ categories:
 title: Eclipse
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Eclipse_** is an [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) that mocks the size limits of a "[Cruiser]({{< ref "/categories/" >}}cruisers)".
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Eclipse_** is an [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) that mocks the size limits of a "[Cruiser]({{< ref "/categories/" >}}cruisers)".
 
 ## Description
 

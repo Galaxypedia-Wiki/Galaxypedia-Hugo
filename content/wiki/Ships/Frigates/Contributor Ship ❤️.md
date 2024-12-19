@@ -8,7 +8,9 @@ categories:
 title: Contributor Ship ❤️
 ---
 
-{{< shipInfobox >}} The Contributor ship is an exclusive frigate for contributor of the game.
+{{< shipInfobox >}}
+
+The Contributor ship is an exclusive frigate for contributor of the game.
 
 ## Description
 

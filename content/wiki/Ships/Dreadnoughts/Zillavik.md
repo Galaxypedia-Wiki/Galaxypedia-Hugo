@@ -8,7 +8,11 @@ categories:
 title: Zillavik
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Zillavik_** is a powerful **[Limited]({{< ref "/categories/" >}}limited-ships)** **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** which was added in the [Halloween Event 2021]({{< ref "/categories/" >}}halloween-2021).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Zillavik_** is a powerful **[Limited]({{< ref "/categories/" >}}limited-ships)** **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** which was added in the [Halloween Event 2021]({{< ref "/categories/" >}}halloween-2021).
 
 == Description == The **Zillavik** is a small [dreadnought]({{< ref "/categories/" >}}dreadnoughts) that shares design traits with the [Nautilus]({{< ref "/wiki/" >}}Nautilus). It could be obtained from the same place that Nautilus's quest was found before the event. It is a small, fast [hull]({{< ref "/wiki/" >}}hull)-shredder that is considered the strongest ship of its respective event.
 

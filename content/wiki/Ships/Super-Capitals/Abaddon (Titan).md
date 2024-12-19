@@ -13,7 +13,9 @@ categories:
 title: Abaddon (Titan)
 ---
 
-{{< shipInfobox >}} ## Main Info
+{{< shipInfobox >}}
+
+## Main Info
 
 The Abaddon was Lordmoneymonkey's special ship that was almost added into the game. This ship was fully working and was in the dev server for a time during early 2018, It was then accidentally discovered by players and lord tried to shrug it off as if it was nothing.
 

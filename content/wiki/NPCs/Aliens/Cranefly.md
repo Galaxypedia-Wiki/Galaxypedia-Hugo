@@ -10,7 +10,11 @@ categories:
 title: Cranefly
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Cranefly_** is an [Avellian]({{< ref "/wiki/" >}}Avellian) AI Battleship that was introduced as an alternative to the [Punisher]({{< ref "/wiki/" >}}Punisher) in the [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021).
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+The **_Cranefly_** is an [Avellian]({{< ref "/wiki/" >}}Avellian) AI Battleship that was introduced as an alternative to the [Punisher]({{< ref "/wiki/" >}}Punisher) in the [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
 ## Description
 

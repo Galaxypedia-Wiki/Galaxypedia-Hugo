@@ -10,7 +10,11 @@ categories:
 title: Patriotic Osprey
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic Osprey_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Frigate-class]({{< ref "/categories/" >}}frigates) [Osprey]({{< ref "/wiki/" >}}Osprey).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Patriotic Osprey_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Frigate-class]({{< ref "/categories/" >}}frigates) [Osprey]({{< ref "/wiki/" >}}Osprey).
 
 ## Description
 

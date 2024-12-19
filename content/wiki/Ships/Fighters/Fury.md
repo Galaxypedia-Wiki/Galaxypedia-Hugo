@@ -8,7 +8,9 @@ categories:
 title: Fury
 ---
 
-{{< shipInfobox >}} The **_Fury_** is a fast and readily available [**Fighter**]({{< ref "/categories/" >}}fighters).
+{{< shipInfobox >}}
+
+The **_Fury_** is a fast and readily available [**Fighter**]({{< ref "/categories/" >}}fighters).
 
 ## Description
 

@@ -10,7 +10,9 @@ categories:
 title: Clauspector
 ---
 
-{{< shipInfobox >}} The **_Clauspector_** is a redesigned version of the [Prospector]({{< ref "/wiki/" >}}Prospector) [**Freighter**]({{< ref "/categories/" >}}freighters) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018) .
+{{< shipInfobox >}}
+
+The **_Clauspector_** is a redesigned version of the [Prospector]({{< ref "/wiki/" >}}Prospector) [**Freighter**]({{< ref "/categories/" >}}freighters) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018) .
 
 ## Description
 

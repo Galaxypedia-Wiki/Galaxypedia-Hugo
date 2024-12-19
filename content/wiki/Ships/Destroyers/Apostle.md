@@ -10,7 +10,9 @@ categories:
 title: Apostle
 ---
 
-{{< shipInfobox >}} The **_Apostle_**is a**[Destroyer]({{< ref "/categories/" >}}destroyers)**with surprisingly powerful weaponry.
+{{< shipInfobox >}}
+
+The **_Apostle_**is a**[Destroyer]({{< ref "/categories/" >}}destroyers)**with surprisingly powerful weaponry.
 
 ## Description
 

@@ -11,7 +11,13 @@ categories:
 title: Retro Ampharos
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Retro Ampharos_** is the retro version of the [Ampharos]({{< ref "/wiki/" >}}Ampharos), a very powerful pest control [Battleship]({{< ref "/categories/" >}}battleships), introduced in the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022).
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/limitedShip >}}
+
+The **_Retro Ampharos_** is the retro version of the [Ampharos]({{< ref "/wiki/" >}}Ampharos), a very powerful pest control [Battleship]({{< ref "/categories/" >}}battleships), introduced in the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022).
 
 ## Description
 

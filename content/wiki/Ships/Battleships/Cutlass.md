@@ -12,7 +12,9 @@ categories:
 title: Cutlass
 ---
 
-{{< shipInfobox >}} The **_Cutlass_** is a [Hull]({{< ref "/wiki/" >}}Hull)-focused [**Battleship**]({{< ref "/categories/" >}}battleships)
+{{< shipInfobox >}}
+
+The **_Cutlass_** is a [Hull]({{< ref "/wiki/" >}}Hull)-focused [**Battleship**]({{< ref "/categories/" >}}battleships)
 
 ## Description
 

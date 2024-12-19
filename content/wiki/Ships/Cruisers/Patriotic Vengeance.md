@@ -10,7 +10,11 @@ categories:
 title: Patriotic Vengeance
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic Vengeance_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Cruiser-class]({{< ref "/categories/" >}}cruisers) [Vengeance]({{< ref "/wiki/" >}}Vengeance).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Patriotic Vengeance_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Cruiser-class]({{< ref "/categories/" >}}cruisers) [Vengeance]({{< ref "/wiki/" >}}Vengeance).
 
 ## Description
 

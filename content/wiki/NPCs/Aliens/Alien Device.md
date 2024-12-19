@@ -8,7 +8,11 @@ categories:
 title: Alien Device
 ---
 
-{{< notices/underConstruction >}} {{< notices/outdatedInfo >}} The Alien Device is an item used for building ships.
+{{< notices/underConstruction >}}
+
+{{< notices/outdatedInfo >}}
+
+The Alien Device is an item used for building ships.
 
 Alien Devices can be obtained from a quest, detailed below.
 

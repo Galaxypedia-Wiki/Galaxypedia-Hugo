@@ -7,7 +7,9 @@ categories:
 title: Starbase
 ---
 
-{{< notices/outdatedInfo >}} _This page details faction-generated Starbases. For a general list of all starbase structures found in Galaxy, go to the [Starbase Category]({{< ref "/categories/" >}}starbases) page._ ![The
+{{< notices/outdatedInfo >}}
+
+_This page details faction-generated Starbases. For a general list of all starbase structures found in Galaxy, go to the [Starbase Category]({{< ref "/categories/" >}}starbases) page._ ![The
 current Starbase
 Menu](Starbase_menu3.png "The current Starbase Menu"){width="336" height="336"} **Starbase(s)** are the center of operations for player factions and serve as a spawn point for the players in every faction. **Starbases** are crucial for factions, as they are the places where [Ores]({{< ref "/wiki/" >}}Ores) can be [dumped]({{< ref "/wiki/" >}}Mining), [sold]({{< ref "/wiki/" >}}Trading), and [bought]({{< ref "/wiki/" >}}Trading).
 

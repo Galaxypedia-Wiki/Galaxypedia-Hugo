@@ -11,7 +11,11 @@ categories:
 title: Reaper
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Reaper_** was a Limited Event **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** only available during the [2017 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2017).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Reaper_** was a Limited Event **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** only available during the [2017 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2017).
 
 ## Description
 

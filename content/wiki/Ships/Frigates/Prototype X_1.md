@@ -9,7 +9,11 @@ categories:
 title: Prototype X_1
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Prototype X/1_**is a battlecruiser which is a downsized replica of the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) created by the [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth) and the [Osiris Shipyards]({{< ref "/wiki/" >}}Osiris-Legion).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Prototype X/1_**is a battlecruiser which is a downsized replica of the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) created by the [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth) and the [Osiris Shipyards]({{< ref "/wiki/" >}}Osiris-Legion).
 
 ## Description
 

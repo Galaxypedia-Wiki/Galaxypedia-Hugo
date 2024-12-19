@@ -10,7 +10,9 @@ categories:
 title: Viper
 ---
 
-{{< shipInfobox >}} The **_Viper_** is a highly maneuverable **[Frigate]({{< ref "/categories/" >}}frigates)**.
+{{< shipInfobox >}}
+
+The **_Viper_** is a highly maneuverable **[Frigate]({{< ref "/categories/" >}}frigates)**.
 
 ## Description
 

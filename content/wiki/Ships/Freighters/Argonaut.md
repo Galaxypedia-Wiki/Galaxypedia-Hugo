@@ -7,7 +7,9 @@ categories:
 title: Argonaut
 ---
 
-{{< shipInfobox >}} The **_Argonaut_** is a cheap but fragile **[Freighter]({{< ref "/categories/" >}}freighters)** that favors shield health.
+{{< shipInfobox >}}
+
+The **_Argonaut_** is a cheap but fragile **[Freighter]({{< ref "/categories/" >}}freighters)** that favors shield health.
 
 ## Description
 

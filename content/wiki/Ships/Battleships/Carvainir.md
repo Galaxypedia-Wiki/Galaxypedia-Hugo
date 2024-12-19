@@ -9,7 +9,9 @@ categories:
 title: Carvainir
 ---
 
-{{< shipInfobox >}} The **_Carvainir_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) designed for looting shipwrecks.
+{{< shipInfobox >}}
+
+The **_Carvainir_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) designed for looting shipwrecks.
 
 ## Description
 

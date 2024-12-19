@@ -12,7 +12,9 @@ categories:
 title: Tennhausen
 ---
 
-{{< shipInfobox >}} The **_Tennhausen_**is a balanced [**_Dreadnought_**]({{< ref "/categories/" >}}dreadnoughts) commonly seen in Galaxy.
+{{< shipInfobox >}}
+
+The **_Tennhausen_**is a balanced [**_Dreadnought_**]({{< ref "/categories/" >}}dreadnoughts) commonly seen in Galaxy.
 
 ## Description
 

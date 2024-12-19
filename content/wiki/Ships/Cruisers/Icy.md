@@ -12,7 +12,11 @@ categories:
 title: Icy
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Icy_** is a remodel of the [**Cruiser Class**]({{< ref "/categories/" >}}cruisers) ship [Invictus]({{< ref "/wiki/" >}}Invictus).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Icy_** is a remodel of the [**Cruiser Class**]({{< ref "/categories/" >}}cruisers) ship [Invictus]({{< ref "/wiki/" >}}Invictus).
 
 ## Description   
 

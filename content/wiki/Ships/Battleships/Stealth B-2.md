@@ -8,7 +8,11 @@ categories:
 title: Stealth B-2
 ---
 
-{{< shipInfobox >}} {{< notices/outdatedInfo >}} The **_Stealth B-2_** is a Stealth **[Battleship]({{< ref "/categories/" >}}battleships)** and the second ship of its class.
+{{< shipInfobox >}}
+
+{{< notices/outdatedInfo >}}
+
+The **_Stealth B-2_** is a Stealth **[Battleship]({{< ref "/categories/" >}}battleships)** and the second ship of its class.
 
 ## Description
 

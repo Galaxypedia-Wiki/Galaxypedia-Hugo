@@ -9,7 +9,9 @@ categories:
 title: Gryphon
 ---
 
-{{< shipInfobox >}} The **_Gryphon_** is a [**Cruiser**]({{< ref "/wiki/" >}}:category:cruiser)with amazing mobility,suited for dog-fighting and pest control.
+{{< shipInfobox >}}
+
+The **_Gryphon_** is a [**Cruiser**]({{< ref "/wiki/" >}}:category:cruiser)with amazing mobility,suited for dog-fighting and pest control.
 
 ## Description
 

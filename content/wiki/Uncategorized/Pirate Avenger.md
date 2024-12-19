@@ -4,7 +4,13 @@ aliases:
 title: Pirate Avenger
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **_Pirate Avenger_**is a rare Pirate **[AI]({{< ref "/categories/" >}}npc-ships) [Frigate]({{< ref "/categories/" >}}frigates)** that is fast and powerful.
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/npcShip >}}
+
+The **_Pirate Avenger_**is a rare Pirate **[AI]({{< ref "/categories/" >}}npc-ships) [Frigate]({{< ref "/categories/" >}}frigates)** that is fast and powerful.
 
 ## Description
 

@@ -9,7 +9,9 @@ categories:
 title: Scimitar
 ---
 
-{{< shipInfobox >}} The **_Scimitar_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class ship commonly used as an interceptor against large targets.
+{{< shipInfobox >}}
+
+The **_Scimitar_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class ship commonly used as an interceptor against large targets.
 
 ## Description
 

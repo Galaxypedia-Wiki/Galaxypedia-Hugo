@@ -10,7 +10,11 @@ categories:
 title: Patriotic Sixfold
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic Sixfold_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** variant of the [Sixfold]({{< ref "/wiki/" >}}Sixfold) with high firepower but relatively low health.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Patriotic Sixfold_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** variant of the [Sixfold]({{< ref "/wiki/" >}}Sixfold) with high firepower but relatively low health.
 
 ## Description
 

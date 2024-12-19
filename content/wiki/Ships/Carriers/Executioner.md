@@ -10,7 +10,9 @@ categories:
 title: Executioner
 ---
 
-{{< shipInfobox >}} The **_Executioner_** is a Dreadnought-like **[Carrier]({{< ref "/categories/" >}}carriers)** equipped with two resilient and powerful fighters.
+{{< shipInfobox >}}
+
+The **_Executioner_** is a Dreadnought-like **[Carrier]({{< ref "/categories/" >}}carriers)** equipped with two resilient and powerful fighters.
 
 ## Description
 

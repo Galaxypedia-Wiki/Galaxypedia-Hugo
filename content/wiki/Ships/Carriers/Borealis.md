@@ -10,7 +10,11 @@ categories:
 title: Borealis
 ---
 
-{{< shipInfobox >}} {{< notices/advancedShip >}} The **_Borealis_** is an extremely powerful [Advanced]({{< ref "/categories/" >}}advanced-ships) [Carrier]({{< ref "/categories/" >}}carriers).
+{{< shipInfobox >}}
+
+{{< notices/advancedShip >}}
+
+The **_Borealis_** is an extremely powerful [Advanced]({{< ref "/categories/" >}}advanced-ships) [Carrier]({{< ref "/categories/" >}}carriers).
 
 ## Description
 

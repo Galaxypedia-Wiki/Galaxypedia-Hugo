@@ -9,7 +9,11 @@ categories:
 title: Bonehawk
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Bonehawk_** is an exclusive [Fighter]({{< ref "/categories/" >}}fighters) only found on the [Kapisi]({{< ref "/wiki/" >}}Kapisi).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Bonehawk_** is an exclusive [Fighter]({{< ref "/categories/" >}}fighters) only found on the [Kapisi]({{< ref "/wiki/" >}}Kapisi).
 
 ## Description
 

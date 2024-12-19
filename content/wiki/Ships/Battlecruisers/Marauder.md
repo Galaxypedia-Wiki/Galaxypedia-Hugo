@@ -9,7 +9,9 @@ categories:
 title: Marauder
 ---
 
-{{< shipInfobox >}} The **_Marauder_**is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** designed to be well-rounded.
+{{< shipInfobox >}}
+
+The **_Marauder_**is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** designed to be well-rounded.
 
 ## Description
 

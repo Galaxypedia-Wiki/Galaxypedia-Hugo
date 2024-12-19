@@ -11,7 +11,11 @@ categories:
 title: Dullahan
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Dullahan_** is a limited remake of the [Banshee]({{< ref "/wiki/" >}}Banshee) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) released during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Dullahan_** is a limited remake of the [Banshee]({{< ref "/wiki/" >}}Banshee) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) released during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020).
 
 ## Description
 

@@ -9,7 +9,11 @@ categories:
 title: Vampire X-R4
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} **_The Vampire X-R4_** is an extremely fast [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**Cruiser**]({{< ref "/categories/" >}}cruisers).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+**_The Vampire X-R4_** is an extremely fast [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**Cruiser**]({{< ref "/categories/" >}}cruisers).
 
 ## Description
 

@@ -7,7 +7,9 @@ categories:
 title: Hercules
 ---
 
-{{< shipInfobox >}} The **_Hercules_** is a [**Freighter**]({{< ref "/categories/" >}}freighters) with the 5th highest cargo hold of all non-limited freighters currently in the game.
+{{< shipInfobox >}}
+
+The **_Hercules_** is a [**Freighter**]({{< ref "/categories/" >}}freighters) with the 5th highest cargo hold of all non-limited freighters currently in the game.
 
 ## Description
 

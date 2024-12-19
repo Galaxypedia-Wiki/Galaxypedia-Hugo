@@ -11,7 +11,11 @@ categories:
 title: Liberator
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Liberator_** is a **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the [Fourth of July Event 2020]({{< ref "/wiki/" >}}Fourth-of-July-Event-2020).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Liberator_** is a **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the [Fourth of July Event 2020]({{< ref "/wiki/" >}}Fourth-of-July-Event-2020).
 
 ## Description
 

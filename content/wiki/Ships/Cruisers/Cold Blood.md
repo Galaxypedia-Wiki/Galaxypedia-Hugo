@@ -12,7 +12,11 @@ categories:
 title: Cold Blood
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Cold blood_**is a redesign of the [Orion]({{< ref "/wiki/" >}}Orion) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Cold blood_**is a redesign of the [Orion]({{< ref "/wiki/" >}}Orion) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018).
 
 ## Description
 

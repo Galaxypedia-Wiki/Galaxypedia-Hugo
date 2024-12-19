@@ -7,7 +7,9 @@ categories:
 title: Templar
 ---
 
-{{< shipInfobox >}} The **_Templar_** is a cheap, turret-focused defense [**Cruiser**]({{< ref "/categories/" >}}cruisers).
+{{< shipInfobox >}}
+
+The **_Templar_** is a cheap, turret-focused defense [**Cruiser**]({{< ref "/categories/" >}}cruisers).
 
 ## Description
 

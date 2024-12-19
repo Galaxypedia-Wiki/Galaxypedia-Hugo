@@ -12,7 +12,11 @@ categories:
 title: Skeletal Ghostealis
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Skeletal Ghostealis_** is an event reskin of the [Borealis]({{< ref "/wiki/" >}}Borealis) that was released when the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018) update came out.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Skeletal Ghostealis_** is an event reskin of the [Borealis]({{< ref "/wiki/" >}}Borealis) that was released when the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018) update came out.
 
 ## Description
 

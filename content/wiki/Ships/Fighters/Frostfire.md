@@ -9,7 +9,11 @@ categories:
 title: Frostfire
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} The **_Frostfire_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) found on the [Hailstorm]({{< ref "/wiki/" >}}Hailstorm).
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+The **_Frostfire_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) found on the [Hailstorm]({{< ref "/wiki/" >}}Hailstorm).
 
 ## Description
 

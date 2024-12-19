@@ -7,7 +7,9 @@ categories:
 title: Batteries for Uranium
 ---
 
-{{< notices/underConstruction >}} **_Batteries for Uranium_** is an NPC who trade [Plasma Battery]({{< ref "/wiki/" >}}Plasma-Battery) to Uranium.
+{{< notices/underConstruction >}}
+
+**_Batteries for Uranium_** is an NPC who trade [Plasma Battery]({{< ref "/wiki/" >}}Plasma-Battery) to Uranium.
 
 ## Description
 

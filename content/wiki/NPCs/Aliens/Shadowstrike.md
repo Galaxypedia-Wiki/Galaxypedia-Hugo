@@ -11,7 +11,11 @@ categories:
 title: Shadowstrike
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Shadowstrike_** is an [Avellian]({{< ref "/wiki/" >}}Avellian) AI battleship that was introduced in the [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021).
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+The **_Shadowstrike_** is an [Avellian]({{< ref "/wiki/" >}}Avellian) AI battleship that was introduced in the [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
 ## Description
 

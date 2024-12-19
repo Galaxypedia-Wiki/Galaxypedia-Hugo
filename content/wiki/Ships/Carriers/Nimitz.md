@@ -10,7 +10,9 @@ categories:
 title: Nimitz
 ---
 
-{{< shipInfobox >}} The **_Nimitz_** is a unique **[Carrier]({{< ref "/categories/" >}}carriers)** that has a major emphasis on [Fighters]({{< ref "/categories/" >}}fighters) and their firepower.
+{{< shipInfobox >}}
+
+The **_Nimitz_** is a unique **[Carrier]({{< ref "/categories/" >}}carriers)** that has a major emphasis on [Fighters]({{< ref "/categories/" >}}fighters) and their firepower.
 
 ## Description
 

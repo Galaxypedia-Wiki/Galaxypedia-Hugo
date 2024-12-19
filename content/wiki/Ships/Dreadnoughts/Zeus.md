@@ -10,7 +10,9 @@ categories:
 title: Zeus
 ---
 
-{{< shipInfobox >}} The **_Zeus_** is a [Shield]({{< ref "/wiki/" >}}Shields)-breaker **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** class ship.
+{{< shipInfobox >}}
+
+The **_Zeus_** is a [Shield]({{< ref "/wiki/" >}}Shields)-breaker **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** class ship.
 
 ## Description
 

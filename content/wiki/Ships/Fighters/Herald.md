@@ -8,7 +8,9 @@ categories:
 title: Herald
 ---
 
-{{< shipInfobox >}} The **_Herald_** is a stronger variant of the [Harbinger]({{< ref "/wiki/" >}}Harbinger), which used to spawn in the [Prometheus]({{< ref "/wiki/" >}}Prometheus).
+{{< shipInfobox >}}
+
+The **_Herald_** is a stronger variant of the [Harbinger]({{< ref "/wiki/" >}}Harbinger), which used to spawn in the [Prometheus]({{< ref "/wiki/" >}}Prometheus).
 
 ## Description
 

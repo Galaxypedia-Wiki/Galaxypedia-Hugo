@@ -10,7 +10,9 @@ categories:
 title: Sabre Tooth
 ---
 
-{{< shipInfobox >}} The **_Sabre Tooth_** is one of the fastest ships in Galaxy and is the fastest **[Destroyer]({{< ref "/categories/" >}}destroyers)**.
+{{< shipInfobox >}}
+
+The **_Sabre Tooth_** is one of the fastest ships in Galaxy and is the fastest **[Destroyer]({{< ref "/categories/" >}}destroyers)**.
 
 ## Description
 

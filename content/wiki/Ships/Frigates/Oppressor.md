@@ -7,7 +7,9 @@ categories:
 title: Oppressor
 ---
 
-{{< shipInfobox >}} The **_Oppressor_** is a powerful **[Frigate]({{< ref "/categories/" >}}frigates).**
+{{< shipInfobox >}}
+
+The **_Oppressor_** is a powerful **[Frigate]({{< ref "/categories/" >}}frigates).**
 
 ## Description
 

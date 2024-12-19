@@ -9,4 +9,4 @@ categories:
 title: Halloween Quest
 ---
 
-1.  redirect [Headless Horseman]({{< ref "/wiki/" >}}Headless-Horseman)
+1.  redirect [t [Headless Horse]({{< ref "/wiki/" >}}Headless-Horseman)

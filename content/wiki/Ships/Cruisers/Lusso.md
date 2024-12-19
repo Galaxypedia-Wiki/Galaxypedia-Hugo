@@ -10,7 +10,9 @@ categories:
 title: Lusso
 ---
 
-{{< shipInfobox >}} The **_Lusso_** is a speedy, luxurious **[Cruiser]({{< ref "/categories/" >}}cruisers)**.
+{{< shipInfobox >}}
+
+The **_Lusso_** is a speedy, luxurious **[Cruiser]({{< ref "/categories/" >}}cruisers)**.
 
 ## Description
 

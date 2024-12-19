@@ -7,7 +7,9 @@ categories:
 title: Commercial Miner
 ---
 
-{{< shipInfobox >}} The **_Commercial Miner_** is a somewhat expensive but fast [**Miner**]({{< ref "/categories/" >}}mining-ships)
+{{< shipInfobox >}}
+
+The **_Commercial Miner_** is a somewhat expensive but fast [**Miner**]({{< ref "/categories/" >}}mining-ships)
 
 ## Description
 

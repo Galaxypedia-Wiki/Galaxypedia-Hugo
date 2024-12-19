@@ -9,7 +9,9 @@ categories:
 title: Hasatan
 ---
 
-{{< shipInfobox >}} The **_Hasatan_** is a torpedo-armed [Battleship]({{< ref "/categories/" >}}battleships) and _was_ the first ship to have a [Large Torpedo]({{< ref "/wiki/" >}}Spinals).
+{{< shipInfobox >}}
+
+The **_Hasatan_** is a torpedo-armed [Battleship]({{< ref "/categories/" >}}battleships) and _was_ the first ship to have a [Large Torpedo]({{< ref "/wiki/" >}}Spinals).
 
 ## Description
 

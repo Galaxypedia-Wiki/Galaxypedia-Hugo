@@ -11,7 +11,9 @@ categories:
 title: Witch
 ---
 
-{{< shipInfobox >}} The **_Witch_** is a fast, stripped down combat **[Battleship]({{< ref "/categories/" >}}battleships)** modeled after the [Warlock]({{< ref "/wiki/" >}}Warlock).
+{{< shipInfobox >}}
+
+The **_Witch_** is a fast, stripped down combat **[Battleship]({{< ref "/categories/" >}}battleships)** modeled after the [Warlock]({{< ref "/wiki/" >}}Warlock).
 
 ## Description
 

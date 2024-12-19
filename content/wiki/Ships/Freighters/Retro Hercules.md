@@ -10,7 +10,11 @@ categories:
 title: Retro Hercules
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Hercules_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Hercules]({{< ref "/wiki/" >}}Hercules) that features its original model.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Retro Hercules_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Hercules]({{< ref "/wiki/" >}}Hercules) that features its original model.
 
 ## Description
 

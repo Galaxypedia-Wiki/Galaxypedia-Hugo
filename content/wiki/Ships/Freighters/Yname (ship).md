@@ -7,7 +7,11 @@ categories:
 title: Yname (ship)
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **yname** is a free [Freighter]({{< ref "/categories/" >}}freighters) that was available on June 7th, 2022.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **yname** is a free [Freighter]({{< ref "/categories/" >}}freighters) that was available on June 7th, 2022.
 
 ## Description
 

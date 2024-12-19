@@ -7,7 +7,11 @@ categories:
 title: Transport Vessel
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} ## Description
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+## Description
 
 The **_Transport Vessel_** is part of a new update which allows players to create [Outposts]({{< ref "/wiki/" >}}Outposts) if they meet the criteria. It has the same model as the [E Class]({{< ref "/wiki/" >}}E-Class) and same interior.
 

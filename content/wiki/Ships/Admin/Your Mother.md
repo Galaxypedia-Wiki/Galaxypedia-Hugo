@@ -7,7 +7,11 @@ categories:
 title: Your Mother
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Your Mother_** is an **[Admin]({{< ref "/categories/" >}}admin-ships)** ship and is larger than nearly every ship.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Your Mother_** is an **[Admin]({{< ref "/categories/" >}}admin-ships)** ship and is larger than nearly every ship.
 
 ## Description
 

@@ -9,7 +9,13 @@ categories:
 title: Plagued Preos Juvenile
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **_Plagued Preos Juvenile_** is an Alien ship added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021).
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/npcShip >}}
+
+The **_Plagued Preos Juvenile_** is an Alien ship added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021).
 
 ## Description
 

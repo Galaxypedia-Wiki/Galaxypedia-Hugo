@@ -10,7 +10,11 @@ categories:
 title: U.N.E. Nisos
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} _This article describes the NPC ship. For the player-owned equivalent, see [Nisos]({{< ref "/wiki/" >}}Nisos)._
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+_This article describes the NPC ship. For the player-owned equivalent, see [Nisos]({{< ref "/wiki/" >}}Nisos)._
 
 The **U.N.E Nisos** is an [U.N.E]({{< ref "/wiki/" >}}U.N.E) [**AI**]({{< ref "/categories/" >}}npc-ships) [Battleship]({{< ref "/categories/" >}}battleships).
 

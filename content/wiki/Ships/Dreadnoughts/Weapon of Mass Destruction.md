@@ -10,7 +10,11 @@ categories:
 title: Weapon of Mass Destruction
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} ## Description
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+## Description
 
 The Weapon of Mass Destruction is a reskin of the Armageddon added in the [Galaxy Fourth of July 2021 Event.]({{< ref "/categories/" >}}fourth-of-july-2021)
 

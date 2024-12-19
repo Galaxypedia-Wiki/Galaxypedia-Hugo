@@ -10,7 +10,9 @@ categories:
 title: Sanguine
 ---
 
-{{< shipInfobox >}} The **_Sanguine_** was the original [**Fighter**]({{< ref "/categories/" >}}fighters) found in the [Sakala]({{< ref "/wiki/" >}}Sakala).
+{{< shipInfobox >}}
+
+The **_Sanguine_** was the original [**Fighter**]({{< ref "/categories/" >}}fighters) found in the [Sakala]({{< ref "/wiki/" >}}Sakala).
 
 ## Description
 

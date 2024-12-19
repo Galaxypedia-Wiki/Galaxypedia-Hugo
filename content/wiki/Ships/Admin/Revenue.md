@@ -7,7 +7,11 @@ categories:
 title: Revenue
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Revenue_** is an extremely mobile **[Admin Ship]({{< ref "/categories/" >}}admin-ships)**.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Revenue_** is an extremely mobile **[Admin Ship]({{< ref "/categories/" >}}admin-ships)**.
 
 ##  Description
 

@@ -6,7 +6,9 @@ categories:
 title: Endgame
 ---
 
-{{< notices/outdatedInfo >}} **_Endgame_** _is the final phase in a round of Galaxy. This is not the same as a "Final Round."_
+{{< notices/outdatedInfo >}}
+
+**_Endgame_** _is the final phase in a round of Galaxy. This is not the same as a "Final Round."_
 
 ## Description
 

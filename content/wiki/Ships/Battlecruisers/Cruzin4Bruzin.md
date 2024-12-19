@@ -8,7 +8,11 @@ categories:
 title: Cruzin4Bruzin
 ---
 
-{{< shipInfobox >}} {{< notices/vipShip >}} The **_Cruzin4Bruzin_** is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** that costs 15 million credits and is exclusive to VIP players.
+{{< shipInfobox >}}
+
+{{< notices/vipShip >}}
+
+The **_Cruzin4Bruzin_** is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** that costs 15 million credits and is exclusive to VIP players.
 
 ## Description
 

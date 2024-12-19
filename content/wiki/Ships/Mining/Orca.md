@@ -7,7 +7,9 @@ categories:
 title: Orca
 ---
 
-{{< shipInfobox >}} The **Orca** is a heavy [Miner]({{< ref "/categories/" >}}mining-ships)-Class ship.
+{{< shipInfobox >}}
+
+The **Orca** is a heavy [Miner]({{< ref "/categories/" >}}mining-ships)-Class ship.
 
 ## Description
 

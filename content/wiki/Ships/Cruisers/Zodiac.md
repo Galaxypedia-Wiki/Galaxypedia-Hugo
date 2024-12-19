@@ -8,7 +8,9 @@ categories:
 title: Zodiac
 ---
 
-{{< shipInfobox >}} The **_Zodiac_** is an alien-like [Cruiser]({{< ref "/categories/" >}}cruisers) that wields long-ranged turrets, decent spinal armament and is durable.
+{{< shipInfobox >}}
+
+The **_Zodiac_** is an alien-like [Cruiser]({{< ref "/categories/" >}}cruisers) that wields long-ranged turrets, decent spinal armament and is durable.
 
 ## Description
 

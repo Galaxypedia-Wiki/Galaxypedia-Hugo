@@ -11,7 +11,11 @@ categories:
 title: Heartbreaker
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Heartbreaker_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) which was made for Valentine's Day 2020. It was re-released on Valentine's Day 2021, then again on Valentine's Day 2024.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Heartbreaker_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) which was made for Valentine's Day 2020. It was re-released on Valentine's Day 2021, then again on Valentine's Day 2024.
 
 ## Description
 

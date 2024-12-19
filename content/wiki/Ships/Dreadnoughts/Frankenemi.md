@@ -17,7 +17,11 @@ categories:
 title: Frankenemi
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **Frankenemi** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** version of the [Nemesis]({{< ref "/wiki/" >}}Nemesis) **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** that was made for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **Frankenemi** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** version of the [Nemesis]({{< ref "/wiki/" >}}Nemesis) **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** that was made for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
 
 ## Description
 

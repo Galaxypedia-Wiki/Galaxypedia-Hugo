@@ -6,7 +6,9 @@ categories:
 title: Retro Ship Event 2023
 ---
 
-{{< notices/removed >}} <div class="TDiv">
+{{< notices/removed >}}
+
+<div class="TDiv">
 
 # Description
 

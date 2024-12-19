@@ -7,4 +7,8 @@ categories:
 title: Among Us
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Among Us_** is an [Admin]({{< ref "/categories/" >}}admin-ships) ship. No further explanation will be given.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Among Us_** is an [Admin]({{< ref "/categories/" >}}admin-ships) ship. No further explanation will be given.

@@ -6,7 +6,9 @@ categories:
 title: Battlecruiser Weekly Dealer
 ---
 
-{{< notices/removed >}} ![]({{< ref "/wiki/" >}}Battlecruiserweeklydealer.png-"Battlecruiserweeklydealer.png") The Battlecruiser Weekly Dealer (N0CH0Z) is ship dealer added on June 12 2022
+{{< notices/removed >}}
+
+![]({{< ref "/wiki/" >}}Battlecruiserweeklydealer.png-"Battlecruiserweeklydealer.png") The Battlecruiser Weekly Dealer (N0CH0Z) is ship dealer added on June 12 2022
 
 ## Description
 

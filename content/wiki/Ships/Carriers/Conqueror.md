@@ -13,7 +13,9 @@ categories:
 title: Conqueror
 ---
 
-{{< shipInfobox >}} ## Description
+{{< shipInfobox >}}
+
+## Description
 
 The Conqueror is a large, [U.N.E.]({{< ref "/wiki/" >}}United-Nations-of-Earth) Carrier that is the parallel ship to the [Annihilator]({{< ref "/wiki/" >}}Annihilator). It is very expensive, with a material cost of 30k [Silicate]({{< ref "/wiki/" >}}Ores), 22.5k [Carbon]({{< ref "/wiki/" >}}Ores), 15k [Iridium]({{< ref "/wiki/" >}}Ores), 2.5k [Adamantite]({{< ref "/wiki/" >}}Ores), 2.5k [Palladium]({{< ref "/wiki/" >}}Ores), 2.5k [Titanium]({{< ref "/wiki/" >}}Ores), 2.5k [Quantium]({{< ref "/wiki/" >}}Ores) 13,583 Uranium, 1 [Conqueror Reactor Core]({{< ref "/wiki/" >}}Conqueror-Reactor-Core), and 2,000,000 Credits, totaling around 3,500,000 credits worth of materials. It has 10 fighters, 2 being battlecruiser equivalents and 8 being light fighters, with great combined DPS. While the Annihilator has more DPS on the ship, the Conqueror is more geared towards health and uses its diverse selection of fighters for damage.
 

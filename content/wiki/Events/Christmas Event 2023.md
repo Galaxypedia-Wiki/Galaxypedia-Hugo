@@ -8,7 +8,9 @@ categories:
 title: Christmas Event 2023
 ---
 
-{{< notices/removed >}} ## Description
+{{< notices/removed >}}
+
+## Description
 
 The [Christmas Event 2023]({{< ref "/wiki/" >}}Christmas-Event-2023) started on the _26th of December_ and ended on the _17th of January 2024_. It **did not** introduce any new ships, however it came with many past event limited ships being available to build on the [Build Menu]({{< ref "/wiki/" >}}Build-Menu).
 

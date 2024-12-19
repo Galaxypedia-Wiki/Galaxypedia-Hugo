@@ -11,7 +11,9 @@ categories:
 title: Tengu
 ---
 
-{{< shipInfobox >}} The **_Tengu_** is a [Spinal]({{< ref "/wiki/" >}}Spinals) focused [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers).
+{{< shipInfobox >}}
+
+The **_Tengu_** is a [Spinal]({{< ref "/wiki/" >}}Spinals) focused [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers).
 
 ## Description
 

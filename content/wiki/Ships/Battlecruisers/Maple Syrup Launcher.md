@@ -9,7 +9,11 @@ categories:
 title: Maple Syrup Launcher
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Maple Syrup Launcher_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Maple Syrup Launcher_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021).
 
 ## Description
 

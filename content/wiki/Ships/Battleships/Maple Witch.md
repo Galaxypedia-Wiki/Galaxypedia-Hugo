@@ -11,7 +11,13 @@ categories:
 title: Maple Witch
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Maple Witch_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) released for the [Galaxy 4th of July Event]({{< ref "/categories/" >}}fourth-of-july-2021) Part 2
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/limitedShip >}}
+
+The **_Maple Witch_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) released for the [Galaxy 4th of July Event]({{< ref "/categories/" >}}fourth-of-july-2021) Part 2
 
 ## Description
 

@@ -8,7 +8,9 @@ categories:
 title: Monogram
 ---
 
-{{< notices/removed >}} The **_Monogram_** is an NPC previously used as the quest giver for Quest #8 -- "Lost Drone."
+{{< notices/removed >}}
+
+The **_Monogram_** is an NPC previously used as the quest giver for Quest #8 -- "Lost Drone."
 
 ## Description
 

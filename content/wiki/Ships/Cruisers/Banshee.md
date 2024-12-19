@@ -9,7 +9,9 @@ categories:
 title: Banshee
 ---
 
-{{< shipInfobox >}} The **_Banshee_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-based **[Cruiser]({{< ref "/categories/" >}}cruisers)**.
+{{< shipInfobox >}}
+
+The **_Banshee_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-based **[Cruiser]({{< ref "/categories/" >}}cruisers)**.
 
 ## Description
 

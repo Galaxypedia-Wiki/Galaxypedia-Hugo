@@ -6,7 +6,9 @@ categories:
 title: The Cultists
 ---
 
-{{< notices/underConstruction >}} ![]({{< ref "/wiki/" >}}TheCultists.png-"TheCultists.png")
+{{< notices/underConstruction >}}
+
+![]({{< ref "/wiki/" >}}TheCultists.png-"TheCultists.png")
 
 <div class="cardcontainer" align="justify" style="font-size: 14px; line-height: 24px;">
 # The Cultists

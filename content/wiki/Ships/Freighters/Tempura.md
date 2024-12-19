@@ -7,7 +7,9 @@ categories:
 title: Tempura
 ---
 
-{{< shipInfobox >}} The **_Tempura_** is a light **[Freighter]({{< ref "/categories/" >}}freighters)**.
+{{< shipInfobox >}}
+
+The **_Tempura_** is a light **[Freighter]({{< ref "/categories/" >}}freighters)**.
 
 ## Description
 

@@ -10,7 +10,9 @@ categories:
 title: Catalyst
 ---
 
-{{< shipInfobox >}} The **_Catalyst_** is a large Support-PvP [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
+{{< shipInfobox >}}
+
+The **_Catalyst_** is a large Support-PvP [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
 
 ## Description
 

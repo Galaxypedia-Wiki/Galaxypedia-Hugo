@@ -12,7 +12,9 @@ categories:
 title: Nisos
 ---
 
-{{< shipInfobox >}} The **_Nisos_** is a balanced ship, mostly used in [**Battleship**]({{< ref "/categories/" >}}battleships) sieges.
+{{< shipInfobox >}}
+
+The **_Nisos_** is a balanced ship, mostly used in [**Battleship**]({{< ref "/categories/" >}}battleships) sieges.
 
 ## Description
 

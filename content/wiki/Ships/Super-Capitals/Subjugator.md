@@ -11,7 +11,11 @@ categories:
 title: Subjugator
 ---
 
-{{< shipInfobox >}} {{< notices/superCapitalShip >}} The **_Subjugator_** is the [**Super Capital Ship**]({{< ref "/categories/" >}}super-capital-ships) with the highest total health, it's capable of withstanding monstrous amounts of damage, but at the lack of damage compared to ships of it's class.
+{{< shipInfobox >}}
+
+{{< notices/superCapitalShip >}}
+
+The **_Subjugator_** is the [**Super Capital Ship**]({{< ref "/categories/" >}}super-capital-ships) with the highest total health, it's capable of withstanding monstrous amounts of damage, but at the lack of damage compared to ships of it's class.
 
 ## Description
 

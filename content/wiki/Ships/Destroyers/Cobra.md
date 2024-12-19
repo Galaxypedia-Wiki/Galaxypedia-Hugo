@@ -10,7 +10,9 @@ categories:
 title: Cobra
 ---
 
-{{< shipInfobox >}} The **_Cobra_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class Ship with very high offensive capabilities.
+{{< shipInfobox >}}
+
+The **_Cobra_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class Ship with very high offensive capabilities.
 
 ## Description
 

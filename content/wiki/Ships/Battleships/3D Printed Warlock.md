@@ -15,7 +15,13 @@ categories:
 title: 3D Printed Warlock
 ---
 
-{{< shipInfobox >}} {{< notices/outdatedInfo >}} {{< notices/premiumShip >}} The **_3D Printed Warlock_** is a unique reskin of the **[Battleship-Class]({{< ref "/categories/" >}}battleships)** ship "[Warlock]({{< ref "/wiki/" >}}Warlock)."
+{{< shipInfobox >}}
+
+{{< notices/outdatedInfo >}}
+
+{{< notices/premiumShip >}}
+
+The **_3D Printed Warlock_** is a unique reskin of the **[Battleship-Class]({{< ref "/categories/" >}}battleships)** ship "[Warlock]({{< ref "/wiki/" >}}Warlock)."
 
 ## Description
 

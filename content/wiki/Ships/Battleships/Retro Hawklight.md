@@ -12,7 +12,11 @@ categories:
 title: Retro Hawklight
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Hawklight_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Hawklight]({{< ref "/wiki/" >}}Hawklight) that features its 2nd generation model and armament.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Retro Hawklight_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Hawklight]({{< ref "/wiki/" >}}Hawklight) that features its 2nd generation model and armament.
 
 ## Description
 

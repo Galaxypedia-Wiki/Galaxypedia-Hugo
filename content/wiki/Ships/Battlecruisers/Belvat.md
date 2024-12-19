@@ -12,7 +12,9 @@ categories:
 title: Belvat
 ---
 
-{{< shipInfobox >}} The **_Belvat_** is a shuttle-like [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) with a [Torpedo]({{< ref "/wiki/" >}}Spinals).
+{{< shipInfobox >}}
+
+The **_Belvat_** is a shuttle-like [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) with a [Torpedo]({{< ref "/wiki/" >}}Spinals).
 
 ## Description
 

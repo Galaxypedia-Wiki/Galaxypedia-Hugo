@@ -8,7 +8,9 @@ categories:
 title: Wrath
 ---
 
-{{< shipInfobox >}} The **Wrath** was the predecessor to the **[Typhoon]({{< ref "/wiki/" >}}Typhoon),** and was a small, agile fighter with a versatile weapons array. It was previously carried aboard, and was unique to, the **[Stormbringer]({{< ref "/wiki/" >}}Stormbringer)**
+{{< shipInfobox >}}
+
+The **Wrath** was the predecessor to the **[Typhoon]({{< ref "/wiki/" >}}Typhoon),** and was a small, agile fighter with a versatile weapons array. It was previously carried aboard, and was unique to, the **[Stormbringer]({{< ref "/wiki/" >}}Stormbringer)**
 
 # Description
 

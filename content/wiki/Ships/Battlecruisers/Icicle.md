@@ -9,7 +9,11 @@ categories:
 title: Icicle
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Icicle_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) released during the first phase of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Icicle_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) released during the first phase of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Description
 

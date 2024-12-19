@@ -7,7 +7,11 @@ categories:
 title: Aurora
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Aurora_** is a personal [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) made by Uglycar & Rekuri.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Aurora_** is a personal [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) made by Uglycar & Rekuri.
 
 ## Description
 

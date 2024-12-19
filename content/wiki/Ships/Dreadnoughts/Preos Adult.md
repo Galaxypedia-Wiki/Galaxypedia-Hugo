@@ -8,7 +8,9 @@ categories:
 title: Preos Adult
 ---
 
-{{< shipInfobox >}} The **_Preos Adult_** is the final stage of the [Preos Egg]({{< ref "/wiki/" >}}Preos-Egg)'s evolution questline, added in the [Halloween Event 2021]({{< ref "/categories/" >}}halloween-2021). It resembles the [Plagued Preos Adult]({{< ref "/wiki/" >}}Plagued-Preos-Adult) boss, which was required to be killed in order to make this ship.
+{{< shipInfobox >}}
+
+The **_Preos Adult_** is the final stage of the [Preos Egg]({{< ref "/wiki/" >}}Preos-Egg)'s evolution questline, added in the [Halloween Event 2021]({{< ref "/categories/" >}}halloween-2021). It resembles the [Plagued Preos Adult]({{< ref "/wiki/" >}}Plagued-Preos-Adult) boss, which was required to be killed in order to make this ship.
 
 ## Description
 

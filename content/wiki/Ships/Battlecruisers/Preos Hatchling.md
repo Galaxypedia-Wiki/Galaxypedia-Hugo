@@ -8,7 +8,9 @@ categories:
 title: Preos Hatchling
 ---
 
-{{< shipInfobox >}} The **_Preos Hatchling_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) that players "evolve" from the [Preos Egg]({{< ref "/wiki/" >}}Preos-Egg).
+{{< shipInfobox >}}
+
+The **_Preos Hatchling_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) that players "evolve" from the [Preos Egg]({{< ref "/wiki/" >}}Preos-Egg).
 
 ## Description
 

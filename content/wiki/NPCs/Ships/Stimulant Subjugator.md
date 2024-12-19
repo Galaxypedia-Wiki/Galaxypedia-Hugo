@@ -11,7 +11,13 @@ categories:
 title: Stimulant Subjugator
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} The **Stimulant Subjugator** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Titan]({{< ref "/categories/" >}}titans) that spawned during the duration of the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022).
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/npcShip >}}
+
+The **Stimulant Subjugator** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Titan]({{< ref "/categories/" >}}titans) that spawned during the duration of the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022).
 
 ## Description
 

@@ -10,7 +10,9 @@ categories:
 title: Scythe
 ---
 
-{{< shipInfobox >}} The **_Scythe_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class ship commonly used as an interceptor against large targets getting jobs done fast.
+{{< shipInfobox >}}
+
+The **_Scythe_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class ship commonly used as an interceptor against large targets getting jobs done fast.
 
 ##  Description
 

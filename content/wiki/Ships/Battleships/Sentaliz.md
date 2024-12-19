@@ -12,7 +12,11 @@ categories:
 title: Sentaliz
 ---
 
-{{< shipInfobox >}} {{< notices/vipShip >}} The **_Sentaliz_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-based PvP **[Battleship]({{< ref "/categories/" >}}battleships)**.
+{{< shipInfobox >}}
+
+{{< notices/vipShip >}}
+
+The **_Sentaliz_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-based PvP **[Battleship]({{< ref "/categories/" >}}battleships)**.
 
 ## Description
 

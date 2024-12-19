@@ -9,7 +9,13 @@ categories:
 title: Plagued Preos Egg
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/npcShip >}} _This article describes an NPC ship. For the player ship with the same appearance and without any turret, see [Preos Egg]({{< ref "/wiki/" >}}Preos-Egg)._
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/npcShip >}}
+
+_This article describes an NPC ship. For the player ship with the same appearance and without any turret, see [Preos Egg]({{< ref "/wiki/" >}}Preos-Egg)._
 
 The **Plagued Preos Egg** is an [Alien AI]({{< ref "/wiki/" >}}Aliens) added during the **[2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021).**
 

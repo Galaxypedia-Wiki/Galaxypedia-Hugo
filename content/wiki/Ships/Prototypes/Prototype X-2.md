@@ -13,7 +13,11 @@ categories:
 title: Prototype X-2
 ---
 
-{{< shipInfobox >}} {{< notices/prototypeShip >}} The **_Prototype X-2_** is a [**Prototype**]({{< ref "/categories/" >}}prototypes) that was made by the [Kneall]({{< ref "/wiki/" >}}Kneall).
+{{< shipInfobox >}}
+
+{{< notices/prototypeShip >}}
+
+The **_Prototype X-2_** is a [**Prototype**]({{< ref "/categories/" >}}prototypes) that was made by the [Kneall]({{< ref "/wiki/" >}}Kneall).
 
 ## Description
 

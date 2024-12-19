@@ -10,7 +10,11 @@ categories:
 title: Golden Viper
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Golden Viper_** is a limited reskin of the [Viper]({{< ref "/wiki/" >}}Viper) released as a [**Destroyer**]({{< ref "/categories/" >}}destroyers) during the Black Friday Event 2020.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Golden Viper_** is a limited reskin of the [Viper]({{< ref "/wiki/" >}}Viper) released as a [**Destroyer**]({{< ref "/categories/" >}}destroyers) during the Black Friday Event 2020.
 
 ## Description
 

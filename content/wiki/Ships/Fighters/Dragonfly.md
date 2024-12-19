@@ -8,7 +8,11 @@ categories:
 title: Dragonfly
 ---
 
-{{< shipInfobox >}} {{< notices/removed >}} The**_Dragonfly_** was a weak but extremely fast **[Fighter]({{< ref "/wiki/" >}}:category:fighters)** that spawned in a player starbase, and was the fastest fighter in the game. It used to be in the Lucifer station, but then was changed to spawn in starbases, then changed again to not spawn at all and was replaced by the [Starbase Fury]({{< ref "/wiki/" >}}Starbase-Fury).
+{{< shipInfobox >}}
+
+{{< notices/removed >}}
+
+The**_Dragonfly_** was a weak but extremely fast **[Fighter]({{< ref "/wiki/" >}}:category:fighters)** that spawned in a player starbase, and was the fastest fighter in the game. It used to be in the Lucifer station, but then was changed to spawn in starbases, then changed again to not spawn at all and was replaced by the [Starbase Fury]({{< ref "/wiki/" >}}Starbase-Fury).
 
 ## Description
 

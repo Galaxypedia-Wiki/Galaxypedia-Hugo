@@ -10,7 +10,9 @@ categories:
 title: Rhino
 ---
 
-{{< shipInfobox >}} The **_Rhino_** is a large, durable and heavily armed **[Carrier]({{< ref "/categories/" >}}carriers)**.
+{{< shipInfobox >}}
+
+The **_Rhino_** is a large, durable and heavily armed **[Carrier]({{< ref "/categories/" >}}carriers)**.
 
 ## Description
 

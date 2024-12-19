@@ -7,7 +7,9 @@ categories:
 title: SS
 ---
 
-{{< shipInfobox >}} The **_ß_** is a personal **[Admin Ship]({{< ref "/wiki/" >}}:category:admin)** between Admin Director 1_Fast and Developer (former Admin) N3vadan.
+{{< shipInfobox >}}
+
+The **_ß_** is a personal **[Admin Ship]({{< ref "/wiki/" >}}:category:admin)** between Admin Director 1_Fast and Developer (former Admin) N3vadan.
 
 ## Description
 

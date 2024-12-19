@@ -7,7 +7,9 @@ categories:
 title: Inflictor
 ---
 
-{{< shipInfobox >}} The **Inflictor** is a [Fighter]({{< ref "/categories/" >}}fighters) that was added as a replacement for the [Rapture's]({{< ref "/wiki/" >}}Rapture) [Frenzy]({{< ref "/wiki/" >}}Frenzy).
+{{< shipInfobox >}}
+
+The **Inflictor** is a [Fighter]({{< ref "/categories/" >}}fighters) that was added as a replacement for the [Rapture's]({{< ref "/wiki/" >}}Rapture) [Frenzy]({{< ref "/wiki/" >}}Frenzy).
 
 ## Description
 

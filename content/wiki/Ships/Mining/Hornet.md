@@ -7,7 +7,9 @@ categories:
 title: Hornet
 ---
 
-{{< shipInfobox >}} The **_Hornet_** is a medium-small sized **[Miner-class ship]({{< ref "/categories/" >}}mining-ships)**.
+{{< shipInfobox >}}
+
+The **_Hornet_** is a medium-small sized **[Miner-class ship]({{< ref "/categories/" >}}mining-ships)**.
 
 ## Description
 

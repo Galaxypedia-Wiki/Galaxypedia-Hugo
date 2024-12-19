@@ -7,7 +7,11 @@ categories:
 title: LMNOP
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_LMNOP_** is one of the largest current [**Admin**]({{< ref "/categories/" >}}admin-ships) ships.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_LMNOP_** is one of the largest current [**Admin**]({{< ref "/categories/" >}}admin-ships) ships.
 
 ## Description
 

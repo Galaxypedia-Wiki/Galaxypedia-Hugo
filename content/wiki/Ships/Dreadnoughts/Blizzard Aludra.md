@@ -9,7 +9,13 @@ categories:
 title: Blizzard Aludra
 ---
 
-{{< shipInfobox >}} {{< notices/removed >}} {{< notices/npcShip >}} _This page is about the [AI]({{< ref "/wiki/" >}}AI) Battleship. If you're looking for the playable variant, see [Aludra]({{< ref "/wiki/" >}}Aludra)._
+{{< shipInfobox >}}
+
+{{< notices/removed >}}
+
+{{< notices/npcShip >}}
+
+_This page is about the [AI]({{< ref "/wiki/" >}}AI) Battleship. If you're looking for the playable variant, see [Aludra]({{< ref "/wiki/" >}}Aludra)._
 
 The **Blizzard Aludra** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) that spawned during the duration of the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
 

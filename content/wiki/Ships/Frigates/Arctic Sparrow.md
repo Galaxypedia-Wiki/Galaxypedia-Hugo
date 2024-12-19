@@ -12,7 +12,11 @@ categories:
 title: Arctic Sparrow
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Arctic Sparrow_** was a redesign of the [**Frigate-class**]({{< ref "/categories/" >}}frigates) [Osprey]({{< ref "/wiki/" >}}Osprey) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Arctic Sparrow_** was a redesign of the [**Frigate-class**]({{< ref "/categories/" >}}frigates) [Osprey]({{< ref "/wiki/" >}}Osprey) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018).
 
 ## Description
 

@@ -10,7 +10,13 @@ categories:
 title: Freedom Wolf
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **Freedom Wolf** is a [Battlecruiser]({{< ref "/categories/" >}}battlecruisers) released for the [Galaxy 4th of July event]({{< ref "/categories/" >}}fourth-of-july-2021)
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/limitedShip >}}
+
+The **Freedom Wolf** is a [Battlecruiser]({{< ref "/categories/" >}}battlecruisers) released for the [Galaxy 4th of July event]({{< ref "/categories/" >}}fourth-of-july-2021)
 
 ## Description
 

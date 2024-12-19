@@ -10,7 +10,9 @@ categories:
 title: A - Brawler
 ---
 
-{{< shipInfobox >}} _This article describes the fighter, not an actual NPC vessel, nor the Player owned battleship. For the NPC boss with the same model, see [Kneall Brawler]({{< ref "/wiki/" >}}Kneall-Brawler), for the player owned battleship, see [Brawler]({{< ref "/wiki/" >}}Brawler)_.
+{{< shipInfobox >}}
+
+_This article describes the fighter, not an actual NPC vessel, nor the Player owned battleship. For the NPC boss with the same model, see [Kneall Brawler]({{< ref "/wiki/" >}}Kneall-Brawler), for the player owned battleship, see [Brawler]({{< ref "/wiki/" >}}Brawler)_.
 
 The **_A - Brawler_** is an [Alien]({{< ref "/wiki/" >}}Aliens)-themed **[Fighter]({{< ref "/categories/" >}}fighters)** that spawns in the [Annihilator]({{< ref "/wiki/" >}}Annihilator).
 

@@ -10,7 +10,9 @@ categories:
 title: Gideon
 ---
 
-{{< shipInfobox >}} The **_Gideon_** is a [Turret]({{< ref "/wiki/" >}}Turrets)-focused **[Cruiser]({{< ref "/categories/" >}}cruisers)**. ![Old Gideon
+{{< shipInfobox >}}
+
+The **_Gideon_** is a [Turret]({{< ref "/wiki/" >}}Turrets)-focused **[Cruiser]({{< ref "/categories/" >}}cruisers)**. ![Old Gideon
 Model](2EE38A07-1556-400D-B636-751E963AA793.png "Old Gideon Model")
 
 ## Description

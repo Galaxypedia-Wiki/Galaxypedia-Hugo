@@ -8,7 +8,11 @@ categories:
 title: Arrow
 ---
 
-{{< shipInfobox >}} {{< notices/vipShip >}} The **_Arrow_** is a small and balanced [Frigate]({{< ref "/categories/" >}}frigates).
+{{< shipInfobox >}}
+
+{{< notices/vipShip >}}
+
+The **_Arrow_** is a small and balanced [Frigate]({{< ref "/categories/" >}}frigates).
 
 ## Description
 

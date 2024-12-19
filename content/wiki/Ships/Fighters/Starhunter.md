@@ -7,7 +7,11 @@ categories:
 title: Starhunter
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} ## Description
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+## Description
 
 The **Starhunter** is a fighter found in the upper fighter bay of the new Starbase remodel. It is unusual for most fighters because of its complete reliance on turret firepower for hull damage.
 

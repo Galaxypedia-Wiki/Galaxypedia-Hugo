@@ -10,7 +10,9 @@ categories:
 title: Tempest
 ---
 
-{{< shipInfobox >}} The **_Tempest_** is a powerful and fast PvP and Support [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
+{{< shipInfobox >}}
+
+The **_Tempest_** is a powerful and fast PvP and Support [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
 
 ## Description
 

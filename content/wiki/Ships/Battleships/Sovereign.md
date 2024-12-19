@@ -11,7 +11,9 @@ categories:
 title: Sovereign
 ---
 
-{{< shipInfobox >}} _This Article describes the player-owned vessel. For the identical NPC ship, see [Sovereign-X]({{< ref "/wiki/" >}}Sovereign-X)._
+{{< shipInfobox >}}
+
+_This Article describes the player-owned vessel. For the identical NPC ship, see [Sovereign-X]({{< ref "/wiki/" >}}Sovereign-X)._
 
 The **_Sovereign_** is a **[Battleship]({{< ref "/categories/" >}}battleships)** with powerful [Turrets]({{< ref "/wiki/" >}}Turrets) and high health.
 

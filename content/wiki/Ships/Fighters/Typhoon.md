@@ -7,7 +7,11 @@ categories:
 title: Typhoon
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} The **Typhoon** is a fast fighter-class ship that is carried aboard the **[Stormbringer]({{< ref "/wiki/" >}}Stormbringer)**.
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+The **Typhoon** is a fast fighter-class ship that is carried aboard the **[Stormbringer]({{< ref "/wiki/" >}}Stormbringer)**.
 
 ## Description
 

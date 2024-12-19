@@ -10,7 +10,11 @@ categories:
 title: Prototype X-5
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Prototype X-5_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) released during New Year's 2023.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Prototype X-5_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) released during New Year's 2023.
 
 ## Description
 

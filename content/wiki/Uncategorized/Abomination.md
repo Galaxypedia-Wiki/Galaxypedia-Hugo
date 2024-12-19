@@ -8,7 +8,9 @@ categories:
 title: Abomination
 ---
 
-{{< shipInfobox >}} The **L科科約科科約希吉科約希吉約希希吉科約希吉約希吉**, otherwise known as the **Abomination** is a [Titan]({{< ref "/categories/" >}}titans) class ship.
+{{< shipInfobox >}}
+
+The **L科科約科科約希吉科約希吉約希希吉科約希吉約希吉**, otherwise known as the **Abomination** is a [Titan]({{< ref "/categories/" >}}titans) class ship.
 
 ## Description
 

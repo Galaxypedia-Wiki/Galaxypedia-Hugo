@@ -14,7 +14,11 @@ categories:
 title: Frostpocalypse
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Frostpocalypse_** is a powerful, high health [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) from the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Frostpocalypse_** is a powerful, high health [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) from the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018).
 
 ## Description
 

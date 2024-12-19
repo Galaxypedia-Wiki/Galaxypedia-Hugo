@@ -7,7 +7,11 @@ categories:
 title: Baby Leviathan
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Baby Leviathan_** is a small **[Admin]({{< ref "/categories/" >}}admin-ships)** ship.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Baby Leviathan_** is a small **[Admin]({{< ref "/categories/" >}}admin-ships)** ship.
 
 ## Description
 

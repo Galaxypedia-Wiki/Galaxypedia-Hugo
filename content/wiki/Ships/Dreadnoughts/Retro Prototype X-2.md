@@ -9,7 +9,11 @@ categories:
 title: Retro Prototype X-2
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Prototype X-2_**is a Retro Variant of the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Retro Prototype X-2_**is a Retro Variant of the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2).
 
 ## Description
 

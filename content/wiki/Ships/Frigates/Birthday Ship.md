@@ -7,7 +7,11 @@ categories:
 title: Birthday Ship
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Birthday Ship_** is a limited [**Frigate**]({{< ref "/categories/" >}}frigates) given to Galaxy staff members on their birthday.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Birthday Ship_** is a limited [**Frigate**]({{< ref "/categories/" >}}frigates) given to Galaxy staff members on their birthday.
 
 ## Description
 

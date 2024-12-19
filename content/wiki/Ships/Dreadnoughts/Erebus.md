@@ -12,7 +12,11 @@ categories:
 title: Erebus
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Erebus_** is a **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the **[Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019)**.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Erebus_** is a **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the **[Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019)**.
 
 ## Description
 

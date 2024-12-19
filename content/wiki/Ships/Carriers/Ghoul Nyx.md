@@ -14,7 +14,11 @@ categories:
 title: Ghoul Nyx
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Ghoul Nyx_** is a slightly redesigned [Nyx]({{< ref "/wiki/" >}}Nyx) made for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Ghoul Nyx_** is a slightly redesigned [Nyx]({{< ref "/wiki/" >}}Nyx) made for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
 
 ## Description
 

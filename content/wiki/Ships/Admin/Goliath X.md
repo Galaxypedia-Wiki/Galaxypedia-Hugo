@@ -8,7 +8,11 @@ categories:
 title: Goliath X
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Goliath X_** is an [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) and the second fastest ship in the game.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Goliath X_** is an [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) and the second fastest ship in the game.
 
 ## Description
 

@@ -7,7 +7,9 @@ categories:
 title: Suspicious Man
 ---
 
-{{< notices/underConstruction >}} **_Suspicious Man_** is an NPC who trade [Plasma Battery]({{< ref "/wiki/" >}}Plasma-Battery) to credits.
+{{< notices/underConstruction >}}
+
+**_Suspicious Man_** is an NPC who trade [Plasma Battery]({{< ref "/wiki/" >}}Plasma-Battery) to credits.
 
 ## Description
 

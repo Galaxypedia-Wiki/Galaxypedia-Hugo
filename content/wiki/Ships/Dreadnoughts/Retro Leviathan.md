@@ -11,7 +11,11 @@ categories:
 title: Retro Leviathan
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Leviathan_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Leviathan]({{< ref "/wiki/" >}}Leviathan) that features its original model and armament.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Retro Leviathan_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Leviathan]({{< ref "/wiki/" >}}Leviathan) that features its original model and armament.
 
 ## Description
 

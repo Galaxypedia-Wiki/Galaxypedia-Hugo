@@ -10,7 +10,11 @@ categories:
 title: Patriotic Devastation
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Patriotic Devastation_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Patriotic Devastation_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021).
 
 ## Description
 

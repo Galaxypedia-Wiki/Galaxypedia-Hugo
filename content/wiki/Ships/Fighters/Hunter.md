@@ -7,7 +7,9 @@ categories:
 title: Hunter
 ---
 
-{{< shipInfobox >}} The **_Hunter_** is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)-[Fighter]({{< ref "/categories/" >}}fighters)** hybrid carried by the [Executioner]({{< ref "/wiki/" >}}Executioner).
+{{< shipInfobox >}}
+
+The **_Hunter_** is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)-[Fighter]({{< ref "/categories/" >}}fighters)** hybrid carried by the [Executioner]({{< ref "/wiki/" >}}Executioner).
 
 ## Description
 

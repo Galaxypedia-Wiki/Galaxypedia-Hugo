@@ -9,7 +9,11 @@ categories:
 title: Scowling
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Scowling_** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) class ship based on the [Nidhogg]({{< ref "/wiki/" >}}Nidhogg).
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+The **_Scowling_** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) class ship based on the [Nidhogg]({{< ref "/wiki/" >}}Nidhogg).
 
 ## Description
 

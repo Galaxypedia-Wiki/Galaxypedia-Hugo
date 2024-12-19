@@ -11,7 +11,11 @@ categories:
 title: Retro Grievion
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Grievion_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Grievion]({{< ref "/wiki/" >}}Grievion) that features its original model and armament.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Retro Grievion_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Grievion]({{< ref "/wiki/" >}}Grievion) that features its original model and armament.
 
 ## Description
 

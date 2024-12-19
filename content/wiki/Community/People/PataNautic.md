@@ -6,7 +6,9 @@ categories:
 title: PataNautic
 ---
 
-{{< notices/underConstruction >}} _Also known in short as "Pata"_
+{{< notices/underConstruction >}}
+
+_Also known in short as "Pata"_
 
 Well known Galaxy Community Member & Developer. Mostly known for his role in causing the [Enigma Cache Incident]({{< ref "/wiki/" >}}Enigma-Cache-Incident). He is also known for trolling in the Galaxy Discord Server.
 

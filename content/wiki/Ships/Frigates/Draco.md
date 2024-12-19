@@ -7,7 +7,9 @@ categories:
 title: Draco
 ---
 
-{{< shipInfobox >}} The **_Draco_** is a small and fast [**Frigate**]({{< ref "/categories/" >}}frigates).
+{{< shipInfobox >}}
+
+The **_Draco_** is a small and fast [**Frigate**]({{< ref "/categories/" >}}frigates).
 
 ## Description
 

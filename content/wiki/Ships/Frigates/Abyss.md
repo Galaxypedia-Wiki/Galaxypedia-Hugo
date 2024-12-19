@@ -9,7 +9,9 @@ categories:
 title: Abyss
 ---
 
-{{< shipInfobox >}} The **_Abyss_** is a powerful [Hull]({{< ref "/wiki/" >}}Hull)-shredding **[Frigate]({{< ref "/categories/" >}}frigates)**.
+{{< shipInfobox >}}
+
+The **_Abyss_** is a powerful [Hull]({{< ref "/wiki/" >}}Hull)-shredding **[Frigate]({{< ref "/categories/" >}}frigates)**.
 
 ## Description
 

@@ -4,7 +4,11 @@ aliases:
 title: Lykan
 ---
 
-{{< notices/underConstruction >}} {{< notices/outdatedInfo >}} The **\*Lykan**'' was the fighter of the [carrier]({{< ref "/categories/" >}}carriers),**\*[Lykos]({{< ref "/wiki/" >}}Lykos)**'' which was going to be awarded to the first-place winner of the Galaxy Tournament?
+{{< notices/underConstruction >}}
+
+{{< notices/outdatedInfo >}}
+
+The **\*Lykan**'' was the fighter of the [carrier]({{< ref "/categories/" >}}carriers),**\*[Lykos]({{< ref "/wiki/" >}}Lykos)**'' which was going to be awarded to the first-place winner of the Galaxy Tournament?
 
 # Description
 

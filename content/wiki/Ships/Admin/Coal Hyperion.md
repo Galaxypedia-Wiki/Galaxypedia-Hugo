@@ -7,7 +7,11 @@ categories:
 title: Coal Hyperion
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Coal Hyperion_** is an **[Admin]({{< ref "/categories/" >}}admin-ships)** ship and is one of the admin ships for Galaxy.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Coal Hyperion_** is an **[Admin]({{< ref "/categories/" >}}admin-ships)** ship and is one of the admin ships for Galaxy.
 
 ## Description
 

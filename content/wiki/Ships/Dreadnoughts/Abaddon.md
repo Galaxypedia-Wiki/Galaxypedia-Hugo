@@ -12,7 +12,11 @@ categories:
 title: Abaddon
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **Abaddon** is a powerful [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) added in the [2019 Halloween Event]({{< ref "/categories/" >}}halloween-2019).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **Abaddon** is a powerful [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) added in the [2019 Halloween Event]({{< ref "/categories/" >}}halloween-2019).
 
 ## Description
 

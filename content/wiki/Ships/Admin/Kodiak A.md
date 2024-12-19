@@ -8,7 +8,11 @@ categories:
 title: Kodiak A
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Kodiak A_** is an [**Admin**]({{< ref "/categories/" >}}admin-ships) ship that is occasionally used by [Galaxy Staff]({{< ref "/wiki/" >}}Galaxy-Staff) to troll newer players.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Kodiak A_** is an [**Admin**]({{< ref "/categories/" >}}admin-ships) ship that is occasionally used by [Galaxy Staff]({{< ref "/wiki/" >}}Galaxy-Staff) to troll newer players.
 
 ## Description
 

@@ -7,7 +7,9 @@ categories:
 title: M Class
 ---
 
-{{< shipInfobox >}} The **_M Class_** was a very specialized **[Miner]({{< ref "/categories/" >}}mining-ships)** and physically was one of the largest ships in Galaxy.
+{{< shipInfobox >}}
+
+The **_M Class_** was a very specialized **[Miner]({{< ref "/categories/" >}}mining-ships)** and physically was one of the largest ships in Galaxy.
 
 ## Description
 

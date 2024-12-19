@@ -8,7 +8,11 @@ categories:
 title: Harvester
 ---
 
-{{< shipInfobox >}} {{< notices/offsale >}} The **_Harvester_** was the first **[Miner-class ship]({{< ref "/categories/" >}}mining-ships)** to ever have a [Warp Drive]({{< ref "/wiki/" >}}Warp-Drive). It later also gained a [Medium Mining Laser]({{< ref "/wiki/" >}}Medium-Mining-Laser)
+{{< shipInfobox >}}
+
+{{< notices/offsale >}}
+
+The **_Harvester_** was the first **[Miner-class ship]({{< ref "/categories/" >}}mining-ships)** to ever have a [Warp Drive]({{< ref "/wiki/" >}}Warp-Drive). It later also gained a [Medium Mining Laser]({{< ref "/wiki/" >}}Medium-Mining-Laser)
 
 ## Description
 

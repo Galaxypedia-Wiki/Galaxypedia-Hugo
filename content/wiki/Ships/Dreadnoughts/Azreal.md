@@ -11,7 +11,11 @@ categories:
 title: Azreal
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} This page is
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+This page is
 
 The **_Azrael_**is a powerful [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) that was part of the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019).
 

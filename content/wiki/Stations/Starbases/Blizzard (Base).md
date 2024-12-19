@@ -7,7 +7,9 @@ categories:
 title: Blizzard (Base)
 ---
 
-{{< notices/removed >}} ## Description
+{{< notices/removed >}}
+
+## Description
 
 The **_Blizzard_** is a powerful [Starbase]({{< ref "/categories/" >}}starbases) that looks identical to the [Blizzard]({{< ref "/wiki/" >}}Blizzard) and was introduced in the Part 2 of [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
 

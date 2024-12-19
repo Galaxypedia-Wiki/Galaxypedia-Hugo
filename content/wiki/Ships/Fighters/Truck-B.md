@@ -7,7 +7,9 @@ categories:
 title: Truck-B
 ---
 
-{{< shipInfobox >}} ## Description
+{{< shipInfobox >}}
+
+## Description
 
 Truck-B is one of the 4 uniquely disguised fighters on [Pyramus]({{< ref "/wiki/" >}}Pyramus), with this ship disguised as an American [Humvee light utility vehicle]({{< ref "/wiki/" >}}wikipedia:Humvee).
 

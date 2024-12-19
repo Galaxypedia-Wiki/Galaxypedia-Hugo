@@ -10,7 +10,11 @@ categories:
 title: Retro Gideon
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Gideon_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Gideon]({{< ref "/wiki/" >}}Gideon) that features its original model and armament.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Retro Gideon_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Gideon]({{< ref "/wiki/" >}}Gideon) that features its original model and armament.
 
 ## Description
 

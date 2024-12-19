@@ -11,7 +11,13 @@ categories:
 title: Acolyte
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The **_Acolyte_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during Part 2 of the [Halloween 2020 Event]({{< ref "/categories/" >}}halloween-2020).
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/limitedShip >}}
+
+The **_Acolyte_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during Part 2 of the [Halloween 2020 Event]({{< ref "/categories/" >}}halloween-2020).
 
 ## Description
 

@@ -10,7 +10,11 @@ categories:
 title: Jupiter
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Jupiter_** is [**Limited**]({{< ref "/categories/" >}}limited-ships) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Jupiter_** is [**Limited**]({{< ref "/categories/" >}}limited-ships) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020).
 
 ## Description
 

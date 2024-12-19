@@ -9,7 +9,9 @@ categories:
 title: Devastation
 ---
 
-{{< shipInfobox >}} The **_Devastation_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) class ship with heavy [turrets]({{< ref "/wiki/" >}}turrets).
+{{< shipInfobox >}}
+
+The **_Devastation_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) class ship with heavy [turrets]({{< ref "/wiki/" >}}turrets).
 
 ## Description
 

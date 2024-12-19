@@ -8,7 +8,11 @@ categories:
 title: Flying Car
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Flying Car_** is an **[Admin Ship]({{< ref "/categories/" >}}admin-ships)** that is a shopping cart with a seat mounted in the center and thrusters mounted on the left and right that feature trails.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Flying Car_** is an **[Admin Ship]({{< ref "/categories/" >}}admin-ships)** that is a shopping cart with a seat mounted in the center and thrusters mounted on the left and right that feature trails.
 
 ## Description
 

@@ -9,7 +9,11 @@ categories:
 title: Rift Custodian
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **_Rift Custodian_** is a [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**AI**]({{< ref "/categories/" >}}npc-ships) ship that appeared in the [Halloween 2020]({{< ref "/categories/" >}}halloween-2020) event. It is the stronger version of the [Rift Guardian]({{< ref "/wiki/" >}}Rift-Guardian).
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+The **_Rift Custodian_** is a [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**AI**]({{< ref "/categories/" >}}npc-ships) ship that appeared in the [Halloween 2020]({{< ref "/categories/" >}}halloween-2020) event. It is the stronger version of the [Rift Guardian]({{< ref "/wiki/" >}}Rift-Guardian).
 
 ## Description
 

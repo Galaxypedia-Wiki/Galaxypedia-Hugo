@@ -9,7 +9,9 @@ categories:
 title: Interceptor
 ---
 
-{{< shipInfobox >}} The**_Interceptor_**was the first **[Fighter]({{< ref "/categories/" >}}fighters)** to have a [Turret]({{< ref "/wiki/" >}}Turrets) instead of spinal weaponry.
+{{< shipInfobox >}}
+
+The**_Interceptor_**was the first **[Fighter]({{< ref "/categories/" >}}fighters)** to have a [Turret]({{< ref "/wiki/" >}}Turrets) instead of spinal weaponry.
 
 ## Description
 

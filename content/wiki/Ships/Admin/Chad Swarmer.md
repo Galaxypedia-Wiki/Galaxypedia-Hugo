@@ -8,7 +8,11 @@ categories:
 title: Chad Swarmer
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Chad Swarmer_** is a popular [**Admin**]({{< ref "/categories/" >}}admin-ships) ship in Galaxy
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Chad Swarmer_** is a popular [**Admin**]({{< ref "/categories/" >}}admin-ships) ship in Galaxy
 
 ## Description
 

@@ -12,7 +12,11 @@ categories:
 title: Galleon
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} The **Galleon** is a **[Pirate]({{< ref "/wiki/" >}}Pirates) [AI]({{< ref "/categories/" >}}npc-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts)**.
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+The **Galleon** is a **[Pirate]({{< ref "/wiki/" >}}Pirates) [AI]({{< ref "/categories/" >}}npc-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts)**.
 
 ## Description
 

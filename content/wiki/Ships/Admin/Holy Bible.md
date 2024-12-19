@@ -7,7 +7,11 @@ categories:
 title: Holy Bible
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Holy Bible_** is an **[Admin]({{< ref "/categories/" >}}admin-ships)** ship and is one of the admin ships for Galaxy.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Holy Bible_** is an **[Admin]({{< ref "/categories/" >}}admin-ships)** ship and is one of the admin ships for Galaxy.
 
 ## Description
 

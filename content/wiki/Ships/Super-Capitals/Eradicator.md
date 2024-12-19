@@ -10,7 +10,11 @@ categories:
 title: Eradicator
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} ![Current Eradicator]({{< ref "/wiki/" >}}Old-Eradicator.jpg-"Current-Eradicator") The **_Eradicator_** is an [**Alien**]({{< ref "/categories/" >}}alien-ships-and-stations) AI ship and part of the [Kneall]({{< ref "/wiki/" >}}Kneall) Fleet. ![Recolored
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+![Current Eradicator]({{< ref "/wiki/" >}}Old-Eradicator.jpg-"Current-Eradicator") The **_Eradicator_** is an [**Alien**]({{< ref "/categories/" >}}alien-ships-and-stations) AI ship and part of the [Kneall]({{< ref "/wiki/" >}}Kneall) Fleet. ![Recolored
 Eradicator](Eradicator.jpg "Recolored Eradicator") More images:
 
 ## Description

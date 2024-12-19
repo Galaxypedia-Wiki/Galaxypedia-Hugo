@@ -6,7 +6,11 @@ categories:
 title: Ducky
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **Ducky** is a personal [Admin Ship]({{< ref "/categories/" >}}admin-ships) made by Duck_Blox.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **Ducky** is a personal [Admin Ship]({{< ref "/categories/" >}}admin-ships) made by Duck_Blox.
 
 ## Description
 

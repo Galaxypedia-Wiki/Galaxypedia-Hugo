@@ -10,7 +10,9 @@ categories:
 title: Centurion
 ---
 
-{{< shipInfobox >}} The **_Centurion_** is a [**Destroyer**]({{< ref "/categories/" >}}destroyers) class ship and one of the few ships to be armed with [torpedoes]({{< ref "/wiki/" >}}Spinal-Weaponry).
+{{< shipInfobox >}}
+
+The **_Centurion_** is a [**Destroyer**]({{< ref "/categories/" >}}destroyers) class ship and one of the few ships to be armed with [torpedoes]({{< ref "/wiki/" >}}Spinal-Weaponry).
 
 ## Description
 

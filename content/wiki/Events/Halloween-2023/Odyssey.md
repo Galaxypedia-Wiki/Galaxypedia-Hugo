@@ -7,7 +7,11 @@ categories:
 title: Odyssey
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Odyssey_** is a limited [battleship]({{< ref "/categories/" >}}battleships) which was added in the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Odyssey_** is a limited [battleship]({{< ref "/categories/" >}}battleships) which was added in the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023).
 
 ## Description
 

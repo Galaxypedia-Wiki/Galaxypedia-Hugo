@@ -7,7 +7,13 @@ categories:
 title: Crab Hours
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/adminShip >}} The **_Crab Hours_** is a large, 2D [**Admin**]({{< ref "/categories/" >}}admin-ships) ship modeled with numerous pictures of crabs dancing.
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/adminShip >}}
+
+The **_Crab Hours_** is a large, 2D [**Admin**]({{< ref "/categories/" >}}admin-ships) ship modeled with numerous pictures of crabs dancing.
 
 ## Appearance
 

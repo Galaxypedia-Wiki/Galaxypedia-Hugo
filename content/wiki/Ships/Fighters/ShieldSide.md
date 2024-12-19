@@ -7,7 +7,9 @@ categories:
 title: ShieldSide
 ---
 
-{{< shipInfobox >}} The **_ShieldSide_** is a "Fighter" found on each side of the [Subjugator]({{< ref "/wiki/" >}}Subjugator).
+{{< shipInfobox >}}
+
+The **_ShieldSide_** is a "Fighter" found on each side of the [Subjugator]({{< ref "/wiki/" >}}Subjugator).
 
 ## Description
 

@@ -6,7 +6,9 @@ categories:
 title: Xeta rus
 ---
 
-{{< notices/underConstruction >}} Well known Galaxy player from BETA stage.
+{{< notices/underConstruction >}}
+
+Well known Galaxy player from BETA stage.
 
 ## Story
 

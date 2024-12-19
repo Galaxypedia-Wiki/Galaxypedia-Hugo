@@ -10,7 +10,11 @@ categories:
 title: Sovereign-X
 ---
 
-{{< shipInfobox >}} {{< notices/npcShip >}} _This article describes the NPC ship. For the player-owned equivalent, see [Sovereign]({{< ref "/wiki/" >}}Sovereign)._
+{{< shipInfobox >}}
+
+{{< notices/npcShip >}}
+
+_This article describes the NPC ship. For the player-owned equivalent, see [Sovereign]({{< ref "/wiki/" >}}Sovereign)._
 
 The **Sovereign-X** is an [U.N.E]({{< ref "/wiki/" >}}U.N.E) [**AI**]({{< ref "/categories/" >}}npc-ships) [Battleship]({{< ref "/categories/" >}}battleships).
 

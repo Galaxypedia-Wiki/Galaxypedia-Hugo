@@ -9,7 +9,9 @@ categories:
 title: Dropship
 ---
 
-{{< shipInfobox >}} The **_Dropship_** is a hull-breaking transport **[Destroyer]({{< ref "/categories/" >}}destroyers)**, being one of the few ships to change classes.
+{{< shipInfobox >}}
+
+The **_Dropship_** is a hull-breaking transport **[Destroyer]({{< ref "/categories/" >}}destroyers)**, being one of the few ships to change classes.
 
 ## Description
 

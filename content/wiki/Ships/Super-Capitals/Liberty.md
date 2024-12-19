@@ -9,7 +9,11 @@ categories:
 title: Liberty
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Liberty_** is an American-themed [**Super Capital**]({{< ref "/categories/" >}}super-capital-ships) briefly released during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Liberty_** is an American-themed [**Super Capital**]({{< ref "/categories/" >}}super-capital-ships) briefly released during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021).
 
 ## Description
 

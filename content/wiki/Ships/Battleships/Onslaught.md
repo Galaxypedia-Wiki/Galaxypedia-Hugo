@@ -12,7 +12,11 @@ categories:
 title: Onslaught
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **Onslaught** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Battleship]({{< ref "/categories/" >}}battleships) that is a reconstruction of a [Punisher]({{< ref "/wiki/" >}}Punisher) from salvaged parts.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **Onslaught** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Battleship]({{< ref "/categories/" >}}battleships) that is a reconstruction of a [Punisher]({{< ref "/wiki/" >}}Punisher) from salvaged parts.
 
 ## Description
 

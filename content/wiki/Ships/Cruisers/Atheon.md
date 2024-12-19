@@ -10,7 +10,11 @@ categories:
 title: Atheon
 ---
 
-{{< shipInfobox >}} {{< notices/advancedShip >}} The **_Atheon_** is an **[Advanced]({{< ref "/categories/" >}}advanced-ships) [Cruiser]({{< ref "/categories/" >}}cruisers)** with five of its own custom turrets.
+{{< shipInfobox >}}
+
+{{< notices/advancedShip >}}
+
+The **_Atheon_** is an **[Advanced]({{< ref "/categories/" >}}advanced-ships) [Cruiser]({{< ref "/categories/" >}}cruisers)** with five of its own custom turrets.
 
 ## Description
 

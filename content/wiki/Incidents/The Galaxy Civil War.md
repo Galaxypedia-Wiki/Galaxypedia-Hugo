@@ -7,7 +7,9 @@ categories:
 title: The Galaxy Civil War
 ---
 
-{{< notices/communityIncident >}} <div class="cardcontainer" style="font-size: 14px; line-height: 24px;" align="justify">
+{{< notices/communityIncident >}}
+
+<div class="cardcontainer" style="font-size: 14px; line-height: 24px;" align="justify">
 
 **<u>I DO NOT CONDONE ANY HARASSMENT OR ANY HATEFUL SPEECH TOWARDS PURPLE AND ALL COMMENTS LIKE THAT WILL BE DELETED AND YOU WILL BE BLOCKED FROM COMMENTING. DO NOT SEND HATE AT PURPLE OR ANYONE ELSE MENTIONED HERE IN ANY WAY WHETHER IT HERE, ON DISCORD, ROBLOX ETC. I AM NOT TRYING TO REVIVE THE FIGHT OR CAUSE RIOTS. PLEASE DO NOT DO ANY OF THAT. I MERELY WANT TO EXPLAIN IN DETAIL WHAT HAPPENED AND WHY.</u>**
 

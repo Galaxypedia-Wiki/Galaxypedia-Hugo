@@ -7,7 +7,9 @@ categories:
 title: Bombe
 ---
 
-{{< shipInfobox >}} The **Bombe** is a joke ship created for the 1-year anniversary of the [Enigma Cache Incident]({{< ref "/wiki/" >}}Enigma-Cache-Incident).
+{{< shipInfobox >}}
+
+The **Bombe** is a joke ship created for the 1-year anniversary of the [Enigma Cache Incident]({{< ref "/wiki/" >}}Enigma-Cache-Incident).
 
 ## Description
 

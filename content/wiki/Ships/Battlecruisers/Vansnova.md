@@ -10,7 +10,9 @@ categories:
 title: Vansnova
 ---
 
-{{< shipInfobox >}} The **_Vansnova_** is a [Spinal-based]({{< ref "/wiki/" >}}Spinals) PVP [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers).
+{{< shipInfobox >}}
+
+The **_Vansnova_** is a [Spinal-based]({{< ref "/wiki/" >}}Spinals) PVP [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers).
 
 ## Description
 

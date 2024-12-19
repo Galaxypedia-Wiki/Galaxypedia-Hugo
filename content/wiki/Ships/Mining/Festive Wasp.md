@@ -10,7 +10,11 @@ categories:
 title: Festive Wasp
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Festive Wasp_** is a [Limited Event]({{< ref "/categories/" >}}limited-ships) version of the **[Miner-Class]({{< ref "/categories/" >}}mining-ships)**ship [Wasp]({{< ref "/wiki/" >}}Wasp).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Festive Wasp_** is a [Limited Event]({{< ref "/categories/" >}}limited-ships) version of the **[Miner-Class]({{< ref "/categories/" >}}mining-ships)**ship [Wasp]({{< ref "/wiki/" >}}Wasp).
 
 ## Description
 

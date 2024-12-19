@@ -7,7 +7,11 @@ categories:
 title: Cyber Prototype X-1
 ---
 
-{{< shipInfobox >}} {{< notices/adminShip >}} The **_Cyber Prototype X-1_** is an [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) created for ex-developer and Translation Manager Miru.
+{{< shipInfobox >}}
+
+{{< notices/adminShip >}}
+
+The **_Cyber Prototype X-1_** is an [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) created for ex-developer and Translation Manager Miru.
 
 ## Description
 

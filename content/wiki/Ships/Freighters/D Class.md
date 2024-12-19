@@ -7,7 +7,9 @@ categories:
 title: D Class
 ---
 
-{{< shipInfobox >}} The **_D Class_** is currently the 2nd-largest [**Freighter**]({{< ref "/categories/" >}}freighters) in the game. [Excluding limited freighters]
+{{< shipInfobox >}}
+
+The **_D Class_** is currently the 2nd-largest [**Freighter**]({{< ref "/categories/" >}}freighters) in the game. [Excluding limited freighters]
 
 ## Description
 

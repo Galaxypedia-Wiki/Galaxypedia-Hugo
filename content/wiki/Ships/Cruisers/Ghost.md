@@ -13,7 +13,11 @@ categories:
 title: Ghost
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} ## Description
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+## Description
 
 The **_Ghost_**is a [Stealth Ship]({{< ref "/categories/" >}}stealth-ships) that is limited reskin of the old [Spectre]({{< ref "/wiki/" >}}Spectre) model made for the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018).
 

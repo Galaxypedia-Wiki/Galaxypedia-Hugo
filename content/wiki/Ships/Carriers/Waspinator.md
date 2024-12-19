@@ -9,7 +9,11 @@ categories:
 title: Waspinator
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Waspinator_** is a limited [**Carrier-Miner**]({{< ref "/categories/" >}}carriers) hybrid released during the [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Waspinator_** is a limited [**Carrier-Miner**]({{< ref "/categories/" >}}carriers) hybrid released during the [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022).
 
 ## Description
 

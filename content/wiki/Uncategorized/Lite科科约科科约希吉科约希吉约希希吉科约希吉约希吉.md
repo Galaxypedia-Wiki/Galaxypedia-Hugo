@@ -6,7 +6,13 @@ categories:
 title: Lite科科约科科约希吉科约希吉约希希吉科约希吉约希吉
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/adminShip >}} The **Lite科科约科科约希吉科约希吉约希希吉科约希吉约希吉** is an Admin Class Ship which is similar to the [Enigma]({{< ref "/wiki/" >}}Enigma) but is much larger.
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/adminShip >}}
+
+The **Lite科科约科科约希吉科约希吉约希希吉科约希吉约希吉** is an Admin Class Ship which is similar to the [Enigma]({{< ref "/wiki/" >}}Enigma) but is much larger.
 
 ## Description
 

@@ -10,7 +10,11 @@ categories:
 title: Woolly Mammoth
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The**_Woolly Mammoth_** is a reskin of the [Mammoth]({{< ref "/wiki/" >}}Mammoth).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The**_Woolly Mammoth_** is a reskin of the [Mammoth]({{< ref "/wiki/" >}}Mammoth).
 
 ## Description
 

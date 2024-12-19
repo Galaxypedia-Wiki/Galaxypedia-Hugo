@@ -12,7 +12,11 @@ categories:
 title: Osiris
 ---
 
-{{< shipInfobox >}} {{< notices/advancedShip >}} The **_Osiris_** is a powerful [Advanced]({{< ref "/categories/" >}}advanced-ships) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with powerful Turret Firepower.
+{{< shipInfobox >}}
+
+{{< notices/advancedShip >}}
+
+The **_Osiris_** is a powerful [Advanced]({{< ref "/categories/" >}}advanced-ships) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with powerful Turret Firepower.
 
 ## Description
 

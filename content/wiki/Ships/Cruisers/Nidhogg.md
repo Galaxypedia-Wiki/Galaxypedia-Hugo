@@ -10,7 +10,9 @@ categories:
 title: Nidhogg
 ---
 
-{{< shipInfobox >}} The **Nidhogg** is a fast [Cruiser]({{< ref "/categories/" >}}cruisers) with powerful [Shield]({{< ref "/wiki/" >}}Shields) breaking capabilities.
+{{< shipInfobox >}}
+
+The **Nidhogg** is a fast [Cruiser]({{< ref "/categories/" >}}cruisers) with powerful [Shield]({{< ref "/wiki/" >}}Shields) breaking capabilities.
 
 ## Description
 

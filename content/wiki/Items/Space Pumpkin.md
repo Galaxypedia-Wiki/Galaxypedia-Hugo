@@ -11,7 +11,9 @@ categories:
 title: Space Pumpkin
 ---
 
-{{< notices/underConstruction >}} The **_Space Pumpkin_** is an item used by the player to make [Event Ships]({{< ref "/categories/" >}}limited-ships) during the Halloween Events in Galaxy.
+{{< notices/underConstruction >}}
+
+The **_Space Pumpkin_** is an item used by the player to make [Event Ships]({{< ref "/categories/" >}}limited-ships) during the Halloween Events in Galaxy.
 
 ## Halloween Event 2018
 

@@ -8,7 +8,9 @@ categories:
 title: Spinal Weaponry
 ---
 
-{{< notices/outdatedInfo >}} **Spinal Weaponry, **informally **'Spinals',** are manual weapons that are found on most combat ships. **Spinals** can be classified into 3 types: *Phasers*, _Cannons_, *Torpedoes*.
+{{< notices/outdatedInfo >}}
+
+**Spinal Weaponry, **informally **'Spinals',** are manual weapons that are found on most combat ships. **Spinals** can be classified into 3 types: *Phasers*, _Cannons_, *Torpedoes*.
 
 **Spinal Weaponry** is aimed manually by the pilot and requires the pilot to fire all shots at a time. Since they do not fire automatically like [Turrets]({{< ref "/wiki/" >}}Turrets) the pilot's ship needs to be pointed towards its target in order to land a hit. There is though a small amount of movement for your spinals depending on where your cursor is.
 

@@ -7,7 +7,9 @@ categories:
 title: Preos Juvenile
 ---
 
-{{< shipInfobox >}} The **_Preos Juvenile_** is the third Preos ship in the [Preos Egg]({{< ref "/wiki/" >}}Preos-Egg)'s evolution questline.
+{{< shipInfobox >}}
+
+The **_Preos Juvenile_** is the third Preos ship in the [Preos Egg]({{< ref "/wiki/" >}}Preos-Egg)'s evolution questline.
 
 ## Description
 

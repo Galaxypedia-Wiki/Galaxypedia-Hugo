@@ -8,7 +8,9 @@ categories:
 title: Worm
 ---
 
-{{< shipInfobox >}} The **_Worm_**is a small **[Frigate]({{< ref "/categories/" >}}frigates)** modelled after the [Wyrm]({{< ref "/wiki/" >}}Wyrm).
+{{< shipInfobox >}}
+
+The **_Worm_**is a small **[Frigate]({{< ref "/categories/" >}}frigates)** modelled after the [Wyrm]({{< ref "/wiki/" >}}Wyrm).
 
 ## Description
 

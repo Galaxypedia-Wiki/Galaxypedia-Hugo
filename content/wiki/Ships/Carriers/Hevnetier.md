@@ -10,7 +10,9 @@ categories:
 title: Hevnetier
 ---
 
-{{< shipInfobox >}} The **_Hevnetier_** is a fairly large [Carrier]({{< ref "/categories/" >}}carriers) made by the [Slarfie]({{< ref "/wiki/" >}}Slarfie) with a focus on [Turrets]({{< ref "/wiki/" >}}Turrets) and it's special [Battleship]({{< ref "/categories/" >}}battleships)-like [Fighter]({{< ref "/categories/" >}}fighters).
+{{< shipInfobox >}}
+
+The **_Hevnetier_** is a fairly large [Carrier]({{< ref "/categories/" >}}carriers) made by the [Slarfie]({{< ref "/wiki/" >}}Slarfie) with a focus on [Turrets]({{< ref "/wiki/" >}}Turrets) and it's special [Battleship]({{< ref "/categories/" >}}battleships)-like [Fighter]({{< ref "/categories/" >}}fighters).
 
 ## Description
 

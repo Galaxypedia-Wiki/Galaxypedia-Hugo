@@ -11,7 +11,9 @@ categories:
 title: Defiance
 ---
 
-{{< shipInfobox >}} The **_Defiance_**is a powerful [**Destroyer**]({{< ref "/categories/" >}}destroyers).
+{{< shipInfobox >}}
+
+The **_Defiance_**is a powerful [**Destroyer**]({{< ref "/categories/" >}}destroyers).
 
 ## Description
 

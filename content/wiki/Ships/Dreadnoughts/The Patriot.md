@@ -10,7 +10,11 @@ categories:
 title: The Patriot
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} ## Description
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+## Description
 
 The Patriot is a powerful event dreadnought added during the [Fourth of July Event 2023]({{< ref "/wiki/" >}}Fourth-of-July-Event-2023) and was re-released for the [Fourth of July Event 2024]({{< ref "/wiki/" >}}Fourth-of-July-Event-2024).
 

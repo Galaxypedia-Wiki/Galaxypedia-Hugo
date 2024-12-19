@@ -7,7 +7,13 @@ categories:
 title: Plagued X-2
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/adminShip >}} The **_Plagued X-2_** is a **[Freighter]({{< ref "/categories/" >}}freighters)** with an extremely high top speed and a cargo hold rivaling that of the [E Class]({{< ref "/wiki/" >}}E-Class).
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/adminShip >}}
+
+The **_Plagued X-2_** is a **[Freighter]({{< ref "/categories/" >}}freighters)** with an extremely high top speed and a cargo hold rivaling that of the [E Class]({{< ref "/wiki/" >}}E-Class).
 
 ## Description
 

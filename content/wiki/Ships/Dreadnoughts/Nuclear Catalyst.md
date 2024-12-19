@@ -11,7 +11,13 @@ categories:
 title: Nuclear Catalyst
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} ## Description
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/limitedShip >}}
+
+## Description
 
 The Nuclear Catalyst is a powerful Limited event Dreadnought that boasts heavy turret firepower sporting the American red white and blue .
 

@@ -11,7 +11,11 @@ categories:
 title: Dragon
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Dragon_** is a redesign of the [Draco]({{< ref "/wiki/" >}}Draco), made for the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Dragon_** is a redesign of the [Draco]({{< ref "/wiki/" >}}Draco), made for the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018).
 
 ## Description
 

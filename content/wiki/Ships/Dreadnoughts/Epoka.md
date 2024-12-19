@@ -11,7 +11,11 @@ categories:
 title: Epoka
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Epoka_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) which was added in the second part of [Halloween Event 2021]({{< ref "/categories/" >}}halloween-2021).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Epoka_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) which was added in the second part of [Halloween Event 2021]({{< ref "/categories/" >}}halloween-2021).
 
 ## Description
 

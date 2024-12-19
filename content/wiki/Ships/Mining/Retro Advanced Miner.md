@@ -10,7 +10,11 @@ categories:
 title: Retro Advanced Miner
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Retro Advanced Miner_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Advanced Miner]({{< ref "/wiki/" >}}Advanced-Miner) that features its original model and loadout.
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Retro Advanced Miner_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Advanced Miner]({{< ref "/wiki/" >}}Advanced-Miner) that features its original model and loadout.
 
 ## Description
 

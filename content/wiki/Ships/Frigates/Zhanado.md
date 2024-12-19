@@ -11,7 +11,9 @@ categories:
 title: Zhanado
 ---
 
-{{< shipInfobox >}} The **_Zhanado_** is a powerfuland cheap **[Frigate]({{< ref "/categories/" >}}frigates)** that focuses on [Spinals]({{< ref "/wiki/" >}}Spinals).
+{{< shipInfobox >}}
+
+The **_Zhanado_** is a powerfuland cheap **[Frigate]({{< ref "/categories/" >}}frigates)** that focuses on [Spinals]({{< ref "/wiki/" >}}Spinals).
 
 ## Description
 

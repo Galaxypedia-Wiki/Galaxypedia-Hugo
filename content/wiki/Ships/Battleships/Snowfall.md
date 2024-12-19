@@ -12,7 +12,11 @@ categories:
 title: Snowfall
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Snowfall_** is a powerful [**Battleship**]({{< ref "/categories/" >}}battleships) released from the 1st stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Snowfall_** is a powerful [**Battleship**]({{< ref "/categories/" >}}battleships) released from the 1st stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Description
 

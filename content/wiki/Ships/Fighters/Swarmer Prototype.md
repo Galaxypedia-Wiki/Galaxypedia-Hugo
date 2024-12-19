@@ -11,7 +11,9 @@ categories:
 title: Swarmer Prototype
 ---
 
-{{< shipInfobox >}} The **_Swarmer Prototype_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) and was the first player-operable Alien-built ship.
+{{< shipInfobox >}}
+
+The **_Swarmer Prototype_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) and was the first player-operable Alien-built ship.
 
 ## Description
 

@@ -13,7 +13,11 @@ categories:
 title: Prototype X-1
 ---
 
-{{< shipInfobox >}} {{< notices/prototypeShip >}} The **_Prototype X-1_**is a [**Prototype**]({{< ref "/categories/" >}}prototypes) created by the [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth).
+{{< shipInfobox >}}
+
+{{< notices/prototypeShip >}}
+
+The **_Prototype X-1_**is a [**Prototype**]({{< ref "/categories/" >}}prototypes) created by the [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth).
 
 ## Description
 

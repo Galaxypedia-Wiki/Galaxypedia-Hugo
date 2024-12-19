@@ -8,7 +8,9 @@ categories:
 title: The Atomic Navy
 ---
 
-{{< notices/underConstruction >}} ![]({{< ref "/wiki/" >}}The-Atomic-Navy-Icon.webp-"The-Atomic-Navy-Icon.webp"){width="200"}
+{{< notices/underConstruction >}}
+
+![]({{< ref "/wiki/" >}}The-Atomic-Navy-Icon.webp-"The-Atomic-Navy-Icon.webp"){width="200"}
 
 ## The Atomic Navy
 

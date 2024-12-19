@@ -6,7 +6,9 @@ categories:
 title: Nautilus Blueprint
 ---
 
-{{< notices/underConstruction >}} ## Description
+{{< notices/underConstruction >}}
+
+## Description
 
 An item you get given for completing the [Mythical Blueprint]({{< ref "/wiki/" >}}Strange-Character) Quest. It costs 250k [Credits]({{< ref "/wiki/" >}}Credits) from the [Strange Character]({{< ref "/wiki/" >}}Strange-Character) at [Freedom Base]({{< ref "/wiki/" >}}Freedom-Base). It is required to build the expensive battleship [Nautilus]({{< ref "/wiki/" >}}Nautilus).
 

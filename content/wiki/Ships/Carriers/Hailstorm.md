@@ -13,7 +13,11 @@ categories:
 title: Hailstorm
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Hailstorm_** is a [**Carrier**]({{< ref "/categories/" >}}carriers) from the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Hailstorm_** is a [**Carrier**]({{< ref "/categories/" >}}carriers) from the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Description
 

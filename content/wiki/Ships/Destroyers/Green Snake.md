@@ -11,7 +11,11 @@ categories:
 title: Green Snake
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Green Snake_** is a **[Limited Event]({{< ref "/categories/" >}}limited-ships)** reskin of the **[Destroyer-class]({{< ref "/categories/" >}}destroyers)** [Cobra]({{< ref "/wiki/" >}}Cobra).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Green Snake_** is a **[Limited Event]({{< ref "/categories/" >}}limited-ships)** reskin of the **[Destroyer-class]({{< ref "/categories/" >}}destroyers)** [Cobra]({{< ref "/wiki/" >}}Cobra).
 
 ## Description
 

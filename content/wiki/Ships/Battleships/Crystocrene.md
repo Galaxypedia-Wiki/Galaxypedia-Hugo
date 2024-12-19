@@ -10,7 +10,11 @@ categories:
 title: Crystocrene
 ---
 
-{{< shipInfobox >}} {{< notices/limitedShip >}} The **_Crystocrene_** is a **[Battleship]({{< ref "/categories/" >}}battleships)** added during the [2020 Christmas event]({{< ref "/wiki/" >}}Christmas-Event-2020).
+{{< shipInfobox >}}
+
+{{< notices/limitedShip >}}
+
+The **_Crystocrene_** is a **[Battleship]({{< ref "/categories/" >}}battleships)** added during the [2020 Christmas event]({{< ref "/wiki/" >}}Christmas-Event-2020).
 
 ## Description
 

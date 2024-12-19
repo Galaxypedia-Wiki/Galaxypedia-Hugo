@@ -9,7 +9,13 @@ categories:
 title: Arctic Fox
 ---
 
-{{< shipInfobox >}} {{< notices/removed >}} {{< notices/npcShip >}} The **Arctic Fox** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Battleship]({{< ref "/categories/" >}}battleships) that spawned during the duration of the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
+{{< shipInfobox >}}
+
+{{< notices/removed >}}
+
+{{< notices/npcShip >}}
+
+The **Arctic Fox** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Battleship]({{< ref "/categories/" >}}battleships) that spawned during the duration of the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
 
 ## Description
 

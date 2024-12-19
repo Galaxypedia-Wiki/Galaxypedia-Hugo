@@ -9,7 +9,13 @@ categories:
 title: Retro Sovereign
 ---
 
-{{< shipInfobox >}} {{< notices/underConstruction >}} {{< notices/limitedShip >}} The Retro Sovereign is an Event Battleship for the [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024).
+{{< shipInfobox >}}
+
+{{< notices/underConstruction >}}
+
+{{< notices/limitedShip >}}
+
+The Retro Sovereign is an Event Battleship for the [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024).
 
 ## Description
 
